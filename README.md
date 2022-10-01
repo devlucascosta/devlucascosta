@@ -1,11 +1,16 @@
 
 ### Olá! Eu sou o Lucas Costa ✋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:instagram.com/dev.lucascosta)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527997513296)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucascosta&show_icons=true&theme=radical)
+<a href = "mailto:dev.lucascosta@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = https:instagram.com/dev.lucascosta> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<div>
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucascosta&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascosta)](https://github.com/devlucascosta/github-readme-stats)
+
+</div>
 
 ## Tecnologias que uso no meu dia a dia
 
@@ -22,5 +27,3 @@
 
 
 Apaixonado pela tecnologia, educação e por mudar a vida das pessoas através da progamação.
-
-
