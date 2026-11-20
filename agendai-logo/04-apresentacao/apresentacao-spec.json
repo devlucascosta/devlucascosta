@@ -1,0 +1,57 @@
+{
+  "brand": "AgendAI",
+  "tagline": "Gestão profissional e operacional em um só lugar",
+  "brief": "Plataforma de gestão que nasceu no transporte executivo e evoluiu para reunir agenda, clientes, motoristas, corridas e serviços, financeiro, frota e IA em um único ambiente. A marca precisa representar tecnologia, organização e gestão — sem ficar presa a carros — e o nome AgendAI deve ser o protagonista.",
+  "adjectives": ["inteligente", "organizada", "confiável", "sofisticada", "moderna"],
+  "criteria": "Sucesso: símbolo próprio e reconhecível isolado (ícone de app e favicon de 16 px), funciona em uma cor e invertido, nome legível como \"AgendAI\" (nunca \"AgendAl\"), distinto dos clichês do segmento (calendários, carros, faíscas de IA, cérebros, circuitos).",
+  "mockups": ["app-icon", "favicon-tab", "website", "business-card", "social", "badge"],
+  "nav": ["Agenda", "Clientes", "Financeiro", "Frota"],
+  "brand_color": "#00D1B2",
+  "greyscale": true,
+  "designer": "Claude · processo logo-design",
+  "round": 1,
+  "concepts": [
+    {
+      "name": "Ligadura AI",
+      "symbol": "../02-conceitos/A-ligadura/A-simbolo.svg",
+      "lockup": "../02-conceitos/A-ligadura/A-logotipo-horizontal.svg",
+      "idea": "Um A inclinado que só se completa com o I ao lado: de longe, uma letra; de perto, \"AI\" — a inteligência embutida na agenda.",
+      "rationale": [
+        "Construção: inclinação única 3:2 (56,3°), peso constante de 38 unidades, fenda de 14 que separa o A do I; 13 pontos no total",
+        "Tipografia: \"Agend\" em Sora SemiBold e o próprio símbolo fecha o nome — o símbolo É o final da palavra",
+        "Forças: o mais original na prateleira; nome e símbolo nascem juntos; ótimo em 16 px; tecnológico sem clichê de IA",
+        "Limites: a inclinação pode soar \"esportiva/velocidade\"; há duas formas de A na mesma palavra; letras \"AI\" são comuns em marcas de IA (pedir busca no INPI)"
+      ]
+    },
+    {
+      "name": "Encaixe",
+      "symbol": "../02-conceitos/B-encaixe/B-simbolo.svg",
+      "lockup": "../02-conceitos/B-encaixe/B-logotipo-horizontal.svg",
+      "idea": "Um bloco dividido em módulos que se encaixam; as juntas entre eles desenham o A — o AgendAI é o que conecta as partes da operação.",
+      "rationale": [
+        "Construção: quadrado arredondado (raio 56), canais de 24 unidades, pernas a 25°, travessão a 2/3 da altura; quatro módulos",
+        "Tipografia: Montserrat SemiBold com I de serifas retas, que impede a leitura \"AgendAl\"",
+        "Forças: nasce como ícone de app; muito estável em 16 px; transmite estrutura, gestão e solidez",
+        "Limites: \"letra em bloco\" é uma solução frequente em apps — menos memorável; depende do contêiner; o conceito de módulos precisa ser explicado"
+      ]
+    },
+    {
+      "name": "Pivô",
+      "symbol": "../02-conceitos/C-pivo/C-simbolo.svg",
+      "lockup": "../02-conceitos/C-pivo/C-logotipo-horizontal.svg",
+      "idea": "Dois ponteiros articulados em um único ponto formam o A: o tempo organizado a partir de um centro de comando.",
+      "rationale": [
+        "Construção: dois traços arredondados de 36 unidades com inclinação 2:5, eixo central em círculo de raio 26 com folga de 10",
+        "Tipografia: Manrope — \"Agend\" Medium e \"AI\" ExtraBold com I serifado, diferenciação clara entre Agend e AI",
+        "Forças: o mais amigável e legível; a ideia de tempo aparece sem desenhar relógio ou calendário; compasso = planejamento",
+        "Limites: pode ser lido como um bonequinho (cabeça + pernas) ou como \"Å\"; traço arredondado é menos premium; menos distinto entre apps"
+      ]
+    }
+  ],
+  "recommendation": "A — Ligadura AI. É a proposta mais própria e a única em que nome e símbolo são a mesma coisa: o \"AI\" que fecha a palavra AgendAI vira o ícone do aplicativo. Comunica inteligência sem recorrer a cérebros ou faíscas, é a mais simples de construir (13 pontos) e a mais forte em 16 px. Ressalva honesta: a inclinação dá energia; se você quiser um tom mais sóbrio, posso testar uma versão com ângulo menos acentuado na fase de refinamento.",
+  "next_steps": [
+    "Escolher uma direção (ou combinar o que gostou em cada uma)",
+    "Refinamento + aplicação da paleta Esmeralda Tech",
+    "Arquivos finais: SVG, PNG, PDF, versões horizontal/vertical, símbolo, monocromáticas, fundos claros e escuros"
+  ]
+}

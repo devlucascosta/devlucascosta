@@ -1,0 +1,47 @@
+
+=== A-simbolo.svg  (366 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 14
+margins L36.7 R36.7 T28.0 B32.0 · bbox fill 0.546
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== B-simbolo.svg  (1452 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 99
+margins L16.0 R16.0 T16.0 B16.0 · bbox fill 0.766
+· INFO [complexity] 99 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== C-simbolo.svg  (2956 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 197
+margins L41.7 R41.7 T17.6 B23.6 · bbox fill 0.566
+· INFO [complexity] 197 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== A-logotipo-horizontal.svg  (3440 bytes)
+viewBox 0 0 625.77 256 · aspect 2.444 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 158
+margins L26.6 R24.0 T59.8 B59.5 · bbox fill 0.491
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 158 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== B-logotipo-horizontal.svg  (4162 bytes)
+viewBox 0 0 704.6 256 · aspect 2.752 (horizontal)
+colours 1: #0a0f14 · gradients 0 · anchors 252
+margins L34.6 R24.0 T54.6 B53.6 · bbox fill 0.53
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 252 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== C-logotipo-horizontal.svg  (6069 bytes)
+viewBox 0 0 657.93 256 · aspect 2.57 (horizontal)
+colours 1: #0a0f14 · gradients 0 · anchors 355
+margins L52.8 R24.0 T52.1 B55.6 · bbox fill 0.512
+▲ WARN [near-miss-angle] 4 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 107.0° (→105°) len 75.3 at (531,164); 73.0° (→75°) len 75.3 at (573,92); 72.8° (→75°) len 33.0 at (572,136); 106.9° (→105°) len 33.0 at (563,105). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 355 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+· INFO [off-centre-x] Horizontal margins differ (left 52.8, right 24.0). Intentional optical centring? Otherwise centre it.
+production-readiness score: 89/100 (heuristic)
