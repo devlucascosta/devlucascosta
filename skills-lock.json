@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "logo-design": {
+      "source": "kaankiziltug/logo-design-skill",
+      "commit": "e9eaddc07895575253d6663320354a708f53e955",
+      "sourceType": "github",
+      "skillPath": "skills/logo-design/SKILL.md",
+      "computedHash": "1e43981509936ee4ba378f9cff590f5e547a6ed3d8b9a65ece6a43473b671ed1"
+    }
+  }
+}
