@@ -1,0 +1,88 @@
+{
+  "brand": "AgendAI",
+  "tagline": "Gestão profissional e operacional em um só lugar",
+  "brief": "Rodada 3: construção própria a partir das duas referências enviadas (A de topo reto, curva integrada, movimento, relação com o nome), mantendo o briefing — natural, elegante, humana, atemporal, sem aparência esportiva, ótima como ícone de aplicativo.",
+  "adjectives": [
+    "natural",
+    "elegante",
+    "humana",
+    "atemporal",
+    "em movimento"
+  ],
+  "criteria": "Sucesso: curva que faz parte da letra (não um adesivo por cima), cores chapadas, ícone reconhecível dentro do quadrado, legível em 16/32/64 px, AgendAI nunca lido como AgendAl.",
+  "mockups": [
+    "app-icon",
+    "favicon-tab",
+    "website",
+    "business-card",
+    "social",
+    "signage"
+  ],
+  "nav": [
+    "Agenda",
+    "Clientes",
+    "Financeiro",
+    "Frota"
+  ],
+  "greyscale": false,
+  "designer": "Claude · processo logo-design",
+  "round": 3,
+  "next_steps": [
+    "Escolher uma proposta e uma identidade de cor",
+    "Ajustes finos que você pedir",
+    "Somente depois: versão definitiva e arquivos finais"
+  ],
+  "brand_color": "#D4AF5A",
+  "tile_color": "#0D0D0D",
+  "concepts": [
+    {
+      "name": "Ponte · Preto e Dourado",
+      "symbol": "../02-simbolos/01-ponte/01-simbolo.svg",
+      "lockup": "../02-simbolos/01-ponte/01-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/01-ponte/01-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/dourado/01-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/dourado/01-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/dourado/01-horizontal-escuro-transparente.svg",
+      "stacked_on_dark": "../04-cores/dourado/01-vertical-escuro-transparente.svg",
+      "idea": "A perna esquerda pousa sobre um arco que nasce no chão e passa por trás da perna direita.",
+      "rationale": [
+        "Inspirada na referência 02, plana e mais limpa",
+        "A curva sustenta a letra",
+        "Limite: em 16 px o arco vira um pé alongado"
+      ]
+    },
+    {
+      "name": "Impulso · Preto e Dourado",
+      "symbol": "../02-simbolos/02-impulso/02-simbolo.svg",
+      "lockup": "../02-simbolos/02-impulso/02-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/02-impulso/02-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/dourado/02-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/dourado/02-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/dourado/02-horizontal-escuro-transparente.svg",
+      "stacked_on_dark": "../04-cores/dourado/02-vertical-escuro-transparente.svg",
+      "idea": "Uma faixa macia sai de trás da perna esquerda, passa na frente da direita e sobe.",
+      "rationale": [
+        "Inspirada na referência 01, sem lâmina",
+        "A mais dinâmica",
+        "Limite: a mais próxima de marcas esportivas"
+      ]
+    },
+    {
+      "name": "Recorte · Preto e Dourado",
+      "symbol": "../02-simbolos/03-recorte/03-simbolo.svg",
+      "lockup": "../02-simbolos/03-recorte/03-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/03-recorte/03-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/dourado/03-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/dourado/03-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/dourado/03-horizontal-escuro-transparente.svg",
+      "stacked_on_dark": "../04-cores/dourado/03-vertical-escuro-transparente.svg",
+      "idea": "Um A maciço em que a curva é recortada: o pé esquerdo decola do chão.",
+      "rationale": [
+        "Síntese autoral",
+        "O melhor ícone: sólido em 16 px",
+        "Limite: uma cor só, movimento sutil"
+      ]
+    }
+  ],
+  "recommendation": "01 Ponte — o melhor equilíbrio entre o que você gostou nas referências e o briefing; 03 Recorte se a prioridade absoluta for o ícone."
+}
