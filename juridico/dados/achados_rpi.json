@@ -1,0 +1,1162 @@
+{
+ "fonte": "INPI — Revista da Propriedade Industrial, seção Marcas (XML oficial), https://revistas.inpi.gov.br/txt/RM{n}.zip",
+ "edicoes_varridas": "2500 (04/12/2018) a 2915 (17/11/2026) — 416 edições, nenhuma lacuna",
+ "registros": [
+  {
+   "rpi": 2501,
+   "data_rpi": "11/12/2018",
+   "numero": "913138185",
+   "deposito": "01/08/2017",
+   "concessao": "11/12/2018",
+   "vigencia": "11/12/2028",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "HGE TECNOLOGIA LTDA ME",
+     "BR",
+     "DF"
+    ]
+   ],
+   "marca": {
+    "nome": "Agendaí",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Consultoria em tecnologia da computação - [Consultoria em]; Consultoria em tecnologia da computação - [Assessoria em]; Consultoria em tecnologia da computação; Consultoria em tecnologia da informação - [Consultoria em]; Consultoria em tecnologia da informação - [Assessoria em]; Consultoria em tecnologia da informação; Consultoria em tecnologia das telecomunicações - [Consultoria em]; Consultoria em tecnologia das telecomunicações - [Assessoria em]; Consultoria em tecnologia das telecomunicações; Provedores de serviços terceirizados na área de tecnologia da informação - [Consultoria em]; Provedores de serviços terceirizados na área de tecnologia da informação - [Assessoria em]; Provedores de serviços terceirizados na área de tecnologia da informação; Assessoria, consultoria e informação em tecnologia da informação - [Consultoria em]; Assessoria, consultoria e informação em tecnologia da informação - [Assessoria em]; Assessoria, consultoria e informação em tecnologia da informação; Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia - [Consultoria em]; Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia - [Assessoria em]; Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia;"
+    ]
+   ],
+   "vienna": [
+    "4.5.2",
+    "19.13.25",
+    "26.4.16",
+    "26.13.25",
+    "29.1.12"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2551,
+   "data_rpi": "26/11/2019",
+   "numero": "918516579",
+   "deposito": "23/10/2019",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "HGE TECNOLOGIA LTDA ME",
+     "BR",
+     "DF"
+    ]
+   ],
+   "marca": {
+    "nome": "Agendaí",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Armazenamento eletrônico de dados;Assessoria, consultoria e informação em tecnologia da informação;Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia;Computação em nuvem;Consultoria em tecnologia da computação;Consultoria em tecnologia da informação;Consultoria em tecnologia das telecomunicações;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de TI];Desenvolvimento de plataformas de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Provedores de serviços terceirizados na área de tecnologia da informação;serviços de desenvolvimento de banco de dados [informática]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2559,
+   "data_rpi": "21/01/2020",
+   "numero": "918896053",
+   "deposito": "17/12/2019",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "MARCO NOVENA",
+     "BR",
+     "PE"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDIAMO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Análise de sistemas [informática];Armazenamento eletrônico de dados;Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Atualização de software de computador;Computação em nuvem;Computação gráfica [serviços de informática];Consultoria em concepção e desenvolvimento de hardware de computador;Conversão de programas de computadores e dados, exceto conversão física.;Criação de homepage;Criação de software de computação gráfica;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de TI];Criação e manutenção de web sites para terceiros;Desenvolvimento de software no âmbito de publicação de software;Design de homepage;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [desenvolvimento de um software/website para terceiros];Hospedagem de web sites;Manutenção de software de computador;Provimento de informação sobre tecnologia e programação de computadores através de um website;Sites de busca [fornecimento de mecanismos de busca na Internet]; "
+    ]
+   ],
+   "vienna": [
+    "5.1.1",
+    "5.1.4",
+    "27.5.1",
+    "29.1.5"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2575,
+   "data_rpi": "12/05/2020",
+   "numero": "918516579",
+   "deposito": null,
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS029",
+     "Deferimento do pedido",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "HGE TECNOLOGIA LTDA ME",
+     "BR",
+     "DF"
+    ]
+   ],
+   "marca": null,
+   "nice": [
+    [
+     "42",
+     "Armazenamento eletrônico de dados;Assessoria, consultoria e informação em tecnologia da informação;Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia;Computação em nuvem;Consultoria em tecnologia da computação;Consultoria em tecnologia da informação;Consultoria em tecnologia das telecomunicações;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de TI];Desenvolvimento de plataformas de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Provedores de serviços terceirizados na área de tecnologia da informação;serviços de desenvolvimento de banco de dados [informática]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2588,
+   "data_rpi": "11/08/2020",
+   "numero": "918516579",
+   "deposito": "23/10/2019",
+   "concessao": "31/07/2020",
+   "vigencia": "31/07/2030",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "HGE TECNOLOGIA LTDA ME",
+     "BR",
+     "DF"
+    ]
+   ],
+   "marca": {
+    "nome": "Agendaí",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Armazenamento eletrônico de dados;Assessoria, consultoria e informação em tecnologia da informação;Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia;Computação em nuvem;Consultoria em tecnologia da computação;Consultoria em tecnologia da informação;Consultoria em tecnologia das telecomunicações;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de TI];Desenvolvimento de plataformas de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Provedores de serviços terceirizados na área de tecnologia da informação;serviços de desenvolvimento de banco de dados [informática]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2608,
+   "data_rpi": "29/12/2020",
+   "numero": "921385145",
+   "deposito": "21/11/2020",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "CALITON CARVALHO ALVES 02394575107",
+     "BR",
+     "GO"
+    ]
+   ],
+   "marca": {
+    "nome": "agenda i9",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "35",
+     "Aluguel de cartazes/outdoors publicitários;Aluguel de escritório virtual [aluguel de equipamentos e material de escritório e fornecimento de serviços de escritório];Aluguel de espaço publicitário;Aluguel de máquinas e equipamentos de escritório *;Aluguel de material publicitário;Aluguel de tempo de publicidade em meios de comunicação;Análise de conteúdo de jornais e revistas e preparo de relatório comparando o conteúdo dos diversos veículos de comunicação;Anúncio;Assessoria, consultoria e informação em marketing;Assessoria, consultoria e informação sobre organização de feiras para fins comerciais ou publicitários;Assessoria, consultoria e informações sobre marketing;Marketing;Produção de filmes publicitários;Propaganda;Publicidade por qualquer meio;Redação de textos publicitários;Serviços de agências de informação comercial;Serviços de agências de propaganda;Serviços de agências de publicidade;Serviços de assessoria de imprensa;Serviços de comunicação corporativa;Sistematização de informações em bancos de dados de computador; "
+    ]
+   ],
+   "vienna": [
+    "26.13.25",
+    "27.1.1",
+    "29.1.2",
+    "29.1.8"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2651,
+   "data_rpi": "26/10/2021",
+   "numero": "921385145",
+   "deposito": "21/11/2020",
+   "concessao": "26/10/2021",
+   "vigencia": "26/10/2031",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "CALITON CARVALHO ALVES 02394575107",
+     "BR",
+     "GO"
+    ]
+   ],
+   "marca": {
+    "nome": "agenda i9",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "35",
+     "Aluguel de cartazes/outdoors publicitários;Aluguel de escritório virtual [aluguel de equipamentos e material de escritório e fornecimento de serviços de escritório];Aluguel de espaço publicitário;Aluguel de máquinas e equipamentos de escritório *;Aluguel de material publicitário;Aluguel de tempo de publicidade em meios de comunicação;Análise de conteúdo de jornais e revistas e preparo de relatório comparando o conteúdo dos diversos veículos de comunicação;Anúncio;Assessoria, consultoria e informação em marketing;Assessoria, consultoria e informação sobre organização de feiras para fins comerciais ou publicitários;Assessoria, consultoria e informações sobre marketing;Marketing;Produção de filmes publicitários;Propaganda;Publicidade por qualquer meio;Redação de textos publicitários;Serviços de agências de informação comercial;Serviços de agências de propaganda;Serviços de agências de publicidade;Serviços de assessoria de imprensa;Serviços de comunicação corporativa;Sistematização de informações em bancos de dados de computador.; "
+    ]
+   ],
+   "vienna": [
+    "26.13.25",
+    "27.1.1",
+    "29.1.2",
+    "29.1.8"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2653,
+   "data_rpi": "09/11/2021",
+   "numero": "924660040",
+   "deposito": "20/10/2021",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AMANDA NAVES OLIVEIRA ZICA EIRELI",
+     "BR",
+     "GO"
+    ]
+   ],
+   "marca": {
+    "nome": "Agenda Inteligente",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "09",
+     "Agendas eletrônicas;Aplicativos, baixáveis;Softwares de computador, gravados; "
+    ]
+   ],
+   "vienna": [
+    "13.1.6",
+    "27.1.1",
+    "13.1.17"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2733,
+   "data_rpi": "23/05/2023",
+   "numero": "930295692",
+   "deposito": "03/05/2023",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     "Realizada a alteração do elemento nominativo de acordo com a imagem da marca anexada no formulário, em conformidade com o item 4.2.4 do Manual de Marcas"
+    ]
+   ],
+   "titulares": [
+    [
+     "AMOR EM NUTRIR LTDA - ME",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "TREINAMENTO AGENDA INFINITA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "41",
+     "Assessoria, consultoria e informação em treinamento [demonstração][ensino];Coaching [treinamento];Organização de exposições para fins culturais ou educativos;Organização e apresentação de colóquios;Organização e apresentação de conferências;Organização e apresentação de congressos;Organização e apresentação de oficinas de trabalho [treinamento];Organização e apresentação de seminários;Organização e e condução de fóruns educacionais presenciais;Orientação [treinamento];Provimento de publicações eletrônicas on-line, não baixáveis;Provimento de vídeos on-line, não baixáveis;Publicação de livros;Publicação on-line de livros e periódicos eletrônicos;Transferência de conhecimento e know-how de negócios [treinamento];Transferência de know-how [treinamento]; "
+    ]
+   ],
+   "vienna": [
+    "27.5.1",
+    "29.1.12"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2740,
+   "data_rpi": "11/07/2023",
+   "numero": "930850211",
+   "deposito": "20/06/2023",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     "Realizada a alteração do elemento nominativo, de acordo com a imagem da marca anexada no formulário, em conformidade com o item 4.2.4 do Manual de Marcas."
+    ]
+   ],
+   "titulares": [
+    [
+     "AGENDAAI SOLUÇÕES EM SISTEMAS DE AGENDAMENTO ONLINE LTDA",
+     "BR",
+     "SC"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDA AÍ",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Análise de suporte e sistema [serviço de informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Autenticação de dados [serviço de informática];Consultoria em software de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Provimento de informações, através de um website, sobre tecnologia de computadores e programação;Serviços de desenvolvimento de banco de dados [informática];Serviços de programação de computador [informática] para processamento de dados;Software como serviço [saas]; "
+    ]
+   ],
+   "vienna": [
+    "1.15.15"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2750,
+   "data_rpi": "19/09/2023",
+   "numero": "931762243",
+   "deposito": "31/08/2023",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "BRENO ITALO TECHNOLOGIES",
+     "BR",
+     "RN"
+    ]
+   ],
+   "marca": {
+    "nome": "Agendaí",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Aluguel de servidores web;Aluguel de software de computador;Análise de sistemas [informática];Análise de suporte e sistema [serviço de informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Autenticação de dados [serviço de informática];Backup de dados off site;Computação gráfica [serviços de informática];Computação quântica;Concepção de cartões de visitas;Consultoria em design de websites;Consultoria em segurança de computadores;Consultoria em segurança de dados;Consultoria em segurança de internet;Consultoria em software de computador;Consultoria em tecnologia da computação;Conversão de dados e documentos de suporte físico para suporte eletrônico;Conversão de programas de computadores e dados, exceto conversão física.;Criação de homepage;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de ti];Criação e manutenção de websites para terceiros;Desenho de arte gráfica, inclusive para homepage;Desenvolvimento de plataformas de computador;Design de aplicativo de multimídia;Design de homepage;Projeto de sistema de computador;Projeto de sistema de computadores;Provimento de assinaturas eletrônicas [autenticação de dados];Provimento de informações, através de um website, sobre tecnologia de computadores e programação;Provimento de sistemas virtuais de computador por meio de computação em nuvem;Serviços de desenhos [design] de logomarcas;Serviços de desenvolvimento de banco de dados [informá"
+    ]
+   ],
+   "vienna": [
+    "29.1.3",
+    "28.11",
+    "29.1.12",
+    "29.1.5"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2757,
+   "data_rpi": "07/11/2023",
+   "numero": "924660040",
+   "deposito": "20/10/2021",
+   "concessao": "07/11/2023",
+   "vigencia": "07/11/2033",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AMANDA NAVES OLIVEIRA ZICA EIRELI",
+     "BR",
+     "GO"
+    ]
+   ],
+   "marca": {
+    "nome": "Agenda Inteligente",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "09",
+     "Agendas eletrônicas;Aplicativos, baixáveis;Softwares de computador, gravados; "
+    ]
+   ],
+   "vienna": [
+    "13.1.6",
+    "27.1.1",
+    "13.1.17"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2777,
+   "data_rpi": "26/03/2024",
+   "numero": "933762348",
+   "deposito": "06/03/2024",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "ISADORA TEIXEIRA MAKEUP",
+     "BR",
+     "PR"
+    ]
+   ],
+   "marca": {
+    "nome": "agenda inteligente",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "41",
+     "Cursos livres [ensino]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2810,
+   "data_rpi": "12/11/2024",
+   "numero": "936706937",
+   "deposito": "21/10/2024",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     "Realizada a alteração no campo elemento nominativo para melhor adequação da marca ao sistema de busca, que utiliza letras e números. Este procedimento não altera a proteção da marca, que será avaliada conforme apresentada na imagem."
+    ]
+   ],
+   "titulares": [
+    [
+     "KARLA CANGUCU FREIBERG",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "60Anos Agendaí",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "39",
+     "Transporte de passageiros;Transporte de mercadorias; \nOrganização de viagens;"
+    ]
+   ],
+   "vienna": [
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2814,
+   "data_rpi": "10/12/2024",
+   "numero": "930295692",
+   "deposito": "03/05/2023",
+   "concessao": "10/12/2024",
+   "vigencia": "10/12/2034",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AMOR EM NUTRIR LTDA - ME",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "TREINAMENTO AGENDA INFINITA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "41",
+     "Assessoria, consultoria e informação em treinamento [demonstração][ensino];Coaching [treinamento];Organização de exposições para fins culturais ou educativos;Organização e apresentação de colóquios;Organização e apresentação de conferências;Organização e apresentação de congressos;Organização e apresentação de oficinas de trabalho [treinamento];Organização e apresentação de seminários;Organização e e condução de fóruns educacionais presenciais;Orientação [treinamento];Provimento de publicações eletrônicas on-line, não baixáveis;Provimento de vídeos on-line, não baixáveis;Publicação de livros;Publicação on-line de livros e periódicos eletrônicos;Transferência de conhecimento e know-how de negócios [treinamento];Transferência de know-how [treinamento]; "
+    ]
+   ],
+   "vienna": [
+    "29.1.12",
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2817,
+   "data_rpi": "31/12/2024",
+   "numero": "930850211",
+   "deposito": null,
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS024",
+     "Indeferimento do pedido",
+     "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 918516579 (Agendaí) e Processo 913138185 (Agendaí). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ain"
+    ]
+   ],
+   "titulares": [
+    [
+     "AGENDAAI SOLUÇÕES EM SISTEMAS DE AGENDAMENTO ONLINE LTDA",
+     "BR",
+     "SC"
+    ]
+   ],
+   "marca": null,
+   "nice": [
+    [
+     "42",
+     "Análise de suporte e sistema [serviço de informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Autenticação de dados [serviço de informática];Consultoria em software de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Provimento de informações, através de um website, sobre tecnologia de computadores e programação;Serviços de desenvolvimento de banco de dados [informática];Serviços de programação de computador [informática] para processamento de dados;Software como serviço [saas]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2828,
+   "data_rpi": "18/03/2025",
+   "numero": "931762243",
+   "deposito": null,
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS024",
+     "Indeferimento do pedido",
+     "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 918516579 (Agendaí) e Processo 913138185 (Agendaí). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ain"
+    ]
+   ],
+   "titulares": [
+    [
+     "BRENO ITALO TECHNOLOGIES",
+     "BR",
+     "RN"
+    ]
+   ],
+   "marca": null,
+   "nice": [
+    [
+     "42",
+     "Aluguel de servidores web;Aluguel de software de computador;Análise de sistemas [informática];Análise de suporte e sistema [serviço de informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Autenticação de dados [serviço de informática];Backup de dados off site;Computação gráfica [serviços de informática];Computação quântica;Concepção de cartões de visitas;Consultoria em design de websites;Consultoria em segurança de computadores;Consultoria em segurança de dados;Consultoria em segurança de internet;Consultoria em software de computador;Consultoria em tecnologia da computação;Conversão de dados e documentos de suporte físico para suporte eletrônico;Conversão de programas de computadores e dados, exceto conversão física.;Criação de homepage;Criação e concepção de índices de informação baseados em um website, para terceiros [serviços de ti];Criação e manutenção de websites para terceiros;Desenho de arte gráfica, inclusive para homepage;Desenvolvimento de plataformas de computador;Design de aplicativo de multimídia;Design de homepage;Projeto de sistema de computador;Projeto de sistema de computadores;Provimento de assinaturas eletrônicas [autenticação de dados];Provimento de informações, através de um website, sobre tecnologia de computadores e programação;Provimento de sistemas virtuais de computador por meio de computação em nuvem;Serviços de desenhos [design] de logomarcas;Serviços de desenvolvimento de banco de dados [informá"
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2870,
+   "data_rpi": "06/01/2026",
+   "numero": "933762348",
+   "deposito": "06/03/2024",
+   "concessao": "06/01/2026",
+   "vigencia": "06/01/2036",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "ISADORA TEIXEIRA MAKEUP",
+     "BR",
+     "PR"
+    ]
+   ],
+   "marca": {
+    "nome": "agenda inteligente",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "41",
+     "Cursos livres [ensino]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2880,
+   "data_rpi": "17/03/2026",
+   "numero": "942861876",
+   "deposito": "26/02/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "INOVATECH BARIZON LTDA",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "AgendAI",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Software como serviço [saas]; "
+    ]
+   ],
+   "vienna": [
+    "26.4.16",
+    "29.1.4",
+    "29.1.3",
+    "20.1.17",
+    "24.17.25"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2886,
+   "data_rpi": "28/04/2026",
+   "numero": "943288045",
+   "deposito": "06/04/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AGENDA IA MED LTDA",
+     "BR",
+     "MG"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDA IA MED",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Aluguel de servidores web;Aluguel de software de computador;Análise de sistemas [informática];Armazenamento eletrônico de dados;Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Assessoria, consultoria e informações no campo da manutenção da segurança e integridade de banco de dados [serviço de informática];Assistência técnica em software;Atualização de software de computador;Consultoria em inteligência artificial;Consultoria em software de computador;Desenvolvimento de plataformas de computador;Desenvolvimento de software no âmbito de publicação de software;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Elaboração [concepção] de software de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [desenvolvimento de um software/website para terceiros];Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca];Implantação de sistema [informática];Instalação de software de computador;Inteligência artificial como serviço [AIaaS];Manutenção de software de computador;Pesquisa na área de tecnologia de inteligência artificial;Planejamento, confecção, manutenção e atualização de páginas eletrônicas;Prov"
+    ]
+   ],
+   "vienna": [
+    "26.1.1",
+    "1.15.15",
+    "26.13.25",
+    "27.5.1",
+    "1.13.15"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2889,
+   "data_rpi": "19/05/2026",
+   "numero": "943435471",
+   "deposito": "17/04/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AUGUSTO CESAR CARNEIRO CAMPOS",
+     "BR",
+     "RJ"
+    ]
+   ],
+   "marca": {
+    "nome": "AgendaImob",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Software como serviço [saas]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2892,
+   "data_rpi": "09/06/2026",
+   "numero": "942861876",
+   "deposito": null,
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS423",
+     "Notificação de oposição",
+     "850260230654 de 14/05/2026"
+    ]
+   ],
+   "titulares": [
+    [
+     "INOVATECH BARIZON LTDA",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": null,
+   "nice": [],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2892,
+   "data_rpi": "09/06/2026",
+   "numero": "943572592",
+   "deposito": "30/04/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "99 TECNOLOGIA LTDA.",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDA AÍ 99",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Software como serviço (SaaS) para coordenação, intermediação e gestão de serviços de entrega de alimentos; plataforma como serviço (PaaS) para gestão de disponibilidade, agendamento de horários e seleção de áreas de atuação por entregadores; provimento de uso temporário de software não baixável para roteirização, navegação e otimização de rotas de entrega; desenvolvimento, manutenção e atualização de software para plataformas de mobilidade e logística; serviços de análise de dados e geração de insights para recomendação de horários e regiões com maior demanda; hospedagem de plataformas digitais que permitem a interação entre consumidores, estabelecimentos e entregadores; serviços de tecnologia para monitoramento de desempenho e eficiência operacional de entregadores.; "
+    ]
+   ],
+   "vienna": [
+    "26.4.12",
+    "27.5.1",
+    "27.7.1",
+    "24.17.25",
+    "26.4.4"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2892,
+   "data_rpi": "09/06/2026",
+   "numero": "943572517",
+   "deposito": "30/04/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "99 TECNOLOGIA LTDA.",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDA AÍ 99",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "35",
+     "Serviços de intermediação e agenciamento de serviços de entrega de alimentos; organização e gestão de plataformas digitais que conectam consumidores, estabelecimentos e entregadores; administração de programas de incentivo e fidelidade para prestadores de serviços de entrega; compilação, processamento e análise de dados comerciais relacionados à demanda por entregas e desempenho de entregadores; promoção de serviços de terceiros por meio de plataformas digitais; gestão de informações comerciais e operacionais relacionadas à logística de entregas; serviços de consultoria e suporte administrativo voltados à otimização de ganhos e produtividade de entregadores.; "
+    ]
+   ],
+   "vienna": [
+    "26.4.12",
+    "26.4.4",
+    "27.7.1",
+    "24.17.25",
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2892,
+   "data_rpi": "09/06/2026",
+   "numero": "943572398",
+   "deposito": "30/04/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "99 TECNOLOGIA LTDA.",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDA AÍ 99",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "09",
+     "Programas de computador; software de aplicativos para dispositivos móveis; software para coordenação, intermediação e agenciamento de serviços de entrega de alimentos; software para gestão de disponibilidade de prestadores de serviços de entrega, permitindo a seleção e reserva de horários e áreas de atuação; software para organização e despacho de entregas; software para envio e recebimento de mensagens entre usuários; software para roteirização, navegação e otimização de rotas; software para monitoramento de desempenho e produtividade de entregadores; software para processamento de pagamentos eletrônicos e controle de ganhos; software para emissão de alertas eletrônicos, notificações e recomendações baseadas em dados; software para criação e gerenciamento de perfis de usuários.; "
+    ]
+   ],
+   "vienna": [
+    "26.4.12",
+    "26.4.4",
+    "27.7.1",
+    "27.5.1",
+    "24.17.25"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2896,
+   "data_rpi": "07/07/2026",
+   "numero": "936706937",
+   "deposito": "21/10/2024",
+   "concessao": "07/07/2026",
+   "vigencia": "07/07/2036",
+   "despachos": [
+    [
+     "IPAS158",
+     "Concessão de registro",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "KARLA CANGUCU FREIBERG",
+     "BR",
+     "SP"
+    ]
+   ],
+   "marca": {
+    "nome": "60Anos+ Agendaí",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "39",
+     "Transporte de passageiros;Transporte de mercadorias; Organização de viagens; "
+    ]
+   ],
+   "vienna": [
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2901,
+   "data_rpi": "11/08/2026",
+   "numero": "944341179",
+   "deposito": "06/07/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AGENDA GABANA TECNOLOGIA LTDA",
+     "BR",
+     "PR"
+    ]
+   ],
+   "marca": {
+    "nome": "GABANA AGENDA INTELIGENTE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "09",
+     "Aplicativo baixável para ambientes virtuais;Aplicativos, baixáveis;Software como um dispositivo médico [samd], baixável;Softwares de computador, gravados; "
+    ]
+   ],
+   "vienna": [
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2901,
+   "data_rpi": "11/08/2026",
+   "numero": "944341241",
+   "deposito": "06/07/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "AGENDA GABANA TECNOLOGIA LTDA",
+     "BR",
+     "PR"
+    ]
+   ],
+   "marca": {
+    "nome": "GABANA AGENDA INTELIGENTE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Aluguel de software de computador;Assistência técnica em software;Consultoria em software de computador;Design de aplicativo de multimídia;Elaboração [concepção] de software de computador; "
+    ]
+   ],
+   "vienna": [
+    "27.5.1"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2914,
+   "data_rpi": "10/11/2026",
+   "numero": "945549784",
+   "deposito": "14/10/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS009",
+     "Publicação de pedido de registro para oposição (exame formal concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "ALVARO VIEIRA VALK",
+     "BR",
+     "PR"
+    ]
+   ],
+   "marca": {
+    "nome": "AgendAI SDR",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Software como serviço [saas]; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2914,
+   "data_rpi": "10/11/2026",
+   "numero": "501920794",
+   "deposito": "27/03/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS756",
+     "Publicação de pedido de registro para oposição (exame formal de designação concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "Agendia N.V.",
+     "NL",
+     ""
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDIA Illuminating Your Path Forward",
+    "apresentacao": "Mista",
+    "natureza": "Madri Produto/Serviço"
+   },
+   "nice": [
+    [
+     "42",
+     "Services in the field of science and technology, in particular medical research and development.; "
+    ],
+    [
+     "44",
+     "Medical analysis, in particular RNA or DNA analyses for the diagnosis of cancer and for the prognosis of the likely course of cancer.; "
+    ]
+   ],
+   "vienna": [
+    "29.1.15",
+    "2.9.17",
+    "27.5.10"
+   ],
+   "sobrestadores": []
+  },
+  {
+   "rpi": 2914,
+   "data_rpi": "10/11/2026",
+   "numero": "501920205",
+   "deposito": "27/03/2026",
+   "concessao": null,
+   "vigencia": null,
+   "despachos": [
+    [
+     "IPAS756",
+     "Publicação de pedido de registro para oposição (exame formal de designação concluído)",
+     ""
+    ]
+   ],
+   "titulares": [
+    [
+     "Agendia N.V.",
+     "NL",
+     ""
+    ]
+   ],
+   "marca": {
+    "nome": "AGENDIA FLEX",
+    "apresentacao": "Nominativa",
+    "natureza": "Madri Produto/Serviço"
+   },
+   "nice": [
+    [
+     "44",
+     "Medical analysis, in particular RNA or DNA analyzes for the diagnosis of cancer and for the prognosis of the likely course of cancer.; "
+    ],
+    [
+     "42",
+     "Services in the field of science and technology, in particular medical research and development.; "
+    ]
+   ],
+   "vienna": [],
+   "sobrestadores": []
+  }
+ ]
+}
