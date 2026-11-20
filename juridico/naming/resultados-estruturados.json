@@ -1,0 +1,3808 @@
+{
+ "data_consulta": "20/11/2026",
+ "candidatos": {
+  "Orvia": {
+   "nome": "Orvia",
+   "classificacao": "Risco elevado",
+   "motivo": "'Orvya' (fonética idêntica) em pedido na classe 35; 'ORVIAN', 'OH! ORVIAH' e 'TORVIA' na classe 9; FORVIA (multinacional) concedida nas classes 9/42; software 'ORVIA' de gestão empresarial em nuvem listado no Capterra/GetApp.",
+   "inpi": {
+    "semelhantes_encontrados": 491,
+    "ativos_relevantes": 112,
+    "por_nivel": {
+     "crítico": 15,
+     "alto": 33,
+     "moderado": 18,
+     "baixo": 46
+    },
+    "conflitos_principais": [
+     {
+      "processo": "943191351",
+      "marca": "Orvya",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "ORVYA CONSULTORIA DE INVESTIMENTOS (BR/RJ)",
+      "deposito": "27/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Assessoria, consultoria e informação empresarial;Assessoria, consultoria e informação sobre oportunidades de negócio;Assessoria, consultoria e informação sobre tributos, impostos e taxas;Auxílio em gestão de negócios;Consultoria em gestão de negócios;Serviços de assessoria em gestão de negócios;",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2886.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943191351"
+     },
+     {
+      "processo": "941786374",
+      "marca": "Orvia Travel",
+      "apresentacao": "Nominativa",
+      "classes": "39",
+      "titular": "BRENNO DUARTE ALVES (BR/ES)",
+      "deposito": "04/11/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "39: Agência de viagem, exceto reserva de hotel;Agente de viagem;Aluguel de aeronaves;Aluguel de barcos;Aluguel de veículos;Assessoria, consultoria e informação em transportes;Assessoria, consultoria e informação em viagem e turismo;Emissão e venda de passagens;Guia de turismo;Organização de cruzeiro",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2865.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941786374"
+     },
+     {
+      "processo": "943191300",
+      "marca": "Orvya",
+      "apresentacao": "Nominativa",
+      "classes": "36",
+      "titular": "ORVYA CONSULTORIA DE INVESTIMENTOS (BR/RJ)",
+      "deposito": "27/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "36: Administração de assuntos financeiros;Administração de fundo de investimento;Assessoria, consultoria e administração de investimentos de terceiros;Assessoria, consultoria e informação em fundo de investimentos;Assessoria, consultoria e informação em investimentos; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2886.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943191300"
+     },
+     {
+      "processo": "943080517",
+      "marca": "ORVIA natureza & ciência",
+      "apresentacao": "Mista",
+      "classes": "05",
+      "titular": "ANA JANAINA ALCANTARA MACEDO GRADVOHL (BR/CE)",
+      "deposito": "18/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "05: Suplementos alimentares minerais;Suplementos alimentares para seres humanos;Suplementos nutricionais; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2884.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943080517"
+     },
+     {
+      "processo": "921297858",
+      "marca": "#APAIXONADOSPORVIAGEM APX",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ALMEIDA & VALE LTDA (BR/PA)",
+      "deposito": "12/11/2020",
+      "concessao": "19/10/2021",
+      "vigencia": "19/10/2031",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Administração comercial;Administração de arquivo;Administração de empresa;Administração de programas de viajantes frequentes;Assessoria, consultoria e informação em promoção de vendas;Gestão de franquia;Promoção de venda para terceiros [publicidade]; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2801.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 921297858"
+     },
+     {
+      "processo": "926117343",
+      "marca": "Soporviajar",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "ALVARO EDUARDO SILVA FERREIRA (BR/RS)",
+      "deposito": "23/03/2022",
+      "concessao": "27/06/2023",
+      "vigencia": "27/06/2033",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Administração de programa de incentivo;Administração de programas de milhas de viagens;Administração de programas de viajantes frequentes;Anúncio;Comparação de preços;Propaganda;marketing por influenciadores;promoção de produtos por meio de influenciadores; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2738.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 926117343"
+     },
+     {
+      "processo": "501671623",
+      "marca": "FORVIA",
+      "apresentacao": "Nominativa",
+      "classes": "07,09,11,12,17,24,37,38,42,06",
+      "titular": "FORVIA (FR/)",
+      "deposito": "31/01/2022",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "07: Filters for cleaning cooling air, for motors and engines; sparking plugs for internal combustion engines; igniting devices for internal combustion engines; anti-pollution devices for motors and engines; ball bearing rings; glow plugs for Diesel engines; fuel economizers for motors and engines; s",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2880.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 501671623"
+     },
+     {
+      "processo": "501707681",
+      "marca": "FORVIA",
+      "apresentacao": "Mista",
+      "classes": "07,09,11,12,42",
+      "titular": "FORVIA (FR/)",
+      "deposito": "12/07/2022",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "07: Diagnostic tool (machine and motor parts) for leak detection, filling, assembly and dismantling, flushing of air-conditioning installations and parts thereof; fuel pumps; filters for cleaning cooling air, for motors and engines; sparking plugs for internal combustion engines; igniting devices fo",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2880.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 501707681"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "ORVIA: software de gestão empresarial em nuvem listado no GetApp, Software Advice e Capterra (Capterra o classifica em radiologia; desenvolvedor não identificado). Apps homônimos internacionais (Orvia Lighting, Orvia Mail, Orvia Smart Money Tracker).",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.getapp.com/all-software/a/orvia/",
+     "https://www.capterra.co.uk/software/1322037/ORVIA",
+     "https://www.softwareadvice.co.uk/software/774214/ORVIA"
+    ]
+   },
+   "dominios": {
+    "orvia.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2025-03-25T21:53:42Z",
+     "nameservers": [
+      "a.sec.dns.br",
+      "c.sec.dns.br"
+     ]
+    },
+    "orvia.app.br": {
+     "situacao": "Registrado — situação/uso inconclusivo (sem DNS publicado)",
+     "registro": null,
+     "nameservers": []
+    },
+    "orvia.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2003-09-07T18:21:36Z",
+     "nameservers": [
+      "NS1.NETWORK.FR",
+      "NS2.NETWORK.FR",
+      "NS3.NETWORK.FR"
+     ]
+    }
+   },
+   "app_store": [
+    "Harmony Lighting by Orvia — Orvia Lighting",
+    "ORVIA - Suivi annuel — Fabrice laura TATUE KEGOM",
+    "ORVIA Golf — AetherTek Co., Ltd.",
+    "Orvia Mail: Email Client — PlatinumSky",
+    "Orvia Tarot & Psychic Reading — Denova",
+    "Orvia: Smart Money Tracker — 铭泽 花",
+    "Orvia记账-快速简洁的记账助手 — 铭泽 花"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 7,
+    "distintividade": 6,
+    "aparencia_software": 7,
+    "expansao": 6,
+    "disponibilidade_digital": 0,
+    "justificativa": "Or-VI-a soa fluido; 'via' remete a caminho/rota (bom para mobilidade, menos para outros segmentos); escrita direta."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Harmony Lighting by Orvia, ORVIA - Suivi annuel, ORVIA Golf) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Limitada (remete a rota/via/movimento)"
+   }
+  },
+  "Rotiva": {
+   "nome": "Rotiva",
+   "classificacao": "Risco elevado",
+   "motivo": "'ROTIVA LOG ARMAZENAGEM E DISTRIBUIÇÃO' (palavra idêntica) em pedido na classe 39 — logística; 'rotiv' concedida na classe 9 e 'ROTIV-IA' (ROTIV TECNOLOGIA) em pedido na 42; nome associado a 'rota' (limita a expansão).",
+   "inpi": {
+    "semelhantes_encontrados": 3195,
+    "ativos_relevantes": 11,
+    "por_nivel": {
+     "crítico": 1,
+     "alto": 3,
+     "moderado": 1,
+     "baixo": 6
+    },
+    "conflitos_principais": [
+     {
+      "processo": "942474473",
+      "marca": "ROTIVA LOG ARMAZENAGEM E DISTRIBUIÇÃO SUSTENTÁVEL",
+      "apresentacao": "Mista",
+      "classes": "39",
+      "titular": "JACKSON JAYRO BATISTA CITÓ (BR/CE) | VIAGREEN ENERGIAS LTDA (BR/CE)",
+      "deposito": "20/01/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "39: Aluguel de armazéns;Aluguel de contêineres de armazenagem;Aluguel de garagem;Aluguel de guarda-volumes;Aluguel de tratores;Aluguel de veículos;Armazenagem;Armazenagem de mercadorias;Armazenagem física de dados ou documentos armazenados eletronicamente;Armazenamento temporário de chaves;Assessori",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2874.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942474473"
+     },
+     {
+      "processo": "937647608",
+      "marca": "PROTIVAN",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "PROTIVAN EPIS COM. E IND. LTDA (BR/MG)",
+      "deposito": "14/01/2025",
+      "concessao": "08/09/2026",
+      "vigencia": "08/09/2036",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Comércio [através de qualquer meio] de couro em bruto ou semiprocessado; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2905.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 937647608"
+     },
+     {
+      "processo": "914836498",
+      "marca": "ROTIA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ROTIA INDUSTRIAL E COMERCIAL LTDA (BR/SP)",
+      "deposito": "11/06/2018",
+      "concessao": "11/06/2019",
+      "vigencia": "11/06/2029",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Aluguel de máquinas de venda automática; Comércio (através de qualquer meio) de capachos e esteiras; Comércio (através de qualquer meio) de engates de máquinas e componentes de transmissão (exceto para veículos terrestres); Comércio (através de qualquer meio) de máquinas; Comércio (através de qu",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2527.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 914836498"
+     },
+     {
+      "processo": "937757055",
+      "marca": "rotiv",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "ROTIV PARTICIPAÇÕES SOCIETARIAS LTDA (BR/PR)",
+      "deposito": "23/01/2025",
+      "concessao": "13/10/2026",
+      "vigencia": "13/10/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: Acumuladores elétricos para veículos [baterias];Cabos elétricos;Carregadores para acumuladores elétricos;Chicotes elétricos automotivos; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2910.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 937757055"
+     },
+     {
+      "processo": "942639782",
+      "marca": "ROTIV-IA",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "ROTIV TECNOLOGIA (BR/RJ)",
+      "deposito": "05/02/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "42: Aluguel de software de computador;Análise de sistemas [informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Desenvolvimento de plataformas de computador;Manutenção de software de computador;Provimento de software de computador on-line não baixá",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2877.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942639782"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa ou software com o nome exato. Apenas o app 'Rotiva - Run & Walk Tracker' (desenvolvedor individual, App Store). Nomes próximos: Rotapp/Rota Smart (monitoramento).",
+    "nivel": "baixo",
+    "fontes": [
+     "https://apps.apple.com/lv/app/rotapp/id1263239074"
+    ]
+   },
+   "dominios": {
+    "rotiva.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-02-14T00:31:23Z",
+     "nameservers": [
+      "a.sec.dns.br",
+      "b.sec.dns.br"
+     ]
+    },
+    "rotiva.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "rotiva.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2000-05-14T10:19:13Z",
+     "nameservers": [
+      "NS11.DOMAINCONTROL.COM",
+      "NS12.DOMAINCONTROL.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Rotiva - Run & Walk Tracker — Ibrahim Geyik"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 5,
+    "aparencia_software": 5,
+    "expansao": 4,
+    "disponibilidade_digital": 3,
+    "justificativa": "Fácil de ler, mas 'rota' prende ao transporte; soa como adjetivo ('rotativa'), pouco premium."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Rotiva - Run & Walk Tracker) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Limitada (remete a rota/via/movimento)"
+   }
+  },
+  "Novera": {
+   "nome": "Novera",
+   "classificacao": "Conflito relevante",
+   "motivo": "Pedidos idênticos 'NOVERA' na classe 35 e 'Novera' na classe 9, além de 'NOVERA COMMERCE' na 9 (três titulares diferentes); produto 'Novera' B2B no exterior.",
+   "inpi": {
+    "semelhantes_encontrados": 7831,
+    "ativos_relevantes": 62,
+    "por_nivel": {
+     "crítico": 15,
+     "alto": 6,
+     "moderado": 10,
+     "baixo": 31
+    },
+    "conflitos_principais": [
+     {
+      "processo": "942482174",
+      "marca": "NOVERA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "LARYSSA DOS SANTOS BASSO (BR/PR) | DARCI BATISTA MEDEIROS JUNIOR (BR/PR)",
+      "deposito": "21/01/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de bebidas alcoólicas;Comércio [através de qualquer meio] de bebidas não alcoólicas;Comércio [através de qualquer meio] de suplementos alimentares;Comércio [através de qualquer meio] de xaropes e preparações para bebidas; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2890.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942482174"
+     },
+     {
+      "processo": "944448259",
+      "marca": "Novera",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "HAMMES PRODUTOS E SERVIÇOS (BR/RS)",
+      "deposito": "15/07/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "09: Adaptadores elétricos;Alto-falante para automóvel;Aparelho de som para automóvel;Babá eletrônica;Babá eletrônica com vídeo;Cabos elétricos;Cadeados eletrônicos;Câmeras [fotografia];Câmeras de ré para veículos;Câmeras de vídeo;Capacitores [condensadores elétricos];Carregadores de energia portátei",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944448259"
+     },
+     {
+      "processo": "944405738",
+      "marca": "NOVERA COMMERCE",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "63.168.863 ALLAN JOTANI LEITE DOS SANTOS (BR/SP)",
+      "deposito": "13/07/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "09: Ábacos;Acelerador linear de elétron;Aceleradores de partícula;Acelerômetro;Acessórios para cabeça [capacetes de proteção];Acidímetros [instrumentos para medir grau de acidez];Acidímetros para baterias;Acopladores [processamento de dados];Acopladores acústicos;Actinômetros;Acumuladores elétricos;",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944405738"
+     },
+     {
+      "processo": "921475039",
+      "marca": "NOVERA",
+      "apresentacao": "Nominativa",
+      "classes": "45",
+      "titular": "NOVERA PARTICIPAÇÕES LTDA (BR/SP)",
+      "deposito": "01/12/2020",
+      "concessao": "13/10/2021",
+      "vigencia": "13/10/2031",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "45: Inspeção de fábricas para fins de segurança;Monitoramento e rastreamento de veículos e cargas [serviços de segurança];Monitorização de alarmes anti-roubo e de segurança;Segurança pessoal;Serviços de guarda [vigilância, segurança]; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2649.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 921475039"
+     },
+     {
+      "processo": "943781345",
+      "marca": "Novera English Academy",
+      "apresentacao": "Mista",
+      "classes": "41",
+      "titular": "DAVI ANSELMO CANCELIER (BR/SC)",
+      "deposito": "19/05/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "41: Curso de idioma;Interpretação de idiomas;Serviços de educação;Serviços de educação on-line prestados em um ambiente virtual; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2895.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943781345"
+     },
+     {
+      "processo": "944405932",
+      "marca": "NOVERA COMMERCE",
+      "apresentacao": "Mista",
+      "classes": "16",
+      "titular": "63.168.863 ALLAN JOTANI LEITE DOS SANTOS (BR/SP)",
+      "deposito": "13/07/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "16: Abridor de carta não elétrico;Acessórios para marcar e/ou prender páginas de livros;Agenda;Águas-fortes [gravuras];Álbuns;Álbuns de recortes;Almanaques;Almofada absorvente para alimentos;Almofadas de tinta para carimbos;Almofadas para carimbos;Amostras biológicas para uso em microscopia [materia",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944405932"
+     },
+     {
+      "processo": "912044560",
+      "marca": "NOVERHA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "BRASDENT SERVIÇOS ADMINISTRATIVOS LTDA (BR/SP)",
+      "deposito": "13/12/2016",
+      "concessao": "07/08/2018",
+      "vigencia": "07/08/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Análise de custo - [Informação em]; Análise de custo - [Consultoria em]; Análise de custo - [Assessoria em]; Análise de custo; Assessoria em gestão de negócios - [Informação em]; Assessoria em gestão de negócios - [Consultoria em]; Assessoria em gestão de negócios - [Assessoria em]; Assessoria e",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2483.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 912044560"
+     },
+     {
+      "processo": "919072178",
+      "marca": "NovaEra Leilões em Frutal",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "JQM LEILOES LTDA - ME (BR/MG)",
+      "deposito": "23/01/2020",
+      "concessao": "15/09/2020",
+      "vigencia": "15/09/2030",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Leilões.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2593.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 919072178"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Produto 'Novera' B2B (automação de marketing para PMEs) no SaaSBrowser; vários apps 'Novera' (POS, aprendizado, IA). Nome próximo: Neovero (gestão de ativos em saúde, Brasil).",
+    "nivel": "moderado",
+    "fontes": [
+     "https://saasbrowser.com/th/saas/1357956/novera",
+     "https://www.b2bstack.com.br/product/neovero"
+    ]
+   },
+   "dominios": {
+    "novera.com.br": {
+     "situacao": "Registrado — situação/uso inconclusivo (sem DNS publicado)",
+     "registro": null,
+     "nameservers": []
+    },
+    "novera.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-10-11T21:12:40Z",
+     "nameservers": [
+      "b.sec.dns.br",
+      "c.sec.dns.br"
+     ]
+    },
+    "novera.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2000-09-26T10:37:59Z",
+     "nameservers": [
+      "NS1.GRIDHOST.COM",
+      "NS2.GRIDHOST.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Novera : AI Dream Analysis — OMER FARUK IPEK",
+    "Novera Learn English — Fatemeh Shahbazi",
+    "Novera POS — PFC AI",
+    "Novera app — Pierre Perrin",
+    "Novera: Kalori ve Diyet Takibi — SENA SARIER",
+    "NoveraFlow — JINGEUN YOON"
+   ],
+   "qualidade": {
+    "sonoridade": 8,
+    "pronuncia": 9,
+    "escrita": 8,
+    "memorizacao": 7,
+    "distintividade": 5,
+    "aparencia_software": 7,
+    "expansao": 8,
+    "disponibilidade_digital": 0,
+    "justificativa": "Muito agradável (No-VE-ra); 'nova era' é ideia comum — distintividade média; serve a qualquer segmento."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Novera : AI Dream Analysis, Novera Learn English, Novera POS) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Vértia": {
+   "nome": "Vértia",
+   "classificacao": "Conflito relevante",
+   "motivo": "VERTIA é marca da SOFTPLAN S/A (grande empresa brasileira de software) com registros concedidos nas classes 9 e 42 e pedido na 35 — idêntico, mesmo segmento.",
+   "inpi": {
+    "semelhantes_encontrados": 2573,
+    "ativos_relevantes": 114,
+    "por_nivel": {
+     "crítico": 16,
+     "alto": 21,
+     "moderado": 36,
+     "baixo": 41
+    },
+    "conflitos_principais": [
+     {
+      "processo": "938161288",
+      "marca": "VERTIA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "SOFTPLAN S/A (BR/SC)",
+      "deposito": "25/02/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Análise de custo;Assessoria em gestão comercial ou industrial;Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais;Captação de patrocínio;Compilação de informação em bancos de dados de computador;Compilações de estatísticas;Consultoria em gestão de",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938161288"
+     },
+     {
+      "processo": "938161091",
+      "marca": "VERTIA",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "SOFTPLAN S/A (BR/SC)",
+      "deposito": "25/02/2025",
+      "concessao": "15/09/2026",
+      "vigencia": "15/09/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "09: Agendas eletrônicas;Aplicativos, baixáveis;Caixas-pretas [gravadores de dados];Monitores [programas de computador];Painéis digitais;Plataformas de programas de computador, gravados ou baixáveis;Processadores [unidades centrais de processamento] [informática];Programas de computador baixáveis;Pro",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938161091"
+     },
+     {
+      "processo": "938161504",
+      "marca": "VERTIA",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "SOFTPLAN S/A (BR/SC)",
+      "deposito": "25/02/2025",
+      "concessao": "15/09/2026",
+      "vigencia": "15/09/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "42: Aluguel de software de computador;Análise de sistemas [informática];Atualização de software de computador;Desenvolvimento de software no âmbito de publicação de software;Elaboração [concepção] de software de computador;Instalação de software de computador;Manutenção de software de computador;Pla",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938161504"
+     },
+     {
+      "processo": "938161610",
+      "marca": "VERTIA",
+      "apresentacao": "Nominativa",
+      "classes": "45",
+      "titular": "SOFTPLAN S/A (BR/SC)",
+      "deposito": "25/02/2025",
+      "concessao": "15/09/2026",
+      "vigencia": "15/09/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "45: Licenciamento de programa de computador [serviços jurídicos];Licenciamento de propriedade intelectual;Pesquisas jurídicas;Serviços de preparação de documentos jurídicos;Serviços de redes sociais on-line;Serviços jurídicos relacionados a licenças; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938161610"
+     },
+     {
+      "processo": "941374394",
+      "marca": "VERTIA INC.",
+      "apresentacao": "Mista",
+      "classes": "36",
+      "titular": "BC PARTICIPACOES E INVESTIMENTOS LTDA (BR/CE)",
+      "deposito": "22/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "36: Administração de imóveis;Compra e venda de imóveis;Incorporação de imóvel;Loteamento imobiliário; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2858.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941374394"
+     },
+     {
+      "processo": "840846150",
+      "marca": "VERTIA",
+      "apresentacao": "Mista",
+      "classes": "44",
+      "titular": "VERTIA GREEN DESIGN PAISAGISMO LTDA (BR/SP)",
+      "deposito": "20/10/2014",
+      "concessao": "21/03/2017",
+      "vigencia": "21/03/2037",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "44: Prestação de serviços de jardinagem paisagística (jardinagem -).; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2914.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 840846150"
+     },
+     {
+      "processo": "831216662",
+      "marca": "VERTICA",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "Hewlett Packard Enterprise Development LP (US/)",
+      "deposito": "09/01/2012",
+      "concessao": "20/03/2018",
+      "vigencia": "20/03/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "09: SOFTWARE DE COMPUTADOR, SOFTWARE DE ARMAZENAMENTO DE DADOS DE COMPUTADOR PARA USO EM GERENCIAMENTO DE DADOS E INFORMAÇÕES, HARWARE DE COMPUTADOR; SERVIDORES DE COMPUTADOR;PERIFÉRICOS DE COMPUTADOR.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2641.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 831216662"
+     },
+     {
+      "processo": "910156719",
+      "marca": "VÉRTICA INTERNATIONAL",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "GONÇALVES CONSULTORIA LTDA - ME (BR/MG)",
+      "deposito": "21/10/2015",
+      "concessao": "23/01/2018",
+      "vigencia": "23/01/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de aparelhos e instrumentos de ensino - [Informação em]; Comércio (através de qualquer meio) de aparelhos e instrumentos de ensino - [Consultoria em]; Comércio (através de qualquer meio) de aparelhos e instrumentos de ensino - [Assessoria em]; Comércio (atravé",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2455.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 910156719"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa 'Vertia' encontrada; próximos no Brasil: Vertti (software de logística agro, Maringá), Verti (pagamentos, Curitiba), Vertis Tecnologia (SP).",
+    "nivel": "moderado",
+    "fontes": [
+     "https://www.zoominfo.com/c/vertti/546730000",
+     "https://www.zoominfo.com/c/verti/448005124",
+     "https://www.crunchbase.com/organization/vertis-technology"
+    ]
+   },
+   "dominios": {
+    "vertia.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2019-04-06T11:01:41Z",
+     "nameservers": [
+      "a.auto.dns.br",
+      "b.auto.dns.br"
+     ]
+    },
+    "vertia.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "vertia.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2000-01-28T18:08:30Z",
+     "nameservers": [
+      "NS5.MODSERVER.COM",
+      "NS6.MODSERVER.COM"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 7,
+    "escrita": 5,
+    "memorizacao": 6,
+    "distintividade": 6,
+    "aparencia_software": 7,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "Sonora, mas o acento é perdido em domínios, @ e lojas; sem acento vira 'Vertia' (VER-tia vs ver-TI-a)."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Atempo": {
+   "nome": "Atempo",
+   "classificacao": "Conflito relevante",
+   "motivo": "ATEMPO concedida na classe 35 (ATEMPO LTDA, SC) e 'Attempo' (fonética idêntica) concedida nas classes 42 e 35 (BRR TECH GEOSOLUTIONS); empresa francesa de software Atempo; expressão descritiva ('a tempo').",
+   "inpi": {
+    "semelhantes_encontrados": 405,
+    "ativos_relevantes": 214,
+    "por_nivel": {
+     "crítico": 68,
+     "alto": 4,
+     "moderado": 58,
+     "baixo": 84
+    },
+    "conflitos_principais": [
+     {
+      "processo": "934911770",
+      "marca": "ATEMPO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ATEMPO LTDA. (BR/SC)",
+      "deposito": "07/06/2024",
+      "concessao": "24/02/2026",
+      "vigencia": "24/02/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de carpetes e tapetes;Comércio [através de qualquer meio] de móveis; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2877.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 934911770"
+     },
+     {
+      "processo": "941491153",
+      "marca": "ATEMPO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ATEMPO COMERCIO DE METAIS LTDA (BR/SP)",
+      "deposito": "06/10/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de alfinetes e agulhas [artigos de armarinho];Comércio [através de qualquer meio] de artigos de joalheria;Comércio [através de qualquer meio] de artigos de relojoaria;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de colch",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2877.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941491153"
+     },
+     {
+      "processo": "935533559",
+      "marca": "Atempo Conveniências",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "GUILHERME VINICIUS DALL AGNOL (BR/SP) | RODRIGO CESAR DALL' AGNOL (BR/SP)",
+      "deposito": "24/07/2024",
+      "concessao": "17/03/2026",
+      "vigencia": "17/03/2036",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Comércio [através de qualquer meio] de bebidas alcoólicas;Comércio [através de qualquer meio] de bebidas não alcoólicas;Comércio [através de qualquer meio] de produtos alimentícios [biscoitos];Comércio [através de qualquer meio] de produtos alimentícios [bolos];Comércio [através de qualquer meio",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2880.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 935533559"
+     },
+     {
+      "processo": "917346459",
+      "marca": "Attempo.",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "BRR TECH GEOSOLUTIONS LTDA (BR/SP)",
+      "deposito": "17/05/2019",
+      "concessao": "10/12/2019",
+      "vigencia": "10/12/2029",
+      "situacao": "concedido",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "42: Serviços de pesquisa científica e tecnológica; consultoria e desenvolvimento em sistemas de informação e de informática; serviços de software; serviços de desenvolvimento e manutenção de programas de computador e sites na internet; serviço de compartilhamento e armazenamento de informações; serv",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2849.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 917346459"
+     },
+     {
+      "processo": "902066315",
+      "marca": "ATTEMPO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "AGUINALDO DE CASTRO COELHO (BR/MG)",
+      "deposito": "28/10/2009",
+      "concessao": "25/09/2012",
+      "vigencia": "25/09/2032",
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Assessoria, consultoria e informação em contabilidade;Contabilidade; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2695.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 902066315"
+     },
+     {
+      "processo": "927802511",
+      "marca": "ATTEMPO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "AGUINALDO DE CASTRO COELHO (BR/MG)",
+      "deposito": "25/08/2022",
+      "concessao": "07/11/2023",
+      "vigencia": "07/11/2033",
+      "situacao": "concedido",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Assessoria, consultoria e informação em contabilidade;Contabilidade;Perícia contábil;Perícia técnica na área contábil; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2757.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 927802511"
+     },
+     {
+      "processo": "840248539",
+      "marca": "SMAC SISTEMA DE MONITORAMENTO E ALERTA CLIMATEMPO",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "CLIMATEMPO ASSESSORIA E CONSULTORIA METEOROLÓGICA LTDA. (BR/SP)",
+      "deposito": "28/08/2012",
+      "concessao": "05/09/2017",
+      "vigencia": "05/09/2027",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "42: SERVIÇO DE PREVISÃO DO TEMPO, INCLUINDO MONITORAMENTO 24 HORAS DE CHUVAS, VENTOS E DESCARGAS ATMOSFÉRICAS; DADOS METEOROLÓGICOS PASSADOS; PREVISÕES DE CURTO E LONGO PRAZO.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2885.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 840248539"
+     },
+     {
+      "processo": "908460686",
+      "marca": "CATATEMPO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "marco antonio cardoso da silva (BR/RS)",
+      "deposito": "17/10/2014",
+      "concessao": "13/06/2017",
+      "vigencia": "13/06/2027",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Agências de propaganda - [Informação em]; Agências de propaganda - [Consultoria em]; Agências de propaganda - [Assessoria em]; Agências de propaganda; Agências de publicidade - [Informação em]; Agências de publicidade - [Consultoria em]; Agências de publicidade - [Assessoria em]; Agências de pub",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2423.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 908460686"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Atempo: empresa francesa de software (proteção e arquivamento de dados) fundada em 1992, 150 a 500 funcionários, produtos Miria e Lina; app Atempo (notas). Brasil: 'Attempo' (segurança).",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.g2.com/es/sellers/atempo",
+     "https://en.wikipedia-on-ipfs.org/wiki/Atempo",
+     "https://www.zoominfo.com/c/attempo/547173092"
+    ]
+   },
+   "dominios": {
+    "atempo.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-05-20T18:36:49Z",
+     "nameservers": [
+      "a.auto.dns.br",
+      "b.auto.dns.br"
+     ]
+    },
+    "atempo.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-11-14T18:52:51Z",
+     "nameservers": [
+      "a.sec.dns.br",
+      "b.sec.dns.br"
+     ]
+    },
+    "atempo.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "1997-03-26T05:00:00Z",
+     "nameservers": [
+      "NS77.DOMAINCONTROL.COM",
+      "NS78.DOMAINCONTROL.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Atempo QR — Abel Torres Cano",
+    "Atempo — Karl Koch",
+    "Atempo: Breathwork & NSDR — 鑫 陈",
+    "Atempo: Find Your Own Tempo — Wontae Jeong",
+    "Climatempo - Previsão do tempo — Climatempo Meteorologia"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 9,
+    "escrita": 9,
+    "memorizacao": 8,
+    "distintividade": 4,
+    "aparencia_software": 6,
+    "expansao": 6,
+    "disponibilidade_digital": 0,
+    "justificativa": "Fácil, mas 'a tempo' é expressão do dia a dia (descritiva para agenda) — baixa distintividade."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Atempo, Atempo QR, Atempo: Breathwork & NSDR) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Plenna": {
+   "nome": "Plenna",
+   "classificacao": "Conflito relevante",
+   "motivo": "PLENNA concedida na classe 35 (PLENNA ESPECIALIDADES) e outras 12 marcas 'Plenna' ativas nas classes 9/35/42; app 'Plenna' de uma empresa brasileira de agendamento ('Bus serviços de agendamento ltda'); centenas de marcas 'Plena'.",
+   "inpi": {
+    "semelhantes_encontrados": 1698,
+    "ativos_relevantes": 695,
+    "por_nivel": {
+     "crítico": 158,
+     "alto": 25,
+     "moderado": 219,
+     "baixo": 293
+    },
+    "conflitos_principais": [
+     {
+      "processo": "906212383",
+      "marca": "Plena Lab",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "PLENA-LAB INDÚSTRIA E COMÉRCIO LTDA EPP (BR/SP)",
+      "deposito": "08/05/2013",
+      "concessao": "23/02/2016",
+      "vigencia": "23/02/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "09: Acidímetros [instrumentos para medir grau de acidez]; Balanceamento (Aparelhos para -); Capilares (Tubos -); Colheres de dosagem; Difração (Aparelhos para -) [microscopia]; Dosímetros; Estojos de dissecação [microscopia]; Estojos para lâminas de microscópio; Hidrômetros; Indicadores de nível de ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2852.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 906212383"
+     },
+     {
+      "processo": "906418844",
+      "marca": "PLENA VISÃO FRANCHISING",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "PLENA VISAO FRANCHISING LTDA. - ME (BR/SP)",
+      "deposito": "25/06/2013",
+      "concessao": "23/01/2018",
+      "vigencia": "23/01/2028",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "42: Controle de qualidade - [Consultoria em]; Controle de qualidade - [Assessoria em]; Vistoria de veículos automotores - [Informação em]; Vistoria de veículos automotores - [Consultoria em]; Vistoria de veículos automotores - [Assessoria em]; Vistoria de veículos automotores; Assessoria, consultori",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2497.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 906418844"
+     },
+     {
+      "processo": "906793955",
+      "marca": "PLENA eyewear",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "HADAMOR SALOMAO PINHEIRO BORGES - ME (BR/AM)",
+      "deposito": "23/09/2013",
+      "concessao": "24/04/2018",
+      "vigencia": "24/04/2028",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "09: Correntes para óculos; Estojos para lentes de contato; Estojos para óculos; Lentes de contato; Oculista (Artigos de -); Óculos; Óculos (Armação de -); Óculos (Cordões para -) [pincenê]; Óculos (Correntes para -); Óculos Antiofuscantes; Óculos de sol; Óculos para esportes; Caixa [estojo] para gua",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2468.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 906793955"
+     },
+     {
+      "processo": "902742353",
+      "marca": "PLENA VISÃO VISTORIA VEICULAR OK",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "PLENA VISAO FRANCHISING LTDA (BR/SP)",
+      "deposito": "01/07/2010",
+      "concessao": "11/02/2014",
+      "vigencia": "11/02/2034",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais;Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais[ Informa¿¿o, Assessoria, Consultoria ];Assessoria, consultoria e informação em gestão de negóc",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2723.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 902742353"
+     },
+     {
+      "processo": "908581645",
+      "marca": "Plena Vida",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "PLENAVIDA SAÚDE LTDA. (BR/SP)",
+      "deposito": "11/11/2014",
+      "concessao": "20/06/2017",
+      "vigencia": "20/06/2027",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Administração de cartão de desconto - [Informação em]; Administração de cartão de desconto - [Consultoria em]; Administração de cartão de desconto - [Assessoria em]; Administração de cartão de desconto; Cartão de afinidade que oferece descontos aos afiliados - [Informação em]; Cartão de afinidad",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2424.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 908581645"
+     },
+     {
+      "processo": "908838760",
+      "marca": "Ministério de Música Vida Plena",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "Associacao Educacional e Assisitencial Bethania (BR/SC)",
+      "deposito": "07/01/2015",
+      "concessao": "04/07/2017",
+      "vigencia": "04/07/2027",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "09: Audiovisual (Aparelhos para ensino -); Compactos (Discos -) [áudio e vídeo]; Computador (Programas de -) [para download]; Computador (Programas de -), gravados; Computador (Programas de -), gravados [programas]; Computador (Programas operacionais para -) [gravados]; Discos compactos [áudio e víd",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2426.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 908838760"
+     },
+     {
+      "processo": "923405143",
+      "marca": "BIOPLENNA DIAGNÓSTICA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "BIOPLENNA DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS PARA DIAGNOSTICO LTDA (BR/RN)",
+      "deposito": "28/06/2021",
+      "concessao": "05/07/2022",
+      "vigencia": "05/07/2032",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Aluguel de máquinas de autosserviço;Comércio (através de qualquer meio) de aparelhos e instrumentos científicos;Comércio (através de qualquer meio) de aparelhos e instrumentos cirúrgicos;Comércio (através de qualquer meio) de aparelhos e instrumentos de medição;Comércio (através de qualquer meio",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2687.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 923405143"
+     },
+     {
+      "processo": "940153564",
+      "marca": "APLENNA INTEGRADA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "MODERNA ASSESSORIA E CONSULTORIA CONTÁBIL LTDA (BR/RN)",
+      "deposito": "23/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Assessoria, consultoria e informação em contabilidade;Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais;Assessoria, consultoria e informação em negócios relativos à relocalização para empresas;Assessoria, consultoria e informação relacionadas ao",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2849.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940153564"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "App 'Plenna' na App Store BR publicado por 'Bus servicos de agendamento ltda' (agendamento, Brasil); app 'Plenna' (Mujer Plenna Salud, MX); 'Plenna: Estudos e Rotina'; plenna.com.br registrado desde 1998. Nome próximo: Plena Saúde, Plenne.",
+    "nivel": "alto",
+    "fontes": [
+     "https://apps.apple.com/br/app/plenne/id6755063476"
+    ]
+   },
+   "dominios": {
+    "plenna.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "1998-11-09T14:55:55Z",
+     "nameservers": [
+      "e.sec.dns.br",
+      "f.sec.dns.br"
+     ]
+    },
+    "plenna.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-08-29T02:33:16Z",
+     "nameservers": [
+      "ns1.vercel-dns.com",
+      "ns2.vercel-dns.com"
+     ]
+    },
+    "plenna.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2011-01-12T19:26:03Z",
+     "nameservers": [
+      "DNS1.KINGHOST.COM.BR",
+      "DNS2.KINGHOST.COM.BR",
+      "DNS3.KINGHOST.COM.BR",
+      "DNS4.KINGHOST.COM.BR"
+     ]
+    }
+   },
+   "app_store": [
+    "Plenna — Bus servicos de agendamento ltda",
+    "Plenna — Mujer Plenna Salud SAPI de CV",
+    "Plenna: Estudos e Rotina — Diogo Avilar"
+   ],
+   "qualidade": {
+    "sonoridade": 8,
+    "pronuncia": 9,
+    "escrita": 6,
+    "memorizacao": 7,
+    "distintividade": 3,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 0,
+    "justificativa": "Bonita, porém é 'plena' com n duplo; o público tende a escrever 'Plena' — palavra comum, muito usada."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Plenna, Plenna: Estudos e Rotina) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Avora": {
+   "nome": "Avora",
+   "classificacao": "Conflito relevante",
+   "motivo": "Ao menos 12 marcas ativas com 'AVORA' nas classes 35/42 (AVORA BANK, AVORA PAY, AVORA CAPITAL, AVORA SECURITIZADORA concedida, Ávora Engenharia 42) e plataforma de analytics 'Avora' listada no Brasil.",
+   "inpi": {
+    "semelhantes_encontrados": 433,
+    "ativos_relevantes": 234,
+    "por_nivel": {
+     "crítico": 45,
+     "alto": 24,
+     "moderado": 48,
+     "baixo": 117
+    },
+    "conflitos_principais": [
+     {
+      "processo": "936867523",
+      "marca": "AVORA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "FR2 IMPORTADORA EXPORTADORA E COMERCIO DE VESTUARIOS E ACESSORIOS LTDA. (BR/SP)",
+      "deposito": "01/11/2024",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de artigos de cama, mesa e banho;Comércio [através de qualquer meio] de artigos de chapelaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de bolsas femininas;Comércio [através de qualquer meio] de calçados;Co",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2825.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 936867523"
+     },
+     {
+      "processo": "936974656",
+      "marca": "ÁVORA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "FERNANDA OLIVEIRA SOUZA (BR/SC)",
+      "deposito": "11/11/2024",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de roupas; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2892.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 936974656"
+     },
+     {
+      "processo": "944917844",
+      "marca": "AVORA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "COACHING MOVEIS E DECORAÇÕES EIRELI-ME (BR/RJ)",
+      "deposito": "21/08/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de molduras;Comércio [através de qualquer meio] de móveis;Comércio [através de qualquer meio] de produtos de perfumaria;Comércio [através de qualquer meio] de velas;Comércio [através de qualquer meio] de velas e pavios para iluminação; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944917844"
+     },
+     {
+      "processo": "933397097",
+      "marca": "AVORA SECURITIZADORA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "AVORA SECURITIZADORA SA (BR/MT)",
+      "deposito": "02/02/2024",
+      "concessao": "16/09/2025",
+      "vigencia": "16/09/2035",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Pesquisa em negócios;Previsões econômicas;Promoção de vendas para terceiros;Provimento de informações de negócios através de um website;Serviços de assessoria em gestão de negócios; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2884.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 933397097"
+     },
+     {
+      "processo": "937042285",
+      "marca": "AVORA BELEZA E ESTÉTICA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "AVORA FRANQUIA LTDA (BR/RS)",
+      "deposito": "15/11/2024",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Administração comercial;Administração comercial de shopping center;Administração comercial do licenciamento de produtos e serviços de terceiros;Administração de arquivo;Administração de biblioteca;Administração de cartão de benefícios comerciais [promoção de negócios];Administração de cartão de ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2893.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 937042285"
+     },
+     {
+      "processo": "939174979",
+      "marca": "Ávora Engenharia",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "ÉRICO BARBOSA (BR/SC)",
+      "deposito": "16/05/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "42: Assessoria, consultoria e informações sobre engenharia;Engenharia*;Projeto de engenharia civil;Projeto e cálculo; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2910.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939174979"
+     },
+     {
+      "processo": "907451608",
+      "marca": "LAVORATO EYEWEAR",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "SIGNUS INDÚSTRIA ÓPTICA LTDA (BR/SP)",
+      "deposito": "19/03/2014",
+      "concessao": "29/11/2016",
+      "vigencia": "29/11/2036",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "09: Armações de óculos; Óculos; Óculos (Lentes de -);",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2870.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 907451608"
+     },
+     {
+      "processo": "916581551",
+      "marca": "marcelo távora",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "MARCELO ARAUJO TAVORA CORREA (BR/MG)",
+      "deposito": "17/01/2019",
+      "concessao": "03/09/2019",
+      "vigencia": "03/09/2029",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Estudos de marketing - [Informação em]; Estudos de marketing - [Consultoria em]; Estudos de marketing - [Assessoria em]; Estudos de marketing; Marketing - [Informação em]; Marketing - [Consultoria em]; Marketing - [Assessoria em]; Marketing; Pesquisa de marketing - [Informação em]; Pesquisa de m",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2539.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 916581551"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Avora: plataforma de analytics aumentado com IA listada no B2B Stack Brasil (comparada a Zoho CRM); 'Avora Datos' (ComparaSoftware); diversos apps AVORA (pagamentos, investimento, saúde).",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.b2bstack.com.br/product/avora",
+     "https://www.comparasoftware.com/avora"
+    ]
+   },
+   "dominios": {
+    "avora.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2020-04-04T23:58:53Z",
+     "nameservers": [
+      "ns384.hostgator.com.br",
+      "ns385.hostgator.com.br"
+     ]
+    },
+    "avora.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-04-15T20:43:42Z",
+     "nameservers": [
+      "ns1.digitalocean.com",
+      "ns2.digitalocean.com",
+      "ns3.digitalocean.com"
+     ]
+    },
+    "avora.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2018-01-31T19:55:51Z",
+     "nameservers": [
+      "NS1.ATOM.COM",
+      "NS2.ATOM.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "AVORA - Partners — SCAN2PAY FZE LLC",
+    "AVORA APP — SCAN2PAY FZE LLC",
+    "AVORA Investment — AG TECH CONSULTING CORP",
+    "AVORA STORE — SIMICART ONLINE TECHNOLOGY COMPANY LIMITED",
+    "AVORA — Charles Gowland",
+    "Avora APlay: Video Player — Byteway LLC",
+    "Avora Art B2B — Kursat ERKAL",
+    "Avora Health — KESLERLAB LTD",
+    "Avora Mediterranean — Yusuf Kacan",
+    "Avora: Controle Gastos — Hasan Karli",
+    "Avora: Portfólio Imobiliário — Flavio Ribeiro Nogueira Barbosa",
+    "Widgets da Bíblia: Avora — Dmitri Rosca",
+    "Ávora Club — Rodrigo Cruz"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 7,
+    "distintividade": 6,
+    "aparencia_software": 7,
+    "expansao": 8,
+    "disponibilidade_digital": 0,
+    "justificativa": "A-VO-ra é leve e neutra; lembra 'aurora'/'árvore' sem ser descritiva; muito usada internacionalmente."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (AVORA, AVORA - Partners, AVORA APP) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Ordina": {
+   "nome": "Ordina",
+   "classificacao": "Risco elevado",
+   "motivo": "Ordina N.V./Sopra Steria é grande empresa europeia de TI; 'ordena' concedida na classe 9 (Inovasul, programas de computador) e 'Ordena Aqui' concedida na 42 (Lunar TI) — Ordina × Ordena são foneticamente próximos; 'DONA ORDINA' na 35.",
+   "inpi": {
+    "semelhantes_encontrados": 714,
+    "ativos_relevantes": 344,
+    "por_nivel": {
+     "crítico": 80,
+     "alto": 2,
+     "moderado": 156,
+     "baixo": 106
+    },
+    "conflitos_principais": [
+     {
+      "processo": "923674268",
+      "marca": "DONA ORDINA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CHAYENE PEREIRA LEAL SOUZA (BR/ES)",
+      "deposito": "21/07/2021",
+      "concessao": "06/09/2022",
+      "vigencia": "06/09/2032",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos de chapelaria;Comércio (através de qualquer meio) de artigos do vestuário;Comércio (através de qualquer meio) de roupas;Comércio [através de qualquer meio] de bolsas femininas;Comércio [através de qualquer meio] de calçados;Comércio [através de qual",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2849.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 923674268"
+     },
+     {
+      "processo": "909488681",
+      "marca": "BANANA BREAD DONA ORDINATA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ANDREA CALMON NOGUEIRA SOUZA 12924451817 (BR/SP)",
+      "deposito": "08/06/2015",
+      "concessao": "31/10/2017",
+      "vigencia": "31/10/2027",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Comércio (através de qualquer meio) de produtos alimentícios;",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2443.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 909488681"
+     },
+     {
+      "processo": "501688652",
+      "marca": "KOORDINATOR",
+      "apresentacao": "Mista",
+      "classes": "09,42",
+      "titular": "The Linux Foundation (US/)",
+      "deposito": "01/07/2022",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "09: Scientific, research, navigation, surveying, photographic, cinematographic, audiovisual, optical, weighing, measuring, signalling, detecting, testing, inspecting, life-saving and teaching apparatus and instruments; apparatus and instruments for conducting, switching, transforming, accumulating, ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2914.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 501688652"
+     },
+     {
+      "processo": "944962475",
+      "marca": "METHODI ORDINATIO",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "REGINA NEGRI PAGANI (BR/PR) | BRUNO PEDROSO (BR/PR)",
+      "deposito": "25/08/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "42: Consultoria em tecnologia da computação;Consultoria em tecnologia das telecomunicações;Consultoria tecnológica;Desenvolvimento de plataformas de computador;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Elaboração [concepção] de software de co",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944962475"
+     },
+     {
+      "processo": "944962670",
+      "marca": "INORDINATIO",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "REGINA NEGRI PAGANI (BR/PR) | BRUNO PEDROSO (BR/PR)",
+      "deposito": "25/08/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "42: Consultoria em tecnologia das telecomunicações;Consultoria tecnológica;Desenvolvimento de plataformas de computador;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Elaboração [concepção] de software de computador;Manutenção de software de compu",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944962670"
+     },
+     {
+      "processo": "941913473",
+      "marca": "ordinn",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "ATHA BRASIL PRODUTOS E SERVIÇOS LTDA (BR/SP)",
+      "deposito": "17/11/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "42: Análise de sistemas [informática];Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Assistência técnica em software;Atualização de software de computador;Consultoria em software de computador;Consultoria em tecnologia da",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2866.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941913473"
+     },
+     {
+      "processo": "944244734",
+      "marca": "ORDIA",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "ANTONIO CARLOS MOREIRA ALVES JUNIOR (BR/SE)",
+      "deposito": "26/06/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "42: Análise de sistemas [informática];Análise de suporte e sistema [serviço de informática];Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Consultoria em inteligência artificial;Consultoria em segurança de computadores;Consultoria em segurança de dados;Co",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944244734"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Ordina: grande empresa holandesa de serviços de TI (1973, Euronext, adquirida pela Sopra Steria em 2023, cerca de 2.650 funcionários) com ordina.com. Associação forte com TI.",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.ordina.com/who-we-are/",
+     "https://www.cbinsights.com/company/ordina"
+    ]
+   },
+   "dominios": {
+    "ordina.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2024-09-11T15:02:10Z",
+     "nameservers": [
+      "ns19.domaincontrol.com",
+      "ns20.domaincontrol.com"
+     ]
+    },
+    "ordina.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "ordina.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "1999-12-29T14:13:12Z",
+     "nameservers": [
+      "DNS1.CSCDNS.NET",
+      "DNS2.CSCDNS.NET"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 7,
+    "distintividade": 5,
+    "aparencia_software": 7,
+    "expansao": 8,
+    "disponibilidade_digital": 3,
+    "justificativa": "Remete a ordem/organizar (bom conceito), mas é nome de uma grande empresa de TI europeia."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Pontta": {
+   "nome": "Pontta",
+   "classificacao": "Risco elevado",
+   "motivo": "Sem marca 'Pontta' exata ativa, mas centenas de 'Ponta' nas classes 35/42; 'Pontta Technology' (Brasil) com registro de 'Pontta ERP' e pontta.com.br ativo desde 2008; o público tende a escrever 'Ponta'.",
+   "inpi": {
+    "semelhantes_encontrados": 8728,
+    "ativos_relevantes": 728,
+    "por_nivel": {
+     "crítico": 96,
+     "alto": 98,
+     "moderado": 218,
+     "baixo": 316
+    },
+    "conflitos_principais": [
+     {
+      "processo": "906091659",
+      "marca": "Ponta de Estoque Modas",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "SARAH DE SA FERNANDES (BR/SP)",
+      "deposito": "08/04/2013",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos de cama, mesa e banho; Comércio (através de qualquer meio) de jogos e brinquedos; Comércio (através de qualquer meio) de roupas;",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2242.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 906091659"
+     },
+     {
+      "processo": "840546084",
+      "marca": "TERRAS ALPHAVILLE PONTA GROSSA",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "ALPHAVILLE S.A. (BR/SP)",
+      "deposito": "14/06/2013",
+      "concessao": "12/04/2016",
+      "vigencia": "12/04/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "42: ARQUITETURA; ASSESSORIA, CONSULTORIA E INFORMAÇÃO EM ARQUITETURA; DESENHO DE PLANTAS PARA CONSTRUÇÃO; ASSESSORIA, CONSULTORIA E INFORMAÇÃO EM DESENHO DE PLANTAS PARA CONSTRUÇÃO; ENGENHARIA; ASSESSORIA, CONSULTORIA E INFORMAÇÃO EM ENGENHARIA; ESTUDOS PARA PROJETOS TÉCNICOS; ASSESSORIA, CONSULTORI",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2852.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 840546084"
+     },
+     {
+      "processo": "840546025",
+      "marca": "TERRAS ALPHAVILLE PONTA GROSSA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "ALPHAVILLE S.A. (BR/SP)",
+      "deposito": "14/06/2013",
+      "concessao": "21/05/2019",
+      "vigencia": "21/05/2029",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: NEGÓCIOS (ASSESSORIA EM GESTÃO DE-); NEGÓCIOS (AVALIAÇÕES DE-); NEGÓCIOS (CONSULTORIA EM GESTÃO DE-); NEGÓCIOS (CONSULTORIA EM GESTÃO E ORGANIZAÇÃO DE-); NEGÓCIOS(CONSULTORIA PROFISSIONAL EM-); NEGÓCIOS (INFORMAÇÃO DE-); NEGÓCIOS (LEVANTAMENTOS DE INFORMAÇÕES DE-); NEGÓCIOS (PESQUISA EM-); ASSES",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2701.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 840546025"
+     },
+     {
+      "processo": "907035469",
+      "marca": "PONTA EM CONTA OUTLET",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "FTN COMERCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA - ME (BR/MG)",
+      "deposito": "21/11/2013",
+      "concessao": "26/07/2016",
+      "vigencia": "26/07/2026",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de artigos para ginástica; Comércio (através de qualquer meio) de artigos para prática de esportes; Comércio (através de qualquer meio) de malas e bolsas de viagem; Comércio (através de qualquer meio",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2377.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 907035469"
+     },
+     {
+      "processo": "907083854",
+      "marca": "Di Ponta",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "jose luis bispo macedo (BR/SP)",
+      "deposito": "03/12/2013",
+      "concessao": "02/08/2016",
+      "vigencia": "02/08/2036",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos de cama, mesa e banho - [Informação em]; Comércio (através de qualquer meio) de artigos de cama, mesa e banho - [Consultoria em]; Comércio (através de qualquer meio) de artigos de cama, mesa e banho - [Assessoria em]; Comércio (através de qualquer m",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2852.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 907083854"
+     },
+     {
+      "processo": "908277725",
+      "marca": "FEPE - Feira de Ponta de Estoque",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "Camara de Dirigentes Logistas de Campos (BR/RJ)",
+      "deposito": "12/09/2014",
+      "concessao": "07/03/2017",
+      "vigencia": "07/03/2027",
+      "situacao": "concedido",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Assessoria em gestão comercial ou industrial; informação, assessoria, consultoria em aluguel de espaço publicitário; organização de feiras para fins comerciais ou publicitários; serviços de relocalização para empresas; assessoria, consultoria e informação em promoção de vendas; atendimento ao cl",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2409.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 908277725"
+     },
+     {
+      "processo": "913111341",
+      "marca": "CLUBE PONTUA COMPLEXO TATUAPÉ",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "SHOPPING METRÔ TATUAPÉ (BR/SP)",
+      "deposito": "27/07/2017",
+      "concessao": "11/12/2018",
+      "vigencia": "11/12/2028",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Programas de cartão de pontuação [tipo programa de milhagem/fidelidade].; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2501.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 913111341"
+     },
+     {
+      "processo": "916216080",
+      "marca": "PROGRAMA PINHEIROS PONTUA E.C.P.  S.P.",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ESPORTE CLUBE PINHEIROS (BR/SP)",
+      "deposito": "07/11/2018",
+      "concessao": "23/07/2019",
+      "vigencia": "23/07/2029",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Serviços de programas de fidelidade; administração de programas de fidelidade de consumidores; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2533.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 916216080"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Pontta Technology (Brasil): empresa de serviços com cerca de 30 funcionários, com registro de 'Pontta ERP' em base secundária; pontta.com.br desde 2008 (Locaweb). Próximos: Pontotel e Pontua (ponto eletrônico), Ponta.",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.appsruntheworld.com/customers-database/customers/view/pontta-technology-brazil",
+     "https://www.appsruntheworld.com/customers-database/vendors/view/pontta/market/asc/50/1"
+    ]
+   },
+   "dominios": {
+    "pontta.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2008-09-08T23:12:30Z",
+     "nameservers": [
+      "ns1.locaweb.com.br",
+      "ns2.locaweb.com.br",
+      "ns3.locaweb.com.br"
+     ]
+    },
+    "pontta.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "pontta.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2008-09-11T15:03:22Z",
+     "nameservers": [
+      "NS67.DOMAINCONTROL.COM",
+      "NS68.DOMAINCONTROL.COM"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 5,
+    "memorizacao": 6,
+    "distintividade": 3,
+    "aparencia_software": 5,
+    "expansao": 6,
+    "disponibilidade_digital": 3,
+    "justificativa": "É 'ponta' com t duplo: o público escreverá 'Ponta'; palavra comum, lembra também 'ponto eletrônico'."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Oryza": {
+   "nome": "Oryza",
+   "classificacao": "Risco elevado",
+   "motivo": "'ORYZA & SOY' concedida na classe 42 (consultoria agronômica) e 'ORIZZA' (fonética idêntica) em pedidos nas classes 9, 35 e 42; empresa vietnamita Oryza System Technology com suíte de software.",
+   "inpi": {
+    "semelhantes_encontrados": 598,
+    "ativos_relevantes": 113,
+    "por_nivel": {
+     "crítico": 7,
+     "alto": 43,
+     "moderado": 14,
+     "baixo": 49
+    },
+    "conflitos_principais": [
+     {
+      "processo": "918863287",
+      "marca": "ORYZA & SOY",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "ORYZA E SOY PESQUISA E CONSULTORIA AGRONÔMICA LTDA (BR/RS)",
+      "deposito": "12/12/2019",
+      "concessao": "24/09/2020",
+      "vigencia": "24/09/2030",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "42: Assessoria, consultoria e informações sobre pesquisas no campo de agricultura;Ensaios técnicos para controle de qualidade de produtos;Pesquisa científica;Pesquisa e desenvolvimento, para terceiros, de novos produtos;Projeto de engenharia agrícola;Projeto de engenharia agronômica; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2792.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 918863287"
+     },
+     {
+      "processo": "945070764",
+      "marca": "ORYZA & SOY",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "ORYZA E SOY PESQUISA E CONSULTORIA AGRONÔMICA LTDA (BR/RS)",
+      "deposito": "02/09/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "42: Assessoria, consultoria e informações sobre pesquisas no campo de agricultura;Ensaios técnicos para controle de qualidade de produtos;Pesquisa científica;Pesquisa e desenvolvimento, para terceiros, de novos produtos;Projeto de engenharia agrícola;Projeto de engenharia agronômica; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2912.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 945070764"
+     },
+     {
+      "processo": "927423189",
+      "marca": "ORIZZA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "PINK APL - COMERCIO DE COSMETICOS LTDA (BR/RS)",
+      "deposito": "25/07/2022",
+      "concessao": "24/10/2023",
+      "vigencia": "24/10/2033",
+      "situacao": "concedido",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Comércio (através de qualquer meio) de aparelhos de produção de vapor;Comércio (através de qualquer meio) de artigos de cama, mesa e banho;Comércio (através de qualquer meio) de artigos de iluminação;Comércio (através de qualquer meio) de cosméticos;Comércio (através de qualquer meio) de óleos e",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2755.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 927423189"
+     },
+     {
+      "processo": "939926725",
+      "marca": "ORIZZA",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "THAIANE MARIA ARAÚJO BARROSO (BR/PI)",
+      "deposito": "09/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "42: Aluguel de software de computador;Análise de sistemas [informática];Análise de suporte e sistema [serviço de informática];Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Assistência técnica em software;Atualização de s",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2903.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939926725"
+     },
+     {
+      "processo": "939926482",
+      "marca": "ORIZZA",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "THAIANE MARIA ARAÚJO BARROSO (BR/PI)",
+      "deposito": "09/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "09: Software baixável para computadores e dispositivos móveis, Aplicativo baixável para computadores e dispositivos móveis; Software para provedores de soluções digitais; Software baixável para gravar, armazenar, transmitir, receber, exibir e analisar dados; Software para processamento e integração ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2903.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939926482"
+     },
+     {
+      "processo": "939926563",
+      "marca": "ORIZZA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "THAIANE MARIA ARAÚJO BARROSO (BR/PI)",
+      "deposito": "09/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria, consultoria e informação econômica, para os setores industrial e comercial das empresas, visando o planejamento, organização, monitoramento e desenvolvimento de projetos [também provido on-l",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2903.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939926563"
+     },
+     {
+      "processo": "941605680",
+      "marca": "PriOryza",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "RAIMUNDO NONATO CARVALHO DA ROCHA (BR/TO)",
+      "deposito": "17/10/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "42: Assessoria, consultoria e informações sobre pesquisas no campo de agricultura;Pesquisas agropecuárias; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2861.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941605680"
+     },
+     {
+      "processo": "942990102",
+      "marca": "ORIZIA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "GEISE CRISTINA DA SILVA LIMA (BR/PE) | MICELANE LIMA DA SILVA (BR/PE)",
+      "deposito": "10/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de cosméticos;Comércio [através de qualquer meio] de óleos essenciais;Comércio [através de qualquer meio] de preparações de higiene pessoal não medicamentosas;Comércio [através de qualquer meio] de produtos de perfumaria; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2883.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942990102"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Oryza System Technology JSC (Vietnã): suíte de apps (VMS, DMS, Alarm, One); Oryzea (gestão de projetos); 'Oryza' é o nome científico do gênero do arroz (Oryza sativa), associação genérica.",
+    "nivel": "moderado",
+    "fontes": [
+     "https://www.appvizer.com/services/training-center/oryzea"
+    ]
+   },
+   "dominios": {
+    "oryza.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2022-08-26T16:12:49Z",
+     "nameservers": [
+      "a.auto.dns.br",
+      "b.auto.dns.br"
+     ]
+    },
+    "oryza.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "oryza.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2000-05-22T04:54:45Z",
+     "nameservers": [
+      "NS1.13SLATE.COM",
+      "NS2.13SLATE.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Oryza Alarm — Oryza System Technology Joint Stock Company",
+    "Oryza DMS — Oryza System Technology Joint Stock Company",
+    "Oryza Grill — ORYZA GROUP LLC",
+    "Oryza One — Oryza System Technology Joint Stock Company",
+    "Oryza SWTLCS — Oryza System Technology Joint Stock Company",
+    "Oryza VMS — Oryza System Technology Joint Stock Company"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 6,
+    "escrita": 4,
+    "memorizacao": 5,
+    "distintividade": 5,
+    "aparencia_software": 5,
+    "expansao": 5,
+    "disponibilidade_digital": 3,
+    "justificativa": "Y e Z confundem a escrita (Oriza? Orysa?); é o gênero botânico do arroz."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Oryza Alarm, Oryza DMS, Oryza Grill) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Nivora": {
+   "nome": "Nivora",
+   "classificacao": "Conflito relevante",
+   "motivo": "Pedidos idênticos 'NIVORA' nas classes 9 e 35 por dois titulares distintos (B S FRANQUI e RELAXMEDIC), depositados em 2025–2026.",
+   "inpi": {
+    "semelhantes_encontrados": 221,
+    "ativos_relevantes": 36,
+    "por_nivel": {
+     "crítico": 9,
+     "alto": 5,
+     "moderado": 5,
+     "baixo": 17
+    },
+    "conflitos_principais": [
+     {
+      "processo": "939472058",
+      "marca": "NIVORA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "B S FRANQUI IMPORTACAO LTDA (BR/SP)",
+      "deposito": "06/06/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de aparelhos de iluminação;Comércio [através de qualquer meio] de artigos de iluminação;Comércio [através de qualquer meio] de eletrônicos; Comércio [através de qualquer meio] de equipamentos e suprimentos de informática; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2913.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939472058"
+     },
+     {
+      "processo": "939472180",
+      "marca": "NIVORA",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "B S FRANQUI IMPORTACAO LTDA (BR/SP)",
+      "deposito": "06/06/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "09: Alarme de segurança;Alarmes *;Alto-falantes;Amplificador de som para automóvel;Aparelho de gravação de vídeo;Aparelho projetor de filme;Aparelhos e instrumentos para astronomia;Aparelhos para projeção;Aparelhos para projeção holográfica;Armação de óculos;Binóculos;Bolsas adaptadas para laptops;C",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2913.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939472180"
+     },
+     {
+      "processo": "941316149",
+      "marca": "NIVORA",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "RELAXMEDIC IMPORTAÇÃO EXPORTAÇÃO LTDA (BR/SP)",
+      "deposito": "19/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "09: Aparelhos eletrônicos de bioimpedância para análise corporal;\nDispositivos portáteis para monitoramento de composição corporal;\nEquipamentos digitais para coleta e transmissão de dados de bioimpedância;\nSoftwares para processamento de dados de bioimpedância;\nAplicativos móveis voltados exclusiva",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2859.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941316149"
+     },
+     {
+      "processo": "941322122",
+      "marca": "NIVORA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "RELAXMEDIC IMPORTAÇÃO EXPORTAÇÃO LTDA (BR/SP)",
+      "deposito": "19/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Serviços de varejo especializados na comercialização de balanças e aparelhos de bioimpedância;\nServiços de atacado de equipamentos e acessórios de bioimpedância;\nComércio eletrônico de aparelhos, sensores e softwares de bioimpedância;\nRepresentação comercial de dispositivos de bioimpedância e se",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2859.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941322122"
+     },
+     {
+      "processo": "940190540",
+      "marca": "NIVORA",
+      "apresentacao": "Mista",
+      "classes": "25",
+      "titular": "NIVORA (BR/SP)",
+      "deposito": "25/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "25: Artigos de malha [vestuário];Baby-doll;Bermudas;Biquíni;Blazers [vestuário];Body [roupa íntima];Bolsos para roupas;Cachecóis;Calça para equitação;Calças compridas;Calcinhas;Camisas de manga curta;Camisas desportivas;Camisas*;Camisetas;Cintos [vestuário];Colarinhos [vestuário];Coletes [roupa ínti",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2905.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940190540"
+     },
+     {
+      "processo": "941319938",
+      "marca": "NIVORA",
+      "apresentacao": "Nominativa",
+      "classes": "10",
+      "titular": "RELAXMEDIC IMPORTAÇÃO EXPORTAÇÃO LTDA (BR/SP)",
+      "deposito": "19/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "10: Balanças corporais digitais;\nBalanças de bioimpedância;\nAparelhos domésticos e médicos de bioimpedância destinados à avaliação corporal;\nEquipamentos de bioimpedância para análise de massa magra, massa gorda e água corporal;\nSensores específicos para medições por bioimpedância;\nAcessórios destin",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2859.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941319938"
+     },
+     {
+      "processo": "938501208",
+      "marca": "NIVRA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "JESSYCA DIAS DE SOUZA CRUZ (BR/GO)",
+      "deposito": "26/03/2025",
+      "concessao": "06/10/2026",
+      "vigencia": "06/10/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de roupas; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938501208"
+     },
+     {
+      "processo": "939394103",
+      "marca": "Nivra Corpo & Propósito",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "FABIA DINIZ RIBEIRO (BR/ES)",
+      "deposito": "02/06/2025",
+      "concessao": "10/11/2026",
+      "vigencia": "10/11/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Administração comercial;Administração de empresa;Comércio [através de qualquer meio] de cosméticos;Comércio [através de qualquer meio] de desinfetantes;Comércio [através de qualquer meio] de loções para os cabelos;Comércio [através de qualquer meio] de material de limpeza;Comércio [através de qu",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2914.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939394103"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa relevante com o nome exato; apps diversos 'Nivora' (smart ring, underwriting, fitness). Próximos: Nivano, NiviN (gestão de funcionários), Nivimu.",
+    "nivel": "moderado",
+    "fontes": [
+     "https://apps.apple.com/es/app/nivin/id6476751639"
+    ]
+   },
+   "dominios": {
+    "nivora.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2024-09-11T22:47:38Z",
+     "nameservers": [
+      "ns53.domaincontrol.com",
+      "ns54.domaincontrol.com"
+     ]
+    },
+    "nivora.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-09-12T23:56:41Z",
+     "nameservers": [
+      "a.auto.dns.br",
+      "b.auto.dns.br"
+     ]
+    },
+    "nivora.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2010-06-05T18:12:01Z",
+     "nameservers": [
+      "NS1.POWER-DNS.COM",
+      "NS2.POWER-DNS.COM",
+      "NS3.POWER-DNS.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "NIVORA - Smart Ring — Nevo Iflach",
+    "Nivora Flow — Reading Session",
+    "Nivora Underwriting — Nivora UW",
+    "Nivora: Epic Snow Experiences — Federico Zivolo",
+    "NivoraFit - Workout Tracker — Chai Shai Dating LLC",
+    "PrimeNivora — Berke Kalkar"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 7,
+    "aparencia_software": 7,
+    "expansao": 8,
+    "disponibilidade_digital": 0,
+    "justificativa": "Ni-VO-ra é sonoro e sem significado em português — bom para registro; memorização média."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (NIVORA - Smart Ring, Nivora Flow, Nivora Underwriting) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Movent": {
+   "nome": "Movent",
+   "classificacao": "Risco elevado",
+   "motivo": "'MOUVENT' (Bobst, Suíça) concedida nas classes 9 e 35; 'MOVENTE' (CRESCERA ECOSYSTEM) em pedido na 42; 'Movento' concedida nas classes 9/35; pronúncia pouco natural em português.",
+   "inpi": {
+    "semelhantes_encontrados": 3239,
+    "ativos_relevantes": 61,
+    "por_nivel": {
+     "crítico": 17,
+     "alto": 3,
+     "moderado": 10,
+     "baixo": 31
+    },
+    "conflitos_principais": [
+     {
+      "processo": "916140873",
+      "marca": "MOVENT",
+      "apresentacao": "Nominativa",
+      "classes": "40",
+      "titular": "MOVENT AUTOMOTIVE INDÚSTRIA E COMÉRCIO DE AUTOPEÇAS LTDA (BR/RS)",
+      "deposito": "24/10/2018",
+      "concessao": "16/07/2019",
+      "vigencia": "16/07/2029",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "40: Usinagem [operação mecânica pela qual se dá forma à matéria-prima], transformação, beneficiamento e tratamento;",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2532.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 916140873"
+     },
+     {
+      "processo": "925041475",
+      "marca": "MOVENT AUTOMOTIVE",
+      "apresentacao": "Mista",
+      "classes": "40",
+      "titular": "MOVENT AUTOMOTIVE INDÚSTRIA E COMÉRCIO DE AUTOPEÇAS LTDA (BR/SP)",
+      "deposito": "26/11/2021",
+      "concessao": "14/03/2023",
+      "vigencia": "14/03/2033",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "40: Assessoria, consultoria e informação em tratamento de materiais;Ferramentaria [transformação, tratamento ou beneficiamento];Usinagem metalúrgica; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2723.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 925041475"
+     },
+     {
+      "processo": "906302145",
+      "marca": "MovMent design estratégico no varejo",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "LMR COMUNICAÇÃO VISUAL LTDA (BR/SP)",
+      "deposito": "28/05/2013",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "42: Concepção de protótipo [elaboração de projeto]; Criação e projeto de planta para construção; Engenharia de produção [projeto de -]; Engenharia industrial [projeto de -]; Projeto de arquitetura; Projeto industrial; Serviços de ilustrações gráficas, técnicas e simulações gráficas de projeto; Servi",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2247.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 906302145"
+     },
+     {
+      "processo": "912917415",
+      "marca": "Mouvent",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "Bobst Mex SA (CH/)",
+      "deposito": "22/06/2017",
+      "concessao": "16/10/2018",
+      "vigencia": "16/10/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "09: Impressoras; dispositivos de controle para máquinas de impressão, máquinas embaladoras e máquinas de revestimento; fontes de impressão descarregáveis; aparelhos de laboratório; software para máquinas de impressão, máquinas embaladoras, máquinas de revestimento e impressoras; dispositivos eletrôn",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2493.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 912917415"
+     },
+     {
+      "processo": "912917687",
+      "marca": "Mouvent",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "Bobst Mex SA (CH/)",
+      "deposito": "22/06/2017",
+      "concessao": "16/10/2018",
+      "vigencia": "16/10/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Serviços varejistas, também on-line, relacionados a máquinas de impressão, máquinas embaladoras, máquinas de revestimento, periféricos e acessórios para as máquinas supracitadas, impressoras, dispositivos de controle para máquinas de impressão, máquinas embaladoras e máquinas de revestimento, fo",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2493.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 912917687"
+     },
+     {
+      "processo": "913015636",
+      "marca": "MOUVENT",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "Bobst Mex SA (CH/)",
+      "deposito": "11/07/2017",
+      "concessao": "21/11/2018",
+      "vigencia": "21/11/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "09: Impressoras; dispositivos de controle para máquinas de impressão, máquinas embaladoras e máquinas de revestimento; aparelhos de laboratório; software para máquinas de impressão, máquinas embaladoras, máquinas de revestimento e impressoras; dispositivos eletrônicos, aparelhos, instrumentos e soft",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2498.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 913015636"
+     },
+     {
+      "processo": "913015580",
+      "marca": "MOUVENT",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "Bobst Mex SA (CH/)",
+      "deposito": "11/07/2017",
+      "concessao": "21/11/2018",
+      "vigencia": "21/11/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Serviços varejistas, também on-line, relacionados a máquinas de impressão, máquinas embaladoras, máquinas de revestimento, periféricos e acessórios para as máquinas supracitadas, impressoras, dispositivos de controle para máquinas de impressão, máquinas embaladoras e máquinas de revestimento, fo",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2498.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 913015580"
+     },
+     {
+      "processo": "914763032",
+      "marca": "Movento",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "BRS PRODUTOS ESPORTIVOS LTDA - EPP (BR/SP)",
+      "deposito": "28/05/2018",
+      "concessao": "21/05/2019",
+      "vigencia": "21/05/2029",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Serviços de importação, administração de negócios na área esportiva, comércio através de qualquer meio de aparelhos de locomoção por terra, comércio através de qualquer meio de artigos do vestuário; comércio através de qualquer meio de artigos para prática de esportes; comércio através de qualqu",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2524.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 914763032"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa 'Movent' encontrada no Brasil; app 'Movent: TAF e Teste Físico' (BR) e 'Movent - Vienna'; próximos: Movere ERP, Movtech, Moove, Movve Rastreamento (gestão de veículos), uMov.me.",
+    "nivel": "moderado",
+    "fontes": [
+     "https://apps.apple.com/br/app/movere/id1619392151",
+     "https://apps.apple.com/br/app/id1471190124"
+    ]
+   },
+   "dominios": {
+    "movent.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2025-12-18T19:55:11Z",
+     "nameservers": [
+      "b.sec.dns.br",
+      "c.sec.dns.br"
+     ]
+    },
+    "movent.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-09-17T00:56:27Z",
+     "nameservers": [
+      "chan.ns.cloudflare.com",
+      "quentin.ns.cloudflare.com"
+     ]
+    },
+    "movent.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2002-07-14T17:57:50Z",
+     "nameservers": [
+      "BLUE.FOUNDATIONDNS.COM",
+      "BLUE.FOUNDATIONDNS.NET",
+      "BLUE.FOUNDATIONDNS.ORG"
+     ]
+    }
+   },
+   "app_store": [
+    "Movent - What to do in Vienna — Dzan Operta",
+    "Movent: TAF e Teste Físico — Wesley Huchit",
+    "Moventes Fit Experience EGYM — Moventes Fit Experience",
+    "Moventes Fit Experience — Moventes Fit Experience"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 6,
+    "escrita": 8,
+    "memorizacao": 7,
+    "distintividade": 5,
+    "aparencia_software": 7,
+    "expansao": 5,
+    "disponibilidade_digital": 0,
+    "justificativa": "O 't' final é estranho em português (mo-VEN-ti); 'movimento' remete a transporte."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado sem parecer jurídico",
+    "marca_nominativa": "Desaconselhado sem parecer jurídico",
+    "marca_mista": "Desaconselhado sem parecer jurídico",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Movent - What to do in Vienna, Movent: TAF e Teste Físico, Moventes Fit Experience) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Limitada (remete a rota/via/movimento)"
+   }
+  },
+  "Tavora": {
+   "nome": "Tavora",
+   "classificacao": "Risco moderado",
+   "motivo": "Sobrenome comum: 15 marcas ativas com 'Távora' (classes 35, 36, 41 etc.), nenhuma nas classes 9/42; baixa distintividade por ser patronímico; tavora.com à venda (Afternic).",
+   "inpi": {
+    "semelhantes_encontrados": 224,
+    "ativos_relevantes": 16,
+    "por_nivel": {
+     "crítico": 5,
+     "alto": 0,
+     "moderado": 3,
+     "baixo": 8
+    },
+    "conflitos_principais": [
+     {
+      "processo": "916581551",
+      "marca": "marcelo távora",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "MARCELO ARAUJO TAVORA CORREA (BR/MG)",
+      "deposito": "17/01/2019",
+      "concessao": "03/09/2019",
+      "vigencia": "03/09/2029",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Estudos de marketing - [Informação em]; Estudos de marketing - [Consultoria em]; Estudos de marketing - [Assessoria em]; Estudos de marketing; Marketing - [Informação em]; Marketing - [Consultoria em]; Marketing - [Assessoria em]; Marketing; Pesquisa de marketing - [Informação em]; Pesquisa de m",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2539.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 916581551"
+     },
+     {
+      "processo": "941251764",
+      "marca": "TÁVORA ADMINISTRADORA DE BENS",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "TAJ GESTAO DE PROPRIEDADES E BENS LTDA (BR/SP)",
+      "deposito": "19/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Administração comercial para terceiros;Administração de empresa para terceiros;Administração de holding;Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria, consultoria e informação em negócios relativos à relocalização para empresas;Assessori",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2858.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941251764"
+     },
+     {
+      "processo": "942611632",
+      "marca": "Silveira Távora Agropecuária",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "LEANDRO AMORAS DA SILVEIRA TAVORA (BR/AP)",
+      "deposito": "03/02/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Comércio [através de qualquer meio] de animais vivos; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2876.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942611632"
+     },
+     {
+      "processo": "942715810",
+      "marca": "La Tavora",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "PORCELANA DA CASA LTDA (BR/PR)",
+      "deposito": "12/02/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Comércio [através de qualquer meio] de aparelhos de cozimento;Comércio [através de qualquer meio] de artigos de cama, mesa e banho;Comércio [através de qualquer meio] de artigos de louça de faiança;Comércio [através de qualquer meio] de baixelas em metal;Comércio [através de qualquer meio] de ba",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2880.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942715810"
+     },
+     {
+      "processo": "942612175",
+      "marca": "Silveira Távora Agropecuária",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "LEANDRO AMORAS DA SILVEIRA TAVORA (BR/AP)",
+      "deposito": "03/02/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "35: Comércio [através de qualquer meio] de animais vivos; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2880.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942612175"
+     },
+     {
+      "processo": "929044029",
+      "marca": "ORDEM KARATÊASHI-DO TÁVORA GUERREIROS",
+      "apresentacao": "Mista",
+      "classes": "41",
+      "titular": "OSVALDO ROMAN (BR/SP) | ALEXANDRE ABEL VIEIRA (BR/SP)",
+      "deposito": "27/12/2022",
+      "concessao": "14/05/2024",
+      "vigencia": "14/05/2034",
+      "situacao": "concedido",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "41: Serviços de educação;Academia de Artes marciais; Academia de Karatê; Ensino de Karatê; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2784.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 929044029"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhum software 'Tavora'; Talavora (escalas e folha, Espanha) no GetApp; Tavago (agendamento em salões, Brasil); 'Távora' é sobrenome comum em português; tavora.com à venda (Afternic).",
+    "nivel": "moderado",
+    "fontes": [
+     "https://www.getapp.com/all-software/a/talavora/",
+     "https://apps.apple.com/am/app/tavago/id1570845215"
+    ]
+   },
+   "dominios": {
+    "tavora.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2003-08-22T00:06:11Z",
+     "nameservers": [
+      "e.sec.dns.br",
+      "f.sec.dns.br"
+     ]
+    },
+    "tavora.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "tavora.com": {
+     "situacao": "Registrado sem uso aparente (estacionado/à venda)",
+     "registro": "2005-05-16T18:32:52Z",
+     "nameservers": [
+      "NS1.AFTERNIC.COM",
+      "NS2.AFTERNIC.COM",
+      "NS3.AFTERNIC.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Tavora — KWAYU MMARI"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 5,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "Lida como 'Távora', sobrenome comum em português/brasileiro — reduz distintividade."
+   },
+   "usos": {
+    "nome_principal": "Possível com ressalvas",
+    "marca_nominativa": "Possível com ressalvas",
+    "marca_mista": "Possível com ressalvas",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Tavora) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Elora": {
+   "nome": "Elora",
+   "classificacao": "Conflito relevante",
+   "motivo": "ELORA concedida na classe 42 (LDC DESIGN PARA NEGÓCIOS) e pedidos 'Elora' nas classes 42 (BEOS IA SYSTEMS) e 9/42 (outro titular); dezenas de marcas 'Elora' na 35; Elorus/Eloria no mercado de software.",
+   "inpi": {
+    "semelhantes_encontrados": 583,
+    "ativos_relevantes": 281,
+    "por_nivel": {
+     "crítico": 50,
+     "alto": 29,
+     "moderado": 30,
+     "baixo": 172
+    },
+    "conflitos_principais": [
+     {
+      "processo": "928181685",
+      "marca": "ELORA",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "LDC DESIGN PARA NEGOCIOS LTDA ME (BR/PR)",
+      "deposito": "28/09/2022",
+      "concessao": "06/02/2024",
+      "vigencia": "06/02/2034",
+      "situacao": "concedido",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "42: Assessoria, consultoria e informações sobre artes gráficas;Composição gráfica [criação em arte gráfica];Computação gráfica [serviços de informática];Desenho de arte gráfica, inclusive para homepage;Design gráfico de material promocional;Serviços de criação em artes gráficas;Serviços de ilustraçõ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2785.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 928181685"
+     },
+     {
+      "processo": "941147436",
+      "marca": "Helora Velas e Aromas",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "NAYARA CRISTINA BATISTA DOS PASSOS (BR/MG)",
+      "deposito": "17/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de velas;Comércio [através de qualquer meio] de velas e pavios para iluminação;Demonstração de produtos [demo];Comércio (através de qualquer meio) de aromatizadores de ambiente com varetas\n[difusores de aroma],\nComércio (através de qualquer meio) de aromáticos",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2857.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 941147436"
+     },
+     {
+      "processo": "942567005",
+      "marca": "Elora",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "BEOS IA SYSTEMS LTDA (BR/MG)",
+      "deposito": "29/01/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "42: Armazenamento eletrônico de dados;Consultoria em inteligência artificial;Consultoria em software de computador;Desenvolvimento de software no âmbito de publicação de software;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Inteligência artifici",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2876.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942567005"
+     },
+     {
+      "processo": "942783646",
+      "marca": "ELORÁ",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "64.840.983 KAYLANNE DUARTE NOBRE (BR/SP)",
+      "deposito": "20/02/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "35: Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de roupas; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2879.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942783646"
+     },
+     {
+      "processo": "943501024",
+      "marca": "H HÉLLORA PRATA 925 & SEMIJOIAS",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "AMANDA PAVANELLI BERTOLINI (BR/MG)",
+      "deposito": "24/04/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio [através de qualquer meio] de artigos de joalheria;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de produtos confeccionados de metais preciosos ou folheados; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2891.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943501024"
+     },
+     {
+      "processo": "943997968",
+      "marca": "Elora",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "FERNANDO BERTOL SCUSSEL (BR/RS)",
+      "deposito": "05/06/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "42: Provimento de uso temporário de software on-line não baixável para encontros sociais e relacionamentos; plataforma (PaaS) para conexão e compatibilidade entre pessoas para fins de relacionamento.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2898.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943997968"
+     },
+     {
+      "processo": "910736685",
+      "marca": "NELORAÇO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CARLOS ALBERTO NANTES PEREIRA. (BR/MS)",
+      "deposito": "09/03/2016",
+      "concessao": "03/04/2018",
+      "vigencia": "03/04/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Leilões - [Informação em]; Leilões - [Consultoria em]; Leilões - [Assessoria em]; Leilões; Promoção de vendas [para terceiros] - [Informação em]; Promoção de vendas [para terceiros] - [Consultoria em]; Promoção de vendas [para terceiros] - [Assessoria em]; Promoção de vendas [para terceiros]; As",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2465.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 910736685"
+     },
+     {
+      "processo": "912874287",
+      "marca": "FQM MELORA CONSCIÊNCIA PELA PELE",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "FARMOQUÍMICA S.A (BR/RJ)",
+      "deposito": "13/06/2017",
+      "concessao": "30/10/2018",
+      "vigencia": "30/10/2028",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "42: Serviços (incluídos nesta classe) relacionados com a industrialização de produtos químicos, farmacêuticos, drogas, alimentícios, dietéticos, limpeza, desinfetantes, higiene, perfumes e cosméticos.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2495.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 912874287"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhum software 'Elora' exato; muito próximo de Elorus (software grego de gestão empresarial e faturamento, desde 2014) e Eloria (administração de condomínios com IA); muitos apps 'Elora' (salões, bem-estar, eventos); Elora é também uma cidade do Canadá.",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.getapp.com/all-software/a/elorus/",
+     "https://www.comparasoftware.com/eloria"
+    ]
+   },
+   "dominios": {
+    "elora.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2019-11-07T15:57:20Z",
+     "nameservers": [
+      "frank.ns.cloudflare.com",
+      "vivienne.ns.cloudflare.com"
+     ]
+    },
+    "elora.app.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-05-27T18:40:27Z",
+     "nameservers": [
+      "damian.ns.cloudflare.com",
+      "marjory.ns.cloudflare.com"
+     ]
+    },
+    "elora.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "1998-09-05T04:00:00Z",
+     "nameservers": [
+      "DNS200.ANYCAST.ME",
+      "NS200.ANYCAST.ME"
+     ]
+    }
+   },
+   "app_store": [
+    "Elora - Jardin d'objectifs — antony szatmari",
+    "Elora Events — Joshua Gonzales",
+    "Elora Road Church — Elora Road Christian Fellowship Inc",
+    "Elora Salon — AWAMER ALSHABAKA",
+    "Elora Scent — Nawaf Alkarbi",
+    "Elora Wellness — Nana Pirtskhalava-Karpova",
+    "Elora beauty — AWAMER ALSHABAKA",
+    "Elora — Ahmed Salah",
+    "Elora: Daily Energy Guide — Timevult, LLC",
+    "Elora: Guided Journal & Diary — Samuel McCarthy",
+    "Elora: Match, Chat & Book — Elora Software LLC",
+    "Elóra HR — D&D Partners S.r.l.",
+    "Speak English with Elora AI — 2709982 Ontario Inc.",
+    "The Yoga Club Elora — Erin Charnley"
+   ],
+   "qualidade": {
+    "sonoridade": 9,
+    "pronuncia": 9,
+    "escrita": 9,
+    "memorizacao": 8,
+    "distintividade": 4,
+    "aparencia_software": 6,
+    "expansao": 8,
+    "disponibilidade_digital": 0,
+    "justificativa": "A mais bonita sonoramente, mas é nome próprio e cidade; dezenas de usos (Elorus, Eloria, apps)."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Elora, Elora - Jardin d'objectifs, Elora Events) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Veyra": {
+   "nome": "Veyra",
+   "classificacao": "Conflito relevante",
+   "motivo": "Pedidos idênticos 'VEYRA' na classe 42 e 'Veyra' na classe 9 (2025–2026) e 'Veyra Salonsoftware' (CRM para salões) no mercado; confusão com o sobrenome 'Vieira'.",
+   "inpi": {
+    "semelhantes_encontrados": 2994,
+    "ativos_relevantes": 755,
+    "por_nivel": {
+     "crítico": 2,
+     "alto": 168,
+     "moderado": 219,
+     "baixo": 366
+    },
+    "conflitos_principais": [
+     {
+      "processo": "940646307",
+      "marca": "Veyra",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "MARCEL ESPOSITO - ME (BR/SP)",
+      "deposito": "18/08/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "09: Agendas eletrônicas;Alarmes *;Alças para telefones celulares;Amplificadores;Aparelho e unidade de controle eletrônico para processamento, avaliação e medição de sinal gerado por sensor;Aparelho totalizador;Aparelhos de transmissão [telecomunicação];Aparelhos para balanceamento;Aparelhos para ens",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940646307"
+     },
+     {
+      "processo": "944206417",
+      "marca": "VEYRA",
+      "apresentacao": "Nominativa",
+      "classes": "42",
+      "titular": "SAMUEL LAGO DE PINHO (BR/PR)",
+      "deposito": "24/06/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "42: Análise e processamento de dados [serviço de informática];Armazenamento eletrônico de dados;Atualização de software de computador;Desenvolvimento de plataformas de computador;Elaboração [concepção] de software de computador;Inteligência artificial como serviço [AIaaS];Manutenção de software de c",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2903.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944206417"
+     },
+     {
+      "processo": "940900980",
+      "marca": "K - VEIRA CONCURSOS",
+      "apresentacao": "Mista",
+      "classes": "41",
+      "titular": "ROBSON ANTAS MEDEIROS (BR/SP)",
+      "deposito": "03/09/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — semelhante (100%)",
+      "especificacao": "41: Cursos livres [ensino]; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2855.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940900980"
+     },
+     {
+      "processo": "943301068",
+      "marca": "Veyra Helios",
+      "apresentacao": "Nominativa",
+      "classes": "03",
+      "titular": "ZHIWEI XIONG (CN/)",
+      "deposito": "07/04/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "03: Batons para os lábios;Brilho para os lábios;Cosméticos;Cremes cosméticos;Cremes para clarear a pele;Decalques decorativos para uso cosmético;Desodorante antiperspirante [desodorante antitranspirante];Desodorantes [perfumaria];Desodorizante para animais de estimação;Enxaguantes bucais, exceto par",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2887.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943301068"
+     },
+     {
+      "processo": "944955444",
+      "marca": "VEYRA LAB",
+      "apresentacao": "Mista",
+      "classes": "03",
+      "titular": "MAX NUTRIÇÃO E SUPLEMENTO LTDA (BR/SP)",
+      "deposito": "25/08/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "99 — palavra idêntica",
+      "especificacao": "03: Água micelar;Brilho para os lábios;Brilho para unhas [glitter];Cosméticos;Cosméticos para crianças;Cremes cosméticos;Hidratantes para a pele para fins cosméticos;Produto para limpeza e hidratação da pele não medicamentoso;Produtos para maquiagem;Sabonetes;Xampus*; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 944955444"
+     },
+     {
+      "processo": "926835963",
+      "marca": "Vieira Verde Produtos Naturais",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "VIEIRA VERDE COMERCIO DE PRODUTOS NATURAIS LTDA (BR/BA)",
+      "deposito": "01/06/2022",
+      "concessao": "08/08/2023",
+      "vigencia": "08/08/2033",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de cosméticos;Comércio (através de qualquer meio) de preparações farmacêuticas;Comércio [através de qualquer meio] de óleos vegetais alimentícios;Comércio [através de qualquer meio] de plantas e flores naturais;Comércio [através de qualquer meio] de produtos a",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2892.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 926835963"
+     },
+     {
+      "processo": "938619411",
+      "marca": "JV JONAS VIEIRA MARKETING E VENDAS",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "JONAS MENDES VIEIRA (BR/CE) | JONAS MENDES VIEIRA (BR/CE)",
+      "deposito": "03/04/2025",
+      "concessao": "06/10/2026",
+      "vigencia": "06/10/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros;Assessoria, consultoria e informação em marketing;Assessoria, consultoria e informação em promoção de vendas;Assessoria, consultoria e informação em publicidade e propaganda através de qualquer meio;Ass",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938619411"
+     },
+     {
+      "processo": "943960576",
+      "marca": "VELYRA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "MULTIPHARMA - FARMACIA DE MANIPULACAO LTDA (BR/SP)",
+      "deposito": "02/06/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de alimentos para animais;Comércio [através de qualquer meio] de aparelhos e instrumentos veterinários;Comércio [através de qualquer meio] de óleos essenciais;Comércio [através de qualquer meio] de preparações de higiene pessoal não medicamentosas;Comércio [at",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2898.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943960576"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Veyra Salonsoftware: software de gestão e CRM para salões, listado no Capterra (nuvem). Vários apps 'Veyra' (beleza, mídia, autenticação, IA de moda). veyra.com.br registrado em 18/11/2026.",
+    "nivel": "alto",
+    "fontes": [
+     "https://www.capterra.in/software/1327710/Veyra-Salonsoftware"
+    ]
+   },
+   "dominios": {
+    "veyra.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2026-11-18T18:04:09Z",
+     "nameservers": [
+      "a.auto.dns.br",
+      "b.auto.dns.br"
+     ]
+    },
+    "veyra.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "veyra.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2004-09-06T05:10:51Z",
+     "nameservers": [
+      "NS45.DOMAINCONTROL.COM",
+      "NS46.DOMAINCONTROL.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "AeroVeyra — Jackson Walter",
+    "Veyra - AI Kombin Planlayıcı — ARIF HIKMET DEMIRCI",
+    "Veyra - AI Outfit Planner — ARIF HIKMET DEMIRCI",
+    "Veyra - glasses — Chongqing Jianghonglang Network Technology Co., Ltd.",
+    "Veyra Auth — 2G Solution LLC",
+    "Veyra Beauty — Black Balloon LLC",
+    "Veyra Live — antonino salamone",
+    "Veyra Media — Murat Solmaz",
+    "Veyra Pilot Intelligence — Sebastian Gonzalez",
+    "Veyra Sol — Minata Entertainment, LLC",
+    "Veyra VPN: WiFi Privacy — MY FREE VPN CO., LIMITED",
+    "Veyra widgets — Future Care",
+    "Veyra – Travel Memories — Nenad Sparavalo",
+    "Veyra — Veyra ALSQ Inc.",
+    "Veyra: AI Tattoo Design — BURAK YILMAZ",
+    "Veyra: Bike Computer — Ilker Derya",
+    "Veyra: Computador de bicicleta — Ilker Derya",
+    "Veyra: Grovefall — Igney ApS",
+    "Veyra: Sky Odyssey — Yurii Rudenko",
+    "Veyra: Video Subtitles — Z FOLD LTD",
+    "VeyraTone: Uyku ve Odak — Erkan Ozturk"
+   ],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 6,
+    "escrita": 5,
+    "memorizacao": 6,
+    "distintividade": 5,
+    "aparencia_software": 7,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "O 'y' gera dúvida (Veira? Veyra?) e soa como 'Vieira' — sobrenome comum."
+   },
+   "usos": {
+    "nome_principal": "Desaconselhado",
+    "marca_nominativa": "Desaconselhado",
+    "marca_mista": "Desaconselhado",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (AeroVeyra, Veyra, Veyra - AI Kombin Planlayıcı) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Não investir antes de resolver o risco jurídico",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Solven": {
+   "nome": "Solven",
+   "classificacao": "Risco moderado",
+   "motivo": "'SOLVEN' (palavra idêntica) em pedido na classe 01 (química — SOLVEN SOLVENTES E QUÍMICOS, solven.com.br desde 1999); SOLVENTUM concedida em várias classes incl. 9/42; evocativo de 'solvente/solve'.",
+   "inpi": {
+    "semelhantes_encontrados": 691,
+    "ativos_relevantes": 134,
+    "por_nivel": {
+     "crítico": 9,
+     "alto": 30,
+     "moderado": 31,
+     "baixo": 64
+    },
+    "conflitos_principais": [
+     {
+      "processo": "940602628",
+      "marca": "SOLVEN",
+      "apresentacao": "Mista",
+      "classes": "01",
+      "titular": "SOLVEN SOLVENTES E QUÍMICOS LTDA (BR/SP)",
+      "deposito": "14/08/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "100 — idêntico",
+      "especificacao": "01: Adjuvantes, exceto para fins médicos ou veterinários;Desengraxante [uso industrial];Preparações biológicas, exceto para uso médico ou veterinário;Produtos químicos, exceto pigmentos, para fabricação de esmaltes;Solventes/ diluentes destinados à indústria;Substância química para desengraxar de us",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2868.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940602628"
+     },
+     {
+      "processo": "825824842",
+      "marca": "SOLVENTEX",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "SOLVENTEX INDÚSTRIA QUÍMICA LTDA. (BR/SP)",
+      "deposito": "24/09/2003",
+      "concessao": "03/07/2007",
+      "vigencia": "03/07/2037",
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: COMÉRCIO EM GERAL DE: TINTAS, TINTAS DE ALUMÍNIO, TINTAS PARA CERÂMICA, AGLUTINANTES PARA TINTAS, VERNIZ DE ASFALTO, TINTA PARA COUROS, ESMALTE E ESMALTE PARA TINTAS, ESMALTE SINTÉTICO, FIXADORES, TINTURAS E PRODUTOS PARA CONSERVAÇÃO DE MADEIRAS, PRESERVATIVOS CONTRA FERRUGEM, PRODUTOS CONTRA CO",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2904.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 825824842"
+     },
+     {
+      "processo": "920180183",
+      "marca": "BARÃO TINTAS E SOLVENTES",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "BARÃO INDUSTRIA DE TINTAS LTDA (BR/RS)",
+      "deposito": "17/07/2020",
+      "concessao": "06/04/2021",
+      "vigencia": "06/04/2031",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Comércio (através de qualquer meio) de tintas, revestimentos,mordentes [fixador para tintas]; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2622.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 920180183"
+     },
+     {
+      "processo": "932182569",
+      "marca": "SOLVMINAS TINTAS E SOLVENTES",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "SOLVMINAS TINTAS E SOLVENTES LTDA (BR/MG)",
+      "deposito": "06/10/2023",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Comércio de tintas; Comércio de tintas automotivas; Comércio de vernizes; Comércio de materiais para pintura; Comércio de solventes para tintas; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2770.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 932182569"
+     },
+     {
+      "processo": "934453748",
+      "marca": "SOLVENTEX",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "SOLVENTEX INDÚSTRIA QUÍMICA LTDA. (BR/SP)",
+      "deposito": "02/05/2024",
+      "concessao": "03/02/2026",
+      "vigencia": "03/02/2036",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Administração comercial;Administração de empresa;Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio [através de qualquer meio] de matérias tintoriais;Comércio [através de qualquer meio] de substâncias químicas destinadas à indústria;Comércio [através de qua",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2874.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 934453748"
+     },
+     {
+      "processo": "501768980",
+      "marca": "SOLVENTUM",
+      "apresentacao": "Nominativa",
+      "classes": "44,41,10,35,11,05,09,42,03",
+      "titular": "Solventum Intellectual  Properties Company (US/)",
+      "deposito": "18/08/2023",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "44: Therapeutic wound care services; monitoring and remote monitoring of individuals or groups for medical treatment; medical, orthodontic and dental consultation services; medical consulting services in the fields of disease infection control, intravenous line care and maintenance, and skin protect",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2831.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 501768980"
+     },
+     {
+      "processo": "936674849",
+      "marca": "ResolVendo",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ELITE COMPANY LTDA (BR/ES)",
+      "deposito": "17/10/2024",
+      "concessao": "18/08/2026",
+      "vigencia": "18/08/2036",
+      "situacao": "concedido",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "35: Administração comercial;Anúncio;Apresentação de produtos em meios de comunicação para fins de comércio varejista;Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço d",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 936674849"
+     },
+     {
+      "processo": "938195239",
+      "marca": "SOLVENS",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "FABRÍCIO BOLZAN DE ALMEIDA (BR/SP)",
+      "deposito": "27/02/2025",
+      "concessao": "22/09/2026",
+      "vigencia": "22/09/2036",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "09: Software e aplicativo para cálculos.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2907.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938195239"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Solven Solventes e Químicos (setor químico, solven.com.br desde 1999); próximos em software: Solen Software Group, Solvi (software para clínicas), Solv Systems; app 'Solven-V'.",
+    "nivel": "moderado",
+    "fontes": [
+     "https://www.zoominfo.com/c/solven/430534609"
+    ]
+   },
+   "dominios": {
+    "solven.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "1999-02-05T20:29:12Z",
+     "nameservers": [
+      "ns1.configr.com",
+      "ns2.configr.com"
+     ]
+    },
+    "solven.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "solven.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2002-04-17T18:27:17Z",
+     "nameservers": [
+      "NS72.HOSTGATOR.MX",
+      "NS73.HOSTGATOR.MX"
+     ]
+    }
+   },
+   "app_store": [
+    "Solven — Ihar Kharavets",
+    "Solven-V — Solven"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 7,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 4,
+    "aparencia_software": 7,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "Evoca 'solve/solvente' — nome de química no Brasil; distintividade baixa."
+   },
+   "usos": {
+    "nome_principal": "Possível com ressalvas",
+    "marca_nominativa": "Possível com ressalvas",
+    "marca_mista": "Possível com ressalvas",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Solven, Solven-V) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Averto": {
+   "nome": "Averto",
+   "classificacao": "Candidato promissor",
+   "motivo": "Nenhuma marca ativa 'Averto' no INPI; semelhantes distantes (AVERT/AVETO na 35, CHROMAVERTO 9/42 — designação estrangeira); usos internacionais sem atuação no Brasil (averto.io — app de segurança; Averto Ltd — suporte de TI, Escócia).",
+   "inpi": {
+    "semelhantes_encontrados": 184,
+    "ativos_relevantes": 30,
+    "por_nivel": {
+     "crítico": 1,
+     "alto": 11,
+     "moderado": 5,
+     "baixo": 13
+    },
+    "conflitos_principais": [
+     {
+      "processo": "501894890",
+      "marca": "CHROMAVERTO",
+      "apresentacao": "Nominativa",
+      "classes": "09,42,36",
+      "titular": "LUZ MARÍA SANCHO RODRÍGUEZ (ES/)",
+      "deposito": "19/11/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "92 — contém o nome",
+      "especificacao": "09: Software for the secure exchange of fiat currency for cryptocurrencies; software for the secure exchange of physical assets for digital assets; downloadable software for managing cryptocurrency transactions; software for the verification of monetary transactions; software for the verification of",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2915.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 501894890"
+     },
+     {
+      "processo": "902141848",
+      "marca": "AVERT FARMA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "BIOLAB SANUS FARMACÊUTICA LTDA. (BR/SP)",
+      "deposito": "24/11/2009",
+      "concessao": "18/09/2012",
+      "vigencia": "18/09/2032",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de produtos alimentícios;Comércio (através de qualquer meio) de alimentos para animais;Comércio (através de qualquer meio) de preparações farmacêuticas;Comércio (através de qualquer meio) de substâncias dietéticas para uso medicinal;Comércio (através de qualqu",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2700.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 902141848"
+     },
+     {
+      "processo": "901935247",
+      "marca": "AVERT",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "BIOLAB SANUS FARMACÊUTICA LTDA. (BR/SP)",
+      "deposito": "08/09/2009",
+      "concessao": "31/07/2012",
+      "vigencia": "31/07/2032",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE PREPARAÇÕES HIGIÊNICAS PARA USO MEDICINAL;COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE SUBSTÂNCIAS DIETÉTICAS PARA USO MEDICINAL;COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE ALIMENTOS PARA ANIMAIS;COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE PREPARAÇÕES VETERINÁRIAS;COMÉRCIO",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2690.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 901935247"
+     },
+     {
+      "processo": "923773851",
+      "marca": "AVETO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "AVETO (BR/ES)",
+      "deposito": "29/07/2021",
+      "concessao": "20/09/2022",
+      "vigencia": "20/09/2032",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos de joalheria; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2698.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 923773851"
+     },
+     {
+      "processo": "830355758",
+      "marca": "AVERO",
+      "apresentacao": "Nominativa",
+      "classes": "09",
+      "titular": "CLAAS KGAA MBH (DE/)",
+      "deposito": "27/07/2009",
+      "concessao": "08/05/2012",
+      "vigencia": "08/05/2032",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: APARELHOS E INSTRUMENTOS CIENTÍFICOS, GEODÉSICOS, ELÉTRICOS, FOTOGRÁFICOS, CINEMATOGRÁFICOS, ÓPTICOS, DE PESAGEM, MEDIÇÃO, SINALIZAÇÃO E CONTROLE; APARELHOS ELETRÔNICOS; APARELHOS DE GRAVAÇÃO, TRANSMISSÃO E REPRODUÇÃO DE IMAGEM E SOM; PORTADORES DE DADOS MAGNÉTICOS, ÓPTICOS OU DE OUTROS TIPOS, A",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2672.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 830355758"
+     },
+     {
+      "processo": "930092473",
+      "marca": "aVero",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "KAIROS INFOPRODUTORA LTDA (BR/MT)",
+      "deposito": "13/04/2023",
+      "concessao": "26/11/2024",
+      "vigencia": "26/11/2034",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Agenciamento de mercadoria [intermediação];Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros;Assessoria, consultoria e informação em marketing;Assessoria, con",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2812.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 930092473"
+     },
+     {
+      "processo": "939158140",
+      "marca": "AVERT SHOP",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "MARIO SERGIO FERREIRA (BR/SP) | MARIO SERGIO FERREIRA (BR/SP)",
+      "deposito": "15/05/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de aparelhos de iluminação;Comércio [através de qualquer meio] de aparelhos e instrumentos cronométricos;Comércio [através de qualquer meio] de aparelhos e instrumentos de medição;Comércio [através de qualquer meio] de bobinas de papel;Comércio [através de qua",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2859.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 939158140"
+     },
+     {
+      "processo": "940233070",
+      "marca": "AVVERO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ESCRITÓRIO CONTÁBIL ZANDONA LTDA (BR/RS)",
+      "deposito": "29/07/2025",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Assessoria, consultoria e informação em contabilidade;Contabilidade; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2850.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 940233070"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa ou software com o nome exato; próximos: Averiware (ERP, EUA), Avero (hospitalidade), Averato; averto.com.br registrado em 2025 (SiteGround).",
+    "nivel": "baixo",
+    "fontes": [
+     "https://www.capterra.es/software/128910/averiware"
+    ]
+   },
+   "dominios": {
+    "averto.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2025-06-22T11:23:02Z",
+     "nameservers": [
+      "ns1.siteground.net",
+      "ns2.siteground.net"
+     ]
+    },
+    "averto.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "averto.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2000-03-14T17:58:05Z",
+     "nameservers": [
+      "NS03.DOMAINCONTROL.COM",
+      "NS04.DOMAINCONTROL.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Irena Averto — Benayahu Melamed"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 6,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "Em português soa como 'aberto' (b/v), o que é positivo mas pode ser confundido na fala."
+   },
+   "usos": {
+    "nome_principal": "Aparentemente viável (sujeito a busca formal)",
+    "marca_nominativa": "Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal",
+    "marca_mista": "Viável; reforça a distintividade, mas não substitui o nominativo",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Irena Averto) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Tavena": {
+   "nome": "Tavena",
+   "classificacao": "Candidato promissor",
+   "motivo": "Nenhuma marca ativa 'Tavena' no INPI; semelhantes apenas 'Taverna' (restaurantes, classe 35); .com.br e .app.br livres; uso internacional tavena.io (serviços para criadores), sem atuação conhecida no Brasil.",
+   "inpi": {
+    "semelhantes_encontrados": 204,
+    "ativos_relevantes": 79,
+    "por_nivel": {
+     "crítico": 10,
+     "alto": 1,
+     "moderado": 10,
+     "baixo": 58
+    },
+    "conflitos_principais": [
+     {
+      "processo": "945228520",
+      "marca": "Taven Essential",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "THAYANE LIMA REZENDE (BR/RJ)",
+      "deposito": "16/09/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de malas e bolsas de viagem;Comércio [através de qualquer meio] de mochilas;Comércio on-line, no varejo, de vestuário virtual baixável; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 945228520"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma ocorrência de 'Tavena' como empresa, software ou marca nos resultados.",
+    "nivel": "baixo",
+    "fontes": []
+   },
+   "dominios": {
+    "tavena.com.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "tavena.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "tavena.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2003-11-03T23:45:03Z",
+     "nameservers": [
+      "NS1.WORLDNIC.COM",
+      "NS2.WORLDNIC.COM"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 7,
+    "pronuncia": 9,
+    "escrita": 9,
+    "memorizacao": 6,
+    "distintividade": 7,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 8,
+    "justificativa": "Simples (ta-VE-na), sem significado direto; pode lembrar 'taverna' — avaliar percepção."
+   },
+   "usos": {
+    "nome_principal": "Aparentemente viável (sujeito a busca formal)",
+    "marca_nominativa": "Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal",
+    "marca_mista": "Viável; reforça a distintividade, mas não substitui o nominativo",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .com.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Oltara": {
+   "nome": "Oltara",
+   "classificacao": "Candidato promissor",
+   "motivo": "Nenhuma marca ativa 'Oltara' no INPI; única semelhante 'OLARA' (confecções, classe 35); .app.br livre (.com.br registrado em 2025); usos internacionais: Oltara (energia solar, Índia).",
+   "inpi": {
+    "semelhantes_encontrados": 98,
+    "ativos_relevantes": 10,
+    "por_nivel": {
+     "crítico": 0,
+     "alto": 1,
+     "moderado": 1,
+     "baixo": 8
+    },
+    "conflitos_principais": [
+     {
+      "processo": "923349553",
+      "marca": "OLARA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "KAJU CONFECÇÕES E COMÉRCIO LTDA (BR/SP)",
+      "deposito": "22/06/2021",
+      "concessao": "07/06/2022",
+      "vigencia": "07/06/2032",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: comércio através de qualquer meio de artigos de vestuário, artigos de decoração e mobiliários.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2683.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 923349553"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma ocorrência exata; próximos: Oktara (software house, Costa Rica), Oltre.app (ponto e acesso, Zucchetti).",
+    "nivel": "baixo",
+    "fontes": [
+     "https://www.krowdbase.com/service/oktara",
+     "https://apps.apple.com/pt/app/oltre-app/id1332682975"
+    ]
+   },
+   "dominios": {
+    "oltara.com.br": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2025-08-19T12:19:36Z",
+     "nameservers": [
+      "nikon.ns.cloudflare.com",
+      "novalee.ns.cloudflare.com"
+     ]
+    },
+    "oltara.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "oltara.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2023-12-30T23:38:12Z",
+     "nameservers": [
+      "NS1.BLUEHOST.COM",
+      "NS2.BLUEHOST.COM"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 5,
+    "distintividade": 7,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 3,
+    "justificativa": "Original, mas a sílaba 'Ol' e o final '-tara' soam menos naturais; memorização mais fraca."
+   },
+   "usos": {
+    "nome_principal": "Aparentemente viável (sujeito a busca formal)",
+    "marca_nominativa": "Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal",
+    "marca_mista": "Viável; reforça a distintividade, mas não substitui o nominativo",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .app.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Caliro": {
+   "nome": "Caliro",
+   "classificacao": "Candidato promissor",
+   "motivo": "Nenhuma marca ativa 'Caliro' no INPI; semelhantes distantes (Caleiro, Calibro na 35; KAIRO'S INFORMÁTICA 9/35); .com.br e .app.br livres; app 'Caliro AI' (FUTURAI) na App Store.",
+   "inpi": {
+    "semelhantes_encontrados": 3233,
+    "ativos_relevantes": 45,
+    "por_nivel": {
+     "crítico": 2,
+     "alto": 13,
+     "moderado": 12,
+     "baixo": 18
+    },
+    "conflitos_principais": [
+     {
+      "processo": "919885993",
+      "marca": "CALEIRO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "MARCOS FRANCISCO CALEIRO DOS SANTOS (BR/SP)",
+      "deposito": "11/06/2020",
+      "concessao": "23/03/2021",
+      "vigencia": "23/03/2031",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio (através de qualquer meio) de aparelhos e instrumentos médicos;Comércio (através de qualquer meio) de aparelhos e instrumentos náuticos;Comércio (através de qualquer meio) de artigos de cutelaria;Comércio (",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2620.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 919885993"
+     },
+     {
+      "processo": "920557252",
+      "marca": "CALIBRO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CALIBRO COMÉRCIO E FABRICAÇÃO DE JOIAS E SEMI JOIAS LTDA. (BR/SP)",
+      "deposito": "25/08/2020",
+      "concessao": "22/06/2021",
+      "vigencia": "22/06/2031",
+      "situacao": "concedido",
+      "semelhanca": "92 — semelhante (92%)",
+      "especificacao": "35: Comércio (através de qualquer meio) de artigos de joalheria;Comércio (através de qualquer meio) de bijuteria; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2633.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 920557252"
+     },
+     {
+      "processo": "825804965",
+      "marca": "KAIRO'S INFORMÁTICA",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "KAIRO INFORMÁTICA LTDA (BR/PR)",
+      "deposito": "11/08/2003",
+      "concessao": "07/04/2009",
+      "vigencia": "07/04/2029",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: COMPUTADORES, MEMÓRIAS PARA COMPUTADORES, PERIFÉRICOS DE COMPUTADOR, TECLADOS DE COMPUTADOR, COMPUTADORES PORTATEIS, MONITORES, MOUSE (INFORMÁTICA), PROGRAMAS DE COMPUTADOR, IMPRESSORAS PARA COMPUTADORES, PEÇAS ESPECIFICAS DE INFORMÁTICA [INCLUÍDOS NA CLASSE].; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2800.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 825804965"
+     },
+     {
+      "processo": "825804957",
+      "marca": "KAIRO'S INFORMÁTICA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "KAIRO INFORMÁTICA LTDA (BR/PR)",
+      "deposito": "11/08/2003",
+      "concessao": "07/04/2009",
+      "vigencia": "07/04/2029",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: COMERCIALIZAÇÃO DE MÁQUINAS E EQUIPAMENTOS E MATERIAIS DE INFORMÁTICA TAIS COMO: COMPUTADORES, MEMÓRIAS PARA COMPUTADORES, PERIFÉRICOS DE COMPUTADOR, TECLADOS DE COMPUTADOR, COMPUTADORES PORTATEIS, MONITORES, MOUSE (INFORMÁTICA), PROGRAMAS DE COMPUTADOR, IMPRESSORAS PARA COMPUTADORES.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2800.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 825804957"
+     },
+     {
+      "processo": "917313887",
+      "marca": "SOLANGE CÁLIO ARQUITETOS",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "S.C. ARQUITETURA E DESIGN (BR/SP)",
+      "deposito": "14/05/2019",
+      "concessao": "14/04/2020",
+      "vigencia": "14/04/2030",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "42: Consultoria em arquitetura - [informação em]; consultoria em arquitetura - [consultoria em]; consultoria em arquitetura - [assessoria em]; consultoria em arquitetura; assessoria, consultoria e informações sobre arquitetura - [informação em]; assessoria, consultoria e informações sobre arquitetur",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2571.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 917313887"
+     },
+     {
+      "processo": "829012885",
+      "marca": "CAIRO",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CAIROFRIO COMERCIO DE PEÇAS PARA REFRIGERAÇÃO LTDA (BR/SP)",
+      "deposito": "19/03/2007",
+      "concessao": "10/11/2009",
+      "vigencia": "10/11/2029",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: COMERCIO VAREJISTA DE PEÇAS PARA REFRIGERAÇÃO.; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2538.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 829012885"
+     },
+     {
+      "processo": "920624545",
+      "marca": "K KAIRO",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "OTICAS ITAPEVI LTDA (BR/ES)",
+      "deposito": "31/08/2020",
+      "concessao": "01/06/2021",
+      "vigencia": "01/06/2031",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: Armação de óculos;Cordões para óculos;Correntes para óculos;Estojos de óculos;Lentes de óculos;Óculos;Óculos 3D;Óculos antiofuscantes;Óculos de natação;Óculos de sol;Óculos inteligentes;Óculos para esportes; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2630.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 920624545"
+     },
+     {
+      "processo": "929554086",
+      "marca": "Cairo",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CAIRO INDUSTRIA DE MODA LTDA (BR/SP)",
+      "deposito": "24/02/2023",
+      "concessao": "22/04/2026",
+      "vigencia": "22/04/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio (através de qualquer meio) de artigos de cama, mesa e banho;Comércio (através de qualquer meio) de artigos de chapelaria;Comé",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2885.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 929554086"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma empresa 'Caliro'; app 'Caliro AI' (FUTURAI) na App Store; próximos: Calipso ERP, Calisof, Calima (gestão).",
+    "nivel": "baixo",
+    "fontes": [
+     "https://www.getapp.com/all-software/a/calipso-erp/"
+    ]
+   },
+   "dominios": {
+    "caliro.com.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "caliro.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "caliro.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2009-08-11T18:53:18Z",
+     "nameservers": [
+      "NS1.POWER-DNS.COM",
+      "NS2.POWER-DNS.COM",
+      "NS3.POWER-DNS.COM"
+     ]
+    }
+   },
+   "app_store": [
+    "Caliro AI — FUTURAI"
+   ],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 8,
+    "escrita": 8,
+    "memorizacao": 6,
+    "distintividade": 7,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 8,
+    "justificativa": "Ca-LI-ro é claro e neutro; pode lembrar 'calor'/'cálido'; memorização média."
+   },
+   "usos": {
+    "nome_principal": "Aparentemente viável (sujeito a busca formal)",
+    "marca_nominativa": "Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal",
+    "marca_mista": "Viável; reforça a distintividade, mas não substitui o nominativo",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; há apps homônimos (Caliro AI) — usar complemento ('Nome — Gestão')",
+    "dominio_saas": "Possível com .com.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  },
+  "Orrena": {
+   "nome": "Orrena",
+   "classificacao": "Risco moderado",
+   "motivo": "'ORENNA' (fonética idêntica) concedida na classe 35 (CONVERT IMPORTAÇÃO — comércio); família 'Ordena' (classe 9 concedida, 42 concedida) a avaliar; RR duplo dificulta a escrita.",
+   "inpi": {
+    "semelhantes_encontrados": 514,
+    "ativos_relevantes": 86,
+    "por_nivel": {
+     "crítico": 1,
+     "alto": 29,
+     "moderado": 21,
+     "baixo": 35
+    },
+    "conflitos_principais": [
+     {
+      "processo": "929890701",
+      "marca": "ORENNA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "CONVERT IMPORTAÇÃO COMÉRCIO E SERVIÇOS LTDA (BR/SP)",
+      "deposito": "27/03/2023",
+      "concessao": "01/10/2024",
+      "vigencia": "01/10/2034",
+      "situacao": "concedido",
+      "semelhanca": "96 — fonética idêntica (junto)",
+      "especificacao": "35: Comércio, varejista (através de qualquer meio) de utilidades domésticas, eletrônicos em geral, artigos médicos e ortopédicos, cosméticos, produtos de perfumaria e de higiene pessoal, instrumentos musicais e acessórios, equipamentos de telefonia e comunicação, artigos do vestuário e acessórios, e",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2804.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 929890701"
+     },
+     {
+      "processo": "910861471",
+      "marca": "ordena",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "Inovasul desenvolvimento de programas LTDA (BR/PR)",
+      "deposito": "05/04/2016",
+      "concessao": "27/03/2018",
+      "vigencia": "27/03/2028",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: Programas de computador [para download]; Programas de computador, gravados; Programas de computador, gravados [programas]; Programas operacionais para computador [gravados];",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2464.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 910861471"
+     },
+     {
+      "processo": "900198230",
+      "marca": "ORGANIZAÇÃO MORENA LIMPEZA E SERVIÇOS",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "ORGANZAÇÃO MORENA DE PARCERIA E SERVIÇOS H LTDA (BR/MS)",
+      "deposito": "12/02/2007",
+      "concessao": "03/11/2009",
+      "vigencia": "03/11/2029",
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Pessoal (Recrutamento de -)[ Informação, Assessoria, Consultoria ];Administração de empresa[ Informação, Assessoria, Consultoria ];Fornecimento de mão-de-obra [terceirização][ Informação, Assessoria, Consultoria ];Agências de emprego[ Informação, Assessoria, Consultoria ];Assessoria em gestão de",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2517.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 900198230"
+     },
+     {
+      "processo": "926185268",
+      "marca": "MH MORENA HAIR CABELOS SINTÉTICOS E ORGÂNICOS",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "VANICA MACHADO PINTO (BR/BA)",
+      "deposito": "30/03/2022",
+      "concessao": "11/07/2023",
+      "vigencia": "11/07/2033",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Administração comercial;Administração de empresa;Apresentação de produtos em meios de comunicação para fins de comércio varejista;Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2740.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 926185268"
+     },
+     {
+      "processo": "938693310",
+      "marca": "Ordena Aqui",
+      "apresentacao": "Mista",
+      "classes": "42",
+      "titular": "LUNAR TECNOLOGIA DA INFORMAÇÃO LTDA (BR/RN)",
+      "deposito": "08/04/2025",
+      "concessao": "06/10/2026",
+      "vigencia": "06/10/2036",
+      "situacao": "concedido",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "42: Aluguel de software de computador;Análise de suporte e sistema [serviço de informática];Armazenamento eletrônico de dados;Assistência técnica em software;Atualização de software de computador;Autenticação de dados [serviço de informática];Blockchain como serviço [BaaS];Consultoria em software de",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2909.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 938693310"
+     },
+     {
+      "processo": "942919947",
+      "marca": "ORDENA",
+      "apresentacao": "Mista",
+      "classes": "09",
+      "titular": "UNIVERSIDADE FEDERAL DE SANTA CATARINA (BR/SC) | CELESC DISTRIBUIÇÃO S.A. (BR/SC)",
+      "deposito": "04/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "09: Aparelhos para monitoramento, exceto para fins medicinais; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2882.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 942919947"
+     },
+     {
+      "processo": "943042380",
+      "marca": "ORDENNA PRECISÃO ESTRATÉGICA",
+      "apresentacao": "Mista",
+      "classes": "35",
+      "titular": "QUILDARE LUCHESE DE ABREU - ENGENHARIA (BR/RS)",
+      "deposito": "14/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Consultoria em gestão de negócios;Consultoria em organização de negócios;Consultoria profissional em negócios; ",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2883.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943042380"
+     },
+     {
+      "processo": "943125987",
+      "marca": "ORDENNA",
+      "apresentacao": "Nominativa",
+      "classes": "35",
+      "titular": "ANDREIA DA SILVA CRUZ KAWAY (BR/SP)",
+      "deposito": "23/03/2026",
+      "concessao": null,
+      "vigencia": null,
+      "situacao": "pedido em andamento",
+      "semelhanca": "91 — semelhante (91%)",
+      "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio [através de qualquer meio] de móveis;Comércio [através de qualquer meio] de utensílios e recipientes para a casa ou a cozinha;Promoção de produtos por meio de influenciadores;Provimento de mercado on-line p",
+      "fonte_rpi": "https://revistas.inpi.gov.br/txt/RM2900.zip",
+      "consulta_pepi": "https://busca.inpi.gov.br/pePI/ (Marcas › Pesquisa por número do processo) — nº 943125987"
+     }
+    ]
+   },
+   "mercado": {
+    "resumo": "Nenhuma ocorrência de 'Orrena'/'Orena' em software; próximos irrelevantes (Orna, Orion). orrena.com registrado (Wix).",
+    "nivel": "baixo",
+    "fontes": []
+   },
+   "dominios": {
+    "orrena.com.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "orrena.app.br": {
+     "situacao": "Disponível confirmado (RDAP: inexistente)",
+     "registro": null,
+     "nameservers": null
+    },
+    "orrena.com": {
+     "situacao": "Registrado — uso não verificado (inconclusivo)",
+     "registro": "2016-12-01T12:13:33Z",
+     "nameservers": [
+      "NS8.WIXDNS.NET",
+      "NS9.WIXDNS.NET"
+     ]
+    }
+   },
+   "app_store": [],
+   "qualidade": {
+    "sonoridade": 6,
+    "pronuncia": 7,
+    "escrita": 5,
+    "memorizacao": 5,
+    "distintividade": 7,
+    "aparencia_software": 6,
+    "expansao": 7,
+    "disponibilidade_digital": 8,
+    "justificativa": "RR duplo dificulta a escrita (Orena? Orrena?); sonoridade menos imediata."
+   },
+   "usos": {
+    "nome_principal": "Possível com ressalvas",
+    "marca_nominativa": "Possível com ressalvas",
+    "marca_mista": "Possível com ressalvas",
+    "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
+    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "dominio_saas": "Possível com .com.br; .com ocupado",
+    "identidade_visual": "Viável",
+    "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
+   }
+  }
+ }
+}
