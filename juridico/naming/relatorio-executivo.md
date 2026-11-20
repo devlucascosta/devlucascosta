@@ -4,12 +4,14 @@
 
 ## Conclusão em uma frase
 
-Dos 21 nomes, **4 não apresentaram conflito relevante** nas fontes consultadas (**Tavena, Caliro, Averto e Oltara**). **3 pedem investigação complementar** (Orrena, Tavora, Solven) e **14 devem ser eliminados** ou só seguir com parecer jurídico específico: 8 por conflito relevante e 6 por risco elevado.
+> **Revisado após a auditoria de completude (20/11/2026; ver `auditoria-completude.md`):** Oltara passou de "promissor" para "risco moderado", e Averto ganhou pendências. Os demais resultados foram confirmados.
+
+Dos 21 nomes, **3 não apresentaram conflito relevante** nas fontes consultadas (**Tavena, Caliro e Averto**). **4 pedem investigação complementar** (Orrena, Tavora, Oltara, Solven) e **14 devem ser eliminados** ou só seguir com parecer jurídico específico: 8 por conflito relevante e 6 por risco elevado.
 
 | Classificação | Nomes |
 |---|---|
-| **Candidato promissor** | Tavena · Caliro · Averto · Oltara |
-| **Risco moderado** | Orrena · Tavora · Solven |
+| **Candidato promissor** | Tavena · Caliro · Averto |
+| **Risco moderado** | Orrena · Tavora · Oltara · Solven |
 | **Risco elevado** | Orvia · Ordina · Rotiva · Movent · Pontta · Oryza |
 | **Conflito relevante** | Vértia · Atempo · Elora · Novera · Nivora · Avora · Plenna · Veyra |
 
@@ -21,17 +23,18 @@ Dos 21 nomes, **4 não apresentaram conflito relevante** nas fontes consultadas 
 |---|---|---|---|---|---|
 | 1 | **Tavena** | Nenhuma "Tavena". Mais próxima: *Taven Essential* (proc. 945228520, classe 35, vestuário, pedido em andamento) | **.com.br e .app.br livres** · .com registrado | Sem uso no Brasil; tavena.io (serviços para criadores, exterior) | **7,4** |
 | 2 | **Caliro** | Nenhuma "Caliro". Distantes: CALEIRO e CALIBRO (35, comércio, concedidas); KAIRO'S INFORMÁTICA (9/35, pedido antigo) | **.com.br e .app.br livres** · .com registrado | Sem empresa; app "Caliro AI" (FUTURAI) na App Store | **7,0** |
-| 3 | **Averto** | Nenhuma "Averto". Distantes: AVERT/AVERT FARMA (35, Biolab, pedidos), AVETO (35, concedida), CHROMAVERTO (9/42/36, designação estrangeira) | .app.br livre · .com.br e .com registrados | averto.io (app de segurança, EUA); Averto Ltd (TI, Escócia). Em português soa como "aberto" | **6,2** |
-| 4 | **Oltara** | Nenhuma "Oltara". Única semelhante: OLARA (35, confecções, concedida) | .app.br livre · .com.br (2025) e .com registrados | Oltara (energia solar, Índia) | **6,2** |
+| 3 | **Averto** | Nenhuma "Averto". Distantes: AVERT/AVERT FARMA (35, Biolab, pedidos), AVETO (35, concedida), CHROMAVERTO (9/42/36, designação estrangeira) | .app.br livre · **averto.com.br pertence à FUZZON TECNOLOGIA E MÍDIA (2025)** · .com registrado | averto.io (app de segurança, EUA); Averto Ltd (TI, Escócia); **indício não confirmado de app "Averto" (Smart Path) na App Store BR**. Em português soa como "aberto" | **6,2** |
+| 4 | **Oltara** *(rebaixado para moderado)* | Nenhuma "Oltara", mas **ALTARA concedida na 35** (proc. 937705527) e **ALIENWARE ALTARA (Dell) concedida na 9** (proc. 939243164); OLARA (35) | .app.br livre · .com.br (pessoa física, alterado em 11/2026) e .com registrados | Oltara (energia solar, Índia) | **6,2** |
 | 5 | **Orrena** *(risco moderado)* | **ORENNA** — fonética idêntica, **concedida na classe 35** (proc. 929890701, CONVERT IMPORTAÇÃO — varejo de utilidades/eletrônicos); "ordena" concedida na 9 (proc. 910861471, Inovasul — programas de computador) | **.com.br e .app.br livres** · .com registrado | Sem uso relevante | **6,2** |
 
-**Leitura:** Tavena e Caliro reúnem o melhor equilíbrio entre ausência de conflitos, domínios brasileiros livres e qualidade sonora. Averto tem o atrativo de soar como "aberto", mas o .com.br está ocupado. Oltara é o mais livre no INPI, porém o menos memorável. Orrena só entra no top 5 porque é o melhor dos "moderados" com domínios livres; a marca ORENNA (35) precisa ser avaliada por advogado.
+**Leitura:** Tavena e Caliro reúnem o melhor equilíbrio entre ausência de conflitos, domínios brasileiros livres e qualidade sonora. São os dois mais seguros. Averto continua promissor no INPI, mas o .com.br pertence a uma empresa de tecnologia, e um possível app homônimo precisa ser checado. Oltara caiu para moderado porque a auditoria encontrou ALTARA (classes 35 e 9). Orrena é o melhor dos "moderados" com domínios livres, e a marca ORENNA (35) precisa ser avaliada por advogado.
 
 ## 2. Nomes que merecem investigação complementar
 
 - **Orrena:** ORENNA concedida na classe 35 (varejo). Falta avaliar a afinidade com SaaS e a família "Ordena", que tem programas de computador na classe 9.
 - **Tavora:** 15 marcas ativas com o sobrenome "Távora" (classes 35, 36 e 41), nenhuma nas classes 9 ou 42. O problema é a baixa distintividade de um patronímico comum. O tavora.com está à venda (Afternic).
 - **Solven:** "SOLVEN" tem pedido na classe 01 (química), com uso de solven.com.br desde 1999. SOLVENTUM está concedida em várias classes, inclusive 9 e 42. O nome é evocativo de "solvente".
+- **Oltara:** ALTARA está concedida na classe 35 (proc. 937705527), e ALIENWARE ALTARA (Dell) está concedida na classe 9 (proc. 939243164). A diferença é só a vogal inicial. Falta avaliar o risco de confusão.
 
 ## 3. Nomes que devem ser eliminados
 
@@ -74,17 +77,17 @@ Domínio livre **não significa** marca livre. E, como todos os .com estão ocup
 
 ## 6. Limitações da pesquisa
 
-- **INPI pePI** (busca oficial): inacessível a partir deste ambiente. A pesquisa usou o **XML oficial da RPI** (edições 2220 a 2915, de 23/07/2013 a 17/11/2026), indexado localmente. Isso cobre todo registro vigente, porque qualquer marca em vigor teve concessão ou prorrogação nesse período. **O andamento atual de cada processo deve ser confirmado no pePI.**
-- **Marcas figurativas:** a busca foi pelo elemento nominativo. Não houve busca por imagem.
+- **INPI pePI** (busca oficial): inacessível a partir deste ambiente. A pesquisa usou o **XML oficial da RPI** (edições 2220 a 2915, de 23/07/2013 a 17/11/2026), indexado localmente. **Para marcas nominativas e mistas**, isso cobre praticamente todos os registros vigentes: 2,3 milhões com nome no índice e só 9 sem nome. A situação de cada processo é **inferida pelo último despacho publicado**; **o andamento atual deve ser confirmado no pePI.**
+- **Marcas figurativas e tridimensionais:** cerca de 80 mil registros vigentes não têm elemento nominativo e não podem ser buscados por nome. Só são relevantes para a semelhança visual do futuro logotipo, o que exige busca por imagem (não realizada).
 - **WIPO Global Brand Database:** não consultada. Ela exige uma verificação anti-robô, e a automação foi bloqueada nesta sessão. Os registros internacionais com efeito no Brasil (designações pelo Protocolo de Madri) **aparecem na RPI** e foram considerados, como FORVIA, CHROMAVERTO e MOUVENT. As ocorrências apenas estrangeiras vieram de buscas na web.
 - **Redes sociais (@ do Instagram, LinkedIn, TikTok):** não verificáveis sem login. A disponibilidade dos perfis precisa ser checada manualmente.
-- **Google Play:** não consultado diretamente. A App Store foi consultada pela API oficial (Brasil e EUA).
+- **Google Play:** não consultado diretamente; só houve buscas na web para os finalistas. A App Store foi consultada pela API oficial (Brasil e EUA) para os 21 nomes. As 7 consultas que falharam com erro 403 foram refeitas na auditoria.
 - **Uso dos domínios registrados:** o RDAP mostra o registro, mas não se há um site no ar. Os domínios registrados foram marcados como "uso não verificado".
 - **Nomes empresariais:** as Juntas Comerciais não foram consultadas.
 
 ## Próximo passo recomendado
 
-Levar **Tavena, Caliro, Averto e Oltara** (e, opcionalmente, Orrena) a um advogado de propriedade industrial, com estes pedidos:
+Levar **Tavena, Caliro e Averto** (e, opcionalmente, Oltara e Orrena) a um advogado de propriedade industrial, com estes pedidos:
 1. Busca formal no pePI, inclusive figurativa, nas classes 9, 35, 42 e 39.
 2. Parecer de registrabilidade.
 3. Depósito rápido do escolhido nas três classes centrais, para garantir prioridade.

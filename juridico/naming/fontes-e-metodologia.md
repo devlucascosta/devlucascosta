@@ -8,7 +8,7 @@
 |---|---|
 | Fonte | **Revista da Propriedade Industrial (RPI), seção Marcas, arquivos XML oficiais**: `https://revistas.inpi.gov.br/txt/RM{nº}.zip` |
 | Cobertura | **Edições 2220 (23/07/2013) a 2915 (17/11/2026)**: 696 edições, sem lacunas. As edições 2511, 2776 e 2777 falharam na primeira tentativa e foram reprocessadas com sucesso. |
-| Edições 2000–2219 (2009–2013) | Publicadas em formato texto antigo, não processado. **Isso não afeta a cobertura de registros vigentes**: todo registro em vigor hoje teve concessão ou prorrogação depois de julho de 2013 (o prazo é de 10 anos). Foi verificado que as prorrogações aparecem no XML com o nome da marca; por exemplo, VASENOL, de 1926, tem vigência até 2028. Também há 352 mil registros antigos vigentes com nome no índice. |
+| Edições 2000–2219 (2009–2013) | Publicadas em formato texto antigo, não processado no índice. **Para marcas nominativas e mistas, isso não afeta a cobertura de vigentes.** Todo registro em vigor teve concessão ou prorrogação depois de julho de 2013 (o prazo é de 10 anos). A auditoria conferiu que, dos registros vigentes, 2.316.722 (mistas e nominativas) estão no índice com nome, e apenas **9** com elemento nominativo ficaram sem nome. **Exceções:** (a) 79.589 marcas **figurativas** e 365 **tridimensionais** vigentes, que não têm nome; (b) pedidos depositados antes de 07/2013 e parados desde então, sem despacho posterior; (c) direitos não registrados, como marca notoriamente conhecida (art. 126 da LPI) e uso anterior de boa-fé (art. 129, §1º), que não aparecem na RPI. Detalhes em `auditoria-completude.md`. |
 | Índice local | `rpi_marcas.sqlite`: **5,3 milhões de processos e 15,3 milhões de despachos**. Ficou no ambiente temporário, com 5,8 GB, grande demais para o git. Os scripts permitem reconstruí-lo. |
 | Busca | Para cada candidato, compara cada palavra do nome de todas as marcas por: (a) igualdade; (b) igualdade fonética após normalização para o português (acentos, y→i, w→v, ph→f, k→c, qu→c, letras duplicadas, h inicial); (c) o nome contido em uma palavra; (d) semelhança aproximada ≥ 80% (rapidfuzz). |
 | Situação | Calculada pelo último despacho relevante: concedido, pedido em andamento, indeferido (com ou sem recurso), arquivado, extinto ou caducado. Os conflitos considerados são as marcas **ativas**. |
@@ -25,8 +25,8 @@
 ## 3. Mercado e lojas de apps
 
 - **Buscas na web:** 21 buscas padrão, uma por nome, mais 4 buscas estendidas para os candidatos com menos ocorrências (Tavena, Caliro, Averto, Oltara/Orrena). As URLs estão em `dados/mercado.json` e em `analise-individual.md`.
-- **App Store:** API oficial de busca da Apple (`itunes.apple.com/search`), lojas do Brasil e dos EUA, até 25 resultados por nome. Os dados estão em `dados/dominios_appstore.json`.
-- **Google Play:** não consultado diretamente. Não há API pública, e o domínio não estava liberado.
+- **App Store:** API oficial de busca da Apple (`itunes.apple.com/search`), lojas do Brasil e dos EUA, até 25 resultados por nome. Sete consultas falharam com erro 403 (Rotiva/BR, Avora/EUA, Ordina/BR e EUA, Movent/EUA, Tavena/BR) e **foram refeitas com sucesso na auditoria**. Os dados estão em `dados/dominios_appstore.json`.
+- **Google Play:** não consultado diretamente. Não há API pública, e o domínio não estava liberado. Para os quatro finalistas, foram feitas buscas na web incluindo "Google Play", sem ocorrências do nome exato.
 - **Redes sociais:** não verificadas. A disponibilidade de @ exige login ou serviços de terceiros.
 
 ## 4. Domínios

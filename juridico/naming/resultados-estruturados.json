@@ -323,6 +323,7 @@
     }
    },
    "app_store": [
+    "Rotiva - Correr e Caminhar — Ibrahim Geyik",
     "Rotiva - Run & Walk Tracker — Ibrahim Geyik"
    ],
    "qualidade": {
@@ -341,7 +342,7 @@
     "marca_nominativa": "Desaconselhado sem parecer jurídico",
     "marca_mista": "Desaconselhado sem parecer jurídico",
     "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
-    "nome_app_lojas": "Possível; há apps homônimos (Rotiva - Run & Walk Tracker) — usar complemento ('Nome — Gestão')",
+    "nome_app_lojas": "Possível; há apps homônimos (Rotiva - Correr e Caminhar, Rotiva - Run & Walk Tracker) — usar complemento ('Nome — Gestão')",
     "dominio_saas": "Possível com .app.br; .com ocupado",
     "identidade_visual": "Não investir antes de resolver o risco jurídico",
     "expansao_segmentos": "Limitada (remete a rota/via/movimento)"
@@ -1314,8 +1315,11 @@
     "Avora Art B2B — Kursat ERKAL",
     "Avora Health — KESLERLAB LTD",
     "Avora Mediterranean — Yusuf Kacan",
+    "Avora Mobile — Avora International AG",
     "Avora: Controle Gastos — Hasan Karli",
+    "Avora: Expense Tracker — Hasan Karli",
     "Avora: Portfólio Imobiliário — Flavio Ribeiro Nogueira Barbosa",
+    "Bible Verse Widgets: Avora — Dmitri Rosca",
     "Widgets da Bíblia: Avora — Dmitri Rosca",
     "Ávora Club — Rodrigo Cruz"
    ],
@@ -1493,7 +1497,22 @@
      ]
     }
    },
-   "app_store": [],
+   "app_store": [
+    "BORD Ordinance Lookup — TYLER M KUHN",
+    "LDS Priesthood: Ordinances — Zhi Yao Tan",
+    "OrdinAzioni — DOS Group SA",
+    "Ordina - Commandes restaurant — Thibault Fisset",
+    "Ordina POS — Ordina POS",
+    "Ordina — Abdulhamid Zoubi",
+    "Ordinal Gallery — Flowgistics",
+    "Ordinal Knight — Ki-Hong Jung",
+    "Ordinal: Numerology — Ordinal Numerology Ltd",
+    "Ordinate for GE Aerospace — Ordinate BV",
+    "Ordinate — Ordinate BV",
+    "Temple Ordinance Card Checker — CodePro Studios",
+    "Zinc: Bitcoin Ordinals Wallet — Sublime Labs LLC",
+    "gdf ordina — Andrea Panarisi"
+   ],
    "qualidade": {
     "sonoridade": 6,
     "pronuncia": 8,
@@ -1510,7 +1529,7 @@
     "marca_nominativa": "Desaconselhado sem parecer jurídico",
     "marca_mista": "Desaconselhado sem parecer jurídico",
     "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
-    "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
+    "nome_app_lojas": "Possível; há apps homônimos (BORD Ordinance Lookup, LDS Priesthood: Ordinances, OrdinAzioni) — usar complemento ('Nome — Gestão')",
     "dominio_saas": "Possível com .app.br; .com ocupado",
     "identidade_visual": "Não investir antes de resolver o risco jurídico",
     "expansao_segmentos": "Boa (nome sem significado ligado a transporte)"
@@ -2275,6 +2294,7 @@
     }
    },
    "app_store": [
+    "Live in the Movent - Events — Unique Moments UG (haftungsbeschraenkt)",
     "Movent - What to do in Vienna — Dzan Operta",
     "Movent: TAF e Teste Físico — Wesley Huchit",
     "Moventes Fit Experience EGYM — Moventes Fit Experience",
@@ -2296,7 +2316,7 @@
     "marca_nominativa": "Desaconselhado sem parecer jurídico",
     "marca_mista": "Desaconselhado sem parecer jurídico",
     "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
-    "nome_app_lojas": "Possível; há apps homônimos (Movent - What to do in Vienna, Movent: TAF e Teste Físico, Moventes Fit Experience) — usar complemento ('Nome — Gestão')",
+    "nome_app_lojas": "Possível; há apps homônimos (Live in the Movent - Events, Movent - What to do in Vienna, Movent: TAF e Teste Físico) — usar complemento ('Nome — Gestão')",
     "dominio_saas": "Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado",
     "identidade_visual": "Não investir antes de resolver o risco jurídico",
     "expansao_segmentos": "Limitada (remete a rota/via/movimento)"
@@ -3079,7 +3099,7 @@
   "Averto": {
    "nome": "Averto",
    "classificacao": "Candidato promissor",
-   "motivo": "Nenhuma marca ativa 'Averto' no INPI; semelhantes distantes (AVERT/AVETO na 35, CHROMAVERTO 9/42 — designação estrangeira); usos internacionais sem atuação no Brasil (averto.io — app de segurança; Averto Ltd — suporte de TI, Escócia).",
+   "motivo": "Nenhuma marca ativa 'Averto' no índice da RPI; pendências: averto.com.br é da FUZZON TECNOLOGIA (2025) e há indício não confirmado de app 'Averto' (Smart Path) na App Store BR; semelhantes distantes (AVERT/AVETO na 35, CHROMAVERTO 9/42 — designação estrangeira); usos internacionais sem atuação no Brasil (averto.io — app de segurança; Averto Ltd — suporte de TI, Escócia).",
    "inpi": {
     "semelhantes_encontrados": 184,
     "ativos_relevantes": 30,
@@ -3213,10 +3233,13 @@
     ]
    },
    "mercado": {
-    "resumo": "Nenhuma empresa ou software com o nome exato; próximos: Averiware (ERP, EUA), Avero (hospitalidade), Averato; averto.com.br registrado em 2025 (SiteGround).",
-    "nivel": "baixo",
+    "resumo": "Exterior: averto.io (app de alertas em zonas de conflito, Austin/EUA, 2–10 funcionários) e Averto Ltd (suporte de TI, Escócia). Brasil: averto.com.br pertence a FUZZON TECNOLOGIA E MIDIA EIRELI (CNPJ 11.125.278/0001-01) desde 06/2025; um buscador lista um app 'Averto' da desenvolvedora Smart Path (App Store BR), NÃO confirmado pela API da Apple. Em português soa como 'aberto'.",
+    "nivel": "moderado",
     "fontes": [
-     "https://www.capterra.es/software/128910/averiware"
+     "https://www.zoominfo.com/c/averto-ltd/353628919",
+     "https://business.uoregon.edu/news/student-startup-app-democratizes-safety-data",
+     "https://apps.apple.com/br/developer/smart-path/id1452119641",
+     "https://www.appbrain.com/dev/Fuzzon/"
     ]
    },
    "dominios": {
@@ -3270,7 +3293,7 @@
   "Tavena": {
    "nome": "Tavena",
    "classificacao": "Candidato promissor",
-   "motivo": "Nenhuma marca ativa 'Tavena' no INPI; semelhantes apenas 'Taverna' (restaurantes, classe 35); .com.br e .app.br livres; uso internacional tavena.io (serviços para criadores), sem atuação conhecida no Brasil.",
+   "motivo": "Nenhuma marca ativa 'Tavena' no índice da RPI (nem variantes Tabena/Tavenna); semelhantes apenas 'Taverna' (restaurantes, classe 35); .com.br e .app.br livres; uso internacional tavena.io (serviços para criadores), sem atuação conhecida no Brasil.",
    "inpi": {
     "semelhantes_encontrados": 204,
     "ativos_relevantes": 79,
@@ -3299,9 +3322,13 @@
     ]
    },
    "mercado": {
-    "resumo": "Nenhuma ocorrência de 'Tavena' como empresa, software ou marca nos resultados.",
+    "resumo": "Nenhuma empresa ou app 'Tavena' no Brasil (busca padrão, estendida e dedicada a Brasil/Google Play). Exterior: tavena.io (serviço para criadores de conteúdo; não é software). Próximos: Tavana System (software, Irã), TavApps (desenvolvedora, Brasil — nome diferente).",
     "nivel": "baixo",
-    "fontes": []
+    "fontes": [
+     "https://tavena.io/",
+     "https://www.linkedin.com/company/tavanasys",
+     "https://www.tavapps.com"
+    ]
    },
    "dominios": {
     "tavena.com.br": {
@@ -3348,8 +3375,8 @@
   },
   "Oltara": {
    "nome": "Oltara",
-   "classificacao": "Candidato promissor",
-   "motivo": "Nenhuma marca ativa 'Oltara' no INPI; única semelhante 'OLARA' (confecções, classe 35); .app.br livre (.com.br registrado em 2025); usos internacionais: Oltara (energia solar, Índia).",
+   "classificacao": "Risco moderado",
+   "motivo": "Nenhuma 'Oltara' no índice, mas a auditoria de completude achou 'ALTARA' (uma vogal de diferença) concedida na classe 35 (proc. 937705527) e 'ALIENWARE ALTARA' (Dell) concedida na classe 9 (proc. 939243164); 'OLARA' na 35; .com.br de pessoa física (alterado em 11/2026).",
    "inpi": {
     "semelhantes_encontrados": 98,
     "ativos_relevantes": 10,
@@ -3378,11 +3405,12 @@
     ]
    },
    "mercado": {
-    "resumo": "Nenhuma ocorrência exata; próximos: Oktara (software house, Costa Rica), Oltre.app (ponto e acesso, Zucchetti).",
+    "resumo": "Nenhum uso no Brasil (busca dedicada). Exterior: Oltara (energia solar e ar-condicionado, Índia; Oltara World Private Limited, 2025) e Oltara Limited (Reino Unido, dissolvida em 2017). oltara.com.br pertence a pessoa física (alterado em 08/11/2026).",
     "nivel": "baixo",
     "fontes": [
-     "https://www.krowdbase.com/service/oktara",
-     "https://apps.apple.com/pt/app/oltre-app/id1332682975"
+     "https://oltara.in/",
+     "https://www.instafinancials.com/company/oltara-world-private-limited-U35105DL2025PTC441883/company-overview",
+     "https://find-and-update.company-information.service.gov.uk/company/10186901"
     ]
    },
    "dominios": {
@@ -3421,9 +3449,9 @@
     "justificativa": "Original, mas a sílaba 'Ol' e o final '-tara' soam menos naturais; memorização mais fraca."
    },
    "usos": {
-    "nome_principal": "Aparentemente viável (sujeito a busca formal)",
-    "marca_nominativa": "Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal",
-    "marca_mista": "Viável; reforça a distintividade, mas não substitui o nominativo",
+    "nome_principal": "Possível com ressalvas",
+    "marca_nominativa": "Possível com ressalvas",
+    "marca_mista": "Possível com ressalvas",
     "elemento_figurativo": "Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros",
     "nome_app_lojas": "Possível; nenhum app homônimo encontrado na App Store (BR/EUA)",
     "dominio_saas": "Possível com .app.br; .com ocupado",
@@ -3434,7 +3462,7 @@
   "Caliro": {
    "nome": "Caliro",
    "classificacao": "Candidato promissor",
-   "motivo": "Nenhuma marca ativa 'Caliro' no INPI; semelhantes distantes (Caleiro, Calibro na 35; KAIRO'S INFORMÁTICA 9/35); .com.br e .app.br livres; app 'Caliro AI' (FUTURAI) na App Store.",
+   "motivo": "Nenhuma marca ativa 'Caliro' no índice da RPI (nem variantes Kaliro/Calirro/Calyro); semelhantes distantes (Caleiro, Calibro na 35; KAIRO'S INFORMÁTICA 9/35); .com.br e .app.br livres; app 'Caliro AI' (FUTURAI) na App Store.",
    "inpi": {
     "semelhantes_encontrados": 3233,
     "ativos_relevantes": 45,
@@ -3568,10 +3596,12 @@
     ]
    },
    "mercado": {
-    "resumo": "Nenhuma empresa 'Caliro'; app 'Caliro AI' (FUTURAI) na App Store; próximos: Calipso ERP, Calisof, Calima (gestão).",
+    "resumo": "Nenhuma empresa 'Caliro' (buscas padrão, estendida e Brasil/Google Play). App 'Caliro AI' (FUTURAI) na App Store. Próximos: Calroo (organizador familiar, EUA), Calero (software de despesas, EUA), Calipso ERP, Calii (Google Play).",
     "nivel": "baixo",
     "fontes": [
-     "https://www.getapp.com/all-software/a/calipso-erp/"
+     "https://tracxn.com/d/companies/calroo/__O6Sck7rGQAg506eQPOYZPrqu2_9xL5gzHsETWrOM-NY",
+     "https://www.crunchbase.com/organization/calero-software",
+     "https://play.google.com/store/apps/developer?id=Calii"
     ]
    },
    "dominios": {
@@ -3757,9 +3787,12 @@
     ]
    },
    "mercado": {
-    "resumo": "Nenhuma ocorrência de 'Orrena'/'Orena' em software; próximos irrelevantes (Orna, Orion). orrena.com registrado (Wix).",
+    "resumo": "Nenhum uso de 'Orrena'. 'Orena' é usado por marcas de cosméticos, perfumes e joias no exterior (Orena Cosmetics, Orena Fragrances, Orena Jewelry).",
     "nivel": "baixo",
-    "fontes": []
+    "fontes": [
+     "https://www.trustpilot.com/review/orena-cosmetics.co",
+     "https://tracxn.com/d/companies/orena-jewelry/__9HFnlmhIVt1b77VfBmBlq6Pv7tw9rRLF35G_uXL7MuQ"
+    ]
    },
    "dominios": {
     "orrena.com.br": {

@@ -125,35 +125,48 @@
   ]
  },
  "Averto": {
-  "resumo": "Nenhuma empresa ou software com o nome exato; próximos: Averiware (ERP, EUA), Avero (hospitalidade), Averato; averto.com.br registrado em 2025 (SiteGround).",
-  "nivel": "baixo",
+  "resumo": "Exterior: averto.io (app de alertas em zonas de conflito, Austin/EUA, 2–10 funcionários) e Averto Ltd (suporte de TI, Escócia). Brasil: averto.com.br pertence a FUZZON TECNOLOGIA E MIDIA EIRELI (CNPJ 11.125.278/0001-01) desde 06/2025; um buscador lista um app 'Averto' da desenvolvedora Smart Path (App Store BR), NÃO confirmado pela API da Apple. Em português soa como 'aberto'.",
+  "nivel": "moderado",
   "fontes": [
-   "https://www.capterra.es/software/128910/averiware"
+   "https://www.zoominfo.com/c/averto-ltd/353628919",
+   "https://business.uoregon.edu/news/student-startup-app-democratizes-safety-data",
+   "https://apps.apple.com/br/developer/smart-path/id1452119641",
+   "https://www.appbrain.com/dev/Fuzzon/"
   ]
  },
  "Tavena": {
-  "resumo": "Nenhuma ocorrência de 'Tavena' como empresa, software ou marca nos resultados.",
-  "nivel": "baixo",
-  "fontes": []
- },
- "Oltara": {
-  "resumo": "Nenhuma ocorrência exata; próximos: Oktara (software house, Costa Rica), Oltre.app (ponto e acesso, Zucchetti).",
+  "resumo": "Nenhuma empresa ou app 'Tavena' no Brasil (busca padrão, estendida e dedicada a Brasil/Google Play). Exterior: tavena.io (serviço para criadores de conteúdo; não é software). Próximos: Tavana System (software, Irã), TavApps (desenvolvedora, Brasil — nome diferente).",
   "nivel": "baixo",
   "fontes": [
-   "https://www.krowdbase.com/service/oktara",
-   "https://apps.apple.com/pt/app/oltre-app/id1332682975"
+   "https://tavena.io/",
+   "https://www.linkedin.com/company/tavanasys",
+   "https://www.tavapps.com"
+  ]
+ },
+ "Oltara": {
+  "resumo": "Nenhum uso no Brasil (busca dedicada). Exterior: Oltara (energia solar e ar-condicionado, Índia; Oltara World Private Limited, 2025) e Oltara Limited (Reino Unido, dissolvida em 2017). oltara.com.br pertence a pessoa física (alterado em 08/11/2026).",
+  "nivel": "baixo",
+  "fontes": [
+   "https://oltara.in/",
+   "https://www.instafinancials.com/company/oltara-world-private-limited-U35105DL2025PTC441883/company-overview",
+   "https://find-and-update.company-information.service.gov.uk/company/10186901"
   ]
  },
  "Caliro": {
-  "resumo": "Nenhuma empresa 'Caliro'; app 'Caliro AI' (FUTURAI) na App Store; próximos: Calipso ERP, Calisof, Calima (gestão).",
+  "resumo": "Nenhuma empresa 'Caliro' (buscas padrão, estendida e Brasil/Google Play). App 'Caliro AI' (FUTURAI) na App Store. Próximos: Calroo (organizador familiar, EUA), Calero (software de despesas, EUA), Calipso ERP, Calii (Google Play).",
   "nivel": "baixo",
   "fontes": [
-   "https://www.getapp.com/all-software/a/calipso-erp/"
+   "https://tracxn.com/d/companies/calroo/__O6Sck7rGQAg506eQPOYZPrqu2_9xL5gzHsETWrOM-NY",
+   "https://www.crunchbase.com/organization/calero-software",
+   "https://play.google.com/store/apps/developer?id=Calii"
   ]
  },
  "Orrena": {
-  "resumo": "Nenhuma ocorrência de 'Orrena'/'Orena' em software; próximos irrelevantes (Orna, Orion). orrena.com registrado (Wix).",
+  "resumo": "Nenhum uso de 'Orrena'. 'Orena' é usado por marcas de cosméticos, perfumes e joias no exterior (Orena Cosmetics, Orena Fragrances, Orena Jewelry).",
   "nivel": "baixo",
-  "fontes": []
+  "fontes": [
+   "https://www.trustpilot.com/review/orena-cosmetics.co",
+   "https://tracxn.com/d/companies/orena-jewelry/__9HFnlmhIVt1b77VfBmBlq6Pv7tw9rRLF35G_uXL7MuQ"
+  ]
  }
 }

@@ -7,7 +7,7 @@ Consulta em 20/11/2026. Ordem: do mais promissor ao mais arriscado. Semelhança 
 
 ## Tavena — **Candidato promissor**
 
-Nenhuma marca ativa 'Tavena' no INPI; semelhantes apenas 'Taverna' (restaurantes, classe 35); .com.br e .app.br livres; uso internacional tavena.io (serviços para criadores), sem atuação conhecida no Brasil.
+Nenhuma marca ativa 'Tavena' no índice da RPI (nem variantes Tabena/Tavenna); semelhantes apenas 'Taverna' (restaurantes, classe 35); .com.br e .app.br livres; uso internacional tavena.io (serviços para criadores), sem atuação conhecida no Brasil.
 
 **INPI:** 204 marcas semelhantes no índice; 79 ativas com semelhança forte (crítico 10 · alto 1 · moderado 10 · baixo 58).
 
@@ -15,7 +15,7 @@ Nenhuma marca ativa 'Tavena' no INPI; semelhantes apenas 'Taverna' (restaurantes
 |---|---|---|---|---|---|---|
 | 945228520 | Taven Essential | 35 | THAYANE LIMA REZENDE (BR/RJ) | pedido em andamento | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2909.zip) |
 
-**Mercado:** Nenhuma ocorrência de 'Tavena' como empresa, software ou marca nos resultados.
+**Mercado:** Nenhuma empresa ou app 'Tavena' no Brasil (busca padrão, estendida e dedicada a Brasil/Google Play). Exterior: tavena.io (serviço para criadores de conteúdo; não é software). Próximos: Tavana System (software, Irã), TavApps (desenvolvedora, Brasil — nome diferente). Fontes: [1](https://tavena.io/) · [2](https://www.linkedin.com/company/tavanasys) · [3](https://www.tavapps.com)
 
 **Domínios:** `tavena.com.br`: Disponível confirmado (RDAP: inexistente) · `tavena.app.br`: Disponível confirmado (RDAP: inexistente) · `tavena.com`: Registrado — uso não verificado (inconclusivo) (registro 2003-11-03)
 
@@ -30,7 +30,7 @@ Nenhuma marca ativa 'Tavena' no INPI; semelhantes apenas 'Taverna' (restaurantes
 
 ## Caliro — **Candidato promissor**
 
-Nenhuma marca ativa 'Caliro' no INPI; semelhantes distantes (Caleiro, Calibro na 35; KAIRO'S INFORMÁTICA 9/35); .com.br e .app.br livres; app 'Caliro AI' (FUTURAI) na App Store.
+Nenhuma marca ativa 'Caliro' no índice da RPI (nem variantes Kaliro/Calirro/Calyro); semelhantes distantes (Caleiro, Calibro na 35; KAIRO'S INFORMÁTICA 9/35); .com.br e .app.br livres; app 'Caliro AI' (FUTURAI) na App Store.
 
 **INPI:** 3233 marcas semelhantes no índice; 45 ativas com semelhança forte (crítico 2 · alto 13 · moderado 12 · baixo 18).
 
@@ -45,7 +45,7 @@ Nenhuma marca ativa 'Caliro' no INPI; semelhantes distantes (Caleiro, Calibro na
 | 920624545 | K KAIRO | 09 | OTICAS ITAPEVI LTDA (BR/ES) | concedido | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2630.zip) |
 | 929554086 | Cairo | 35 | CAIRO INDUSTRIA DE MODA LTDA (BR/SP) | concedido | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2885.zip) |
 
-**Mercado:** Nenhuma empresa 'Caliro'; app 'Caliro AI' (FUTURAI) na App Store; próximos: Calipso ERP, Calisof, Calima (gestão). Fontes: [1](https://www.getapp.com/all-software/a/calipso-erp/)
+**Mercado:** Nenhuma empresa 'Caliro' (buscas padrão, estendida e Brasil/Google Play). App 'Caliro AI' (FUTURAI) na App Store. Próximos: Calroo (organizador familiar, EUA), Calero (software de despesas, EUA), Calipso ERP, Calii (Google Play). Fontes: [1](https://tracxn.com/d/companies/calroo/__O6Sck7rGQAg506eQPOYZPrqu2_9xL5gzHsETWrOM-NY) · [2](https://www.crunchbase.com/organization/calero-software) · [3](https://play.google.com/store/apps/developer?id=Calii)
 
 **Domínios:** `caliro.com.br`: Disponível confirmado (RDAP: inexistente) · `caliro.app.br`: Disponível confirmado (RDAP: inexistente) · `caliro.com`: Registrado — uso não verificado (inconclusivo) (registro 2009-08-11)
 
@@ -60,7 +60,7 @@ Nenhuma marca ativa 'Caliro' no INPI; semelhantes distantes (Caleiro, Calibro na
 
 ## Averto — **Candidato promissor**
 
-Nenhuma marca ativa 'Averto' no INPI; semelhantes distantes (AVERT/AVETO na 35, CHROMAVERTO 9/42 — designação estrangeira); usos internacionais sem atuação no Brasil (averto.io — app de segurança; Averto Ltd — suporte de TI, Escócia).
+Nenhuma marca ativa 'Averto' no índice da RPI; pendências: averto.com.br é da FUZZON TECNOLOGIA (2025) e há indício não confirmado de app 'Averto' (Smart Path) na App Store BR; semelhantes distantes (AVERT/AVETO na 35, CHROMAVERTO 9/42 — designação estrangeira); usos internacionais sem atuação no Brasil (averto.io — app de segurança; Averto Ltd — suporte de TI, Escócia).
 
 **INPI:** 184 marcas semelhantes no índice; 30 ativas com semelhança forte (crítico 1 · alto 11 · moderado 5 · baixo 13).
 
@@ -75,7 +75,7 @@ Nenhuma marca ativa 'Averto' no INPI; semelhantes distantes (AVERT/AVETO na 35, 
 | 939158140 | AVERT SHOP | 35 | MARIO SERGIO FERREIRA (BR/SP) | MARIO SERGIO FERREIRA (BR/SP | pedido em andamento | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2859.zip) |
 | 940233070 | AVVERO | 35 | ESCRITÓRIO CONTÁBIL ZANDONA LTDA (BR/RS) | pedido em andamento | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2850.zip) |
 
-**Mercado:** Nenhuma empresa ou software com o nome exato; próximos: Averiware (ERP, EUA), Avero (hospitalidade), Averato; averto.com.br registrado em 2025 (SiteGround). Fontes: [1](https://www.capterra.es/software/128910/averiware)
+**Mercado:** Exterior: averto.io (app de alertas em zonas de conflito, Austin/EUA, 2–10 funcionários) e Averto Ltd (suporte de TI, Escócia). Brasil: averto.com.br pertence a FUZZON TECNOLOGIA E MIDIA EIRELI (CNPJ 11.125.278/0001-01) desde 06/2025; um buscador lista um app 'Averto' da desenvolvedora Smart Path (App Store BR), NÃO confirmado pela API da Apple. Em português soa como 'aberto'. Fontes: [1](https://www.zoominfo.com/c/averto-ltd/353628919) · [2](https://business.uoregon.edu/news/student-startup-app-democratizes-safety-data) · [3](https://apps.apple.com/br/developer/smart-path/id1452119641) · [4](https://www.appbrain.com/dev/Fuzzon/)
 
 **Domínios:** `averto.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2025-06-22) · `averto.app.br`: Disponível confirmado (RDAP: inexistente) · `averto.com`: Registrado — uso não verificado (inconclusivo) (registro 2000-03-14)
 
@@ -84,29 +84,6 @@ Nenhuma marca ativa 'Averto' no INPI; semelhantes distantes (AVERT/AVETO na 35, 
 **Formas de uso:** *nome principal*: Aparentemente viável (sujeito a busca formal); *marca nominativa*: Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal; *marca mista*: Viável; reforça a distintividade, mas não substitui o nominativo; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Irena Averto) — usar complemento ('Nome — Gestão'); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Viável; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
 
 **Qualidade (0–10):** sonoridade 6 · pronúncia 8 · escrita 8 · memorização 6 · distintividade 6 · aparência de software 6 · expansão 7 · disponibilidade digital 3. Em português soa como 'aberto' (b/v), o que é positivo mas pode ser confundido na fala.
-
-
----
-
-## Oltara — **Candidato promissor**
-
-Nenhuma marca ativa 'Oltara' no INPI; única semelhante 'OLARA' (confecções, classe 35); .app.br livre (.com.br registrado em 2025); usos internacionais: Oltara (energia solar, Índia).
-
-**INPI:** 98 marcas semelhantes no índice; 10 ativas com semelhança forte (crítico 0 · alto 1 · moderado 1 · baixo 8).
-
-| Processo | Marca | Classes | Titular | Situação | Semelhança | Fonte |
-|---|---|---|---|---|---|---|
-| 923349553 | OLARA | 35 | KAJU CONFECÇÕES E COMÉRCIO LTDA (BR/SP) | concedido | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2683.zip) |
-
-**Mercado:** Nenhuma ocorrência exata; próximos: Oktara (software house, Costa Rica), Oltre.app (ponto e acesso, Zucchetti). Fontes: [1](https://www.krowdbase.com/service/oktara) · [2](https://apps.apple.com/pt/app/oltre-app/id1332682975)
-
-**Domínios:** `oltara.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2025-08-19) · `oltara.app.br`: Disponível confirmado (RDAP: inexistente) · `oltara.com`: Registrado — uso não verificado (inconclusivo) (registro 2023-12-30)
-
-**App Store (BR/EUA):** nenhum app homônimo
-
-**Formas de uso:** *nome principal*: Aparentemente viável (sujeito a busca formal); *marca nominativa*: Aparentemente viável — depositar nas classes 9, 35 e 42 após busca formal; *marca mista*: Viável; reforça a distintividade, mas não substitui o nominativo; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; nenhum app homônimo encontrado na App Store (BR/EUA); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Viável; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
-
-**Qualidade (0–10):** sonoridade 6 · pronúncia 8 · escrita 8 · memorização 5 · distintividade 7 · aparência de software 6 · expansão 7 · disponibilidade digital 3. Original, mas a sílaba 'Ol' e o final '-tara' soam menos naturais; memorização mais fraca.
 
 
 ---
@@ -128,7 +105,7 @@ Nenhuma marca ativa 'Oltara' no INPI; única semelhante 'OLARA' (confecções, c
 | 943042380 | ORDENNA PRECISÃO ESTRATÉGICA | 35 | QUILDARE LUCHESE DE ABREU - ENGENHARIA (BR/RS) | pedido em andamento | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2883.zip) |
 | 943125987 | ORDENNA | 35 | ANDREIA DA SILVA CRUZ KAWAY (BR/SP) | pedido em andamento | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2900.zip) |
 
-**Mercado:** Nenhuma ocorrência de 'Orrena'/'Orena' em software; próximos irrelevantes (Orna, Orion). orrena.com registrado (Wix).
+**Mercado:** Nenhum uso de 'Orrena'. 'Orena' é usado por marcas de cosméticos, perfumes e joias no exterior (Orena Cosmetics, Orena Fragrances, Orena Jewelry). Fontes: [1](https://www.trustpilot.com/review/orena-cosmetics.co) · [2](https://tracxn.com/d/companies/orena-jewelry/__9HFnlmhIVt1b77VfBmBlq6Pv7tw9rRLF35G_uXL7MuQ)
 
 **Domínios:** `orrena.com.br`: Disponível confirmado (RDAP: inexistente) · `orrena.app.br`: Disponível confirmado (RDAP: inexistente) · `orrena.com`: Registrado — uso não verificado (inconclusivo) (registro 2016-12-01)
 
@@ -165,6 +142,29 @@ Sobrenome comum: 15 marcas ativas com 'Távora' (classes 35, 36, 41 etc.), nenhu
 **Formas de uso:** *nome principal*: Possível com ressalvas; *marca nominativa*: Possível com ressalvas; *marca mista*: Possível com ressalvas; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Tavora) — usar complemento ('Nome — Gestão'); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Viável; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
 
 **Qualidade (0–10):** sonoridade 7 · pronúncia 8 · escrita 8 · memorização 6 · distintividade 5 · aparência de software 6 · expansão 7 · disponibilidade digital 3. Lida como 'Távora', sobrenome comum em português/brasileiro — reduz distintividade.
+
+
+---
+
+## Oltara — **Risco moderado**
+
+Nenhuma 'Oltara' no índice, mas a auditoria de completude achou 'ALTARA' (uma vogal de diferença) concedida na classe 35 (proc. 937705527) e 'ALIENWARE ALTARA' (Dell) concedida na classe 9 (proc. 939243164); 'OLARA' na 35; .com.br de pessoa física (alterado em 11/2026).
+
+**INPI:** 98 marcas semelhantes no índice; 10 ativas com semelhança forte (crítico 0 · alto 1 · moderado 1 · baixo 8).
+
+| Processo | Marca | Classes | Titular | Situação | Semelhança | Fonte |
+|---|---|---|---|---|---|---|
+| 923349553 | OLARA | 35 | KAJU CONFECÇÕES E COMÉRCIO LTDA (BR/SP) | concedido | 91 — semelhante (91%) | [RPI](https://revistas.inpi.gov.br/txt/RM2683.zip) |
+
+**Mercado:** Nenhum uso no Brasil (busca dedicada). Exterior: Oltara (energia solar e ar-condicionado, Índia; Oltara World Private Limited, 2025) e Oltara Limited (Reino Unido, dissolvida em 2017). oltara.com.br pertence a pessoa física (alterado em 08/11/2026). Fontes: [1](https://oltara.in/) · [2](https://www.instafinancials.com/company/oltara-world-private-limited-U35105DL2025PTC441883/company-overview) · [3](https://find-and-update.company-information.service.gov.uk/company/10186901)
+
+**Domínios:** `oltara.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2025-08-19) · `oltara.app.br`: Disponível confirmado (RDAP: inexistente) · `oltara.com`: Registrado — uso não verificado (inconclusivo) (registro 2023-12-30)
+
+**App Store (BR/EUA):** nenhum app homônimo
+
+**Formas de uso:** *nome principal*: Possível com ressalvas; *marca nominativa*: Possível com ressalvas; *marca mista*: Possível com ressalvas; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; nenhum app homônimo encontrado na App Store (BR/EUA); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Viável; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
+
+**Qualidade (0–10):** sonoridade 6 · pronúncia 8 · escrita 8 · memorização 5 · distintividade 7 · aparência de software 6 · expansão 7 · disponibilidade digital 3. Original, mas a sílaba 'Ol' e o final '-tara' soam menos naturais; memorização mais fraca.
 
 
 ---
@@ -219,9 +219,9 @@ Ordina N.V./Sopra Steria é grande empresa europeia de TI; 'ordena' concedida na
 
 **Domínios:** `ordina.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2024-09-11) · `ordina.app.br`: Disponível confirmado (RDAP: inexistente) · `ordina.com`: Registrado — uso não verificado (inconclusivo) (registro 1999-12-29)
 
-**App Store (BR/EUA):** nenhum app homônimo
+**App Store (BR/EUA):** BORD Ordinance Lookup — TYLER M KUHN, LDS Priesthood: Ordinances — Zhi Yao Tan, OrdinAzioni — DOS Group SA, Ordina - Commandes restaurant — Thibault Fisset, Ordina POS — Ordina POS, Ordina — Abdulhamid Zoubi
 
-**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; nenhum app homônimo encontrado na App Store (BR/EUA); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
+**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (BORD Ordinance Lookup, LDS Priesthood: Ordinances, OrdinAzioni) — usar complemento ('Nome — Gestão'); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Boa (nome sem significado ligado a transporte)
 
 **Qualidade (0–10):** sonoridade 6 · pronúncia 8 · escrita 8 · memorização 7 · distintividade 5 · aparência de software 7 · expansão 8 · disponibilidade digital 3. Remete a ordem/organizar (bom conceito), mas é nome de uma grande empresa de TI europeia.
 
@@ -276,9 +276,9 @@ Ordina N.V./Sopra Steria é grande empresa europeia de TI; 'ordena' concedida na
 
 **Domínios:** `rotiva.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2026-02-14) · `rotiva.app.br`: Disponível confirmado (RDAP: inexistente) · `rotiva.com`: Registrado — uso não verificado (inconclusivo) (registro 2000-05-14)
 
-**App Store (BR/EUA):** Rotiva - Run & Walk Tracker — Ibrahim Geyik
+**App Store (BR/EUA):** Rotiva - Correr e Caminhar — Ibrahim Geyik, Rotiva - Run & Walk Tracker — Ibrahim Geyik
 
-**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Rotiva - Run & Walk Tracker) — usar complemento ('Nome — Gestão'); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Limitada (remete a rota/via/movimento)
+**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Rotiva - Correr e Caminhar, Rotiva - Run & Walk Tracker) — usar complemento ('Nome — Gestão'); *dominio saas*: Possível com .app.br; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Limitada (remete a rota/via/movimento)
 
 **Qualidade (0–10):** sonoridade 6 · pronúncia 8 · escrita 8 · memorização 6 · distintividade 5 · aparência de software 5 · expansão 4 · disponibilidade digital 3. Fácil de ler, mas 'rota' prende ao transporte; soa como adjetivo ('rotativa'), pouco premium.
 
@@ -306,9 +306,9 @@ Ordina N.V./Sopra Steria é grande empresa europeia de TI; 'ordena' concedida na
 
 **Domínios:** `movent.com.br`: Registrado — uso não verificado (inconclusivo) (registro 2025-12-18) · `movent.app.br`: Registrado — uso não verificado (inconclusivo) (registro 2026-09-17) · `movent.com`: Registrado — uso não verificado (inconclusivo) (registro 2002-07-14)
 
-**App Store (BR/EUA):** Movent - What to do in Vienna — Dzan Operta, Movent: TAF e Teste Físico — Wesley Huchit, Moventes Fit Experience EGYM — Moventes Fit Experience, Moventes Fit Experience — Moventes Fit Experience
+**App Store (BR/EUA):** Live in the Movent - Events — Unique Moments UG (haftungsbeschraenkt), Movent - What to do in Vienna — Dzan Operta, Movent: TAF e Teste Físico — Wesley Huchit, Moventes Fit Experience EGYM — Moventes Fit Experience, Moventes Fit Experience — Moventes Fit Experience
 
-**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Movent - What to do in Vienna, Movent: TAF e Teste Físico, Moventes Fit Experience) — usar complemento ('Nome — Gestão'); *dominio saas*: Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Limitada (remete a rota/via/movimento)
+**Formas de uso:** *nome principal*: Desaconselhado sem parecer jurídico; *marca nominativa*: Desaconselhado sem parecer jurídico; *marca mista*: Desaconselhado sem parecer jurídico; *elemento figurativo*: Viável em qualquer caso (símbolo próprio), desde que não reproduza marcas de terceiros; *nome app lojas*: Possível; há apps homônimos (Live in the Movent - Events, Movent - What to do in Vienna, Movent: TAF e Teste Físico) — usar complemento ('Nome — Gestão'); *dominio saas*: Exige variação (ex.: usenome.com.br / nome.app) — .com.br e .app.br ocupados; .com ocupado; *identidade visual*: Não investir antes de resolver o risco jurídico; *expansao segmentos*: Limitada (remete a rota/via/movimento)
 
 **Qualidade (0–10):** sonoridade 6 · pronúncia 6 · escrita 8 · memorização 7 · distintividade 5 · aparência de software 7 · expansão 5 · disponibilidade digital 0. O 't' final é estranho em português (mo-VEN-ti); 'movimento' remete a transporte.
 
