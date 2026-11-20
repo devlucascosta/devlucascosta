@@ -1,0 +1,85 @@
+{
+  "brand": "AgendAI",
+  "tagline": "Gestão profissional e operacional em um só lugar",
+  "brief": "Rodada 2 de refinamento. Uma letra A própria, natural, elegante, discreta e atemporal, que transmita organização, movimento, confiança e evolução sem literalidade, sem aparência esportiva e sem clichês de IA. Reconhecível sem o nome, principalmente como ícone de aplicativo.",
+  "adjectives": [
+    "natural",
+    "elegante",
+    "discreta",
+    "atemporal",
+    "autoral"
+  ],
+  "criteria": "Sucesso: símbolo próprio reconhecível isolado e dentro do quadrado do ícone; legível em 16/32/64 px; funciona em uma cor, em fundo claro e escuro, sem efeitos; AgendAI nunca lido como AgendAl.",
+  "mockups": [
+    "app-icon",
+    "favicon-tab",
+    "website",
+    "business-card",
+    "social",
+    "signage"
+  ],
+  "nav": [
+    "Agenda",
+    "Clientes",
+    "Financeiro",
+    "Frota"
+  ],
+  "greyscale": false,
+  "designer": "Claude · processo logo-design",
+  "round": 2,
+  "next_steps": [
+    "Escolher uma proposta (e uma das duas identidades de cor)",
+    "Ajustes finos que você pedir",
+    "Somente depois: versão definitiva e arquivos finais"
+  ],
+  "brand_color": "#00D1B2",
+  "tile_color": "#0A0F14",
+  "concepts": [
+    {
+      "name": "Traço · Esmeralda Tech",
+      "symbol": "../02-simbolos/P01-traco/P01-simbolo.svg",
+      "lockup": "../02-simbolos/P01-traco/P01-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/P01-traco/P01-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/esmeralda/P01-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/esmeralda/P01-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/esmeralda/P01-horizontal-escuro-transparente.svg",
+      "idea": "Duas pernas retas e um traço curvo que nasce no pé esquerdo, atravessa a letra e sai subindo pela direita.",
+      "rationale": [
+        "Movimento e evolução sem agressividade",
+        "Gesto humano, de assinatura",
+        "Limite: a saída da curva lembra levemente a ideia de seta"
+      ]
+    },
+    {
+      "name": "Arco · Esmeralda Tech",
+      "symbol": "../02-simbolos/P02-arco/P02-simbolo.svg",
+      "lockup": "../02-simbolos/P02-arco/P02-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/P02-arco/P02-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/esmeralda/P02-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/esmeralda/P02-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/esmeralda/P02-horizontal-escuro-transparente.svg",
+      "idea": "Uma forma sólida contínua: ápice macio e abertura inferior em arco.",
+      "rationale": [
+        "O mais calmo e estável",
+        "Ótimo bloco de cor no ícone",
+        "Limite: genérico em tamanhos pequenos"
+      ]
+    },
+    {
+      "name": "Vela · Esmeralda Tech",
+      "symbol": "../02-simbolos/P03-vela/P03-simbolo.svg",
+      "lockup": "../02-simbolos/P03-vela/P03-logotipo-horizontal.svg",
+      "stacked": "../02-simbolos/P03-vela/P03-logotipo-vertical.svg",
+      "symbol_on_tile": "../04-cores/esmeralda/P03-simbolo-cor.svg",
+      "symbol_on_dark": "../04-cores/esmeralda/P03-simbolo-cor.svg",
+      "lockup_on_dark": "../04-cores/esmeralda/P03-horizontal-escuro-transparente.svg",
+      "idea": "Um lado reto e firme, o outro curvo e aberto, como uma vela que recebe vento.",
+      "rationale": [
+        "Personalidade própria, A desenhado e não de fonte",
+        "Equilíbrio entre ordem (reto) e evolução (curvo)",
+        "Silhueta reconhecível sem o nome, de 16 px à fachada"
+      ]
+    }
+  ],
+  "recommendation": "P03 Vela — a mais autoral e equilibrada; recomendação completa na mensagem e no comparativo."
+}

@@ -1,0 +1,95 @@
+
+=== P01-simbolo.svg  (1644 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 100
+margins L31.6 R31.6 T31.0 B35.0 · bbox fill 0.559
+· INFO [complexity] 100 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== P02-simbolo.svg  (1129 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 66
+margins L30.0 R30.0 T43.1 B47.2 · bbox fill 0.496
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== P03-simbolo.svg  (1709 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 107
+margins L38.6 R38.7 T26.8 B30.8 · bbox fill 0.541
+· INFO [complexity] 107 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== P01-logotipo-horizontal.svg  (4313 bytes)
+viewBox 0 0 586.36 256 · aspect 2.29 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 241
+margins L24.0 R24.0 T63.0 B65.0 · bbox fill 0.459
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 241 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== P01-logotipo-vertical.svg  (4164 bytes)
+viewBox 0 0 273.28 250 · aspect 1.093 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 241
+margins L25.8 R24.0 T20.0 B6.1 · bbox fill 0.733
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 241 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 20.0, bottom 6.1). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 97/100 (heuristic)
+
+=== P02-logotipo-horizontal.svg  (4303 bytes)
+viewBox 0 0 596.5 256 · aspect 2.33 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 225
+margins L24.0 R24.0 T63.0 B65.0 · bbox fill 0.46
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 225 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== P02-logotipo-vertical.svg  (4123 bytes)
+viewBox 0 0 266.19 250 · aspect 1.065 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 225
+margins L24.6 R24.0 T20.0 B6.2 · bbox fill 0.732
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 225 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 20.0, bottom 6.2). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 97/100 (heuristic)
+
+=== P03-logotipo-horizontal.svg  (5321 bytes)
+viewBox 0 0 568.82 256 · aspect 2.222 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 282
+margins L24.0 R24.0 T63.0 B65.0 · bbox fill 0.458
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 282 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== P03-logotipo-vertical.svg  (5065 bytes)
+viewBox 0 0 271.46 250 · aspect 1.086 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 282
+margins L25.6 R24.0 T20.0 B4.7 · bbox fill 0.736
+▲ WARN [complex] 282 anchor points — more than 95% of comparable reference logos (median 53.0). Simplify: fewer points, merged shapes, less detail.
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [off-centre-y] Vertical margins differ (top 20.0, bottom 4.7). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 90/100 (heuristic)
+
+=== P01-icone-app.svg  (1714 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 109
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+· INFO [complexity] 109 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== P02-icone-app.svg  (1218 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 75
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
+
+=== P03-icone-app.svg  (1793 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 116
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+· INFO [complexity] 116 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
