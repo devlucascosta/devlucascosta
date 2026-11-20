@@ -3,11 +3,17 @@ import json, subprocess, sys, time, urllib.parse
 NOMES = ["Orvia","Rotiva","Novera","Vértia","Atempo","Plenna","Avora","Ordina","Pontta","Oryza","Nivora","Movent",
          "Tavora","Elora","Veyra","Solven","Averto","Tavena","Oltara","Caliro","Orrena"]
 OUT = "/home/user/devlucascosta/juridico/naming/dados"
+if len(sys.argv) > 2:  # uso: dominios_apps.py PASTA_SAIDA Nome1 Nome2 ...
+    OUT, NOMES = sys.argv[1], sys.argv[2:]
 
 
-def get(url):
-    r = subprocess.run(["curl", "-sS", "--max-time", "40", "-w", "\n%{http_code}", url], capture_output=True, text=True)
-    body, _, code = r.stdout.rpartition("\n")
+def get(url, tries=5):
+    for i in range(tries):
+        r = subprocess.run(["curl", "-sS", "--max-time", "40", "-w", "\n%{http_code}", url], capture_output=True, text=True)
+        body, _, code = r.stdout.rpartition("\n")
+        if code.strip() not in ("403", "429", "000"):
+            break
+        time.sleep(8 * (i + 1))  # limite de requisições: espera crescente
     return code.strip(), body, r.stderr.strip()[:200]
 
 

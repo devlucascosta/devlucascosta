@@ -1,0 +1,2350 @@
+{
+ "data_consulta": "20/11/2026",
+ "base_inpi": "RPI, seção Marcas, XML oficial: edições 2220 (23/07/2013) a 2915 (17/11/2026), 696 edições, índice local de 5,3 milhões de processos",
+ "total_gerados": 192,
+ "aprovados": 18,
+ "promissores": 14,
+ "com_pendencias": 4,
+ "ranking": [
+  {
+   "nome": "Salendo",
+   "status": "promissor",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    8,
+    7,
+    8,
+    9,
+    8
+   ],
+   "var": [
+    "Zalendo",
+    "Salento"
+   ],
+   "conceito": "Nome de som latino que remete à ideia de subida contínua (em italiano, \"salendo\" é forma do verbo \"subir\"). Posiciona o produto como aquilo que faz o negócio do profissional crescer de forma organizada, degrau por degrau.",
+   "personalidade": "Ascendente, otimista, dinâmica, com calor latino.",
+   "mercado": "Sem empresa de software ou app com esse nome. Ocorrências esparsas: salendo.nl (empresa neerlandesa com site encerrado, segundo o Trustpilot), um wine bar na Itália (San Galgano) e uma faixa musical de 2026. O salendo.com está anunciado como domínio premium à venda na Atom.",
+   "urls": [
+    "https://www.trustpilot.com/review/salendo.nl",
+    "https://www.atom.com/name/Salendo",
+    "https://www.facebook.com/sangalganosalendowine/"
+   ],
+   "vantagens": "Ótima pronúncia em português e espanhol; ideia de crescimento; .com.br e .app.br livres; .com comprável; nenhuma marca semelhante ativa nas classes 9/42.",
+   "riscos": "É palavra comum em italiano (menor distintividade na Itália). Variante \"salento\" (t/d) concedida na classe 35 para vestuário (proc. 935840907), sem afinidade com software. A semelhança gráfica distante com Solven (nome proibido) não vem da mesma raiz, mas convém registrar.",
+   "media": 8.2,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado (à venda, DNS de marketplace) em 2009-07-11"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 167,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 0
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Zalendo",
+     "ocorrencias": []
+    },
+    {
+     "variante": "Salento",
+     "ocorrencias": [
+      {
+       "numero": "935840907",
+       "nome": "salento",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "THIAGO PINTO SANTOS (BR/RS)",
+       "score": 100
+      },
+      {
+       "numero": "935840834",
+       "nome": "salento",
+       "classes": "41",
+       "situacao": "concedido",
+       "titulares": "THIAGO PINTO SANTOS (BR/RS)",
+       "score": 100
+      }
+     ]
+    }
+   ],
+   "ranking": 1,
+   "disponibilidade_digital": 10
+  },
+  {
+   "nome": "Lindaro",
+   "status": "promissor",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    7,
+    8,
+    8,
+    8,
+    7
+   ],
+   "var": [
+    "Lintaro"
+   ],
+   "conceito": "Som de nome próprio latino, com eco de \"lindo\". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado.",
+   "personalidade": "Elegante, acolhedora, confiável, com acabamento premium.",
+   "mercado": "Sem software ou app. Única empresa: lindaro GmbH (Alemanha, atacado de móveis), sem afinidade com SaaS. O lindaro.com foi registrado em 2023 com DNS da Locaweb (provável titular brasileiro, uso não verificado).",
+   "urls": [
+    "https://www.dnb.com/business-directory/company-profiles.lindaro_gmbh.a0de9ca372fb21d6687204a2c69b2e2c.html",
+    "https://www.mow.de/en/exhibitors/lindaro"
+   ],
+   "vantagens": "Muito fácil de falar e escrever; soa premium; nenhuma marca semelhante ativa ≥ 88% nas classes 9/35/42/39; .com.br e .app.br livres.",
+   "riscos": "O .com tem titular provavelmente brasileiro desde 2023, o que pode indicar projeto em preparação. O eco de \"lindo\" pode soar mais estético que gerencial.",
+   "media": 8,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2023-02-18"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 1772,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 2,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Lintaro",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 2,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Joreva",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    7,
+    9,
+    9,
+    7,
+    8,
+    7
+   ],
+   "var": [
+    "Joriva",
+    "Jureva"
+   ],
+   "conceito": "Nome inventado, sem significado prévio em português, inglês ou espanhol. Pode ser preenchido pela marca com as ideias de jornada e de rotina bem conduzida (associação de posicionamento, não etimologia).",
+   "personalidade": "Própria, firme, humana; neutra o bastante para crescer para outros segmentos.",
+   "mercado": "Sem software ou app. Única ocorrência: página de Facebook \"Joreva Estudi Mobles\" (móveis, provavelmente Catalunha). O joreva.com está em DNS da BuyDomains, \"this domain for sale\".",
+   "urls": [
+    "https://www.facebook.com/JorevaEstudiMobles/"
+   ],
+   "vantagens": "Altíssima distintividade: zero marcas ativas semelhantes no INPI, inclusive variantes. .com.br e .app.br livres, .com à venda.",
+   "riscos": "A sílaba tônica pode oscilar (jo-RÉ-va / JO-re-va), e em inglês o J vira \"dj\". Por ser inventado, exige mais investimento para gerar memória.",
+   "media": 7.8,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado (à venda, DNS de marketplace) em 2016-04-15"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 29,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 0
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Joriva",
+     "ocorrencias": []
+    },
+    {
+     "variante": "Jureva",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 3,
+   "disponibilidade_digital": 10
+  },
+  {
+   "nome": "Ubiro",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    8,
+    8,
+    8,
+    7,
+    8,
+    7
+   ],
+   "var": [
+    "Uviro",
+    "Obiro"
+   ],
+   "conceito": "Curto, começa por vogal e remete a \"ubíquo\": o negócio acessível de qualquer lugar (celular, navegador, notificações). Associação de posicionamento.",
+   "personalidade": "Ágil, moderna, prática, onipresente sem ser invasiva.",
+   "mercado": "Nenhuma empresa, software ou app com o nome exato. Nomes vizinhos sem conflito direto: Ubio (ub.io, automação B2B, Reino Unido), Ubiko (imóveis, Venezuela) e UBII (serviços).",
+   "urls": [
+    "https://www.crunchbase.com/organization/ub",
+    "https://play.google.com/store/apps/details?id=ve.com.ubiko.app"
+   ],
+   "vantagens": "Duas letras-chave (U, B) ótimas para ícone; pronúncia igual em PT/ES/EN; .com.br e .app.br livres; nenhuma semelhante ativa ≥ 92% nas classes centrais.",
+   "riscos": "\"HubyPro\" (classe 9, pedido 944499090, 91%) e a família \"Hubio\" (classe 35) estão a uma distância moderada. O sufixo \"-iro\" coincide com o de Caliro (proibido), mas é genérico e a raiz é outra.",
+   "media": 7.7,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2005-02-06"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 44,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 5,
+    "moderado": 4,
+    "baixo": 12
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "944499090",
+     "nome": "HubyPro",
+     "classes": "09",
+     "situacao": "pedido em andamento",
+     "titulares": "SYNTRP TECNOLOGIA LTDA (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "919094643",
+     "nome": "Hubio BioPar",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "AIC REATIVA INDÚSTRIA DE PRODUTOS QUÍMICOS E BIOLÓGICOS EIRELI (BR/MG)",
+     "score": 89,
+     "motivo": "semelhante (89%)"
+    },
+    {
+     "numero": "929801318",
+     "nome": "Hubio Vix",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "ABMPARSPE 02 PARTICIPACOES LTDA (BR/ES)",
+     "score": 89,
+     "motivo": "semelhante (89%)"
+    },
+    {
+     "numero": "931464005",
+     "nome": "Hubio",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "ABMPARSPE 02 PARTICIPACOES LTDA (BR/ES)",
+     "score": 89,
+     "motivo": "semelhante (89%)"
+    },
+    {
+     "numero": "939515504",
+     "nome": "HUBRO",
+     "classes": "09",
+     "situacao": "pedido em andamento",
+     "titulares": "HUDSON RODRIGUES DE ALMEIDA (BR/SP)",
+     "score": 89,
+     "motivo": "semelhante (89%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Uviro",
+     "ocorrencias": [
+      {
+       "numero": "927485990",
+       "nome": "Fluviron",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "JOSÉ EDUARDO ANIBAL EIRELI (BR/SP)",
+       "score": 92
+      }
+     ]
+    },
+    {
+     "variante": "Obiro",
+     "ocorrencias": [
+      {
+       "numero": "903563100",
+       "nome": "O BIRÔ",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "BRW MODAS LTDA - EPP (BR/SP)",
+       "score": 100
+      }
+     ]
+    }
+   ],
+   "ranking": 4,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Zemaro",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    7,
+    8,
+    8,
+    8,
+    8,
+    7
+   ],
+   "var": [
+    "Semaro",
+    "Zemarro"
+   ],
+   "conceito": "Nome inventado com inicial Z, forte e rara, que funciona bem como monograma. Sugere firmeza e precisão.",
+   "personalidade": "Firme, segura, tecnológica sem ser fria.",
+   "mercado": "Sem empresa ou app. Só um repositório público no GitHub (\"ZEMARO\", demonstração de marketplace, zemaro.vercel.app), sem indício de empresa constituída.",
+   "urls": [
+    "https://github.com/merajrok839-ops/ZEMARO"
+   ],
+   "vantagens": "Ótimo ícone (Z); .com.br e .app.br livres; sem marcas semelhantes no software.",
+   "riscos": "ZEMAR concedida nas classes 35 e 25 (vestuário infantil, proc. 907767656/907767869, 91%), sem afinidade com SaaS. Projeto homônimo no GitHub pode ganhar tração.",
+   "media": 7.7,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2014-03-15"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 3654,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 1,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "907767656",
+     "nome": "ZEMAR",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "ZEMAR CONFECÇÕES INFANTIS LTDA. (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Semaro",
+     "ocorrencias": [
+      {
+       "numero": "943886155",
+       "nome": "ApocalypseMaromba",
+       "classes": "35",
+       "situacao": "pedido em andamento",
+       "titulares": "HELIO PEREIRA BARBOSA (BR/SP)",
+       "score": 92
+      }
+     ]
+    },
+    {
+     "variante": "Zemarro",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 5,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Lerano",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    6,
+    8,
+    8,
+    7,
+    8,
+    7
+   ],
+   "var": [
+    "Lirano"
+   ],
+   "conceito": "Nome inventado de som suave e equilibrado; espaço livre para a marca construir a ideia de rotina leve e sob controle.",
+   "personalidade": "Serena, equilibrada, discreta.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Darelo).",
+   "urls": [],
+   "vantagens": "Zero marcas semelhantes ativas no INPI; .com.br e .app.br livres.",
+   "riscos": "Menor memorabilidade (soa genérico); .com registrado desde 2006 com DNS russo (uso não verificado).",
+   "media": 7.4,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2006-08-28"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 1562,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Lirano",
+     "ocorrencias": [
+      {
+       "numero": "926608096",
+       "nome": "LIGRANO PRODUTOS NATURAIS E SUPLEMENTOS",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "LIVIA GRANJA DAMASCENO 61856304353 (BR/CE)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 6,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Larimo",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    7,
+    8,
+    8,
+    7,
+    7,
+    7
+   ],
+   "var": [
+    "Larino"
+   ],
+   "conceito": "Nome inventado com eco de \"lar\": o lugar onde o negócio está em ordem.",
+   "personalidade": "Acolhedora, familiar, confiável.",
+   "mercado": "Nenhuma empresa, software ou app encontrado.",
+   "urls": [],
+   "vantagens": ".com.br e .app.br livres; semelhantes apenas distantes.",
+   "riscos": "LARIO concedida na classe 9 (Dover Europe, instrumentos de medição, proc. 909816980, 91%) e LARIMOON na 35 (boutique, 92%); afinidade baixa.",
+   "media": 7.4,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2009-07-10"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 354,
+   "inpi_por_nivel": {
+    "crítico": 1,
+    "alto": 7,
+    "moderado": 1,
+    "baixo": 6
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "932828540",
+     "nome": "LARIMOON BOUTIQUE",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "51.751.813 DANILA OLIVEIRA ME (BR/SP)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "909816980",
+     "nome": "LARIO",
+     "classes": "09",
+     "situacao": "concedido",
+     "titulares": "DOVER EUROPE SÁRL (CH/)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "501538564",
+     "nome": "MINI LARIO",
+     "classes": "02,07,09,11",
+     "situacao": "concedido",
+     "titulares": "Dover Europe Sàrl (CH/)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "928725995",
+     "nome": "CASA LARIO CL",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "CASA LARIO ENXOVAIS LTDA (BR/ES)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "935150919",
+     "nome": "LAIMO CONSTRUTORA E INCORPORADORA",
+     "classes": "42",
+     "situacao": "concedido",
+     "titulares": "LAIMO CONSTRUTORA E INCORPORADORA LTDA (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Larino",
+     "ocorrencias": [
+      {
+       "numero": "906975450",
+       "nome": "VILARINO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "BERENGUER IMPORTAÇÃO E EXPORTAÇÃO LTDA. (BR/PR)",
+       "score": 92
+      },
+      {
+       "numero": "825710529",
+       "nome": "CLARINOX",
+       "classes": "35",
+       "situacao": "pedido em andamento",
+       "titulares": "CLARINOX INDUSTRIA E COMERCIO LTDA (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "910922632",
+       "nome": "SOLARINO MÓVEIS PROJETADOS",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "R MARQUES SILVA ME (BR/RN)",
+       "score": 92
+      },
+      {
+       "numero": "920641032",
+       "nome": "SOLARINOX",
+       "classes": "09",
+       "situacao": "concedido",
+       "titulares": "EDUARDO JOSÉ LOPES (BR/SP)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 7,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Zaleno",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    7,
+    7,
+    7,
+    8,
+    7,
+    7
+   ],
+   "var": [
+    "Saleno",
+    "Zalena",
+    "Celeno"
+   ],
+   "conceito": "Som próximo de \"zelo\": o cuidado com cada cliente e cada compromisso. Variante preferida de \"Zelano\", que tinha .com.br em uso por empresa.",
+   "personalidade": "Cuidadosa, atenta, prestativa.",
+   "mercado": "Nenhuma empresa, software ou app encontrado. O zaleno.com está em DNS da Afternic (à venda).",
+   "urls": [],
+   "vantagens": "Zero marcas semelhantes ativas ≥ 88% nas classes centrais; .com.br e .app.br livres; .com comprável.",
+   "riscos": "A variante \"Saleno\" (s/z) aproxima-se de SALERNO (35, concedida) e salento (35), ambas de comércio, sem afinidade com software. A família ZELÃO (35, vários titulares) está a distância moderada.",
+   "media": 7.3,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado (à venda, DNS de marketplace) em 2023-03-05"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 29,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Saleno",
+     "ocorrencias": [
+      {
+       "numero": "916839133",
+       "nome": "SALERNO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "LINGUIÇARIA SALERNO RICCO LTDA. - EPP (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "919643213",
+       "nome": "BIA SALERNO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "BIA SALERNO DESIGN DE JOIAS LTDA. (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "932850138",
+       "nome": "CASA DI SALERNO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "ANRAFE PUBLICIDADE VERTICAL LTDA - EPP. (BR/RJ)",
+       "score": 92
+      },
+      {
+       "numero": "935840907",
+       "nome": "salento",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "THIAGO PINTO SANTOS (BR/RS)",
+       "score": 92
+      }
+     ]
+    },
+    {
+     "variante": "Zalena",
+     "ocorrencias": []
+    },
+    {
+     "variante": "Celeno",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 8,
+   "disponibilidade_digital": 10
+  },
+  {
+   "nome": "Teiano",
+   "status": "promissor",
+   "notas": [
+    7,
+    7,
+    8,
+    7,
+    8,
+    8,
+    7,
+    7,
+    7
+   ],
+   "var": [
+    "Deiano",
+    "Taiano"
+   ],
+   "conceito": "Remete a \"teia\": a rede que conecta clientes, agenda, finanças e comunicação num só lugar.",
+   "personalidade": "Conectora, colaborativa, organizada.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Tinaro).",
+   "urls": [],
+   "vantagens": "Conceito claro de integração; zero marcas semelhantes ativas, inclusive variantes; .com.br e .app.br livres.",
+   "riscos": "Pronúncia pode variar (tei-A-no / te-I-a-no); \"teia\" também evoca \"armadilha\", o que exige direção de marca cuidadosa.",
+   "media": 7.3,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2018-10-25"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 335,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 2
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Deiano",
+     "ocorrencias": [
+      {
+       "numero": "917973925",
+       "nome": "MAJOR & DEIZANO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "JULIANO OLIVEIRA DA NOBREGA (BR/PB)",
+       "score": 92
+      }
+     ]
+    },
+    {
+     "variante": "Taiano",
+     "ocorrencias": [
+      {
+       "numero": "944807658",
+       "nome": "Taliano",
+       "classes": "39",
+       "situacao": "pedido em andamento",
+       "titulares": "60.572.061 GABRIEL FIGUEIRA DE OLIVEIRA (BR/SP)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 9,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Fenaro",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    7,
+    7,
+    7,
+    8,
+    7,
+    7
+   ],
+   "var": [
+    "Venaro",
+    "Phenaro"
+   ],
+   "conceito": "Som de nome próprio latino, sóbrio e profissional; abre espaço para a ideia de farol, de guia (associação de posicionamento).",
+   "personalidade": "Sóbria, profissional, orientadora.",
+   "mercado": "Nenhuma empresa ou software. Ocorrência só de sobrenome (Fenara) em diretório italiano.",
+   "urls": [
+    "https://www.dnb.com/business-directory/company-profiles.reiser_srl.fb3612f97b542c4cf18aa74b731b91b9.html"
+   ],
+   "vantagens": ".com.br e .app.br livres; nenhuma semelhante ativa ≥ 92% em 9/42.",
+   "riscos": "VENARO (f/v) tem pedido na classe 35 para comércio de alimentos (proc. 934578508); FENAGRO (35, pedido). Afinidade baixa, mas a semelhança fonética exige parecer.",
+   "media": 7.3,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2014-07-26"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 1586,
+   "inpi_por_nivel": {
+    "crítico": 1,
+    "alto": 0,
+    "moderado": 1,
+    "baixo": 4
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "828561273",
+     "nome": "FENAGRO",
+     "classes": "35",
+     "situacao": "pedido em andamento",
+     "titulares": "EMPRESA EDITORA A TARDE S A (BR/BA)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Venaro",
+     "ocorrencias": [
+      {
+       "numero": "934578508",
+       "nome": "VENARO",
+       "classes": "35",
+       "situacao": "pedido em andamento",
+       "titulares": "VENARO COMÉRCIO DE ALIMENTOS LTDA (BR/RS)",
+       "score": 100
+      },
+      {
+       "numero": "930382498",
+       "nome": "VENAGRO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "AGROPECUARIA SAO GABRIEL LTDA (BR/ES)",
+       "score": 92
+      }
+     ]
+    },
+    {
+     "variante": "Phenaro",
+     "ocorrencias": [
+      {
+       "numero": "828561273",
+       "nome": "FENAGRO",
+       "classes": "35",
+       "situacao": "pedido em andamento",
+       "titulares": "EMPRESA EDITORA A TARDE S A (BR/BA)",
+       "score": 92
+      },
+      {
+       "numero": "828561281",
+       "nome": "FENAGRO",
+       "classes": "41",
+       "situacao": "pedido em andamento",
+       "titulares": "EMPRESA EDITORA A TARDE S A (BR/BA)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 10,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Nirelo",
+   "status": "promissor",
+   "notas": [
+    7,
+    8,
+    8,
+    6,
+    8,
+    8,
+    7,
+    7,
+    6
+   ],
+   "var": [
+    "Niredo"
+   ],
+   "conceito": "Nome inventado, leve e fluido; sugere algo que funciona sem atrito.",
+   "personalidade": "Leve, simples, fluida.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Sarelo/Relano).",
+   "urls": [],
+   "vantagens": "Sem semelhantes relevantes no INPI; .com.br e .app.br livres.",
+   "riscos": "Memorabilidade e adequação a SaaS medianas. Niello Motoparts (35, pedido, 91%) a distância baixa.",
+   "media": 7.2,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2025-07-06"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 212,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 1,
+    "moderado": 0,
+    "baixo": 0
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "941966380",
+     "nome": "Niello Motoparts",
+     "classes": "35",
+     "situacao": "pedido em andamento",
+     "titulares": "NIELLO MOTOPARTS LTDA (BR/BA)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Niredo",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 11,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Zimeno",
+   "status": "promissor",
+   "notas": [
+    6,
+    8,
+    8,
+    6,
+    8,
+    8,
+    7,
+    7,
+    6
+   ],
+   "var": [
+    "Simeno"
+   ],
+   "conceito": "Nome inventado com inicial Z, de leitura direta.",
+   "personalidade": "Objetiva, técnica, direta.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Dirano). O zimeno.com está em DNS da Afternic (à venda).",
+   "urls": [],
+   "vantagens": "Zero marcas semelhantes ativas, inclusive variantes; .com.br e .app.br livres; .com comprável.",
+   "riscos": "Lembra os sobrenomes espanhóis Gimeno e Jimeno; sonoridade menos calorosa.",
+   "media": 7.1,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado (à venda, DNS de marketplace) em 2015-07-20"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 61,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Simeno",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 12,
+   "disponibilidade_digital": 10
+  },
+  {
+   "nome": "Dirano",
+   "status": "promissor",
+   "notas": [
+    6,
+    8,
+    8,
+    6,
+    7,
+    8,
+    7,
+    7,
+    6
+   ],
+   "var": [
+    "Tirano"
+   ],
+   "conceito": "Nome inventado com eco de \"direção\" (associação de posicionamento).",
+   "personalidade": "Direta, decidida.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Zimeno).",
+   "urls": [],
+   "vantagens": ".com.br e .app.br livres; sem semelhantes relevantes no INPI.",
+   "riscos": "A variante t/d \"Tirano\" tem conotação negativa e marca na classe 41 (Tirano X). Personalidade fraca.",
+   "media": 7,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2011-10-04"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 566,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 1,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "935824537",
+     "nome": "IMPÉRIO DIANO",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "LUCAS GOMES CUNHA (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Tirano",
+     "ocorrencias": [
+      {
+       "numero": "927061473",
+       "nome": "Tirano X",
+       "classes": "41",
+       "situacao": "concedido",
+       "titulares": "DIOGO VALERIO SEMAIM (BR/PR)",
+       "score": 99
+      },
+      {
+       "numero": "906713080",
+       "nome": "TIRANDO LEITE DE PEDRA",
+       "classes": "38",
+       "situacao": "concedido",
+       "titulares": "Rádio e Televisão Record S/A (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "906713021",
+       "nome": "TIRANDO LEITE DE PEDRA",
+       "classes": "41",
+       "situacao": "concedido",
+       "titulares": "Rádio e Televisão Record S/A (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "820923176",
+       "nome": "TIRANDO DE LETRA",
+       "classes": "41",
+       "situacao": "pedido em andamento",
+       "titulares": "FUNDAÇÃO ROBERTO MARINHO (BR/RJ)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 13,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Relano",
+   "status": "promissor",
+   "notas": [
+    6,
+    8,
+    7,
+    6,
+    7,
+    7,
+    7,
+    7,
+    6
+   ],
+   "var": [
+    "Rilano"
+   ],
+   "conceito": "Nome de som hispânico, sugere \"relação\" (relacionamento com clientes).",
+   "personalidade": "Relacional, próxima.",
+   "mercado": "Sem empresa ou software. Na App Store, aparece apenas como sobrenome de uma desenvolvedora (Leticia Rodriguez Relano), em apps sem relação.",
+   "urls": [],
+   "vantagens": ".com.br e .app.br livres; semelhantes apenas distantes.",
+   "riscos": "É sobrenome espanhol (Relaño) e lembra \"relleno\" (recheio) em espanhol; ARELANO (42, construtora, 92%) a distância moderada.",
+   "media": 6.8,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2000-01-16"
+   },
+   "app_store": [
+    {
+     "loja": "BR",
+     "app": "NitorFit | Bloquea Apps",
+     "desenvolvedor": "LETICIA RODRIGUEZ RELANO"
+    },
+    {
+     "loja": "BR",
+     "app": "Survikit: Kit de Emergencia",
+     "desenvolvedor": "LETICIA RODRIGUEZ RELANO"
+    },
+    {
+     "loja": "US",
+     "app": "NitorFit | Digital Detox",
+     "desenvolvedor": "LETICIA RODRIGUEZ RELANO"
+    },
+    {
+     "loja": "US",
+     "app": "Survikit: Emergency Kit",
+     "desenvolvedor": "LETICIA RODRIGUEZ RELANO"
+    }
+   ],
+   "inpi_total_semelhantes": 154,
+   "inpi_por_nivel": {
+    "crítico": 2,
+    "alto": 1,
+    "moderado": 1,
+    "baixo": 2
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "904816753",
+     "nome": "ARELANO",
+     "classes": "42",
+     "situacao": "concedido",
+     "titulares": "ARELLANO LORCA CONSTRUTORA E INCORPORADORA LTDA (BR/GO)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "904816389",
+     "nome": "ARELANO",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "ARELLANO LORCA CONSTRUTORA E INCORPORADORA LTDA (BR/GO)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "937144797",
+     "nome": "CONDIMENTOS E ESPECIARIAS REANO",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "LUIS CARLOS MURONI (PRODUTOS ALIMENTÍCIOS REANO) (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Rilano",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 14,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Teluma",
+   "status": "pendências",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    8,
+    7,
+    8,
+    8,
+    8
+   ],
+   "var": [
+    "Deluma",
+    "Teloma"
+   ],
+   "conceito": "Som luminoso e macio (eco de \"lume\", luz), que transmite clareza sobre o próprio negócio.",
+   "personalidade": "Clara, calorosa, inteligente.",
+   "mercado": "Nenhuma empresa, software ou app com o nome exato. O teluma.com existe desde 2000 (titular desconhecido).",
+   "urls": [],
+   "vantagens": "Uma das melhores sonoridades da rodada; .app.br livre; sem marca idêntica.",
+   "riscos": "Tellma concedida na classe 42 (INFO TECNOLOGIA E SISTEMAS, sistemas e IA, proc. 935318887, 91%); IBM TELUM na classe 9 (IBM, proc. 501671446); TELUM CONTABILIDADE na 35 (proc. 921469470). teluma.com.br já registrado (titular oculto no RDAP).",
+   "media": 8.1,
+   "dominios": {
+    "com.br": "registrado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2000-05-13"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 565,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 10,
+    "moderado": 5,
+    "baixo": 9
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "921469470",
+     "nome": "TELUM CONTABILIDADE",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "TELUM CONTABILIDADE LTDA (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "923362304",
+     "nome": "Estúdio Telma Contel",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "TELMA CONTEL ANDREOTTI 29174067800 (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "501671446",
+     "nome": "IBM TELUM",
+     "classes": "09",
+     "situacao": "concedido",
+     "titulares": "International Business Machines Corporation (US/)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "934363900",
+     "nome": "TELMA FARIA",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "TELMA SANTOS PEREIRA FARIA 31892576805 ME (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "934688230",
+     "nome": "Telma Rocha",
+     "classes": "42",
+     "situacao": "concedido",
+     "titulares": "TELMA DE JESUS ROCHA (BR/RS)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Deluma",
+     "ocorrencias": []
+    },
+    {
+     "variante": "Teloma",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 15,
+   "disponibilidade_digital": 3
+  },
+  {
+   "nome": "Tinaro",
+   "status": "pendências",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    7,
+    7,
+    8,
+    8,
+    8
+   ],
+   "var": [
+    "Dinaro"
+   ],
+   "conceito": "Remete a \"tino\": discernimento para tomar boas decisões de agenda, preço e finanças.",
+   "personalidade": "Perspicaz, segura, experiente.",
+   "mercado": "Nenhuma empresa, software ou app encontrado (busca combinada com Teiano).",
+   "urls": [],
+   "vantagens": "Conceito forte e brasileiro; .com.br e .app.br livres.",
+   "riscos": "TYARO concedida na classe 42 (consultoria em TI, proc. 921075545, 91%) e TÍNDARO concedida na 35 (titular do ramo de manutenção de redes, proc. 912190442, 92%).",
+   "media": 8,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2014-04-15"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 1186,
+   "inpi_por_nivel": {
+    "crítico": 4,
+    "alto": 1,
+    "moderado": 3,
+    "baixo": 4
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "912190442",
+     "nome": "TÍNDARO",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "HS SERVIÇO DE MANUTENÇÃO DE REDES EM TECNOLOGIA DA INFORMAÇÃO LTDA. ME. (BR/SP)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "912190884",
+     "nome": "TÍNDARO",
+     "classes": "42",
+     "situacao": "concedido",
+     "titulares": "HS SERVIÇO DE MANUTENÇÃO DE REDES EM TECNOLOGIA DA INFORMAÇÃO LTDA. ME. (BR/SP)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "944386261",
+     "nome": "CARNES MATINARO",
+     "classes": "35",
+     "situacao": "pedido em andamento",
+     "titulares": "HOENES COMERCIO DE CARNES LTDA (BR/SC)",
+     "score": 92,
+     "motivo": "contém o nome"
+    },
+    {
+     "numero": "933978553",
+     "nome": "TÍNDARO",
+     "classes": "39",
+     "situacao": "concedido",
+     "titulares": "TINDARO AGENCIA MARITIMA LTDA (BR/AM)",
+     "score": 92,
+     "motivo": "semelhante (92%)"
+    },
+    {
+     "numero": "921075545",
+     "nome": "TYARO",
+     "classes": "42",
+     "situacao": "concedido",
+     "titulares": "PAULO SERGIO RANGEL GARCIA (BR/SP)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Dinaro",
+     "ocorrencias": [
+      {
+       "numero": "907103146",
+       "nome": "DINAGRO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "DINAGRO AGROPECUÁRIA LTDA (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "907103081",
+       "nome": "DINAGRO",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "DINAGRO AGROPECUÁRIA LTDA (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "827543557",
+       "nome": "DINAGRO",
+       "classes": "35",
+       "situacao": "pedido em andamento",
+       "titulares": "DINAGRO AGRO PECUARIA LTDA (BR/SP)",
+       "score": 92
+      },
+      {
+       "numero": "906794560",
+       "nome": "DINAGRO",
+       "classes": "39",
+       "situacao": "concedido",
+       "titulares": "DINAGRO AGROPECUÁRIA LTDA (BR/SP)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 16,
+   "disponibilidade_digital": 8
+  },
+  {
+   "nome": "Zenara",
+   "status": "pendências",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    7,
+    7,
+    8,
+    8,
+    7
+   ],
+   "var": [
+    "Senara"
+   ],
+   "conceito": "Eco de \"zen\": tranquilidade de ter tudo organizado.",
+   "personalidade": "Calma, equilibrada, moderna.",
+   "mercado": "Na App Store existe um app \"Zenara\" (Zengnia) e outro \"Zenara Shop\". Na web, nenhum software de gestão.",
+   "urls": [],
+   "vantagens": "Ótima sonoridade; zero marcas semelhantes no INPI; .app.br livre.",
+   "riscos": "Apps homônimos na App Store (categoria a confirmar); zenara.com.br registrado em 07/2026 por pessoa física.",
+   "media": 7.9,
+   "dominios": {
+    "com.br": "registrado em 2026-07-29 — titular: Sandro Viegas da Silva",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2018-09-19"
+   },
+   "app_store": [
+    {
+     "loja": "BR",
+     "app": "Zenara",
+     "desenvolvedor": "Zengnia"
+    },
+    {
+     "loja": "BR",
+     "app": "Zenara Shop",
+     "desenvolvedor": "Saul Levy"
+    },
+    {
+     "loja": "US",
+     "app": "Zenara",
+     "desenvolvedor": "Zengnia"
+    },
+    {
+     "loja": "US",
+     "app": "Zenara Shop",
+     "desenvolvedor": "Saul Levy"
+    }
+   ],
+   "inpi_total_semelhantes": 175,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 0,
+    "baixo": 0
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Senara",
+     "ocorrencias": [
+      {
+       "numero": "937211800",
+       "nome": "SENSARA",
+       "classes": "35",
+       "situacao": "concedido",
+       "titulares": "SMARTCOM LTDA (BR/MG)",
+       "score": 92
+      }
+     ]
+    }
+   ],
+   "ranking": 17,
+   "disponibilidade_digital": 3
+  },
+  {
+   "nome": "Lealma",
+   "status": "pendências",
+   "notas": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    7,
+    8,
+    6,
+    8
+   ],
+   "var": [
+    "Lialma"
+   ],
+   "conceito": "Junção de \"leal\" e \"alma\": confiança e cuidado no atendimento.",
+   "personalidade": "Leal, humana, próxima.",
+   "mercado": "Sem empresa ou app com o nome exato. Leal Apps (desenvolvedora brasileira) é nome vizinho.",
+   "urls": [
+    "https://www.zoominfo.com/c/leal-apps/542196234"
+   ],
+   "vantagens": "Conceito de confiança muito claro em português; .com.br e .app.br livres.",
+   "riscos": "LEALA GESTÃO REMOTA concedida na classe 35 para administração de empresas e apoio administrativo (proc. 933289626, 91%), com afinidade real. Fora do português o conceito se perde.",
+   "media": 7.7,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2004-03-29"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 930,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 2,
+    "moderado": 0,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [
+    {
+     "numero": "933289626",
+     "nome": "LEALA GESTÃO REMOTA",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "JALUZA MAZZONETTO DE TOLEDO LIBRELON (BR/DF)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    },
+    {
+     "numero": "937433195",
+     "nome": "LEALA",
+     "classes": "35",
+     "situacao": "concedido",
+     "titulares": "JALUZA MAZZONETTO DE TOLEDO LIBRELON (BR/DF)",
+     "score": 91,
+     "motivo": "semelhante (91%)"
+    }
+   ],
+   "inpi_variantes": [
+    {
+     "variante": "Lialma",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 18,
+   "disponibilidade_digital": 8
+  }
+ ],
+ "descartados": [
+  {
+   "nome": "Agilo",
+   "categoria": "conflito no INPI",
+   "motivo": "AGILOFT (9) e família ÁGIL"
+  },
+  {
+   "nome": "Aldora",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ALDORA concedida na classe 35 (proc. 910419523)"
+  },
+  {
+   "nome": "Amelo",
+   "categoria": "conflito no INPI",
+   "motivo": "AMELLO (35) fonética idêntica"
+  },
+  {
+   "nome": "Ardena",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família GARDENA/CARDENA (1.845 ocorrências ativas); lembra \"arde\""
+  },
+  {
+   "nome": "Arvelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família MARVELOUS (classe 9) e sobrenome comum"
+  },
+  {
+   "nome": "Avela",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Igual a \"avelã\" (centenas de marcas)"
+  },
+  {
+   "nome": "Belano",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica BELANO (35)"
+  },
+  {
+   "nome": "Belaro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica BELARO concedida na classe 9"
+  },
+  {
+   "nome": "Belumo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; BELLUM (35)"
+  },
+  {
+   "nome": "Belvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica BELVO concedida na classe 42 (Belvo Technologies, fintech)"
+  },
+  {
+   "nome": "Bimaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca"
+  },
+  {
+   "nome": "Brenzo",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Apps \"Brenzo\" de dois desenvolvedores na App Store; Breeno (42)"
+  },
+  {
+   "nome": "Brivo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica BRIVO (35) e BRIVO ARQUITETURA (42)"
+  },
+  {
+   "nome": "Brumo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família BRUMON (Brumon Tecnologia, classe 9)"
+  },
+  {
+   "nome": "Cadivo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica CADIVÓ (35)"
+  },
+  {
+   "nome": "Cavro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca (cavar/carro); 678 ocorrências ativas"
+  },
+  {
+   "nome": "Celaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"claro\" (Claro S.A.)"
+  },
+  {
+   "nome": "Clarea",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica CLAREA concedida na classe 35"
+  },
+  {
+   "nome": "Coravo",
+   "categoria": "conflito no INPI",
+   "motivo": "Próximo de Corvia/Orvia; Coravox (9, pedido, 92%)"
+  },
+  {
+   "nome": "Corvia",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Derivação de Orvia (terminação -via)"
+  },
+  {
+   "nome": "Curano",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"curando\" (conotação médica)"
+  },
+  {
+   "nome": "Dalira",
+   "categoria": "conflito no INPI",
+   "motivo": "DalLira (35) e família DÁLIA"
+  },
+  {
+   "nome": "Daluma",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca DALUMA (35, várias)"
+  },
+  {
+   "nome": "Dalumo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; DALU MODAS (35)"
+  },
+  {
+   "nome": "Dalvo",
+   "categoria": "conflito no INPI",
+   "motivo": "ADALVO / ADALVO+ concedidas nas classes 35/42/44 (Adalvo Ltd.)"
+  },
+  {
+   "nome": "Damira",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica Damira (classe 35, pedido 945639503)"
+  },
+  {
+   "nome": "Dantro",
+   "categoria": "conflito no INPI",
+   "motivo": "Foneticamente próximo de \"dentro\": DENTRO concedida nas classes 35 e 42 (procs. 913313459 e 931691087)"
+  },
+  {
+   "nome": "Darelo",
+   "categoria": "conflito no INPI",
+   "motivo": "TARELLO concedida nas classes 42 (software) e 9 (app), procs. 922974233 e 923830790, diferença só d/t"
+  },
+  {
+   "nome": "Daveno",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Derivação de Tavena (nome proibido): mesmas consoantes V-N"
+  },
+  {
+   "nome": "Davira",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Próximo de Avora (proibido); DAIRA/DAVYA (35)"
+  },
+  {
+   "nome": "Dialo",
+   "categoria": "conflito no INPI",
+   "motivo": "diálo tecnologia concedida na classe 42"
+  },
+  {
+   "nome": "Dimara",
+   "categoria": "conflito no INPI",
+   "motivo": "DIMARAPA (9) e família DIMAR"
+  },
+  {
+   "nome": "Doluma",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca (\"dó\")"
+  },
+  {
+   "nome": "Domara",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "SaaS homônimo de gestão de imóveis (Domara, domara.rent, no Capterra); DOMARIA (39, concedida, 92%)"
+  },
+  {
+   "nome": "Dorvan",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Derivação de Orvia (nome proibido): contém \"orv\""
+  },
+  {
+   "nome": "Dovra",
+   "categoria": "conflito no INPI",
+   "motivo": "Lê-se como \"dobra\" (b/v); DOVERA (35, pedido)"
+  },
+  {
+   "nome": "Elano",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ELANO (35)"
+  },
+  {
+   "nome": "Elumo",
+   "categoria": "conflito no INPI",
+   "motivo": "Celumo (OPPO, classe 9) e ELUMEO (35)"
+  },
+  {
+   "nome": "Esmera",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ESMERA (35) e AGÊNCIA esmera (42)"
+  },
+  {
+   "nome": "Faleno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"fallen\"; FALENIO (35)"
+  },
+  {
+   "nome": "Faluno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; Fauno (35)"
+  },
+  {
+   "nome": "Fenara",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Variante preterida de Fenaro: fenara.com.br ocupado e FENDAARA (42, pedido, 92%)"
+  },
+  {
+   "nome": "Fenelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"fenol\""
+  },
+  {
+   "nome": "Fidaro",
+   "categoria": "conflito no INPI",
+   "motivo": "FITARO SOLUÇÕES EM SAÚDE concedida na classe 42 para SaaS (proc. 917193881), diferença só t/d; fidaro.com.br ocupado"
+  },
+  {
+   "nome": "Fidena",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "fidena.com.br pertence à DATACREDITO (dados de crédito); FIDENZA (35)"
+  },
+  {
+   "nome": "Fiora",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica FIORA (35) e FIORA IC (42, pedido)"
+  },
+  {
+   "nome": "Firmano",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Quase igual a Firmao (CRM no mercado); firmano.com.br ocupado"
+  },
+  {
+   "nome": "Fluma",
+   "categoria": "conflito no INPI",
+   "motivo": "AGÊNCIA FLUMA (35) e família FLUA"
+  },
+  {
+   "nome": "Galivo",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Derivação de Caliro (C/G, R/V)"
+  },
+  {
+   "nome": "Galtor",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade dura; família GATOR (Host Gator, classe 42) a 91%"
+  },
+  {
+   "nome": "Gemara",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Termo religioso (comentário do Talmude)"
+  },
+  {
+   "nome": "Gestra",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica GESTRA AG concedida nas classes 9/42 e GESTRA na 35"
+  },
+  {
+   "nome": "Gilaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; GIARO (35)"
+  },
+  {
+   "nome": "Halvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Foneticamente igual a \"alvo\", palavra comum (centenas de marcas ativas nas classes 35/42)"
+  },
+  {
+   "nome": "Ilaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família VILARO/Cilaro (35)"
+  },
+  {
+   "nome": "Ilumo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ILUMO (35) e ILLUMIO (42)"
+  },
+  {
+   "nome": "Ilvano",
+   "categoria": "conflito no INPI",
+   "motivo": "SILVANO (vários, inclusive na classe 39), 92%"
+  },
+  {
+   "nome": "Itaro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ITARO (35); FITARO (42)"
+  },
+  {
+   "nome": "Ivaro",
+   "categoria": "conflito no INPI",
+   "motivo": "ZIVARO (9) e VIVARO (35)"
+  },
+  {
+   "nome": "Jalumo",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "JAUMO (classe 9, app de encontros)"
+  },
+  {
+   "nome": "Jarina",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca JARINA (35)"
+  },
+  {
+   "nome": "Jumaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; Jumar (35)"
+  },
+  {
+   "nome": "Kaliva",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Marca idêntica Kaliva (35) e próxima de Caliro (proibido)"
+  },
+  {
+   "nome": "Kelano",
+   "categoria": "conflito no INPI",
+   "motivo": "CELANO concedida na classe 42 (fonética idêntica)"
+  },
+  {
+   "nome": "Kemara",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; 679 ocorrências ativas"
+  },
+  {
+   "nome": "Kevro",
+   "categoria": "uso de mercado / domínio",
+   "motivo": ".com.br e .app.br ocupados; K artificial; som de \"quero\""
+  },
+  {
+   "nome": "Kova",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica Kôva (35) e COVA/Kowa (classe 9), fonética idêntica"
+  },
+  {
+   "nome": "Lavaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"lavar\"; Lavro (35)"
+  },
+  {
+   "nome": "Lavira",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica LAVIRA (classe 35, pedido)"
+  },
+  {
+   "nome": "Lemara",
+   "categoria": "conflito no INPI",
+   "motivo": "LEMMARA concedida na classe 39 (fonética idêntica, proc. 830576657)"
+  },
+  {
+   "nome": "Lemio",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; família LEMI/LEMO"
+  },
+  {
+   "nome": "Lirvo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Confunde-se com \"livro\" na escrita; LIVO APP (9) a 89%"
+  },
+  {
+   "nome": "Livano",
+   "categoria": "conflito no INPI",
+   "motivo": "LIVARNO (Lidl) concedida na classe 9, 92%"
+  },
+  {
+   "nome": "Lumaro",
+   "categoria": "conflito no INPI",
+   "motivo": "LUMARIO (9, pedido, 92%) e LLUMAR"
+  },
+  {
+   "nome": "Lumelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; LUMEL (35)"
+  },
+  {
+   "nome": "Lumeno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família LUMEN (233 ocorrências ativas)"
+  },
+  {
+   "nome": "Lumio",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica lumio concedida na classe 9 e LUMIO CRM (42, pedido)"
+  },
+  {
+   "nome": "Lunaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"lunar\" (palavra comum); LUNAR TECNOLOGIA (42)"
+  },
+  {
+   "nome": "Lunelo",
+   "categoria": "conflito no INPI",
+   "motivo": "Lunélo Papelaria (35, pedido)"
+  },
+  {
+   "nome": "Lunera",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica LUNERA concedida na classe 35 (agência de comunicação e marketing)"
+  },
+  {
+   "nome": "Maluno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"aluno\"; MALUNGO (35)"
+  },
+  {
+   "nome": "Marelo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica MARELO (35) e MARELLO MOB (39)"
+  },
+  {
+   "nome": "Mareno",
+   "categoria": "conflito no INPI",
+   "motivo": "Mareeno concedida na classe 9, fonética idêntica"
+  },
+  {
+   "nome": "Marilo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica mariló (35)"
+  },
+  {
+   "nome": "Marvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica MARVO concedida na classe 9"
+  },
+  {
+   "nome": "Mavelo",
+   "categoria": "conflito no INPI",
+   "motivo": "Mavielo concedida na classe 42 e pedido na 9 (92%)"
+  },
+  {
+   "nome": "Melaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"melão\""
+  },
+  {
+   "nome": "Melune",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca"
+  },
+  {
+   "nome": "Merava",
+   "categoria": "conflito no INPI",
+   "motivo": "MERKAVA (35) e Merkkava APP (9/42, pedidos), 92%"
+  },
+  {
+   "nome": "Merivo",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "App \"Merivo: Calorie Tracker\" na App Store e merivo.com.br de agência de marketing (2026)"
+  },
+  {
+   "nome": "Mervel",
+   "categoria": "conflito no INPI",
+   "motivo": "Próximo de Marvel (marca notória) e Merrell"
+  },
+  {
+   "nome": "Miralo",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "MIRAKLO! (Mirakl, plataforma SaaS) e MIRALOGIC (42)"
+  },
+  {
+   "nome": "Mirelo",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Mirelo AI (startup alemã de IA, US$ 41 mi em 2025) e mirelo.com.br ocupado"
+  },
+  {
+   "nome": "Moralo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"moral\""
+  },
+  {
+   "nome": "Navari",
+   "categoria": "conflito no INPI",
+   "motivo": "NAVARRI (35) fonética idêntica; NAVARINI (39)"
+  },
+  {
+   "nome": "Navelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Em inglês evoca \"navel\" (umbigo), prejudica a expansão internacional"
+  },
+  {
+   "nome": "Nelaro",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Próximo de Elora (proibido), troca vocálica"
+  },
+  {
+   "nome": "Neluma",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica NELUMA nas classes 9/42 (A. Raymond, pedido)"
+  },
+  {
+   "nome": "Nexaro",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Apps \"Nexaro\" (Nexaro One B.V., Nexaro Loyalty) e NEXAR (42, Altium)"
+  },
+  {
+   "nome": "Nitaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família NITRO"
+  },
+  {
+   "nome": "Nolvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Próximo de \"novo\" (baixa distintividade, 2.241 ocorrências ativas) e Nolvori (42, pedido)"
+  },
+  {
+   "nome": "Norelo",
+   "categoria": "conflito no INPI",
+   "motivo": "NORELCO (Philips) concedida na classe 9"
+  },
+  {
+   "nome": "Norvel",
+   "categoria": "conflito no INPI",
+   "motivo": "NORVELL CLEAN (35, pedido), fonética idêntica"
+  },
+  {
+   "nome": "Numaro",
+   "categoria": "conflito no INPI",
+   "motivo": "NUMAR concedida na classe 42"
+  },
+  {
+   "nome": "Olvio",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"olvido\" (esquecimento, em espanhol), péssimo para agenda; EVOLVIO (42, pedido)"
+  },
+  {
+   "nome": "Ondara",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ONDARA concedida na classe 35"
+  },
+  {
+   "nome": "Paleno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; paleo (42)"
+  },
+  {
+   "nome": "Palumo",
+   "categoria": "conflito no INPI",
+   "motivo": "PALUMBO (35) e PALMO (42)"
+  },
+  {
+   "nome": "Pamelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Em espanhol \"pomelo/pamelo\" é fruta; sonoridade fraca"
+  },
+  {
+   "nome": "Pelano",
+   "categoria": "conflito no INPI",
+   "motivo": "Pelando (35, portal de ofertas) e família \"plano\""
+  },
+  {
+   "nome": "Pivra",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; família PIRA/PIVA (175 ocorrências ativas)"
+  },
+  {
+   "nome": "Prevo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família PREV (PREVOR e PrevON na classe 9)"
+  },
+  {
+   "nome": "Primeo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família PRIME (5.356 ocorrências ativas)"
+  },
+  {
+   "nome": "Prisma",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Palavra comum, marca idêntica PRISMA (classe 9, pedido)"
+  },
+  {
+   "nome": "Quarno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; 716 ocorrências ativas (Carrano, Carnot)"
+  },
+  {
+   "nome": "Quivra",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica QUIVRA concedida na classe 42 (Quivra Tecnologia Ltda.)"
+  },
+  {
+   "nome": "Ramelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família CARAMELO; K-RAMELO/ZECA RAMELO (35)"
+  },
+  {
+   "nome": "Ramino",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; família ARAMINOX/CARAMINO"
+  },
+  {
+   "nome": "Ravelo",
+   "categoria": "conflito no INPI",
+   "motivo": "RAVELLO concedida na classe 42 (Oracle Ravello Systems), fonética idêntica"
+  },
+  {
+   "nome": "Ressa",
+   "categoria": "conflito no INPI",
+   "motivo": "Contida em milhares de marcas (expressa, impressa, Andressa)"
+  },
+  {
+   "nome": "Ritano",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família SAMARITANO"
+  },
+  {
+   "nome": "Rumeo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família RUMO (Rumo S.A. e muitas outras)"
+  },
+  {
+   "nome": "Sabira",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família SABIÁ (Sábia, classe 42)"
+  },
+  {
+   "nome": "Saluma",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Evoca salume (frios); SALUMAR (35)"
+  },
+  {
+   "nome": "Sarelo",
+   "categoria": "conflito no INPI",
+   "motivo": "SAMRELLO concedida na classe 9 (92%); sonoridade fraca"
+  },
+  {
+   "nome": "Selano",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Selano Health (app de saúde, África do Sul); selano.com.br é de pessoa com esse sobrenome; SELVANO (35)"
+  },
+  {
+   "nome": "Selvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Baixa distintividade (selva/selo: 432 ocorrências ativas); Selvori (35, pedido)"
+  },
+  {
+   "nome": "Serelo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica SERELO (35)"
+  },
+  {
+   "nome": "Serivo",
+   "categoria": "conflito no INPI",
+   "motivo": "Próximo de \"sério\" e SERVO (classe 9)"
+  },
+  {
+   "nome": "Sermelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; SERELO (35)"
+  },
+  {
+   "nome": "Sevra",
+   "categoria": "conflito no INPI",
+   "motivo": "3.107 ocorrências ativas semelhantes (Severa/Serra); baixa distintividade"
+  },
+  {
+   "nome": "Simaro",
+   "categoria": "conflito no INPI",
+   "motivo": "SYMARO (Siemens) concedida na classe 9, fonética idêntica"
+  },
+  {
+   "nome": "Sivano",
+   "categoria": "conflito no INPI",
+   "motivo": "SILVANO (vários, inclusive 39)"
+  },
+  {
+   "nome": "Sorane",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Sorane Negócios e Serviços Ltda. é titular do .com.br; app \"Sorane\" na App Store"
+  },
+  {
+   "nome": "Sorvel",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família \"sorve-\" (sorvete), baixa distintividade"
+  },
+  {
+   "nome": "Taluno",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Qualidade insuficiente: soa como \"t'aluno\" (teu aluno)"
+  },
+  {
+   "nome": "Talvo",
+   "categoria": "conflito no INPI",
+   "motivo": "Próximo de \"alvo\" e \"talvez\"; FORTALVO (42, pedido)"
+  },
+  {
+   "nome": "Tamelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; TAMEL (35)"
+  },
+  {
+   "nome": "Tamiro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica Tamiro (classe 9, pedido)"
+  },
+  {
+   "nome": "Tarelo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica TARELO (35) e TARELLO (42)"
+  },
+  {
+   "nome": "Tarvo",
+   "categoria": "conflito no INPI",
+   "motivo": "TARVOS concedida na classe 42 e na 35"
+  },
+  {
+   "nome": "Teara",
+   "categoria": "conflito no INPI",
+   "motivo": "1.290 ocorrências ativas; Terara (9/42)"
+  },
+  {
+   "nome": "Telano",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; família CASTELANO"
+  },
+  {
+   "nome": "Tenaro",
+   "categoria": "conflito no INPI",
+   "motivo": "TENNARO (35, pedido), fonética idêntica"
+  },
+  {
+   "nome": "Tenvo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade fraca; Tenveo (35) e tenowo (42), ambas concedidas"
+  },
+  {
+   "nome": "Teravo",
+   "categoria": "conflito no INPI",
+   "motivo": "TERRAVO (35) fonética; Teravoz (42) e TERAVOLT (9)"
+  },
+  {
+   "nome": "Tessaro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica TESSARO (35) e TESSARO TRAVEL (39)"
+  },
+  {
+   "nome": "Tiramo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"tiramisu/tiramos\"; TIAMO (9)"
+  },
+  {
+   "nome": "Tivano",
+   "categoria": "derivação de nome proibido",
+   "motivo": "Derivação de Tavena (T-V-N); TIVAN (9, Linde)"
+  },
+  {
+   "nome": "Tolano",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Começa com \"tolo\""
+  },
+  {
+   "nome": "Tramio",
+   "categoria": "conflito no INPI",
+   "motivo": "Trampio e Tramo (classe 9, pedidos), 91–92%"
+  },
+  {
+   "nome": "Trevo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Palavra comum, marca idêntica TREVO (classe 9) e Treevo (42)"
+  },
+  {
+   "nome": "Ulmaro",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Qualidade insuficiente (média 6,3): sonoridade pouco natural"
+  },
+  {
+   "nome": "Unira",
+   "categoria": "conflito no INPI",
+   "motivo": "UNYRA (classe 42, pedido), fonética idêntica"
+  },
+  {
+   "nome": "Valeno",
+   "categoria": "conflito no INPI",
+   "motivo": "VALENNO (35) fonética idêntica"
+  },
+  {
+   "nome": "Valmo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Família VALMONT (classes 42/39) e Valmor"
+  },
+  {
+   "nome": "Valto",
+   "categoria": "conflito no INPI",
+   "motivo": "VALTORIA (9) e VALTON (35); sonoridade de \"salto/alto\""
+  },
+  {
+   "nome": "Valuma",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica VALUMA (classe 9, pedido)"
+  },
+  {
+   "nome": "Varina",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"varinha\""
+  },
+  {
+   "nome": "Varo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Palavra comum; VARÔ (35)"
+  },
+  {
+   "nome": "Velaro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica Velaro (classe 9, pedido)"
+  },
+  {
+   "nome": "Velino",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica velino concedida na classe 42 (TK Elevator)"
+  },
+  {
+   "nome": "Velumo",
+   "categoria": "conflito no INPI",
+   "motivo": "VELLUM concedida na classe 42"
+  },
+  {
+   "nome": "Veluno",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Veluno Tech Ltd (empresa de desenvolvimento de software, Crunchbase); veluno.com.br registrado"
+  },
+  {
+   "nome": "Venaro",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica VENARO (classe 35, pedido)"
+  },
+  {
+   "nome": "Venelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"veneno\""
+  },
+  {
+   "nome": "Venzo",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica VENZO (9) e VENZZO (9)"
+  },
+  {
+   "nome": "Vinto",
+   "categoria": "conflito no INPI",
+   "motivo": "VINTOR (42) e VINTORE (9), pedidos; Vinto Adega (35)"
+  },
+  {
+   "nome": "Zaluna",
+   "categoria": "conflito no INPI",
+   "motivo": "Marca idêntica ZALUNA (35)"
+  },
+  {
+   "nome": "Zarvo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Sonoridade áspera; ZAREVO (35) e ZARV (9)"
+  },
+  {
+   "nome": "Zelano",
+   "categoria": "uso de mercado / domínio",
+   "motivo": "Preterido pela variante Zaleno: zelano.com.br em uso por empresa (2025) e família ZELÃO (35)"
+  },
+  {
+   "nome": "Zelvio",
+   "categoria": "conflito no INPI",
+   "motivo": "ZELVO/ZELVI (35) e ZELIO (9, Schneider)"
+  },
+  {
+   "nome": "Zirelo",
+   "categoria": "conflito no INPI",
+   "motivo": "ZIELO concedida na classe 42 para SaaS (proc. 921059760), 91%"
+  },
+  {
+   "nome": "Zorelo",
+   "categoria": "qualidade / palavra comum",
+   "motivo": "Lembra \"orelha\""
+  }
+ ]
+}

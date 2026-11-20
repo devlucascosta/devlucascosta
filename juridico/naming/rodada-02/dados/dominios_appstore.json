@@ -1,0 +1,5700 @@
+{
+ "Zenara": {
+  "dominios": {
+   "zenara.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-07-29T15:57:46Z",
+     "last changed": "2026-08-24T15:27:16Z",
+     "expiration": "2028-07-29T15:57:46Z"
+    },
+    "nameservers": [
+     "ns746.hostgator.com.br",
+     "ns747.hostgator.com.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Sandro Viegas da Silva",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Sandro Viegas da Silva",
+      "handle": "SAVSI123"
+     }
+    ]
+   },
+   "zenara.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zenara.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2018-09-19T18:01:39Z",
+     "expiration": "2032-09-19T18:01:39Z",
+     "last changed": "2022-12-14T12:28:55Z",
+     "last update of RDAP database": "2026-11-20T18:38:42Z"
+    },
+    "nameservers": [
+     "NS13.DOMAINCONTROL.COM",
+     "NS14.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Groupon - Local Deals Near Me",
+    "dev": "Groupon, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/groupon-local-deals-near-me/id352683833?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Amazon Shopping",
+    "dev": "AMZN Mobile LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/amazon-shopping/id297606951?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Word Connect -Jogo de palavras",
+    "dev": "俊威 钟",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/word-connect-jogo-de-palavras/id1269460400?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Emoji Keyboard - Gif Stickers",
+    "dev": "柳 王",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/emoji-keyboard-gif-stickers/id511700298?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Zenara",
+    "dev": "Zengnia",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/zenara/id6811683584?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Zenara Shop",
+    "dev": "Saul Levy",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/zenara-shop/id6785818694?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Walgreens",
+    "dev": "Walgreen Co.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/walgreens/id335364882?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "The Coupons App",
+    "dev": "The Coupons App, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/the-coupons-app/id461062822?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "RewardMe - Compre e Recompense",
+    "dev": "Magic Crystal Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/rewardme-compre-e-recompense/id1523410012?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "KCL: Digital Coupons & Offers",
+    "dev": "Krazy Coupon Lady LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kcl-digital-coupons-offers/id962133447?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Free Stuff Finder - Save Money",
+    "dev": "Simple Life Media, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/free-stuff-finder-save-money/id1438730963?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "PLAYFUL REWARDS: Earn Rewards",
+    "dev": "Playful Rewards",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/playful-rewards-earn-rewards/id1631584032?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "VIE : Video, Images, and Entertainment Polls and Battles",
+    "dev": "Sirqul, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/vie-video-images-and-entertainment-polls-and-battles/id588029735?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Make Receipt - Sign, Print PDF",
+    "dev": "Kanza Ahmad",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/make-receipt-sign-print-pdf/id1608680641?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Estilos de cabelo de princesa",
+    "dev": "Magic Science House",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/estilos-de-cabelo-de-princesa/id1537981505?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "ProjectV",
+    "dev": "Sessia Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/projectv/id1220488838?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "App Deals, Discounts & Offers",
+    "dev": "Maple Media Apps, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/app-deals-discounts-offers/id6504403493?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Spending Budget Tracker",
+    "dev": "洪彬 林",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/spending-budget-tracker/id1247801101?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Coffeecell",
+    "dev": "Sessia Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/coffeecell/id1643537836?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ibotta: Save & Earn Cash Back",
+    "dev": "Ibotta, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ibotta-save-earn-cash-back/id559887125?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zenara Shop",
+    "dev": "Saul Levy",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zenara-shop/id6785818694?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zenara",
+    "dev": "Zengnia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zenara/id6811683584?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KCL: Coupons, Deals, Discounts",
+    "dev": "Krazy Coupon Lady LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kcl-coupons-deals-discounts/id962133447?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fetch: Earn Rewards Every Day",
+    "dev": "Fetch Rewards, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fetch-earn-rewards-every-day/id1182474649?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dollar General-Digital Coupons",
+    "dev": "Dolgencorp, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dollar-general-digital-coupons/id561311442?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Walgreens",
+    "dev": "Walgreen Co.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/walgreens/id335364882?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Rakuten: Cash Back & Deals",
+    "dev": "Rakuten Ebates",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/rakuten-cash-back-deals/id723134859?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "RetailMeNot: Rewards & Codes",
+    "dev": "RetailMeNot, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/retailmenot-rewards-codes/id521207075?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Flipp: Shop Grocery Deals",
+    "dev": "Flipp Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/flipp-shop-grocery-deals/id725097967?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Receipt Hog: Shopping Rewards",
+    "dev": "InfoScout",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Checkout 51: Cash Back Savings",
+    "dev": "Checkout 51 Mobile Apps ULC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/checkout-51-cash-back-savings/id577333970?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Free Stuff Finder - Save Money",
+    "dev": "Simple Life Media, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/free-stuff-finder-save-money/id1438730963?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Upside: Gas & Food Cash Back",
+    "dev": "Upside Services Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/upside-gas-food-cash-back/id1099997174?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "myPurina – Pet Rewards & Care",
+    "dev": "Nestlé Purina Petcare Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mypurina-pet-rewards-care/id1658539065?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Grocery Pal (List & Savings)",
+    "dev": "AisleCat LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/grocery-pal-list-savings/id339684652?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Groupon - Local Deals Near Me",
+    "dev": "Groupon, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/groupon-local-deals-near-me/id352683833?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ShopBack: Cashback & Rewards",
+    "dev": "eCommerce Enablers Pte Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/shopback-cashback-rewards/id1086505626?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TopCashback: Cash Back & Deals",
+    "dev": "TopCashback Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/topcashback-cash-back-deals/id892405674?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The Coupons App",
+    "dev": "The Coupons App, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-coupons-app/id461062822?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ATLAS:EARTH: Collect Places",
+    "dev": "Atlas Reality, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atlas-earth-collect-places/id1567636697?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Emoji Keyboard - Gif Stickers",
+    "dev": "柳 王",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/emoji-keyboard-gif-stickers/id511700298?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Target: Shop. Style. Save.",
+    "dev": "Target",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/target-shop-style-save/id297430070?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pogo: Earn Cash & Rewards",
+    "dev": "Pogo Technologies",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pogo-earn-cash-rewards/id1509325230?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "CoinOut: Receipts for Rewards",
+    "dev": "CoinOut",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/coinout-receipts-for-rewards/id942370264?uo=4"
+   }
+  ]
+ },
+ "Joreva": {
+  "dominios": {
+   "joreva.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "joreva.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "joreva.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2016-04-15T18:46:51Z",
+     "expiration": "2027-04-15T18:46:51Z",
+     "last changed": "2026-03-31T08:19:04Z",
+     "last update of RDAP database": "2026-11-20T18:38:57Z"
+    },
+    "nameservers": [
+     "NS.BUYDOMAINS.COM",
+     "THIS-DOMAIN-FOR-SALE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Annulet LLC",
+      "handle": "607"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "מעריב",
+    "dev": "The Jerusalem Post",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%9E%D7%A2%D7%A8%D7%99%D7%91/id957859709?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ירושמיים Jerusky",
+    "dev": "Boaz Nechemia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%99%D7%A8%D7%95%D7%A9%D7%9E%D7%99%D7%99%D7%9D-jerusky/id925504632?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Куда Сходить: Парк Атракционов",
+    "dev": "Foresko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%BA%D1%83%D0%B4%D0%B0-%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C-%D0%BF%D0%B0%D1%80%D0%BA-%D0%B0%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2/id6478776486?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Hebrew News חדשות ארה\"ב בעברית",
+    "dev": "Zack Karni",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hebrew-news-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%90%D7%A8%D7%94-%D7%91-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1464958836?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kol HaTorah קול התורה",
+    "dev": "Tache Jache SA de CV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kol-hatorah-%D7%A7%D7%95%D7%9C-%D7%94%D7%AA%D7%95%D7%A8%D7%94/id6802939050?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The Breslov App",
+    "dev": "Breslov Research Institute",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-breslov-app/id1483796097?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Yossi Green Radio",
+    "dev": "Joseph Zweig",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/yossi-green-radio/id1266388535?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "מבשלים ואופים עם רון",
+    "dev": "ron yohananov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%9E%D7%91%D7%A9%D7%9C%D7%99%D7%9D-%D7%95%D7%90%D7%95%D7%A4%D7%99%D7%9D-%D7%A2%D7%9D-%D7%A8%D7%95%D7%9F/id1580695734?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Jommal",
+    "dev": "Samer Lulu",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/jommal/id1104782172?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Job Karov-חיפוש עבודה סביבך",
+    "dev": "job karov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/job-karov-%D7%97%D7%99%D7%A4%D7%95%D7%A9-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%A1%D7%91%D7%99%D7%91%D7%9A/id554610248?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Shana Tova 5777",
+    "dev": "UPPERLIFE",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/shana-tova-5777/id1156854218?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "סרוגים",
+    "dev": "כיכר השבת בע״מ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%A1%D7%A8%D7%95%D7%92%D7%99%D7%9D/id954303028?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The JE Network",
+    "dev": "Joseph Zweig",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-je-network/id1193364352?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "JOFA's Megillat Ruth",
+    "dev": "Jewish Orthodox Feminist Alliance",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/jofas-megillat-ruth/id1463354625?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Carmella - כרמלה",
+    "dev": "Florina Furmanov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/carmella-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94/id1191207634?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "קריופי",
+    "dev": "Meir Yarkoni",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%A7%D7%A8%D7%99%D7%95%D7%A4%D7%99/id6758938935?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Jolanda",
+    "dev": "Miroslav Baudys",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/jolanda/id1081541935?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Radio Jai",
+    "dev": "Michael Vishnevetsky",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/radio-jai/id1354506638?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Jólin",
+    "dev": "Hreinn Sverrisson",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/j%C3%B3lin/id6827197264?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Seder Hayom",
+    "dev": "Yosef-Yitzchak Glogauer",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/seder-hayom/id6796782877?uo=4"
+   }
+  ]
+ },
+ "Merivo": {
+  "dominios": {
+   "merivo.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-04-04T16:38:30Z",
+     "last changed": "2026-04-04T16:40:50Z",
+     "expiration": "2027-04-04T16:38:30Z"
+    },
+    "nameservers": [
+     "ns1.bleet.net.br",
+     "ns2.bleet.net.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "GRUPO BINDEN DE COMUNICACAO E MARKETING DIGITAL LT",
+      "handle": "07636757000115"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Rodrigo do Nascimento Ribeiro",
+      "handle": "RNR68"
+     }
+    ]
+   },
+   "merivo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "merivo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2007-10-07T19:54:45Z",
+     "expiration": "2027-10-07T19:54:45Z",
+     "last changed": "2026-03-15T05:26:33Z",
+     "last update of RDAP database": "2026-11-20T18:38:57Z"
+    },
+    "nameservers": [
+     "NS-CLOUD-A1.GOOGLEDOMAINS.COM",
+     "NS-CLOUD-A2.GOOGLEDOMAINS.COM",
+     "NS-CLOUD-A3.GOOGLEDOMAINS.COM",
+     "NS-CLOUD-A4.GOOGLEDOMAINS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Porkbun LLC",
+      "handle": "1861"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Merivo: Calorie Tracker",
+    "dev": "TouchMenu Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/merivo-calorie-tracker/id6823536794?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Merivo: Calorie Tracker",
+    "dev": "TouchMenu Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/merivo-calorie-tracker/id6823536794?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Theater-Amphitheater of Mérida",
+    "dev": "Miguel Perez Cabezas",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/theater-amphitheater-of-m%C3%A9rida/id944693071?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "kairos - mensajes del destino",
+    "dev": "Rodrigo Oliva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kairos-mensajes-del-destino/id6751867075?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Museu de Mértola",
+    "dev": "Municipio de Mertola",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/museu-de-m%C3%A9rtola/id1568131737?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PeskAMO",
+    "dev": "Francesco Rianna",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/peskamo/id6772815559?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PlanGasto",
+    "dev": "Eduardo Olivo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/plangasto/id6802142382?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Avanza MAD: Sleep Apnea Diary",
+    "dev": "Luca Mezzofranco",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/avanza-mad-sleep-apnea-diary/id6807160866?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cubivo",
+    "dev": "Naif Alosailan",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cubivo/id6835595549?uo=4"
+   }
+  ]
+ },
+ "Zemaro": {
+  "dominios": {
+   "zemaro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zemaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zemaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2014-03-15T11:21:32Z",
+     "expiration": "2027-03-15T11:21:32Z",
+     "last changed": "2025-04-04T17:49:08Z",
+     "last update of RDAP database": "2026-11-20T18:39:12Z"
+    },
+    "nameservers": [
+     "NS1.DNSOWL.COM",
+     "NS2.DNSOWL.COM",
+     "NS3.DNSOWL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NameSilo, LLC",
+      "handle": "1479"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Tu foto con los reyes magos",
+    "dev": "Alejandro Melero Zaballos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tu-foto-con-los-reyes-magos/id949833761?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zerebrez",
+    "dev": "Luis Gomez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zerebrez/id1390899545?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zelia",
+    "dev": "Rogelio Zamora",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zelia/id6759836478?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zoupa",
+    "dev": "Ovidio Jose Mallo Martinez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zoupa/id6800772371?uo=4"
+   }
+  ]
+ },
+ "Fenara": {
+  "dominios": {
+   "fenara.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "inactive"
+    ],
+    "eventos": {
+     "registration": "2024-08-16T11:38:46Z",
+     "last changed": "2026-08-31T14:36:57Z",
+     "expiration": "2026-08-16T11:38:46Z"
+    },
+    "nameservers": [
+     "ns59.domaincontrol.com",
+     "ns60.domaincontrol.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Felipe Costa Ramos",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Felipe Costa Ramos",
+      "handle": "FECRA96"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GODADDY",
+      "handle": "p86"
+     }
+    ]
+   },
+   "fenara.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "fenara.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2008-08-27T18:20:17Z",
+     "expiration": "2028-08-27T18:20:17Z",
+     "last changed": "2026-03-31T09:52:26Z",
+     "last update of RDAP database": "2026-11-20T18:39:12Z"
+    },
+    "nameservers": [
+     "NS1.POWER-DNS.COM",
+     "NS2.POWER-DNS.COM",
+     "NS3.POWER-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Alpine Domains Inc.",
+      "handle": "1432"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Fenda",
+    "dev": "fenda",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fenda/id1192697569?uo=4"
+   }
+  ]
+ },
+ "Fenaro": {
+  "dominios": {
+   "fenaro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "fenaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "fenaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2014-07-26T23:08:08Z",
+     "expiration": "2027-07-26T23:08:08Z",
+     "last changed": "2026-07-20T15:00:56Z",
+     "last update of RDAP database": "2026-11-20T18:39:27Z"
+    },
+    "nameservers": [
+     "KIA.NS.CLOUDFLARE.COM",
+     "TERRY.NS.CLOUDFLARE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NameCheap, Inc.",
+      "handle": "1068"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Fenda",
+    "dev": "fenda",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fenda/id1192697569?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pashatto",
+    "dev": "Kenichiro Takano",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pashatto/id6775653509?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Domara": {
+  "dominios": {
+   "domara.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "domara.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "domara.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2009-02-23T19:06:08Z",
+     "expiration": "2027-02-23T19:06:08Z",
+     "last changed": "2025-10-21T19:29:41Z",
+     "last update of RDAP database": "2026-11-20T18:40:12Z"
+    },
+    "nameservers": [
+     "DNS1.REGISTRAR-SERVERS.COM",
+     "DNS2.REGISTRAR-SERVERS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NameCheap, Inc.",
+      "handle": "1068"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "דבר מלכות - Dvar Malchus",
+    "dev": "DVAR MALCHUS LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%93%D7%91%D7%A8-%D7%9E%D7%9C%D7%9B%D7%95%D7%AA-dvar-malchus/id1098319920?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Domani",
+    "dev": "Editoriale Domani S.p.a.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/domani/id1525186488?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dom Snov",
+    "dev": "ambitas",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dom-snov/id1434719950?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Domarium app",
+    "dev": "Domarium Services s.r.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/domarium-app/id6499212585?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "DOMPRICE express",
+    "dev": "Vlad Koshechkin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/domprice-express/id1450517207?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Plamen Petrov",
+    "dev": "DOBRI DIMOV DOBREV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/plamen-petrov/id6459266287?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Davidov | דוידוב",
+    "dev": "Ilan Slama",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/davidov-%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91/id6823891926?uo=4"
+   }
+  ]
+ },
+ "Ubiro": {
+  "dominios": {
+   "ubiro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "ubiro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "ubiro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2005-02-06T07:12:09Z",
+     "expiration": "2027-02-06T07:12:09Z",
+     "last changed": "2026-08-01T05:00:16Z",
+     "last update of RDAP database": "2026-11-20T18:41:12Z"
+    },
+    "nameservers": [
+     "JASMINE.NS.CLOUDFLARE.COM",
+     "MILES.NS.CLOUDFLARE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Dotname Korea Corp.",
+      "handle": "1132"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "KW Ubaldini Group",
+    "dev": "KW Ubaldini Group",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kw-ubaldini-group/id1524537354?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Uzcont",
+    "dev": "Sardor Qoriev",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/uzcont/id6443753630?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Okubunu: Yaz, Oku ve Paylaş",
+    "dev": "Utku Sezici",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/okubunu-yaz-oku-ve-payla%C5%9F/id6766499281?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "UBVibe Order",
+    "dev": "wei hei",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ubvibe-order/id6746354292?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nauka Niemieckiego",
+    "dev": "Mustafa Uzun",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nauka-niemieckiego/id6759191772?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "UZIC radio",
+    "dev": "Salvat Suarato",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/uzic-radio/id6757250088?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Birikki.uz",
+    "dev": "Axrorbek Shermatov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/birikki-uz/id6785026734?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Labbe",
+    "dev": "Izzatbek Yokubov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/labbe/id6804516371?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "GPURA",
+    "dev": "Stefan Vukmanovic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gpura/id6779749863?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pintoa",
+    "dev": "Uzoamaka Precious Abia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pintoa/id6795384121?uo=4"
+   }
+  ]
+ },
+ "Brenzo": {
+  "dominios": {
+   "brenzo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "brenzo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "brenzo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2025-10-15T18:33:37Z",
+     "expiration": "2027-10-15T18:33:37Z",
+     "last changed": "2026-09-16T11:04:36Z",
+     "last update of RDAP database": "2026-11-20T18:41:27Z"
+    },
+    "nameservers": [
+     "NS1.BRANDDO.COM",
+     "NS2.BRANDDO.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "TurnCommerce, Inc. DBA NameBright.com",
+      "handle": "1441"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Brenzo - Rutinas Gym Tracker",
+    "dev": "Codi10",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/brenzo-rutinas-gym-tracker/id6770596076?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Brenzo",
+    "dev": "Arber Miftari",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/brenzo/id6824489071?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Brenzo Jazz Radio",
+    "dev": "Kind of Blue",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/brenzo-jazz-radio/id1056893146?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Brenzo - Workout Tracker",
+    "dev": "Codi10",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/brenzo-workout-tracker/id6770596076?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Brenzo Jazz Radio",
+    "dev": "Kind of Blue",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/brenzo-jazz-radio/id1056893146?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Brenzo",
+    "dev": "Arber Miftari",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/brenzo/id6824489071?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Brenz Pizza",
+    "dev": "Brenens Franchise Group, LLc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/brenz-pizza/id6744071308?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Bresciapp!",
+    "dev": "BRESCIA MOBILITA' SPA SOCIETA' METROPOLITANA DI MOBILITA'",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bresciapp/id473205534?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Briscola 10 in 1",
+    "dev": "Marco Gentili",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/briscola-10-in-1/id892828194?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Briscola Italiana",
+    "dev": "Gsoftware srl",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-briscola-italiana/id1343052813?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Giardini Ducali Bovino Puglia",
+    "dev": "Trawellit srl",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/giardini-ducali-bovino-puglia/id1633969979?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ABrescia",
+    "dev": "Editoriale Bresciana S.p.A.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/abrescia/id1498960823?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "STRADA: Serate e percorsi",
+    "dev": "FEDERICO BORCHIA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/strada-serate-e-percorsi/id6797076677?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pizzico: Salva Ricette con AI",
+    "dev": "francesco spagnuolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pizzico-salva-ricette-con-ai/id6814537364?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "SpazioAlessia",
+    "dev": "Dario Bruzzese",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/spazioalessia/id6758357565?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Estrai! with Mago Benny Boy",
+    "dev": "Matteo Maria Beneggi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/estrai-with-mago-benny-boy/id6833924572?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Kevro": {
+  "dominios": {
+   "kevro.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-08-25T15:14:10Z",
+     "last changed": "2026-09-12T23:44:13Z",
+     "expiration": "2030-08-25T15:14:10Z"
+    },
+    "nameservers": [
+     "ns1.digitalocean.com",
+     "ns2.digitalocean.com",
+     "ns3.digitalocean.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "heriberto alves bezerra filho",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "heriberto alves bezerra filho",
+      "handle": "HABFI16"
+     }
+    ]
+   },
+   "kevro.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-09-10T18:32:29Z",
+     "last changed": "2026-09-10T20:24:18Z",
+     "expiration": "2031-09-10T18:32:29Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "heriberto alves bezerra filho",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "heriberto alves bezerra filho",
+      "handle": "HABFI16"
+     }
+    ]
+   },
+   "kevro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "1996-07-25T04:00:00Z",
+     "expiration": "2028-07-24T04:00:00Z",
+     "last changed": "2025-02-19T02:26:50Z",
+     "last update of RDAP database": "2026-11-20T18:41:42Z"
+    },
+    "nameservers": [
+     "NS.UI-GLOBAL-DNS.BIZ",
+     "NS.UI-GLOBAL-DNS.COM",
+     "NS.UI-GLOBAL-DNS.DE",
+     "NS.UI-GLOBAL-DNS.ORG"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Network Solutions, LLC",
+      "handle": "2"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "LockBox: Local Vault",
+    "dev": "Kevro Flost",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/lockbox-local-vault/id6791252603?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kivra",
+    "dev": "Kivra Sverige AB",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kivra/id588705123?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Где Топливо",
+    "dev": "Kirill Konishchev",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%B3%D0%B4%D0%B5-%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE/id6785286893?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Russian Dictionary Wiki Word",
+    "dev": "Nikolay Ketsaris",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/russian-dictionary-wiki-word/id1195607296?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "V1 - חדשות ובידור",
+    "dev": "Keshet Broadcasting Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/v1-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%95%D7%91%D7%99%D7%93%D7%95%D7%A8/id6475302142?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "КОНТУР - Карта шахедів",
+    "dev": "Yevhenii Kravchenko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%BA%D0%BE%D0%BD%D1%82%D1%83%D1%80-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D1%88%D0%B0%D1%85%D0%B5%D0%B4%D1%96%D0%B2/id6819098994?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KarboAI",
+    "dev": "Viktoriya Suvorova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/karboai/id6758021546?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KZ Жаңалықтар",
+    "dev": "Andrey Andrusenko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kz-%D0%B6%D0%B0%D2%A3%D0%B0%D0%BB%D1%8B%D2%9B%D1%82%D0%B0%D1%80/id1061481418?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Job Karov-חיפוש עבודה סביבך",
+    "dev": "job karov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/job-karov-%D7%97%D7%99%D7%A4%D7%95%D7%A9-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%A1%D7%91%D7%99%D7%91%D7%9A/id554610248?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Brova",
+    "dev": "Bulgan Berkhsaikhan",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/brova/id1614114382?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Russian Poem of the Day",
+    "dev": "Nikolay Ketsaris",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/russian-poem-of-the-day/id1228497406?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Новости Харькова",
+    "dev": "Andrey Andrusenko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%85%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0/id1049894227?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Бензокарта",
+    "dev": "Mavr Mavrin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0/id6785305291?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KursGrivni - Курс гривні",
+    "dev": "Yurii Chudnovets",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kursgrivni-%D0%BA%D1%83%D1%80%D1%81-%D0%B3%D1%80%D0%B8%D0%B2%D0%BD%D1%96/id1252677044?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Savdo Объявления",
+    "dev": "Makhmud Aliev",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/savdo-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/id1522844668?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Муушиг оноо",
+    "dev": "Tsogtoo Undur",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%BC%D1%83%D1%83%D1%88%D0%B8%D0%B3-%D0%BE%D0%BD%D0%BE%D0%BE/id6740507066?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "קלוקית",
+    "dev": "Codeo LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%A7%D7%9C%D7%95%D7%A7%D7%99%D7%AA/id1223931842?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Радио",
+    "dev": "Damjan Dimovski",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE/id1001102295?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "תומר דבורה אור החיים",
+    "dev": "Moris Davry",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%AA%D7%95%D7%9E%D7%A8-%D7%93%D7%91%D7%95%D7%A8%D7%94-%D7%90%D7%95%D7%A8-%D7%94%D7%97%D7%99%D7%99%D7%9D/id778542953?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "קריופי",
+    "dev": "Meir Yarkoni",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D7%A7%D7%A8%D7%99%D7%95%D7%A4%D7%99/id6758938935?uo=4"
+   }
+  ]
+ },
+ "Dantro": {
+  "dominios": {
+   "dantro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "dantro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "dantro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2014-04-02T18:34:42Z",
+     "expiration": "2027-04-02T18:34:42Z",
+     "last changed": "2026-03-14T14:46:46Z",
+     "last update of RDAP database": "2026-11-20T18:41:57Z"
+    },
+    "nameservers": [
+     "NS1.RAITORA.COM",
+     "NS2.RAITORA.COM",
+     "NS3.RAITORA.COM",
+     "NS4.RAITORA.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Squarespace Domains LLC",
+      "handle": "3827"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Grotta-Chiesa d'Antro",
+    "dev": "Eye-Tech Srl",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/grotta-chiesa-dantro/id6449352507?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Scopa Dal Negro",
+    "dev": "Digitalmoka Srl",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/scopa-dal-negro/id706034551?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "DANZA&DANZA",
+    "dev": "DNZ MEDIA srlcr",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/danza-danza/id1184237397?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ARIVO",
+    "dev": "Danilo Benda",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/arivo/id6772959367?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dan Connect",
+    "dev": "Dan hotels",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dan-connect/id1613032431?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ColoredMemories",
+    "dev": "Daniel Rigoberto Jacobo Sandoval",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/coloredmemories/id6758964374?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Grotta-Chiesa d'Antro",
+    "dev": "Eye-Tech Srl",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/grotta-chiesa-dantro/id6449352507?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Garajo: mantenimiento coche",
+    "dev": "Daniel-Anoar Picado Barouz",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/garajo-mantenimiento-coche/id6832052457?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tradicionais",
+    "dev": "Dan Studio Apps",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tradicionais/id6477297902?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tonight: What To Do Together",
+    "dev": "Simone Ruggiero",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tonight-what-to-do-together/id6758625847?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Alonga: alongamento diário",
+    "dev": "Evanildo Dagort Junior",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/alonga-alongamento-di%C3%A1rio/id6806063811?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Meobio - Catálogo Digital",
+    "dev": "Lionan Dantas",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/meobio-cat%C3%A1logo-digital/id6817094750?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pizzico: Salva Ricette con AI",
+    "dev": "francesco spagnuolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pizzico-salva-ricette-con-ai/id6814537364?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "MediHora: Lembrete de Remédios",
+    "dev": "DANIEL FILIZOLA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/medihora-lembrete-de-rem%C3%A9dios/id6821947938?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Avanza MAD: Sleep Apnea Diary",
+    "dev": "Luca Mezzofranco",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/avanza-mad-sleep-apnea-diary/id6807160866?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Poço Dantas FM 104.9",
+    "dev": "Carlos Oliveira",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/po%C3%A7o-dantas-fm-104-9/id6657960440?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ritrovo: Group Date Poll",
+    "dev": "Daniel Rheaume",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ritrovo-group-date-poll/id6822750934?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "EmicraniaLog: Migraine Diary",
+    "dev": "antonio manca",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/emicranialog-migraine-diary/id6775202242?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dreametti",
+    "dev": "Danni Le",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dreametti/id6739452212?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Aura - É hora de farmar",
+    "dev": "Daniel Junior Almeida Goncalves",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aura-%C3%A9-hora-de-farmar/id6802429021?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Glymia",
+    "dev": "Leandro Curbelo Cabrera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/glymia/id6824752309?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tararealo: hum to find songs",
+    "dev": "EDWIN MIGUEL PEREZ GONZALEZ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tararealo-hum-to-find-songs/id6819280779?uo=4"
+   }
+  ]
+ },
+ "Larimo": {
+  "dominios": {
+   "larimo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "larimo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "larimo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2009-07-10T19:19:47Z",
+     "expiration": "2028-07-10T19:19:47Z",
+     "last changed": "2026-03-24T18:42:50Z",
+     "last update of RDAP database": "2026-11-20T18:42:27Z"
+    },
+    "nameservers": [
+     "NS1.POWER-DNS.COM",
+     "NS2.POWER-DNS.COM",
+     "NS3.POWER-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Alpine Domains Inc.",
+      "handle": "1432"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "La Lazio Siamo Noi",
+    "dev": "Alessandro Zappulla",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-lazio-siamo-noi/id966262908?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Fidaro": {
+  "dominios": {
+   "fidaro.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-03-16T20:55:55Z",
+     "last changed": "2026-03-17T02:24:37Z",
+     "expiration": "2028-03-16T20:55:55Z"
+    },
+    "nameservers": [
+     "tricia.ns.cloudflare.com",
+     "vin.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Fabio Fagundes Dezan",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Fabio Fagundes Dezan",
+      "handle": "FAFDE9"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NEWFOLD",
+      "handle": "p43"
+     }
+    ]
+   },
+   "fidaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "fidaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2007-04-19T15:23:32Z",
+     "expiration": "2028-04-19T15:23:32Z",
+     "last changed": "2026-11-09T16:02:42Z",
+     "last update of RDAP database": "2026-11-20T18:42:57Z"
+    },
+    "nameservers": [
+     "NS1.NAMEBRIGHTDNS.COM",
+     "NS2.NAMEBRIGHTDNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "TurnCommerce, Inc. DBA NameBright.com",
+      "handle": "1441"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Off Grid AI - Private Local AI",
+    "dev": "Wednesday Solutions, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/off-grid-ai-private-local-ai/id6759299882?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off Grid AI - Private Local AI",
+    "dev": "Wednesday Solutions, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-grid-ai-private-local-ai/id6759299882?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Meshtastic",
+    "dev": "Meshtastic LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/meshtastic/id1586432531?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off The Grid: Companion App",
+    "dev": "Gunzilla",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-the-grid-companion-app/id6479356844?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OffGrid Messenger",
+    "dev": "Prisma Divergente, LDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offgrid-messenger/id6796821473?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kimi - Your Personal AI Agent",
+    "dev": "Moonshot AI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kimi-your-personal-ai-agent/id6474233312?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off The Grid - Survival",
+    "dev": "David Owen",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-the-grid-survival/id6761660496?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Venice AI",
+    "dev": "VENICE.AI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/venice-ai/id6742061900?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Offgrid AI: Offline AI Chat",
+    "dev": "Francisco Gabriel Puga Lojo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offgrid-ai-offline-ai-chat/id6819405146?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Locally AI by LM Studio",
+    "dev": "Element Labs Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/locally-ai-by-lm-studio/id6741426692?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Meta AI",
+    "dev": "Meta Platforms, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/meta-ai/id1558240027?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Canlı Türk TV Kanalları",
+    "dev": "Fatih Deniz Karacali",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/canl%C4%B1-t%C3%BCrk-tv-kanallar%C4%B1/id1275359428?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Private LLM - Local AI Chat",
+    "dev": "Numen Technologies Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/private-llm-local-ai-chat/id6448106860?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fidat Quaero",
+    "dev": "Fidat SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fidat-quaero/id6450996279?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mask - Incognito AI Chat",
+    "dev": "Oyu AI Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mask-incognito-ai-chat/id6747236187?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "EnigmaAI – Anonymous AI Chat",
+    "dev": "Dark Matter Lab",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/enigmaai-anonymous-ai-chat/id6762537025?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OffGrid - Secure Messenger",
+    "dev": "Vetra Labs",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offgrid-secure-messenger/id6749494514?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Saba Motos",
+    "dev": "Saba Global Services LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/saba-motos/id6774001368?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off Grid Ready",
+    "dev": "Devall Holdings LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-grid-ready/id6815910279?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OffGrid: Nearby Chat",
+    "dev": "PSCD TECHNOLOGY DEVELOPMENT COMPANY LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offgrid-nearby-chat/id6791914170?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off-grid - Secure Messenger",
+    "dev": "Adham Qurbonov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-grid-secure-messenger/id6758312989?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Offline AI: Private, Local GPT",
+    "dev": "Writecream",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offline-ai-private-local-gpt/id6748595214?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Off-Grid GPS: Offline Compass",
+    "dev": "David Montanaro Gauci",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/off-grid-gps-offline-compass/id6781737856?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OffGrid : Offline Chat AI",
+    "dev": "Shahzaib Ali",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/offgrid-offline-chat-ai/id6758527067?uo=4"
+   }
+  ]
+ },
+ "Lindaro": {
+  "dominios": {
+   "lindaro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lindaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lindaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2023-02-18T05:37:18Z",
+     "expiration": "2027-02-18T05:37:18Z",
+     "last changed": "2026-02-18T19:03:49Z",
+     "last update of RDAP database": "2026-11-20T18:42:57Z"
+    },
+    "nameservers": [
+     "NS1.LOCAWEB.COM.BR",
+     "NS2.LOCAWEB.COM.BR",
+     "NS3.LOCAWEB.COM.BR"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "eNom, LLC",
+      "handle": "48"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Cassanos",
+    "dev": "Zerappa, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cassanos/id1068247807?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pizzico: Salva Ricette con AI",
+    "dev": "francesco spagnuolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pizzico-salva-ricette-con-ai/id6814537364?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Teluma": {
+  "dominios": {
+   "teluma.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": null,
+    "eventos": {},
+    "nameservers": [],
+    "entidades": []
+   },
+   "teluma.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "teluma.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-05-13T07:55:53Z",
+     "expiration": "2028-05-13T07:55:53Z",
+     "last changed": "2026-05-14T10:19:00Z",
+     "last update of RDAP database": "2026-11-20T18:42:57Z"
+    },
+    "nameservers": [
+     "NS-28458691-2.JOKER-UNUSED.NET",
+     "NS-32355090-2.JOKER-UNUSED.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Moj m:tel",
+    "dev": "MTEL CG",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/moj-m-tel/id1251877918?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Minun Telia",
+    "dev": "Telia Company Oyj",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/minun-telia/id434697268?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Telemach Hrvatska",
+    "dev": "Telemach Hrvatska d.o.o",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telemach-hrvatska/id1382116010?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Telia Norway",
+    "dev": "Telia Norge AS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telia-norway/id382824774?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mitt Telia",
+    "dev": "Telia Sverige AB",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mitt-telia/id434684353?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mano Telia",
+    "dev": "Telia Lietuva, AB",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mano-telia/id724173316?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Moj Telemach BiH",
+    "dev": "United Group B.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/moj-telemach-bih/id1251486570?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Moj Telemach ME",
+    "dev": "United Group B.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/moj-telemach-me/id1248866272?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Bus Pianika Telolet Basuri",
+    "dev": "Bouchaib Ennil",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bus-pianika-telolet-basuri/id6739604059?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TelQuel",
+    "dev": "Telquel",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telquel/id1504054422?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Moj Telekabel",
+    "dev": "DIGIMAK",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/moj-telekabel/id1523104012?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Telkussa",
+    "dev": "Tokavuh Technologies oy",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telkussa/id292921322?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Telia Play LT",
+    "dev": "Telia Lietuva, AB",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telia-play-lt/id1444085737?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Telia ID-Kaitse",
+    "dev": "Telia Eesti AS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/telia-id-kaitse/id1557943107?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "aruma",
+    "dev": "aruma",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aruma/id6670602385?uo=4"
+   }
+  ]
+ },
+ "Zelano": {
+  "dominios": {
+   "zelano.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-07-04T03:05:58Z",
+     "last changed": "2025-07-04T20:02:57Z",
+     "expiration": "2027-07-04T03:05:58Z"
+    },
+    "nameservers": [
+     "d.sec.dns.br",
+     "e.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Isabela Rosa de O. Almeida LTDA",
+      "handle": "22955342000106"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Isabela Rosa de Oliveira Almeida",
+      "handle": "IROAL13"
+     }
+    ]
+   },
+   "zelano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zelano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2002-04-29T21:58:48Z",
+     "expiration": "2032-04-29T21:58:48Z",
+     "last changed": "2023-04-30T15:16:41Z",
+     "last update of RDAP database": "2026-11-20T18:43:12Z"
+    },
+    "nameservers": [
+     "NS65.DOMAINCONTROL.COM",
+     "NS66.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "La Nueva Radio Nelson Zepeda",
+    "dev": "RadioFX",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-nueva-radio-nelson-zepeda/id1573005357?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zerebrez",
+    "dev": "Luis Gomez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zerebrez/id1390899545?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pulso Radio Zina",
+    "dev": "Noel Barrera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pulso-radio-zina/id6444811417?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Corina",
+    "dev": "SIMICART ONLINE TECHNOLOGY COMPANY LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/corina/id1441185547?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "de Flores y Floreros",
+    "dev": "Roas Rocket S.L",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/de-flores-y-floreros/id6692618810?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zelia",
+    "dev": "Rogelio Zamora",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zelia/id6759836478?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fantastick",
+    "dev": "MARCO ZANCANARO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fantastick/id6766198958?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zonilo: ZBE y bajas emisiones",
+    "dev": "Lito arias",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zonilo-zbe-y-bajas-emisiones/id6818110331?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zonavia: ZTL Italy Alerts",
+    "dev": "Oleksandr Voitin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zonavia-ztl-italy-alerts/id6828173525?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Mirelo": {
+  "dominios": {
+   "mirelo.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-04-03T18:26:16Z",
+     "last changed": "2026-03-18T08:23:14Z",
+     "expiration": "2027-04-03T18:26:16Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Everton de Souza",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Everton de Souza",
+      "handle": "EVSOU129"
+     }
+    ]
+   },
+   "mirelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "mirelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2008-03-17T12:22:50Z",
+     "expiration": "2029-03-17T12:22:50Z",
+     "last changed": "2026-10-15T08:40:11Z",
+     "last update of RDAP database": "2026-11-20T18:43:12Z"
+    },
+    "nameservers": [
+     "NS1.POWER-DNS.COM",
+     "NS2.POWER-DNS.COM",
+     "NS3.POWER-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Alpine Domains Inc.",
+      "handle": "1432"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Paint Rapunzel coloring princesses fingerprinting",
+    "dev": "Maria Melero Gonzalez Barandiaran",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/paint-rapunzel-coloring-princesses-fingerprinting/id840804046?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Himnario Melodías Celestiales",
+    "dev": "Hagler Mijail Galindo Potosino",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/himnario-melod%C3%ADas-celestiales/id1632298505?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cronograma Capilar",
+    "dev": "Gramos Berberi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cronograma-capilar/id6791983136?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mirly Studio",
+    "dev": "Mirmuhammad Ikromov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mirly-studio/id6776206200?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Olea: Recuerdos del bebé",
+    "dev": "Jorge Mireles",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/olea-recuerdos-del-beb%C3%A9/id6760954290?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KOD ŠEFA Mirijevo",
+    "dev": "Facilisimo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kod-%C5%A1efa-mirijevo/id6754630701?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Recetio: qué comer hoy",
+    "dev": "Iroda Radjapova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/recetio-qu%C3%A9-comer-hoy/id6794632147?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "What to Make",
+    "dev": "Mirsadra Molaei",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/what-to-make/id6761317679?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Manilva WebSite",
+    "dev": "Opcion5 Desarrollos Tecnologicos SL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/manilva-website/id6810116795?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zolin Corte Clube",
+    "dev": "Trindtech - Talent Development And Technology LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zolin-corte-clube/id6782071922?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "MediHora: Lembrete de Remédios",
+    "dev": "DANIEL FILIZOLA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/medihora-lembrete-de-rem%C3%A9dios/id6821947938?uo=4"
+   }
+  ]
+ },
+ "Zirelo": {
+  "dominios": {
+   "zirelo.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-09-10T03:06:17Z",
+     "last changed": "2026-09-10T03:06:17Z",
+     "expiration": "2027-09-10T03:06:17Z"
+    },
+    "nameservers": [
+     "athena.dns-parking.com",
+     "apollo.dns-parking.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "João Pedro Rodrigues de Assis",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "João Pedro Rodrigues de Assis",
+      "handle": "JPRAS18"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "HSTDOMAINS",
+      "handle": "p127"
+     }
+    ]
+   },
+   "zirelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zirelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2016-12-08T22:51:53Z",
+     "expiration": "2026-12-08T22:51:53Z",
+     "last changed": "2025-12-09T16:17:07Z",
+     "last update of RDAP database": "2026-11-20T18:43:27Z"
+    },
+    "nameservers": [
+     "NS69.DOMAINCONTROL.COM",
+     "NS70.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "زورك | ZORK",
+    "dev": "Zorkfollow",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D8%B2%D9%88%D8%B1%D9%83-zork/id6476979439?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Žalgiris",
+    "dev": "VšĮ \"Žalgirio krepšinio centras\"",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%C5%BEalgiris/id1337578754?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "myZAPP - by ZAHORANSKY",
+    "dev": "Zahoransky",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/myzapp-by-zahoransky/id1542979764?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIEN",
+    "dev": "Zien inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zien/id6475808475?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "BLESS By ZR",
+    "dev": "GRIND WEB STUDIO LTD. OOD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bless-by-zr/id6503608701?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zamplo",
+    "dev": "Zamplo Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zamplo/id1503568766?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZU ZU – Партнёр",
+    "dev": "Zarif Yusupov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zu-zu-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80/id6751636670?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zotzon",
+    "dev": "Zotzon, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zotzon/id6740006565?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zlatiborske Vesti",
+    "dev": "VARIUS DEVELOPMENT DOO BEOGRAD-VOZDOVAC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zlatiborske-vesti/id6741769032?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zlatibor.org",
+    "dev": "Dejan Ristanovic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zlatibor-org/id6760837253?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zagor - Zlatna Serija 10/10",
+    "dev": "Velibor Santic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zagor-zlatna-serija-10-10/id1300140191?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZONGIX",
+    "dev": "GRUPO ZONGIX SL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zongix/id6781464462?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zelia",
+    "dev": "Rogelio Zamora",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zelia/id6759836478?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zagor - Zlatna Serija 6/10",
+    "dev": "Velibor Santic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zagor-zlatna-serija-6-10/id1300089669?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zonilo: ZBE y bajas emisiones",
+    "dev": "Lito arias",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zonilo-zbe-y-bajas-emisiones/id6818110331?uo=4"
+   }
+  ]
+ },
+ "Veluno": {
+  "dominios": {
+   "veluno.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": null,
+    "eventos": {},
+    "nameservers": [],
+    "entidades": []
+   },
+   "veluno.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "veluno.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2018-02-03T19:25:12Z",
+     "expiration": "2027-02-03T19:25:12Z",
+     "last changed": "2026-09-11T23:45:30Z",
+     "last update of RDAP database": "2026-11-20T18:43:27Z"
+    },
+    "nameservers": [
+     "LEONIDAS.NS.CLOUDFLARE.COM",
+     "REZA.NS.CLOUDFLARE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Don Cheto Al Aire",
+    "dev": "HOT 97",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/don-cheto-al-aire/id1281902627?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Uva",
+    "dev": "ML Studio, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/uva/id1020710985?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Velovita Vibe",
+    "dev": "Gara Group Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/velovita-vibe/id1546020462?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TVV",
+    "dev": "Mediablocks LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tvv/id6478448481?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "vzlavirtual",
+    "dev": "Networked",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vzlavirtual/id6615068711?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Vanguardia edición impresa",
+    "dev": "La Vanguardia Ediciones S.L.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-vanguardia-edici%C3%B3n-impresa/id425575893?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Vero marketi",
+    "dev": "VEROPULOS D.O.O.E.L.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vero-marketi/id1179743474?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Velva ND",
+    "dev": "City of Velva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/velva-nd/id6445966998?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "doto.com.mx",
+    "dev": "Comercializadora Systore SA de CV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/doto-com-mx/id1659724492?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Vehicular Notes",
+    "dev": "Marcelo Alves Lima",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vehicular-notes/id1448760961?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Vero Beach Guide · Vero+",
+    "dev": "Mobilogical",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vero-beach-guide-vero/id6795642651?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "vCompanion",
+    "dev": "Ezequiel Leonardo Aceto",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vcompanion/id6814740469?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Verena Russia",
+    "dev": "Magzter Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/verena-russia/id1106276365?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Curata: looks con tu ropa",
+    "dev": "GERMAN DARIO VELOSO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/curata-looks-con-tu-ropa/id6798792338?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ILUSTRE",
+    "dev": "Juan Camilo Vergara",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ilustre/id6478176324?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veneto24",
+    "dev": "GIVE EMOTIONS S.R.L.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veneto24/id6461416386?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mis Fechas",
+    "dev": "Car Center International SAS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mis-fechas/id6738750482?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NOW: Una cosa a la vez",
+    "dev": "Gonzalo Chiaradia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/now-una-cosa-a-la-vez/id6819089561?uo=4"
+   }
+  ]
+ },
+ "Sorane": {
+  "dominios": {
+   "sorane.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-02-06T18:46:30Z",
+     "last changed": "2026-02-06T21:18:32Z",
+     "expiration": "2028-02-06T18:46:30Z"
+    },
+    "nameservers": [
+     "a.sec.dns.br",
+     "c.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Sorane Negócios e Serviços Ltda.",
+      "handle": "04821394000108"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Rafael Rezende de Souza",
+      "handle": "RARSO448"
+     }
+    ]
+   },
+   "sorane.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "sorane.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "1999-12-10T09:35:02Z",
+     "expiration": "2027-12-10T09:35:01Z",
+     "last changed": "2026-10-28T06:36:48Z",
+     "last update of RDAP database": "2026-11-20T18:43:27Z"
+    },
+    "nameservers": [
+     "LAUNCH1.SPACESHIP.NET",
+     "LAUNCH2.SPACESHIP.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy Online Services Cayman Islands Ltd.",
+      "handle": "1659"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Sorane: Music Practice",
+    "dev": "Jiayi Li",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sorane-music-practice/id6761887456?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Aria · Manifestação",
+    "dev": "Kadir Soran",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/aria-manifesta%C3%A7%C3%A3o/id6771827275?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Dicionário Sorâni-Português",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/dicion%C3%A1rio-sor%C3%A2ni-portugu%C3%AAs/id6465685997?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Aprender sorâni curdo",
+    "dev": "EuroTalk",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/aprender-sor%C3%A2ni-curdo/id1180982991?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Dictionnaire Sorani-Français",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/dictionnaire-sorani-fran%C3%A7ais/id6451375044?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Dizionario Sorani-Italiano",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/dizionario-sorani-italiano/id6463494757?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Cinema Draft : Filmes",
+    "dev": "Soran Velty",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/cinema-draft-filmes/id6793638943?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "暗記・単語帳そらんず",
+    "dev": "株式会社OHANA",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/%E6%9A%97%E8%A8%98-%E5%8D%98%E8%AA%9E%E5%B8%B3%E3%81%9D%E3%82%89%E3%82%93%E3%81%9A/id6800511340?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Soran University SIS",
+    "dev": "Soran University",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/soran-university-sis/id6760694070?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Soranvar",
+    "dev": "Emrah Oztrmen",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/soranvar/id6741753506?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Learn Sorani Kurdish",
+    "dev": "Carrot Apps LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/learn-sorani-kurdish/id492666547?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "ESL Kurd",
+    "dev": "Soran Ari",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/esl-kurd/id1591286076?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Kurdish Keyboard - iKeyboard",
+    "dev": "Rawand Ahmed Shaswar",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kurdish-keyboard-ikeyboard/id1626953847?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Go Talk - Aprender línguas",
+    "dev": "EuroTalk",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/go-talk-aprender-l%C3%ADnguas/id591795091?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Kurdish Sorani Translator",
+    "dev": "Kabita Brahma",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kurdish-sorani-translator/id6761926685?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sorani Deutsch Vokabeln A1",
+    "dev": "Eugenio Grapa",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sorani-deutsch-vokabeln-a1/id1372500720?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "kurdi sorani",
+    "dev": "rawa hussein",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kurdi-sorani/id6803397628?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sorani-English Dictionary",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sorani-english-dictionary/id6451004301?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Kurdish Keyboard",
+    "dev": "Softcode Solutions LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kurdish-keyboard/id928647744?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Sorane: Music Practice",
+    "dev": "Jiayi Li",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/sorane-music-practice/id6761887456?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Soran University SIS",
+    "dev": "Soran University",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/soran-university-sis/id6760694070?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cinema Draft: Movies, TV Shows",
+    "dev": "Soran Velty",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cinema-draft-movies-tv-shows/id6793638943?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ESL Kurd",
+    "dev": "Soran Ari",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/esl-kurd/id1591286076?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dictionnaire Sorani-Français",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dictionnaire-sorani-fran%C3%A7ais/id6451375044?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dizionario Sorani-Italiano",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dizionario-sorani-italiano/id6463494757?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dicionário Sorâni-Português",
+    "dev": "FB PUBLISHING LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dicion%C3%A1rio-sor%C3%A2ni-portugu%C3%AAs/id6465685997?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Soranvar",
+    "dev": "Emrah Oztrmen",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/soranvar/id6741753506?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Soranzuru",
+    "dev": "株式会社OHANA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/soranzuru/id6800511340?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Learn Kurdish (Sorani)",
+    "dev": "EuroTalk",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/learn-kurdish-sorani/id1180982991?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kurdish Keyboard - iKeyboard",
+    "dev": "Rawand Ahmed Shaswar",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdish-keyboard-ikeyboard/id1626953847?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "گۆچان – Kurdish Keyboard",
+    "dev": "SULI SARDAM",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%DA%AF%DB%86%DA%86%D8%A7%D9%86-kurdish-keyboard/id6810932860?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kurdish Keyboard",
+    "dev": "Softcode Solutions LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdish-keyboard/id928647744?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Learn Sorani Kurdish",
+    "dev": "Carrot Apps LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/learn-sorani-kurdish/id492666547?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kurdish Quiz پرسیار و وه ڵام",
+    "dev": "Carrot Apps LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdish-quiz-%D9%BE%D8%B1%D8%B3%DB%8C%D8%A7%D8%B1-%D9%88-%D9%88%D9%87-%DA%B5%D8%A7%D9%85/id1031605382?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Aria · Manifest Your Life",
+    "dev": "Kadir Soran",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aria-manifest-your-life/id6771827275?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kurdish Arabic Dictionary",
+    "dev": "Carrot Apps LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdish-arabic-dictionary/id562740317?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kurdish Keyboard - کیبۆرد",
+    "dev": "Zyrak Technologies LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdish-keyboard-%DA%A9%DB%8C%D8%A8%DB%86%D8%B1%D8%AF/id1251264746?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "dot.Bible سۆرانی (Sorani)",
+    "dev": "International Scripture Ministries, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dot-bible-%D8%B3%DB%86%D8%B1%D8%A7%D9%86%DB%8C-sorani/id6751909139?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KurdTap - Kurdish Keyboard",
+    "dev": "Rebin Ali",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kurdtap-kurdish-keyboard/id958250401?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "پەندی پێشینان و وتەی جوان",
+    "dev": "Carrot Apps LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D9%BE%DB%95%D9%86%D8%AF%DB%8C-%D9%BE%DB%8E%D8%B4%DB%8C%D9%86%D8%A7%D9%86-%D9%88-%D9%88%D8%AA%DB%95%DB%8C-%D8%AC%D9%88%D8%A7%D9%86/id793750616?uo=4"
+   }
+  ]
+ },
+ "Fidena": {
+  "dominios": {
+   "fidena.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2024-12-26T21:15:00Z",
+     "last changed": "2026-01-13T12:48:39Z",
+     "expiration": "2026-12-26T21:15:00Z"
+    },
+    "nameservers": [
+     "ns758.hostgator.com.br",
+     "ns759.hostgator.com.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "DATACREDITO LTDA",
+      "handle": "51152398000112"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Rede Catena",
+      "handle": "RECAT29"
+     }
+    ]
+   },
+   "fidena.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "fidena.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2006-01-22T19:27:29Z",
+     "expiration": "2027-01-22T19:27:29Z",
+     "last changed": "2026-01-08T19:38:37Z",
+     "last update of RDAP database": "2026-11-20T18:43:42Z"
+    },
+    "nameservers": [
+     "NS31.DOMAINCONTROL.COM",
+     "NS32.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Radio Maria Albania",
+    "dev": "RadioMaria",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/radio-maria-albania/id1224512320?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Radio Trinitas",
+    "dev": "PATRIARHIA ROMANA - Radio TRINITAS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/radio-trinitas/id570736921?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Радио България – Онлайн FM",
+    "dev": "Roman Skripchak",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-fm/id6741427161?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "СЕГА",
+    "dev": "Methodia Web",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D1%81%D0%B5%D0%B3%D0%B0/id1448257090?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "БХТВ — Bulgarian Christian TV",
+    "dev": "Towdah Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%B1%D1%85%D1%82%D0%B2-bulgarian-christian-tv/id1354450577?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Radio Don Bosco Madagascar",
+    "dev": "Xdevel S.r.l.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/radio-don-bosco-madagascar/id1245237728?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Великий пост и Святая пасха",
+    "dev": "Aleksandr Pavlov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D0%B8-%D1%81%D0%B2%D1%8F%D1%82%D0%B0%D1%8F-%D0%BF%D0%B0%D1%81%D1%85%D0%B0/id1203217522?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fidel Crossword Ethiopia",
+    "dev": "ROSA WOLDEMARIAM",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fidel-crossword-ethiopia/id6804820999?uo=4"
+   }
+  ]
+ },
+ "Taluno": {
+  "dominios": {
+   "taluno.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "taluno.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "taluno.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2015-12-23T19:34:08Z",
+     "expiration": "2026-12-23T19:34:08Z",
+     "last changed": "2025-12-24T10:58:22Z",
+     "last update of RDAP database": "2026-11-20T18:43:42Z"
+    },
+    "nameservers": [
+     "NS1.SEDOPARKING.COM",
+     "NS2.SEDOPARKING.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Hablemos Sin Filtro",
+    "dev": "Shaula Montas",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hablemos-sin-filtro/id1626515168?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cronograma Capilar",
+    "dev": "Gramos Berberi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cronograma-capilar/id6791983136?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "GravinGo",
+    "dev": "Talha Cosar",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gravingo/id6787402316?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cubivo",
+    "dev": "Naif Alosailan",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cubivo/id6835595549?uo=4"
+   }
+  ]
+ },
+ "Lerano": {
+  "dominios": {
+   "lerano.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lerano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lerano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2006-08-28T22:53:45Z",
+     "expiration": "2027-08-28T22:53:45Z",
+     "last changed": "2026-08-28T05:53:12Z",
+     "last update of RDAP database": "2026-11-20T18:43:42Z"
+    },
+    "nameservers": [
+     "NS1.VALUEHOST.RU",
+     "NS2.VALUEHOST.RU",
+     "NS3.VALUEHOST.RU"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Regional Network Information Center, JSC dba RU-CENTER",
+      "handle": "463"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Su Leri II",
+    "dev": "aaron balrak",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/su-leri-ii/id1643607537?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Su Leri III",
+    "dev": "aaron balrak",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/su-leri-iii/id6466751505?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Su Leri IV",
+    "dev": "aaron balrak",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/su-leri-iv/id6745530174?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Chiama la Befana",
+    "dev": "Rudolf Wardanjan",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/chiama-la-befana/id6829501650?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Darelo": {
+  "dominios": {
+   "darelo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "darelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "darelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2016-04-07T18:01:19Z",
+     "expiration": "2027-04-07T18:01:19Z",
+     "last changed": "2025-05-12T13:56:17Z",
+     "last update of RDAP database": "2026-11-20T18:43:57Z"
+    },
+    "nameservers": [
+     "BETTY.NS.CLOUDFLARE.COM",
+     "KURT.NS.CLOUDFLARE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "ARIVO",
+    "dev": "Danilo Benda",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/arivo/id6772959367?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Zimeno": {
+  "dominios": {
+   "zimeno.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zimeno.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zimeno.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2015-07-20T17:53:06Z",
+     "expiration": "2027-07-20T17:53:06Z",
+     "last changed": "2026-09-09T06:07:03Z",
+     "last update of RDAP database": "2026-11-20T18:43:57Z"
+    },
+    "nameservers": [
+     "NS3.AFTERNIC.COM",
+     "NS4.AFTERNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Ozon Travel: Аренда жилья",
+    "dev": "OZON.ru",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ozon-travel-%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%B6%D0%B8%D0%BB%D1%8C%D1%8F/id959592459?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ClawParty",
+    "dev": "Shanghai Zimo Network Technology Co., Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/clawparty/id6464022799?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "زوينه - Zweina",
+    "dev": "Moments Telecomedia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D8%B2%D9%88%D9%8A%D9%86%D9%87-zweina/id506637498?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zoho Community",
+    "dev": "Zoho Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zoho-community/id6744957124?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIEN",
+    "dev": "Zien inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zien/id6475808475?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIKO.pl",
+    "dev": "ZiKO Apteka Sp. z o.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ziko-pl/id1417253201?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zamplo",
+    "dev": "Zamplo Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zamplo/id1503568766?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kronno Zomber",
+    "dev": "KaijuGames",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kronno-zomber/id1504569238?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "モトチャンプ",
+    "dev": "Zinio Pro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E3%83%A2%E3%83%88%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97/id824772874?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PulsenGO",
+    "dev": "Vinccenzo Tomazini Zocca",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pulsengo/id6766726109?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZONGIX",
+    "dev": "GRUPO ZONGIX SL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zongix/id6781464462?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zonavia: ZTL Italy Alerts",
+    "dev": "Oleksandr Voitin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zonavia-ztl-italy-alerts/id6828173525?uo=4"
+   }
+  ]
+ },
+ "Dirano": {
+  "dominios": {
+   "dirano.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "dirano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "dirano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2011-10-04T15:01:23Z",
+     "expiration": "2027-10-04T15:01:23Z",
+     "last changed": "2026-10-03T00:07:42Z",
+     "last update of RDAP database": "2026-11-20T18:43:57Z"
+    },
+    "nameservers": [
+     "NS65.DOMAINCONTROL.COM",
+     "NS66.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Mesh Digital Limited",
+      "handle": "1390"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "iRegistro | Diario Scuola",
+    "dev": "Luca Zani",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/iregistro-diario-scuola/id1546399019?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Costa Paradiso",
+    "dev": "ANDREA CESARE SOLDANO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/costa-paradiso/id6759919980?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Diritto Master: Legge Italiana",
+    "dev": "Carlo Terracciano",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/diritto-master-legge-italiana/id6778368501?uo=4"
+   }
+  ]
+ },
+ "Nirelo": {
+  "dominios": {
+   "nirelo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "nirelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "nirelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2025-07-06T01:42:26Z",
+     "expiration": "2027-07-06T01:42:26Z",
+     "last changed": "2026-06-06T04:39:31Z",
+     "last update of RDAP database": "2026-11-20T18:44:12Z"
+    },
+    "nameservers": [
+     "ANTON.NS.CLOUDFLARE.COM",
+     "BELLA.NS.CLOUDFLARE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Cloudflare, Inc.",
+      "handle": "1910"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Niseko",
+    "dev": "Niseko Promotion Board",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/niseko/id1193208574?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ninno - O Ursinho Dorminhoco",
+    "dev": "Ninno",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ninno-o-ursinho-dorminhoco/id6754044992?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "マイフォーチュンリズム｜AI占い・今日の運勢",
+    "dev": "Keisuke Nishimura",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%E3%83%AA%E3%82%BA%E3%83%A0-ai%E5%8D%A0%E3%81%84-%E4%BB%8A%E6%97%A5%E3%81%AE%E9%81%8B%E5%8B%A2/id961409574?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "新NISAニーサ 積立にーさ 投資 アプリ 株 投資信託",
+    "dev": "Tsuyoshi Yonemoto",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E6%96%B0nisa%E3%83%8B%E3%83%BC%E3%82%B5-%E7%A9%8D%E7%AB%8B%E3%81%AB%E3%83%BC%E3%81%95-%E6%8A%95%E8%B3%87-%E3%82%A2%E3%83%97%E3%83%AA-%E6%A0%AA-%E6%8A%95%E8%B3%87%E4%BF%A1%E8%A8%97/id6469807644?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NihonGoToGo",
+    "dev": "Renato Nascimento",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nihongotogo/id6792053301?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "和暦変換",
+    "dev": "Hiroyuki Nishijima",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E5%92%8C%E6%9A%A6%E5%A4%89%E6%8F%9B/id1453666818?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NidoFlow",
+    "dev": "Alvaro Urzua",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nidoflow/id6755057889?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nekoto - Cat Care Log & Diary",
+    "dev": "Yu Shiraishi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nekoto-cat-care-log-diary/id6811531966?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "本音を引き出す質問カード honnest",
+    "dev": "Yusuke Nishio",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E6%9C%AC%E9%9F%B3%E3%82%92%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E8%B3%AA%E5%95%8F%E3%82%AB%E3%83%BC%E3%83%89-honnest/id6794802556?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Villion",
+    "dev": "Kazuma Nishijima",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/villion/id6764294442?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Hitorigoto: Talk in English",
+    "dev": "NISHIRA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hitorigoto-talk-in-english/id6820513285?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nissin Academy",
+    "dev": "LXP EAD TECNOLOGIA PARA EDUCACAO LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nissin-academy/id6746266621?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nabiu",
+    "dev": "Sakurai Kazuhiro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nabiu/id6830105496?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "想いLog - エンディングノート",
+    "dev": "masanori mizuno",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E6%83%B3%E3%81%84log-%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88/id6766941766?uo=4"
+   }
+  ]
+ },
+ "Relano": {
+  "dominios": {
+   "relano.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "relano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "relano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-01-16T08:38:58Z",
+     "expiration": "2027-01-16T08:38:58Z",
+     "last changed": "2025-12-09T12:50:12Z",
+     "last update of RDAP database": "2026-11-20T18:44:27Z"
+    },
+    "nameservers": [
+     "NS1.MAILBANK.COM",
+     "NS2.MAILBANK.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Tucows Domains Inc.",
+      "handle": "69"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Survikit: Kit de Emergencia",
+    "dev": "LETICIA RODRIGUEZ RELANO",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/survikit-kit-de-emergencia/id6822659465?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "NitorFit | Bloquea Apps",
+    "dev": "LETICIA RODRIGUEZ RELANO",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nitorfit-bloquea-apps/id6807772022?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Don Cheto Al Aire",
+    "dev": "HOT 97",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/don-cheto-al-aire/id1281902627?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Survikit: Emergency Kit",
+    "dev": "LETICIA RODRIGUEZ RELANO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/survikit-emergency-kit/id6822659465?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Raza Atlanta",
+    "dev": "InterTech Media, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-raza-atlanta/id1425076913?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NitorFit | Digital Detox",
+    "dev": "LETICIA RODRIGUEZ RELANO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nitorfit-digital-detox/id6807772022?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Recipy: Budget Meal Plans",
+    "dev": "Oliver Lopez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/recipy-budget-meal-plans/id6798486261?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Aquella Receta",
+    "dev": "Murilo Araujo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aquella-receta/id1616031688?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "LA MERA MERA RADIO",
+    "dev": "Si Marketing LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-mera-mera-radio/id1546650591?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dr. Luevano",
+    "dev": "Upgrade Diseno Interactivo, S.A.S. de C.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dr-luevano/id1542261888?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pulso Radio Zina",
+    "dev": "Noel Barrera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pulso-radio-zina/id6444811417?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Turnera para clientes",
+    "dev": "Brandon Fernandez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/turnera-para-clientes/id6760447910?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Only Watch!",
+    "dev": "Juan Antonio Ciudad Redondo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/only-watch/id6788408859?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Delicias Express",
+    "dev": "Claudio Garcia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/delicias-express/id6742884793?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "MiBebé: Baby Tracker & Sleep",
+    "dev": "SERGIO DIAZ RODRIGUEZ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mibeb%C3%A9-baby-tracker-sleep/id6760716899?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Nueva Mia",
+    "dev": "SAMUEL OLVERA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-nueva-mia/id6449541055?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "kairos - mensajes del destino",
+    "dev": "Rodrigo Oliva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kairos-mensajes-del-destino/id6751867075?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Colmadero",
+    "dev": "Claudio Burgos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/colmadero/id6450802023?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NOW: Una cosa a la vez",
+    "dev": "Gonzalo Chiaradia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/now-una-cosa-a-la-vez/id6819089561?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "CCVida Argentina",
+    "dev": "Rocco Stephen Di Trolio",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ccvida-argentina/id1437880859?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Recetio: qué comer hoy",
+    "dev": "Iroda Radjapova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/recetio-qu%C3%A9-comer-hoy/id6794632147?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mi Barrio",
+    "dev": "Relf Computers & Consulting L.L.C.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mi-barrio/id6757203612?uo=4"
+   }
+  ]
+ },
+ "Nexaro": {
+  "dominios": {
+   "nexaro.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2024-05-15T17:46:06Z",
+     "last changed": "2026-04-25T10:15:53Z",
+     "expiration": "2028-05-15T17:46:06Z"
+    },
+    "nameservers": [
+     "demi.ns.cloudflare.com",
+     "randy.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Miguel Mendes",
+      "handle": "29870654000158"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Miguel Mendes",
+      "handle": "MIMEN257"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GODADDY",
+      "handle": "p86"
+     }
+    ]
+   },
+   "nexaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "nexaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2005-09-07T08:07:40Z",
+     "expiration": "2027-09-07T08:07:40Z",
+     "last changed": "2026-08-26T01:15:58Z",
+     "last update of RDAP database": "2026-11-20T18:44:27Z"
+    },
+    "nameservers": [
+     "DNS1.LINOVATE.DE",
+     "DNS2.LINOVATE.DE",
+     "DNS3.LINOVATE.DE"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Key-Systems GmbH",
+      "handle": "269"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Nexaro ProPoints",
+    "dev": "Nexaro Loyalty",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nexaro-propoints/id6756608223?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Nexaro",
+    "dev": "Sphere Rays",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nexaro/id6689503892?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Nexaro One",
+    "dev": "Nexaro One B.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nexaro-one/id6755889607?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexaro ProPoints",
+    "dev": "Nexaro Loyalty",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexaro-propoints/id6756608223?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexaro",
+    "dev": "Sphere Rays",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexaro/id6689503892?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexaro One",
+    "dev": "Nexaro One B.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexaro-one/id6755889607?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "nexos Fusion",
+    "dev": "NEXOS SOLUTIONS LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexos-fusion/id6456484626?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexa Pau Pyrénées",
+    "dev": "MyCompanyFiles",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexa-pau-pyr%C3%A9n%C3%A9es/id1500560472?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NexoVision2+",
+    "dev": "Nexwell Engineering",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexovision2/id6695754045?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexgen Logix",
+    "dev": "Nexgen Enterprises",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexgen-logix/id1661145107?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexet",
+    "dev": "ARLO KENSINGTON",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexet/id6812588597?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Rapid Painting",
+    "dev": "Nexo Apex",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/rapid-painting/id6743800708?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "2spot",
+    "dev": "NEXA SOFT, MMC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/2spot/id6759011136?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexelec TOUCH",
+    "dev": "Nexelec",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexelec-touch/id6477816960?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexo Car",
+    "dev": "Axe Cap SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexo-car/id6780334827?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nevados",
+    "dev": "Nevados Engineering, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nevados/id6479259096?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NEXUM Field Agent Application",
+    "dev": "NEXUM Software Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexum-field-agent-application/id6450305797?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexa Agora",
+    "dev": "NexaEthos SL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexa-agora/id6821693923?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NexoFit",
+    "dev": "Alejandro Soria",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexofit/id6788181379?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nexalix Field",
+    "dev": "Nexalix Technologies SLU",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexalix-field/id6761303296?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Assurancia Nexia",
+    "dev": "9525-4033 Quebec Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/assurancia-nexia/id6767310900?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NEXORA Gestión Empresarial",
+    "dev": "OSCARE FABRICIO CRUZ REYES",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nexora-gesti%C3%B3n-empresarial/id6812845945?uo=4"
+   }
+  ]
+ },
+ "Selano": {
+  "dominios": {
+   "selano.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2019-09-03T19:22:33Z",
+     "last changed": "2026-08-04T15:28:41Z",
+     "expiration": "2029-09-03T19:22:33Z"
+    },
+    "nameservers": [
+     "connie.ns.cloudflare.com",
+     "roan.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "ANDRÉ FABRO SELANO",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Welber C. Wolk",
+      "handle": "WCW"
+     }
+    ]
+   },
+   "selano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "selano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2003-08-27T07:00:58Z",
+     "expiration": "2027-08-27T07:00:58Z",
+     "last changed": "2026-08-28T14:20:52Z",
+     "last update of RDAP database": "2026-11-20T18:44:27Z"
+    },
+    "nameservers": [
+     "DNS1.NAME-SERVICES.COM",
+     "DNS2.NAME-SERVICES.COM",
+     "DNS3.NAME-SERVICES.COM",
+     "DNS4.NAME-SERVICES.COM",
+     "DNS5.NAME-SERVICES.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Siza - Consult Doctors Online",
+    "dev": "Selano Health (Pty) Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/siza-consult-doctors-online/id1633142615?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Siza - Consult Doctors Online",
+    "dev": "Selano Health (Pty) Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/siza-consult-doctors-online/id1633142615?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Seja Ponto",
+    "dev": "SEJA PONTO LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/seja-ponto/id6756119357?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oeste Sertaneja",
+    "dev": "Carlos Oliveira",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oeste-sertaneja/id6698860815?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Raqet: pádel, reservas y club",
+    "dev": "Federico Glanz",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/raqet-p%C3%A1del-reservas-y-club/id6760953547?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Soltar: ruptura y duelo",
+    "dev": "Sebastian Cetrangolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/soltar-ruptura-y-duelo/id6818347172?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Konexu",
+    "dev": "Alejandro De San Luis",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/konexu/id6823808194?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dongili",
+    "dev": "SedegoTech LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dongili/id6808823950?uo=4"
+   }
+  ]
+ },
+ "Sarelo": {
+  "dominios": {
+   "sarelo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "sarelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "sarelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2006-07-07T05:25:17Z",
+     "expiration": "2031-07-07T05:25:17Z",
+     "last changed": "2026-07-08T18:04:38Z",
+     "last update of RDAP database": "2026-11-20T18:44:42Z"
+    },
+    "nameservers": [
+     "NS1.HE.NET",
+     "NS2.HE.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Wild West Domains, LLC",
+      "handle": "440"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Affluo",
+    "dev": "NICOLA RANZATO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/affluo/id6836460678?uo=4"
+   }
+  ]
+ },
+ "Teiano": {
+  "dominios": {
+   "teiano.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "teiano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "teiano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2018-10-25T21:45:34Z",
+     "expiration": "2027-10-25T21:45:34Z",
+     "last changed": "2026-09-25T10:02:39Z",
+     "last update of RDAP database": "2026-11-20T18:49:27Z"
+    },
+    "nameservers": [
+     "DNS1.REGISTRAR-SERVERS.COM",
+     "DNS2.REGISTRAR-SERVERS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NameCheap, Inc.",
+      "handle": "1068"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "HotTejano.com",
+    "dev": "Hottejano",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hottejano-com/id787350139?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tejano Up Radio",
+    "dev": "Irene Herrera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano-up-radio/id6464327615?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tejano247",
+    "dev": "Daniel Garcia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano247/id6745975316?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Retro Tejano",
+    "dev": "Jose Sanchez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/retro-tejano/id6747684536?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Mera Leona Net Radio",
+    "dev": "MINISTERIO INTERNACIONAL GRACIA AMOR PODER, INC.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-mera-leona-net-radio/id1441543904?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "QvoRadio Fm",
+    "dev": "Lawrece Casarez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/qvoradio-fm/id6446377656?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Teoria",
+    "dev": "MARIA TEODORA BACULA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/teoria/id6799153488?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Betina",
+    "dev": "Thiago Lago",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/betina/id6794507591?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "checkin-caranova",
+    "dev": "tiago garcia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/checkin-caranova/id6771451304?uo=4"
+   }
+  ]
+ },
+ "Salendo": {
+  "dominios": {
+   "salendo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "salendo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "salendo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2009-07-11T18:24:58Z",
+     "expiration": "2027-07-11T18:24:58Z",
+     "last changed": "2026-06-21T21:34:40Z",
+     "last update of RDAP database": "2026-11-20T18:49:27Z"
+    },
+    "nameservers": [
+     "NS1.ATOM.COM",
+     "NS2.ATOM.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Dynadot Inc",
+      "handle": "472"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Car Sales Simulator 25",
+    "dev": "Skyloft Games",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/car-sales-simulator-25/id6464597212?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sala do Futuro Professor",
+    "dev": "Companhia de Processamento de Dados do Estado de Sao Paulo",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sala-do-futuro-professor/id6504420738?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Google Sala de Aula",
+    "dev": "Google",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/google-sala-de-aula/id924620788?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sala do Futuro",
+    "dev": "Companhia de Processamento de Dados do Estado de Sao Paulo",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sala-do-futuro/id6474023966?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "LinkedIn Sales Navigator",
+    "dev": "LinkedIn Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/linkedin-sales-navigator/id910768078?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Car Dealer 26 Sales simulator",
+    "dev": "BIMBIS SOFTWARE SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/car-dealer-26-sales-simulator/id6754604748?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Agrisal VIP",
+    "dev": "Agrisal",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/agrisal-vip/id6738045497?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Zoho CRM - Sales & Marketing",
+    "dev": "Zoho Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/zoho-crm-sales-marketing/id444908810?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Car For Sale Simulator",
+    "dev": "PANGO GAMES MOBIL UYGULAMA VE OYUN GELISTIRME TICARET ANONIM SIRKETI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/car-for-sale-simulator/id6478659676?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Galaxy - Salas de Bate-Papo",
+    "dev": "Mobstudio",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/galaxy-salas-de-bate-papo/id688736068?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Square Point of Sale (POS)",
+    "dev": "Block, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/square-point-of-sale-pos/id335393788?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Wiser Sales Platform",
+    "dev": "Wiser Educacao S.A.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/wiser-sales-platform/id1521301382?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "HalaMe - Salas de Voz e Jogos",
+    "dev": "KMH TECHNOLOGY PTE. LTD.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/halame-salas-de-voz-e-jogos/id1598851113?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Andrade & Sales",
+    "dev": "Tupinamba",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/andrade-sales/id6743096312?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sala de Fuga: Viajante de",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sala-de-fuga-viajante-de/id6523416083?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Direct Olist:omnichannel sales",
+    "dev": "olist",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/direct-olist-omnichannel-sales/id1557929203?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sales Farma S3",
+    "dev": "Close-up Analyzer",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sales-farma-s3/id6469704968?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Sala fuga : Comboio misterioso",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/sala-fuga-comboio-misterioso/id6444753768?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Low Sales",
+    "dev": "LOWSALES LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/low-sales/id6742751952?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Alto escola Teacher Study sala",
+    "dev": "Muhammad Zohaid Khan",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/alto-escola-teacher-study-sala/id1553736246?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "3D Sala de Fuga Mansão Mística",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/3d-sala-de-fuga-mans%C3%A3o-m%C3%ADstica/id6695739141?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "GEP - Sala de Aula",
+    "dev": "luciano queiroz vieira",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/gep-sala-de-aula/id6742784240?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "LoungesApp: Guia de Salas VIP",
+    "dev": "O Rei dos Lounges",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/loungesapp-guia-de-salas-vip/id6755554436?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novos salas de fuga II",
+    "dev": "Zhihao Ma",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novos-salas-de-fuga-ii/id1538719524?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Boat24 - Boats for Sale",
+    "dev": "Marine Classified Media AG",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/boat24-boats-for-sale/id462701411?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "4Sale - Buy & Sell Everything",
+    "dev": "FALCON HOLDING SPV LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/4sale-buy-sell-everything/id435463622?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "LinkedIn Sales Navigator",
+    "dev": "LinkedIn Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/linkedin-sales-navigator/id910768078?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Square Point of Sale (POS)",
+    "dev": "Block, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Yard Sale Treasure Map",
+    "dev": "Shawn Kolodgie",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/yard-sale-treasure-map/id318649229?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Relief: Get out of debt",
+    "dev": "Relief Technologies incorporated",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/relief-get-out-of-debt/id6450720364?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Car Sales Simulator 25",
+    "dev": "Skyloft Games",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/car-sales-simulator-25/id6464597212?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Escape Room:Can You Escape?II",
+    "dev": "Zhihao Ma",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/escape-room-can-you-escape-ii/id1538719524?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zoho CRM - Sales & Marketing",
+    "dev": "Zoho Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zoho-crm-sales-marketing/id444908810?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Car For Sale Simulator",
+    "dev": "PANGO GAMES MOBIL UYGULAMA VE OYUN GELISTIRME TICARET ANONIM SIRKETI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/car-for-sale-simulator/id6478659676?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Google Classroom",
+    "dev": "Google",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/google-classroom/id924620788?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Escape Room:Mysterious train",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/escape-room-mysterious-train/id6444753768?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Escape Rooms: Room Escape",
+    "dev": "NAKAYUBI CORPORATION",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/escape-rooms-room-escape/id1296686566?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Escape Room:Can you escape?",
+    "dev": "Zhihao Ma",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/escape-room-can-you-escape/id1533228379?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "SahL SaLe سهل سيل",
+    "dev": "MOHAMMAD ALMUTAIRI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/sahl-sale-%D8%B3%D9%87%D9%84-%D8%B3%D9%8A%D9%84/id1638126545?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "HalaMe- Voice Rooms & Games",
+    "dev": "KMH TECHNOLOGY PTE. LTD.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/halame-voice-rooms-games/id1598851113?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Car Dealer 26 Sales simulator",
+    "dev": "BIMBIS SOFTWARE SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/car-dealer-26-sales-simulator/id6754604748?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Daily Sales Record - POS",
+    "dev": "iComet",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/daily-sales-record-pos/id415458892?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Salata Salad Kitchen",
+    "dev": "Salata Holding Company LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/salata-salad-kitchen/id1514026040?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "3D Escape Room : Mystic Manor",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/3d-escape-room-mystic-manor/id6695739141?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "My Dash Diet: Sodium Tracker",
+    "dev": "Product Growth LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/my-dash-diet-sodium-tracker/id1032110739?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dynamics 365 Sales",
+    "dev": "Microsoft Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Muezzin",
+    "dev": "Tevfik Yucek",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/muezzin/id566982859?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Escape Room:Tourist Painter",
+    "dev": "Shenzhen Zhonglian Hudong Technology Co.,Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/escape-room-tourist-painter/id6744589447?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "High School Teacher Study Room",
+    "dev": "Muhammad Zohaid Khan",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/high-school-teacher-study-room/id1553736246?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "AlKhattaba - Muslim Marriage",
+    "dev": "et3arraf",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/alkhattaba-muslim-marriage/id910944079?uo=4"
+   }
+  ]
+ },
+ "Firmano": {
+  "dominios": {
+   "firmano.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-08-31T17:15:43Z",
+     "last changed": "2026-10-11T12:24:26Z",
+     "expiration": "2027-08-31T17:15:43Z"
+    },
+    "nameservers": [
+     "karl.ns.cloudflare.com",
+     "princess.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Israel Duarte",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Israel Duarte",
+      "handle": "ISDUA72"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "HSTDOMAINS",
+      "handle": "p127"
+     }
+    ]
+   },
+   "firmano.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "firmano.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2023-06-07T18:12:55Z",
+     "expiration": "2027-06-07T18:12:55Z",
+     "last changed": "2026-06-04T21:19:16Z",
+     "last update of RDAP database": "2026-11-20T18:50:27Z"
+    },
+    "nameservers": [
+     "NS1.AFTERNIC.COM",
+     "NS2.AFTERNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": []
+ },
+ "Tinaro": {
+  "dominios": {
+   "tinaro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "tinaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "tinaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2014-04-15T18:27:05Z",
+     "expiration": "2027-04-15T18:27:05Z",
+     "last changed": "2026-04-16T08:45:50Z",
+     "last update of RDAP database": "2026-11-20T18:50:42Z"
+    },
+    "nameservers": [
+     "NSG1.NAMEBRIGHTDNS.COM",
+     "NSG2.NAMEBRIGHTDNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "TurnCommerce, Inc. DBA NameBright.com",
+      "handle": "1441"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "HotTejano.com",
+    "dev": "Hottejano",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hottejano-com/id787350139?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pancho Pistolas Radio",
+    "dev": "Jose Sanchez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pancho-pistolas-radio/id1543062181?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tejano Up Radio",
+    "dev": "Irene Herrera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano-up-radio/id6464327615?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tinat.AI",
+    "dev": "Henok Tadesse Negi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tinat-ai/id6752655326?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Mera Leona Net Radio",
+    "dev": "MINISTERIO INTERNACIONAL GRACIA AMOR PODER, INC.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-mera-leona-net-radio/id1441543904?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TEJANO TV LIVE",
+    "dev": "sheraz Rasheed",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano-tv-live/id6748877765?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tejano 386 Nation Radio",
+    "dev": "Robert Soliz",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano-386-nation-radio/id6763958705?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Crossword Thematic",
+    "dev": "Joan Carles Cayro Baronat",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/crossword-thematic/id1296669907?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tejano 806",
+    "dev": "Jimmy Perez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tejano-806/id6749160781?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tute Subastado",
+    "dev": "Guillermo Vega Gorgojo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tute-subastado/id1387440190?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "QvoRadio Fm",
+    "dev": "Lawrece Casarez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/qvoradio-fm/id6446377656?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Toki: Expense Tracker",
+    "dev": "VICENTE CORDUA ALLENDE IRIARTE",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/toki-expense-tracker/id6757361622?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tiro",
+    "dev": "Tiro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tiro/id6465292240?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Acierta la palabra",
+    "dev": "Juan Carlos Rodicio Tirado",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/acierta-la-palabra/id6468249342?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Suenia: Cuentos personalizados",
+    "dev": "Mariangeles Quiroga",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/suenia-cuentos-personalizados/id6759557344?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Camingo",
+    "dev": "Veronica Vilaboa Viro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/camingo/id6792741376?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Hazlo - Retos con amigos",
+    "dev": "Tomas Vasquez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hazlo-retos-con-amigos/id6761195113?uo=4"
+   }
+  ]
+ },
+ "Lealma": {
+  "dominios": {
+   "lealma.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lealma.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "lealma.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2004-03-29T07:25:24Z",
+     "expiration": "2027-03-29T06:25:24Z",
+     "last changed": "2026-03-24T00:37:08Z",
+     "last update of RDAP database": "2026-11-20T18:50:42Z"
+    },
+    "nameservers": [
+     "NS1.DOMINIOABSOLUTO.COM",
+     "NS2.DOMINIOABSOLUTO.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Acens Technologies, S.L.U.",
+      "handle": "140"
+     }
+    ]
+   }
+  },
+  "app_store": []
+ },
+ "Zaleno": {
+  "dominios": {
+   "zaleno.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zaleno.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zaleno.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2023-03-05T19:26:23Z",
+     "expiration": "2028-03-05T19:26:23Z",
+     "last changed": "2026-10-30T18:40:11Z",
+     "last update of RDAP database": "2026-11-20T18:50:57Z"
+    },
+    "nameservers": [
+     "NS1.AFTERNIC.COM",
+     "NS2.AFTERNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Ozon Travel: Аренда жилья",
+    "dev": "OZON.ru",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ozon-travel-%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%B6%D0%B8%D0%BB%D1%8C%D1%8F/id959592459?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Аптека Озерки — заказ онлайн",
+    "dev": "Erkafarm Severo-zapad, Ooo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0-%D0%BE%D0%B7%D0%B5%D1%80%D0%BA%D0%B8-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id1440139559?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zaycev.net: скачать и слушать",
+    "dev": "OOO Zaycev.Net",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zaycev-net-%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D0%BB%D1%83%D1%88%D0%B0%D1%82%D1%8C/id1469360017?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "24ur.com",
+    "dev": "POP OnLine",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/24ur-com/id412851441?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kalendar Pravoslavni",
+    "dev": "Nikola Corlija",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kalendar-pravoslavni/id1369978974?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Світло",
+    "dev": "ZAV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE/id6444603375?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Žalgiris",
+    "dev": "VšĮ \"Žalgirio krepšinio centras\"",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%C5%BEalgiris/id1337578754?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Academia - Schedule & Studies",
+    "dev": "Mikhail Zakharov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/academia-schedule-studies/id6779355354?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Crkveni Kalendar",
+    "dev": "Nikola Ratkovic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/crkveni-kalendar/id1523619251?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "KZ Жаңалықтар",
+    "dev": "Andrey Andrusenko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kz-%D0%B6%D0%B0%D2%A3%D0%B0%D0%BB%D1%8B%D2%9B%D1%82%D0%B0%D1%80/id1061481418?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZadrugaTV",
+    "dev": "Pink International Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zadrugatv/id1451934787?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "DRAJV",
+    "dev": "Zavarovalnica Triglav d.d.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/drajv/id1005055421?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "HOMES.bg",
+    "dev": "JOBS.bg",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/homes-bg/id1531842244?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pojišťovna VZP, a.s.",
+    "dev": "Pojišťovna VZP, a.s.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/poji%C5%A1%C5%A5ovna-vzp-a-s/id1390580256?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "FitAnka: Trening, Dieta, Kroki",
+    "dev": "Dawid Dziedzic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fitanka-trening-dieta-kroki/id1518770473?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zadar Bike Magic",
+    "dev": "TURISTICKA ZAJEDNICA ZADARSKE ZUPANIJE",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zadar-bike-magic/id1240301793?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "023.hr",
+    "dev": "Arcadian d.o.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/023-hr/id6832616166?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zamplo",
+    "dev": "Zamplo Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zamplo/id1503568766?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "BLESS By ZR",
+    "dev": "GRIND WEB STUDIO LTD. OOD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bless-by-zr/id6503608701?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "I Love Zlatibor",
+    "dev": "AMD BUSINESS SYSTEM",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/i-love-zlatibor/id1324287681?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "CPC kalendar",
+    "dev": "Zlatko Popovic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cpc-kalendar/id6744701526?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pill Organizer",
+    "dev": "Zdenek Mladek",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pill-organizer/id6776389566?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIKO.pl",
+    "dev": "ZiKO Apteka Sp. z o.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ziko-pl/id1417253201?uo=4"
+   }
+  ]
+ },
+ "Ulmaro": {
+  "dominios": {
+   "ulmaro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "ulmaro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "ulmaro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2024-12-02T08:34:04Z",
+     "expiration": "2026-12-02T08:34:04Z",
+     "last changed": "2026-01-11T03:48:44Z",
+     "last update of RDAP database": "2026-11-20T18:50:57Z"
+    },
+    "nameservers": [
+     "DISABLED-DNS1.DOGADO.NET",
+     "DISABLED-DNS2.DOGADO.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "RegistryGate GmbH",
+      "handle": "1328"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "kairos - mensajes del destino",
+    "dev": "Rodrigo Oliva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kairos-mensajes-del-destino/id6751867075?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Colmadero",
+    "dev": "Claudio Burgos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/colmadero/id6450802023?uo=4"
+   }
+  ]
+ },
+ "Zorelo": {
+  "dominios": {
+   "zorelo.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zorelo.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "zorelo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2013-08-15T21:07:48Z",
+     "expiration": "2027-08-15T21:07:48Z",
+     "last changed": "2026-07-29T14:21:18Z",
+     "last update of RDAP database": "2026-11-20T18:50:57Z"
+    },
+    "nameservers": [
+     "NS1.VERCEL-DNS.COM",
+     "NS2.VERCEL-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Ozon Travel: Аренда жилья",
+    "dev": "OZON.ru",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ozon-travel-%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%B6%D0%B8%D0%BB%D1%8C%D1%8F/id959592459?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "زورك | ZORK",
+    "dev": "Zorkfollow",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D8%B2%D9%88%D8%B1%D9%83-zork/id6476979439?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zoho Community",
+    "dev": "Zoho Corporation",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zoho-community/id6744957124?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Žalgiris",
+    "dev": "VšĮ \"Žalgirio krepšinio centras\"",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%C5%BEalgiris/id1337578754?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zamplo",
+    "dev": "Zamplo Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zamplo/id1503568766?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIEN",
+    "dev": "Zien inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zien/id6475808475?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "BLESS By ZR",
+    "dev": "GRIND WEB STUDIO LTD. OOD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bless-by-zr/id6503608701?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZIKO.pl",
+    "dev": "ZiKO Apteka Sp. z o.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ziko-pl/id1417253201?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZU ZU – Партнёр",
+    "dev": "Zarif Yusupov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zu-zu-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80/id6751636670?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zotzon",
+    "dev": "Zotzon, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zotzon/id6740006565?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zlatiborske Vesti",
+    "dev": "VARIUS DEVELOPMENT DOO BEOGRAD-VOZDOVAC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zlatiborske-vesti/id6741769032?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zlatibor.org",
+    "dev": "Dejan Ristanovic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zlatibor-org/id6760837253?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ZONGIX",
+    "dev": "GRUPO ZONGIX SL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zongix/id6781464462?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zagor - Zlatna Serija 6/10",
+    "dev": "Velibor Santic",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zagor-zlatna-serija-6-10/id1300089669?uo=4"
+   }
+  ]
+ },
+ "Doluma": {
+  "dominios": {
+   "doluma.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "doluma.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "doluma.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2026-05-29T17:57:42Z",
+     "expiration": "2027-05-29T17:57:42Z",
+     "last changed": "2026-05-29T17:57:52Z",
+     "last update of RDAP database": "2026-11-20T18:51:27Z"
+    },
+    "nameservers": [
+     "NS3.AFTERNIC.COM",
+     "NS4.AFTERNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Hosting Concepts B.V. d/b/a Registrar.eu",
+      "handle": "1647"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Discover Dolj & Craiova",
+    "dev": "Consiliul Judetean Dolj",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/discover-dolj-craiova/id1473125289?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Dolar Play",
+    "dev": "The Members",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/dolar-play/id6472300060?uo=4"
+   }
+  ]
+ }
+}
