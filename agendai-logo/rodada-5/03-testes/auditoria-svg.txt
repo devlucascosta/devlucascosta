@@ -1,0 +1,95 @@
+
+=== D-icone-app.svg  (423 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 22
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
+
+=== D-logotipo-horizontal.svg  (3595 bytes)
+viewBox 0 0 540.93 256 · aspect 2.113 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 172
+margins L24.0 R24.0 T63.5 B65.4 · bbox fill 0.452
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 172 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== D-logotipo-vertical.svg  (3542 bytes)
+viewBox 0 0 311.03 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 172
+margins L28.7 R28.0 T26.0 B12.4 · bbox fill 0.705
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 172 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 97/100 (heuristic)
+
+=== D-simbolo.svg  (362 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 13
+margins L39.1 R39.1 T24.0 B28.0 · bbox fill 0.553
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== E-icone-app.svg  (989 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 62
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+▲ WARN [near-miss-angle] 15 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 75.9° (→75°) len 14.1 at (205,198); 73.6° (→75°) len 10.7 at (201,184); 61.9° (→60°) len 10.6 at (176,118); 59.5° (→60°) len 17.6 at (171,109); 122.8° (→120°) len 10.6 at (100,85); 121.1° (→120°) len 10.6 at (94,94) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 91/100 (heuristic)
+
+=== E-logotipo-horizontal.svg  (4148 bytes)
+viewBox 0 0 564.58 256 · aspect 2.205 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 212
+margins L24.0 R24.0 T63.5 B65.4 · bbox fill 0.454
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 212 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== E-logotipo-vertical.svg  (4105 bytes)
+viewBox 0 0 311.03 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 212
+margins L28.7 R28.0 T26.0 B12.4 · bbox fill 0.705
+▲ WARN [near-miss-angle] 8 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 75.9° (→75°) len 14.5 at (235,176); 59.5° (→60°) len 18.2 at (200,84); 104.5° (→105°) len 18.3 at (81,158); 119.6° (→120°) len 13.5 at (134,101); 122.0° (→120°) len 13.5 at (141,89); 58.0° (→60°) len 13.5 at (163,78) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 212 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 89/100 (heuristic)
+
+=== E-simbolo.svg  (927 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 53
+margins L26.0 R26.0 T29.5 B33.5 · bbox fill 0.601
+▲ WARN [near-miss-angle] 17 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 75.9° (→75°) len 18.7 at (230,222); 73.6° (→75°) len 14.2 at (225,204); 61.9° (→60°) len 14.1 at (191,117); 59.5° (→60°) len 23.4 at (185,105); 122.8° (→120°) len 14.1 at (91,73); 121.0° (→120°) len 14.1 at (83,84) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+production-readiness score: 92/100 (heuristic)
+
+=== F-icone-app.svg  (1071 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 69
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
+
+=== F-logotipo-horizontal.svg  (4259 bytes)
+viewBox 0 0 574.5 256 · aspect 2.244 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 219
+margins L24.0 R24.0 T63.5 B65.4 · bbox fill 0.455
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 219 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== F-logotipo-vertical.svg  (4204 bytes)
+viewBox 0 0 311.03 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 219
+margins L28.7 R28.0 T26.0 B12.4 · bbox fill 0.705
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 219 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 97/100 (heuristic)
+
+=== F-simbolo.svg  (1016 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 60
+margins L26.0 R26.0 T36.2 B40.2 · bbox fill 0.559
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
