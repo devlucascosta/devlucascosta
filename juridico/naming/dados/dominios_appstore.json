@@ -1,0 +1,4175 @@
+{
+ "Orvia": {
+  "dominios": {
+   "orvia.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-03-25T21:53:42Z",
+     "last changed": "2026-04-09T12:17:31Z",
+     "expiration": "2027-03-25T21:53:42Z"
+    },
+    "nameservers": [
+     "a.sec.dns.br",
+     "c.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Joice Oliveira",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Joice Oliveira",
+      "handle": "JOOLI1213"
+     }
+    ]
+   },
+   "orvia.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": null,
+    "eventos": {},
+    "nameservers": [],
+    "entidades": []
+   },
+   "orvia.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2003-09-07T18:21:36Z",
+     "expiration": "2027-09-07T18:21:36Z",
+     "last changed": "2026-09-01T10:37:48Z",
+     "last update of RDAP database": "2026-11-20T09:23:57Z"
+    },
+    "nameservers": [
+     "NS1.NETWORK.FR",
+     "NS2.NETWORK.FR",
+     "NS3.NETWORK.FR"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "NETIM SAS",
+      "handle": "1519"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Orvia Mail: Email Client",
+    "dev": "PlatinumSky",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/orvia-mail-email-client/id6774558285?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Orvia记账-快速简洁的记账助手",
+    "dev": "铭泽 花",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/orvia%E8%AE%B0%E8%B4%A6-%E5%BF%AB%E9%80%9F%E7%AE%80%E6%B4%81%E7%9A%84%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8B/id6806115168?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "ORVIA Golf",
+    "dev": "AetherTek Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/orvia-golf/id6779051440?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "ORVIA - Suivi annuel",
+    "dev": "Fabrice laura TATUE KEGOM",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/orvia-suivi-annuel/id6784400283?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Harmony Lighting by Orvia",
+    "dev": "Orvia Lighting",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/harmony-lighting-by-orvia/id6759071641?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Penny Ball",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/penny-ball/id6784982799?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Balloon Escape",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/balloon-escape/id6769175087?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Adhunter",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/adhunter/id6759783164?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Orvia Tarot & Psychic Reading",
+    "dev": "Denova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvia-tarot-psychic-reading/id6748520239?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Orvia: Smart Money Tracker",
+    "dev": "铭泽 花",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvia-smart-money-tracker/id6806115168?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ORVIA Golf",
+    "dev": "AetherTek Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvia-golf/id6779051440?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Orvia Mail: Email Client",
+    "dev": "PlatinumSky",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvia-mail-email-client/id6774558285?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ORVIA - Suivi annuel",
+    "dev": "Fabrice laura TATUE KEGOM",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvia-suivi-annuel/id6784400283?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cenno: Offline Expense Tracker",
+    "dev": "明慧 张",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cenno-offline-expense-tracker/id6760214754?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Harmony Lighting by Orvia",
+    "dev": "Orvia Lighting",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/harmony-lighting-by-orvia/id6759071641?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "DebtShore",
+    "dev": "朋飞 王",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/debtshore/id6769247045?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "鲨鱼记账本-城市理财圈子必备工具软件",
+    "dev": "Beijing Shark Pioneer Network Technology Co.,Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E9%B2%A8%E9%B1%BC%E8%AE%B0%E8%B4%A6%E6%9C%AC-%E5%9F%8E%E5%B8%82%E7%90%86%E8%B4%A2%E5%9C%88%E5%AD%90%E5%BF%85%E5%A4%87%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/id1079718756?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "随手记-记账就用随手记",
+    "dev": "Shenzhen Mingshu Information Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E9%9A%8F%E6%89%8B%E8%AE%B0-%E8%AE%B0%E8%B4%A6%E5%B0%B1%E7%94%A8%E9%9A%8F%E6%89%8B%E8%AE%B0/id372353614?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "iCost记账-快速简洁好用的记账理财助手&记账软件",
+    "dev": "Guangzhou Quji Technology Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/icost%E8%AE%B0%E8%B4%A6-%E5%BF%AB%E9%80%9F%E7%AE%80%E6%B4%81%E5%A5%BD%E7%94%A8%E7%9A%84%E8%AE%B0%E8%B4%A6%E7%90%86%E8%B4%A2%E5%8A%A9%E6%89%8B-%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6/id1484262528?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ArkFlow - Credit Card Wallet",
+    "dev": "云飞 张",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/arkflow-credit-card-wallet/id6768145287?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OrvietoViva",
+    "dev": "Creitalia Group",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orvietoviva/id1661666942?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "卡喵 - 云闪付app卡神日历",
+    "dev": "Hangzhou ChangJing Technology Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E5%8D%A1%E5%96%B5-%E4%BA%91%E9%97%AA%E4%BB%98app%E5%8D%A1%E7%A5%9E%E6%97%A5%E5%8E%86/id1557595766?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Z有钱—AI自动记账超方便",
+    "dev": "Chongqing Duxiaoman Information Technology Co.Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/z%E6%9C%89%E9%92%B1-ai%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6%E8%B6%85%E6%96%B9%E4%BE%BF/id6756996468?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Val d'Orcia Outdoor",
+    "dev": "General Solutions Steiner GmbH",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/val-dorcia-outdoor/id1403754004?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Golvia",
+    "dev": "Golvia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/golvia/id6744562666?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Balloon Escape",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/balloon-escape/id6769175087?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Penny Ball",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/penny-ball/id6784982799?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zero Debt: Payoff Planner",
+    "dev": "Sardor Akbarov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zero-debt-payoff-planner/id6797665696?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "掌中记",
+    "dev": "HAORAN SUN",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%E6%8E%8C%E4%B8%AD%E8%AE%B0/id6762137548?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Adhunter",
+    "dev": "Orvia Digital Reklamcılık",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/adhunter/id6759783164?uo=4"
+   }
+  ]
+ },
+ "Rotiva": {
+  "dominios": {
+   "rotiva.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-02-14T00:31:23Z",
+     "last changed": "2026-02-15T15:13:06Z",
+     "expiration": "2027-02-14T00:31:23Z"
+    },
+    "nameservers": [
+     "a.sec.dns.br",
+     "b.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Derick Lopes Bernardo",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Derick Lopes Bernardo",
+      "handle": "DELBE31"
+     }
+    ]
+   },
+   "rotiva.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "rotiva.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-05-14T10:19:13Z",
+     "expiration": "2027-05-14T10:19:13Z",
+     "last changed": "2024-05-15T11:26:33Z",
+     "last update of RDAP database": "2026-11-20T09:24:12Z"
+    },
+    "nameservers": [
+     "NS11.DOMAINCONTROL.COM",
+     "NS12.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "erro": "403 "
+   },
+   {
+    "pais": "us",
+    "app": "Rotiva - Run & Walk Tracker",
+    "dev": "Ibrahim Geyik",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/rotiva-run-walk-tracker/id6780004189?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kipup: Rotina Infantil",
+    "dev": "Kipup",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kipup-rotina-infantil/id6765769483?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Quadro de Rotina",
+    "dev": "Rafael Araujo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/quadro-de-rotina/id1672047415?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ali’s Caribbean Roti",
+    "dev": "RedoQ Software",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/alis-caribbean-roti/id6504754095?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Rota On",
+    "dev": "Proesc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/rota-on/id6783367865?uo=4"
+   }
+  ]
+ },
+ "Novera": {
+  "dominios": {
+   "novera.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": null,
+    "eventos": {},
+    "nameservers": [],
+    "entidades": []
+   },
+   "novera.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-10-11T21:12:40Z",
+     "last changed": "2026-10-11T23:26:31Z",
+     "expiration": "2027-10-11T21:12:40Z"
+    },
+    "nameservers": [
+     "b.sec.dns.br",
+     "c.sec.dns.br"
+    ]
+   },
+   "novera.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-09-26T10:37:59Z",
+     "expiration": "2027-09-26T10:37:59Z",
+     "last changed": "2026-09-11T07:23:33Z",
+     "last update of RDAP database": "2026-11-20T09:24:12Z"
+    },
+    "nameservers": [
+     "NS1.GRIDHOST.COM",
+     "NS2.GRIDHOST.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Dynadot Inc",
+      "handle": "472"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Novera app",
+    "dev": "Pierre Perrin",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novera-app/id6759578464?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novera: Kalori ve Diyet Takibi",
+    "dev": "SENA SARIER",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novera-kalori-ve-diyet-takibi/id6830783440?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novara Flex: Safety Management",
+    "dev": "Novara Software LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novara-flex-safety-management/id978056741?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novera Learn English",
+    "dev": "Fatemeh Shahbazi",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novera-learn-english/id6774522193?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novera : AI Dream Analysis",
+    "dev": "OMER FARUK IPEK",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novera-ai-dream-analysis/id6759537351?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "NoveraFlow",
+    "dev": "JINGEUN YOON",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/noveraflow/id6792970947?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Novera POS",
+    "dev": "PFC AI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/novera-pos/id6834391794?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "aiAllure: AI Companion",
+    "dev": "Novera Group s.r.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/aiallure-ai-companion/id6802301234?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Senarra",
+    "dev": "Cindara Novera, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/senarra/id6761998717?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "CloserBroker: CRM inmobiliario",
+    "dev": "Novera Technologies LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/closerbroker-crm-inmobiliario/id6819233456?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "VILAR VPN",
+    "dev": "NOVERA LABS LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/vilar-vpn/id6810382379?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Align: Olumlama & Hedef Takibi",
+    "dev": "NOVERA LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/align-olumlama-hedef-takibi/id6779626833?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novara Flex: Safety Management",
+    "dev": "Novara Software LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novara-flex-safety-management/id978056741?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novera app",
+    "dev": "Pierre Perrin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novera-app/id6759578464?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cal AI - Calorie Tracker",
+    "dev": "Viral Development LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "AI Calorie Tracker by Yazio",
+    "dev": "YAZIO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ai-calorie-tracker-by-yazio/id946099227?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Intercede - Catholic Novenas",
+    "dev": "Devoted Coders, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/intercede-catholic-novenas/id1088485587?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "AI Calorie Tracker:FoodPilot",
+    "dev": "Hong Kong Radiant Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ai-calorie-tracker-foodpilot/id6738115267?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novera : AI Dream Analysis",
+    "dev": "OMER FARUK IPEK",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novera-ai-dream-analysis/id6759537351?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novera Learn English",
+    "dev": "Fatemeh Shahbazi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novera-learn-english/id6774522193?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "VILAR VPN",
+    "dev": "NOVERA LABS LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vilar-vpn/id6810382379?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Alligator",
+    "dev": "Yuriy Povarov",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/alligator/id6471507386?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fourteen Holy Helpers Lite: Catholic Novena and Prayers",
+    "dev": "Leonard Mamangkey",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fourteen-holy-helpers-lite-catholic-novena-and-prayers/id473918258?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NoveraFlow",
+    "dev": "JINGEUN YOON",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/noveraflow/id6792970947?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novera POS",
+    "dev": "PFC AI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novera-pos/id6834391794?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TravelSnap(山河旅记)",
+    "dev": "启东 吴",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/travelsnap-%E5%B1%B1%E6%B2%B3%E6%97%85%E8%AE%B0/id6739272460?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "aiAllure: AI Companion",
+    "dev": "Novera Group s.r.o.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aiallure-ai-companion/id6802301234?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novena Tracker: Daily Prayer",
+    "dev": "QuickQuote group PTY LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novena-tracker-daily-prayer/id6827801271?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novenas+",
+    "dev": "Luis Rodriguez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novenas/id6758366284?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "닉네임톡 - 패밀리타운과 함께하는 간편한 대화",
+    "dev": "NOVERA Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%EB%8B%89%EB%84%A4%EC%9E%84%ED%86%A1-%ED%8C%A8%EB%B0%80%EB%A6%AC%ED%83%80%EC%9A%B4%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%8C%80%ED%99%94/id6446716196?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "forDiabetes",
+    "dev": "Tessera Multimedia S.A.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fordiabetes/id1363108221?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Catholic Novenas",
+    "dev": "Bil Kimes",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/catholic-novenas/id943061440?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Novena Church",
+    "dev": "CCS Group Pte Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/novena-church/id1278178148?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pray Catholic Saints",
+    "dev": "Jean Paul Reyna Gastello",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pray-catholic-saints/id1591282511?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Catholic Prayers Novena",
+    "dev": "Payal Seth",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/catholic-prayers-novena/id6446678315?uo=4"
+   }
+  ]
+ },
+ "Vértia": {
+  "dominios": {
+   "vertia.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2019-04-06T11:01:41Z",
+     "last changed": "2026-05-19T08:23:45Z",
+     "expiration": "2027-04-06T11:01:41Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Ricardo Lima",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Ricardo da Silva Lima",
+      "handle": "RISLI80"
+     }
+    ]
+   },
+   "vertia.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "vertia.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-01-28T18:08:30Z",
+     "expiration": "2027-01-28T18:08:29Z",
+     "last changed": "2026-01-29T08:32:50Z",
+     "last update of RDAP database": "2026-11-20T09:24:12Z"
+    },
+    "nameservers": [
+     "NS5.MODSERVER.COM",
+     "NS6.MODSERVER.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Network Solutions, LLC",
+      "handle": "2"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Veritas Church App",
+    "dev": "VERITAS CHURCH OF CEDAR RAPIDS",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veritas-church-app/id1578297112?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veritas Church App",
+    "dev": "VERITAS CHURCH OF CEDAR RAPIDS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veritas-church-app/id1578297112?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Velva ND",
+    "dev": "City of Velva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/velva-nd/id6445966998?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Verena Russia",
+    "dev": "Magzter Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/verena-russia/id1106276365?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Intubei",
+    "dev": "Vesartius LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/intubei/id1616964656?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Auto Di Venosa",
+    "dev": "Biagio Roggia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/auto-di-venosa/id6835197376?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TK Veículos",
+    "dev": "Eduardo Rocha Ferreira",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tk-ve%C3%ADculos/id6784846893?uo=4"
+   }
+  ]
+ },
+ "Atempo": {
+  "dominios": {
+   "atempo.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-05-20T18:36:49Z",
+     "last changed": "2026-05-20T22:26:42Z",
+     "expiration": "2027-05-20T18:36:49Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "VIP PTG",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "PAULO GIORGINI",
+      "handle": "PAG36"
+     }
+    ]
+   },
+   "atempo.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-11-14T18:52:51Z",
+     "last changed": "2026-11-15T02:19:42Z",
+     "expiration": "2027-11-14T18:52:51Z"
+    },
+    "nameservers": [
+     "a.sec.dns.br",
+     "b.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Emc Tech",
+      "handle": "33843984000121"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Cristian Carvalhos Fernandes",
+      "handle": "CRCFE78"
+     }
+    ]
+   },
+   "atempo.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "1997-03-26T05:00:00Z",
+     "expiration": "2029-03-27T04:00:00Z",
+     "last changed": "2026-03-08T18:45:31Z",
+     "last update of RDAP database": "2026-11-20T09:24:12Z"
+    },
+    "nameservers": [
+     "NS77.DOMAINCONTROL.COM",
+     "NS78.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Metrônomo: Tempo Lite",
+    "dev": "Frozen Ape Pte. Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/metr%C3%B4nomo-tempo-lite/id599833596?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Yahoo Tempo",
+    "dev": "Yahoo",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/yahoo-tempo/id628677149?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Windy.app: previsão do tempo",
+    "dev": "Windy Weather World Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/windy-app-previs%C3%A3o-do-tempo/id997079492?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Atempo: Find Your Own Tempo",
+    "dev": "Wontae Jeong",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/atempo-find-your-own-tempo/id6755473116?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Windy.com: Clima, Tempo, Radar",
+    "dev": "Windyty, SE",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/windy-com-clima-tempo-radar/id1161387262?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "A-Tempo",
+    "dev": "Simone Marra",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/a-tempo/id6761763790?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AccuWeather: tempo e previsões",
+    "dev": "AccuWeather International, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/accuweather-tempo-e-previs%C3%B5es/id300048137?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Opal: Diminuir Tempo de Tela",
+    "dev": "Opal OS",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/opal-diminuir-tempo-de-tela/id1497465230?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Climatempo - Previsão do tempo",
+    "dev": "Climatempo Meteorologia",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/climatempo-previs%C3%A3o-do-tempo/id407856257?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Tempo Pro ·",
+    "dev": "BUCKET LIST LABS S.L.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/tempo-pro/id1137406490?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "UOL: Notícias em tempo real",
+    "dev": "UOL Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/uol-not%C3%ADcias-em-tempo-real/id507590226?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Tempo 14 dias",
+    "dev": "Tasmanic Editions",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/tempo-14-dias/id567167525?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Tempos: Disney World",
+    "dev": "VersaEdge Software, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/tempos-disney-world/id321601474?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "market4u",
+    "dev": "TecBio Informática Ltda.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/market4u/id1497298079?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Tempo Brasil Clima XL PRO",
+    "dev": "exovoid sarl",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/tempo-brasil-clima-xl-pro/id990822895?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Meteored - Previsão do Tempo",
+    "dev": "Alpred, S.L.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/meteored-previs%C3%A3o-do-tempo/id543364901?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Timestamp- Câmera do Tempo",
+    "dev": "ZipoApps",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/timestamp-c%C3%A2mera-do-tempo/id6469987214?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Widget Casal : Dias Juntos",
+    "dev": "Jae Young Kim",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/widget-casal-dias-juntos/id1127692604?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Pro Metronome - Tempo & Tuner",
+    "dev": "Polybeat Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/pro-metronome-tempo-tuner/id477960671?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Forca - O melhor jogo da forca",
+    "dev": "FBF Sistemas LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/forca-o-melhor-jogo-da-forca/id442227661?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Quanto tempo falta",
+    "dev": "Orlando da Silva Fontoura",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/quanto-tempo-falta/id1479038629?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Quanto Tempo Falta Pay",
+    "dev": "Prodata",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/quanto-tempo-falta-pay/id6754711593?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Atempo QR",
+    "dev": "Abel Torres Cano",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atempo-qr/id6475314914?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Atempo",
+    "dev": "Karl Koch",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atempo/id6752961457?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "A-Tempo",
+    "dev": "Simone Marra",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/a-tempo/id6761763790?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Atempo: Find Your Own Tempo",
+    "dev": "Wontae Jeong",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atempo-find-your-own-tempo/id6755473116?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Peruvian Newspapers",
+    "dev": "MUNBEN SA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/peruvian-newspapers/id955002812?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Atempo: Breathwork & NSDR",
+    "dev": "鑫 陈",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atempo-breathwork-nsdr/id6835698180?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Sompopo.",
+    "dev": "SOMPOPO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/sompopo/id1420680210?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mexican Newspapers",
+    "dev": "MUNBEN SA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mexican-newspapers/id950790965?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Acertijos y Adivinanzas",
+    "dev": "TEDRA SOFT SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/acertijos-y-adivinanzas/id1272608375?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Grupo Amarte",
+    "dev": "Francisco Marte",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/grupo-amarte/id6476468312?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Correos: Shipping and tracking",
+    "dev": "Grupo Correos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/correos-shipping-and-tracking/id6478281790?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Rockolera Del Ecuador",
+    "dev": "MANOLO SERVICES, INC.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-rockolera-del-ecuador/id805520625?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Aquella Receta",
+    "dev": "Murilo Araujo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aquella-receta/id1616031688?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Kultur Entradas de última hora",
+    "dev": "Kulturapp S.L",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kultur-entradas-de-%C3%BAltima-hora/id6444611130?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Gifto: Amigo Secreto",
+    "dev": "Evandro Pulz Viva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gifto-amigo-secreto/id6792916763?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Himnario Evangélico",
+    "dev": "Nelson Ovidio Arevalo Martinez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/himnario-evang%C3%A9lico/id6757204940?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Xenda",
+    "dev": "APPTELINK S.A.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/xenda/id6751369191?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "doto.com.mx",
+    "dev": "Comercializadora Systore SA de CV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/doto-com-mx/id1659724492?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "iTask Reminders",
+    "dev": "Alfredo Rebolloso Gonzalez",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/itask-reminders/id1357955714?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "BEAT STUDIO APP",
+    "dev": "Fernando Quintana",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/beat-studio-app/id6761805587?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Human WorkSocial",
+    "dev": "VenturesSoft México",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/human-worksocial/id1481124488?uo=4"
+   }
+  ]
+ },
+ "Plenna": {
+  "dominios": {
+   "plenna.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "1998-11-09T14:55:55Z",
+     "last changed": "2026-10-12T20:15:57Z",
+     "expiration": "2036-11-09T14:55:55Z"
+    },
+    "nameservers": [
+     "e.sec.dns.br",
+     "f.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Plenna Especialidades Ltda.",
+      "handle": "55234413000122"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Marcio Bonfim",
+      "handle": "MABON3"
+     }
+    ]
+   },
+   "plenna.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-08-29T02:33:16Z",
+     "last changed": "2026-09-14T19:41:49Z",
+     "expiration": "2027-08-29T02:33:16Z"
+    },
+    "nameservers": [
+     "ns1.vercel-dns.com",
+     "ns2.vercel-dns.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "direciona serviços terceirizados",
+      "handle": "37509659000188"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "joao lucas de souza padoan",
+      "handle": "JLSPA46"
+     }
+    ]
+   },
+   "plenna.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2011-01-12T19:26:03Z",
+     "expiration": "2028-01-12T19:26:03Z",
+     "last changed": "2024-12-16T10:27:15Z",
+     "last update of RDAP database": "2026-11-20T09:24:27Z"
+    },
+    "nameservers": [
+     "DNS1.KINGHOST.COM.BR",
+     "DNS2.KINGHOST.COM.BR",
+     "DNS3.KINGHOST.COM.BR",
+     "DNS4.KINGHOST.COM.BR"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "handle": "303"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Plenna",
+    "dev": "Bus servicos de agendamento ltda",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/plenna/id6779726514?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Plenna: Estudos e Rotina",
+    "dev": "Diogo Avilar",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/plenna-estudos-e-rotina/id6816308164?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Plenna",
+    "dev": "Mujer Plenna Salud SAPI de CV",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/plenna/id6453362333?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Plenna: Estudos e Rotina",
+    "dev": "Diogo Avilar",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/plenna-estudos-e-rotina/id6816308164?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Obstetrics Calculator",
+    "dev": "Alexander Snegirev",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/obstetrics-calculator/id1564764019?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Gynecology and Obstetrics",
+    "dev": "Unbound Medicine, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gynecology-and-obstetrics/id1020696634?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Gestograma UNAM",
+    "dev": "Mahuina Campos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gestograma-unam/id1321322112?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "FIGO2025",
+    "dev": "MCI Group Holding SA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/figo2025/id6752611246?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "CMGO APP",
+    "dev": "Rafael Rivera",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cmgo-app/id1483001984?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ginecoacademy LTDA",
+    "dev": "Mind Consulting",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ginecoacademy-ltda/id6463494069?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "App Fecolsog",
+    "dev": "Fecolsog",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/app-fecolsog/id6737152780?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "BIBI BAZENI - Škola plivanja",
+    "dev": "GoSoftware",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/bibi-bazeni-%C5%A1kola-plivanja/id6469505862?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PLK Polzela",
+    "dev": "Islam Music",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/plk-polzela/id6477910412?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "RankNRate",
+    "dev": "Giuseppe Lisanti",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ranknrate/id6825422381?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Atlas52",
+    "dev": "CUCU R. FLORIAN PERSOANA FIZICA AUTORIZATA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/atlas52/id6805051219?uo=4"
+   }
+  ]
+ },
+ "Avora": {
+  "dominios": {
+   "avora.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2020-04-04T23:58:53Z",
+     "last changed": "2026-08-16T02:24:45Z",
+     "expiration": "2027-04-04T23:58:53Z"
+    },
+    "nameservers": [
+     "ns384.hostgator.com.br",
+     "ns385.hostgator.com.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Gustavo Henrique Garcia Barreto",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "gustavo henrique garcia barreto",
+      "handle": "GHGBA"
+     }
+    ]
+   },
+   "avora.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-04-15T20:43:42Z",
+     "last changed": "2026-04-16T03:34:17Z",
+     "expiration": "2027-04-15T20:43:42Z"
+    },
+    "nameservers": [
+     "ns1.digitalocean.com",
+     "ns2.digitalocean.com",
+     "ns3.digitalocean.com"
+    ]
+   },
+   "avora.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2018-01-31T19:55:51Z",
+     "expiration": "2034-01-31T19:55:51Z",
+     "last changed": "2026-02-10T03:43:03Z",
+     "last update of RDAP database": "2026-11-20T09:24:27Z"
+    },
+    "nameservers": [
+     "NS1.ATOM.COM",
+     "NS2.ATOM.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Atom.com Domains LLC",
+      "handle": "4547"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Ávora Club",
+    "dev": "Rodrigo Cruz",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/%C3%A1vora-club/id6805601326?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora: Controle Gastos",
+    "dev": "Hasan Karli",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-controle-gastos/id6743057503?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora: Portfólio Imobiliário",
+    "dev": "Flavio Ribeiro Nogueira Barbosa",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-portf%C3%B3lio-imobili%C3%A1rio/id6762310980?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AVORA APP",
+    "dev": "SCAN2PAY FZE LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-app/id6754978949?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avira Mobile Security",
+    "dev": "Avira Holding",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avira-mobile-security/id692893556?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AVORA",
+    "dev": "Charles Gowland",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora/id6762920504?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Widgets da Bíblia: Avora",
+    "dev": "Dmitri Rosca",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/widgets-da-b%C3%ADblia-avora/id6782144233?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora APlay: Video Player",
+    "dev": "Byteway LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-aplay-video-player/id6802490833?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora Art B2B",
+    "dev": "Kursat ERKAL",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-art-b2b/id6738201913?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora Mediterranean",
+    "dev": "Yusuf Kacan",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-mediterranean/id6809536516?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avora Health",
+    "dev": "KESLERLAB LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-health/id6789938621?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avira Phantom VPN",
+    "dev": "Avira Holding",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avira-phantom-vpn/id1112484006?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Security & VPN by Kaspersky",
+    "dev": "Kaspersky Lab Switzerland GmbH",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/security-vpn-by-kaspersky/id1089969624?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AVORA Investment",
+    "dev": "AG TECH CONSULTING CORP",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-investment/id6778601009?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avast Segurança Móvel & VPN",
+    "dev": "AVAST Software s.r.o",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avast-seguran%C3%A7a-m%C3%B3vel-vpn/id1276551855?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AVORA - Partners",
+    "dev": "SCAN2PAY FZE LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-partners/id6754979076?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Clean Master - Limpeza Phone",
+    "dev": "长付 刘",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/clean-master-limpeza-phone/id1526424201?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "OpenVPN Connect",
+    "dev": "OpenVPN Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/openvpn-connect/id590379981?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Avira Password Manager",
+    "dev": "Avira Holding",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avira-password-manager/id1120055983?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Nolog VPN - Fast Stable Proxy",
+    "dev": "Bitmorpher Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nolog-vpn-fast-stable-proxy/id1516805757?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AVORA STORE",
+    "dev": "SIMICART ONLINE TECHNOLOGY COMPANY LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/avora-store/id6796158231?uo=4"
+   },
+   {
+    "pais": "us",
+    "erro": "403 "
+   }
+  ]
+ },
+ "Ordina": {
+  "dominios": {
+   "ordina.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2024-09-11T15:02:10Z",
+     "last changed": "2026-08-22T10:37:10Z",
+     "expiration": "2027-09-11T15:02:10Z"
+    },
+    "nameservers": [
+     "ns19.domaincontrol.com",
+     "ns20.domaincontrol.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Jordana Fonseca Rocha Costa",
+      "handle": "39708808000163"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Jordana Fonseca Rocha Costa",
+      "handle": "JFRCO26"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GODADDY",
+      "handle": "p86"
+     }
+    ]
+   },
+   "ordina.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "ordina.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "1999-12-29T14:13:12Z",
+     "expiration": "2026-12-29T14:13:12Z",
+     "last changed": "2025-09-19T09:36:56Z",
+     "last update of RDAP database": "2026-11-20T09:24:27Z"
+    },
+    "nameservers": [
+     "DNS1.CSCDNS.NET",
+     "DNS2.CSCDNS.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "CSC Corporate Domains, Inc.",
+      "handle": "299"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "erro": "403 "
+   },
+   {
+    "pais": "us",
+    "erro": "403 "
+   }
+  ]
+ },
+ "Pontta": {
+  "dominios": {
+   "pontta.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2008-09-08T23:12:30Z",
+     "last changed": "2026-08-10T11:03:54Z",
+     "expiration": "2029-09-08T23:12:30Z"
+    },
+    "nameservers": [
+     "ns1.locaweb.com.br",
+     "ns2.locaweb.com.br",
+     "ns3.locaweb.com.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Sérgio Rodrigues Valle",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "FABRICIO CAMARGO FARIA",
+      "handle": "FCF236"
+     }
+    ]
+   },
+   "pontta.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "pontta.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2008-09-11T15:03:22Z",
+     "expiration": "2027-09-11T15:03:22Z",
+     "last changed": "2024-08-14T12:17:28Z",
+     "last update of RDAP database": "2026-11-20T09:24:42Z"
+    },
+    "nameservers": [
+     "NS67.DOMAINCONTROL.COM",
+     "NS68.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Pontaj HRiFlow",
+    "dev": "Electronista SRL",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pontaj-hriflow/id6443467106?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Igreja A Ponte",
+    "dev": "IGREJA A PONTE",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/igreja-a-ponte/id1524683011?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ponte",
+    "dev": "David Svensson",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ponte/id6762510203?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oeste Sertaneja",
+    "dev": "Carlos Oliveira",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oeste-sertaneja/id6698860815?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "A Ponte Caruaru",
+    "dev": "IGREJA A PONTE",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/a-ponte-caruaru/id6651859043?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Primera Pedra",
+    "dev": "Pierre Albie",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/primera-pedra/id1437134287?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Conecta Rural DEPO",
+    "dev": "Diputación de Pontevedra",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/conecta-rural-depo/id6797468326?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "LPDT",
+    "dev": "Patricio Sarno",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/lpdt/id6745411828?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ponto Ágil Sistema",
+    "dev": "Georges da Silva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ponto-%C3%A1gil-sistema/id6756079963?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cirklo",
+    "dev": "Hitalo Cunha de Sousa",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cirklo/id6818922010?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Vetta Telecom",
+    "dev": "Kauan Almeida",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/vetta-telecom/id6758218653?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pontaj Mecanic Marfă",
+    "dev": "George Adrian Goga",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pontaj-mecanic-marf%C4%83/id6799237399?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Krono by Mobcode",
+    "dev": "Mobcode Soluções em Tecnologia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/krono-by-mobcode/id6817472712?uo=4"
+   }
+  ]
+ },
+ "Oryza": {
+  "dominios": {
+   "oryza.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2022-08-26T16:12:49Z",
+     "last changed": "2026-07-28T08:31:23Z",
+     "expiration": "2027-08-26T16:12:49Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Luiz de Rezende Puech",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Luiz de Rezende Puech",
+      "handle": "LUP9"
+     }
+    ]
+   },
+   "oryza.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "oryza.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-05-22T04:54:45Z",
+     "expiration": "2028-05-22T04:54:45Z",
+     "last changed": "2025-05-20T01:28:34Z",
+     "last update of RDAP database": "2026-11-20T09:24:42Z"
+    },
+    "nameservers": [
+     "NS1.13SLATE.COM",
+     "NS2.13SLATE.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Tucows Domains Inc.",
+      "handle": "69"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Oryza Alarm",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/oryza-alarm/id6754453935?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Oryza One",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/oryza-one/id6758497270?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Oryza VMS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/oryza-vms/id6473900588?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Oryza DMS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/oryza-dms/id6756404091?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Oryza SWTLCS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/oryza-swtlcs/id6761125299?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Ориза",
+    "dev": "DELIVERYmobile, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/%D0%BE%D1%80%D0%B8%D0%B7%D0%B0/id6743130409?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza Grill",
+    "dev": "ORYZA GROUP LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-grill/id6636497562?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza One",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-one/id6758497270?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza VMS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-vms/id6473900588?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza Alarm",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-alarm/id6754453935?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza DMS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-dms/id6756404091?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oryza SWTLCS",
+    "dev": "Oryza System Technology Joint Stock Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oryza-swtlcs/id6761125299?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Raza Atlanta",
+    "dev": "InterTech Media, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-raza-atlanta/id1425076913?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Origo hírek",
+    "dev": "Mediaworks Hungary Zrt.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/origo-h%C3%ADrek/id425659520?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ориза",
+    "dev": "DELIVERYmobile, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/%D0%BE%D1%80%D0%B8%D0%B7%D0%B0/id6743130409?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Recetio: qué comer hoy",
+    "dev": "Iroda Radjapova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/recetio-qu%C3%A9-comer-hoy/id6794632147?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Oriva",
+    "dev": "DUYUS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/oriva/id6757975220?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Orlyo",
+    "dev": "Orlyo LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/orlyo/id6779751953?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Zelia",
+    "dev": "Rogelio Zamora",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/zelia/id6759836478?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ajogua",
+    "dev": "Carjogua E.A.S.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ajogua/id6766161950?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "iprahoje",
+    "dev": "Ricardo Glodzinski",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/iprahoje/id6773458071?uo=4"
+   }
+  ]
+ },
+ "Nivora": {
+  "dominios": {
+   "nivora.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2024-09-11T22:47:38Z",
+     "last changed": "2026-08-22T11:58:50Z",
+     "expiration": "2027-09-11T22:47:38Z"
+    },
+    "nameservers": [
+     "ns53.domaincontrol.com",
+     "ns54.domaincontrol.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "ALINE BOHN",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "ALINE BOHN",
+      "handle": "ALBOH10"
+     },
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GODADDY",
+      "handle": "p86"
+     }
+    ]
+   },
+   "nivora.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "inactive"
+    ],
+    "eventos": {
+     "registration": "2026-09-12T23:56:41Z",
+     "last changed": "2026-09-28T14:33:43Z",
+     "expiration": "2026-09-12T23:56:41Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Gean Pablo Pimentel de Moura",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Gean Pablo",
+      "handle": "GEPAB8"
+     }
+    ]
+   },
+   "nivora.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2010-06-05T18:12:01Z",
+     "expiration": "2027-06-05T18:12:01Z",
+     "last changed": "2024-05-06T23:01:10Z",
+     "last update of RDAP database": "2026-11-20T09:24:42Z"
+    },
+    "nameservers": [
+     "NS1.POWER-DNS.COM",
+     "NS2.POWER-DNS.COM",
+     "NS3.POWER-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Nivora: Epic Snow Experiences",
+    "dev": "Federico Zivolo",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nivora-epic-snow-experiences/id6468679836?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "NIVORA - Smart Ring",
+    "dev": "Nevo Iflach",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nivora-smart-ring/id6760432299?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Nivora Flow",
+    "dev": "Reading Session",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/nivora-flow/id6811261942?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "PrimeNivora",
+    "dev": "Berke Kalkar",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/primenivora/id6778731632?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nivora: Epic Snow Experiences",
+    "dev": "Federico Zivolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nivora-epic-snow-experiences/id6468679836?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nivora Underwriting",
+    "dev": "Nivora UW",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nivora-underwriting/id6792169903?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NIVORA - Smart Ring",
+    "dev": "Nevo Iflach",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nivora-smart-ring/id6760432299?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nivora Flow",
+    "dev": "Reading Session",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nivora-flow/id6811261942?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "NivoraFit - Workout Tracker",
+    "dev": "Chai Shai Dating LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nivorafit-workout-tracker/id6791781859?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PrimeNivora",
+    "dev": "Berke Kalkar",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/primenivora/id6778731632?uo=4"
+   }
+  ]
+ },
+ "Movent": {
+  "dominios": {
+   "movent.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-12-18T19:55:11Z",
+     "last changed": "2025-12-19T23:48:54Z",
+     "expiration": "2026-12-18T19:55:11Z"
+    },
+    "nameservers": [
+     "b.sec.dns.br",
+     "c.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Andersen Waqued",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Andersen Waqued",
+      "handle": "ANWAQ14"
+     }
+    ]
+   },
+   "movent.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-09-17T00:56:27Z",
+     "last changed": "2026-09-17T04:02:17Z",
+     "expiration": "2027-09-17T00:56:27Z"
+    },
+    "nameservers": [
+     "chan.ns.cloudflare.com",
+     "quentin.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Elvis Sebastião Rodrigues De Oliveira",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Elvis Sebastião Rodrigues De Oliveira",
+      "handle": "ESROL32"
+     }
+    ]
+   },
+   "movent.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2002-07-14T17:57:50Z",
+     "expiration": "2027-07-14T17:57:50Z",
+     "last changed": "2026-06-01T07:07:19Z",
+     "last update of RDAP database": "2026-11-20T09:24:42Z"
+    },
+    "nameservers": [
+     "BLUE.FOUNDATIONDNS.COM",
+     "BLUE.FOUNDATIONDNS.NET",
+     "BLUE.FOUNDATIONDNS.ORG"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "CSC Corporate Domains, Inc.",
+      "handle": "299"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Movent: TAF e Teste Físico",
+    "dev": "Wesley Huchit",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/movent-taf-e-teste-f%C3%ADsico/id6823977987?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Movent - What to do in Vienna",
+    "dev": "Dzan Operta",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/movent-what-to-do-in-vienna/id6754891732?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Moventes Fit Experience",
+    "dev": "Moventes Fit Experience",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/moventes-fit-experience/id1481947033?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Moventes Fit Experience EGYM",
+    "dev": "Moventes Fit Experience",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/moventes-fit-experience-egym/id6479322987?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "The Movement Club App",
+    "dev": "The Movement Club",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/the-movement-club-app/id6443683822?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "MarketMate: Your PSX Companion",
+    "dev": "Movent (Private) Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/marketmate-your-psx-companion/id6800450142?uo=4"
+   },
+   {
+    "pais": "us",
+    "erro": "403 "
+   }
+  ]
+ },
+ "Tavora": {
+  "dominios": {
+   "tavora.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2003-08-22T00:06:11Z",
+     "last changed": "2026-09-24T23:10:56Z",
+     "expiration": "2028-08-22T00:06:11Z"
+    },
+    "nameservers": [
+     "e.sec.dns.br",
+     "f.sec.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "ANTONIO F V F TAVORA",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "ANTONIO FRANCISCO VIEIRA FERNANDES TAVOR",
+      "handle": "AFVFT"
+     }
+    ]
+   },
+   "tavora.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "tavora.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2005-05-16T18:32:52Z",
+     "expiration": "2027-05-16T18:32:52Z",
+     "last changed": "2026-05-17T14:41:07Z",
+     "last update of RDAP database": "2026-11-20T09:24:57Z"
+    },
+    "nameservers": [
+     "NS1.AFTERNIC.COM",
+     "NS2.AFTERNIC.COM",
+     "NS3.AFTERNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy Online Services Cayman Islands Ltd.",
+      "handle": "1659"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Tavora",
+    "dev": "KWAYU MMARI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/tavora/id6760533703?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Mentuca",
+    "dev": "Beatriz Tavora",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/mentuca/id6760587813?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Alia",
+    "dev": "Adauto Fernan Tavora Pinheiro",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/alia/id6812521815?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tavora",
+    "dev": "KWAYU MMARI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tavora/id6760533703?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Sombrero Tacoria",
+    "dev": "The Sombrero Food Truck Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/sombrero-tacoria/id6446416955?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Taqueria Taco Express",
+    "dev": "Matlock Restaurant, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/taqueria-taco-express/id6449558179?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Homemade Taqueria (NY)",
+    "dev": "Homemade Taqueria Corp",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/homemade-taqueria-ny/id6476889678?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The Taco Stand",
+    "dev": "411eat",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-taco-stand/id1356047568?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The Taco-Stand",
+    "dev": "Frequency Design LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-taco-stand/id6761575578?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "La Corneta Taqueria",
+    "dev": "LA CORNETA, INC.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/la-corneta-taqueria/id6744621249?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "The Taco Stand Taqueria",
+    "dev": "The Taco Stand Taqueria LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/the-taco-stand-taqueria/id6805626509?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Carnales Taqueria",
+    "dev": "TAQUERIA CARNALES TIJUANA STYLE LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/carnales-taqueria/id6749782518?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mothers Tacos",
+    "dev": "Mothers Tacos, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mothers-tacos/id1664614448?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Taqueria Los Agaves",
+    "dev": "TAQUERIA LOS AGAVES NO.5, INC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/taqueria-los-agaves/id6743767794?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "TacoCerca",
+    "dev": "Especialistas en Plataformas de Computo en la Nube, S.A. de C.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tacocerca/id941203783?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Turco Taco",
+    "dev": "Yavuz Ozturk",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/turco-taco/id1470398005?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Resident Taqueria",
+    "dev": "Incentivio, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/resident-taqueria/id1550968184?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mr Taco of Maplewood",
+    "dev": "TAQUERIA LOS OCAMPO 2, INC.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mr-taco-of-maplewood/id6753191198?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Hostal de Los Quesos",
+    "dev": "Hostal de Los Quesos",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hostal-de-los-quesos/id1522618672?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Taquiza Taco Shop",
+    "dev": "TAQUIZA STREET LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/taquiza-taco-shop/id6818288642?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Tacos Plaza",
+    "dev": "Menuocity LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/tacos-plaza/id6503200014?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mentuca",
+    "dev": "Beatriz Tavora",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mentuca/id6760587813?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Alia",
+    "dev": "Adauto Fernan Tavora Pinheiro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/alia/id6812521815?uo=4"
+   }
+  ]
+ },
+ "Elora": {
+  "dominios": {
+   "elora.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2019-11-07T15:57:20Z",
+     "last changed": "2026-10-08T23:17:48Z",
+     "expiration": "2027-11-07T15:57:20Z"
+    },
+    "nameservers": [
+     "frank.ns.cloudflare.com",
+     "vivienne.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Keum Won Kim",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Bruno Eduardo de Oliveira Constantino",
+      "handle": "BEC86"
+     }
+    ]
+   },
+   "elora.app.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-05-27T18:40:27Z",
+     "last changed": "2026-05-28T17:16:24Z",
+     "expiration": "2027-05-27T18:40:27Z"
+    },
+    "nameservers": [
+     "damian.ns.cloudflare.com",
+     "marjory.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Fellipe Victor Moura Pantaleão",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Fellipe Victor Moura Pantaleão",
+      "handle": "FVMPA6"
+     }
+    ]
+   },
+   "elora.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "1998-09-05T04:00:00Z",
+     "expiration": "2027-09-04T04:00:00Z",
+     "last changed": "2026-09-05T08:01:41Z",
+     "last update of RDAP database": "2026-11-20T09:24:57Z"
+    },
+    "nameservers": [
+     "DNS200.ANYCAST.ME",
+     "NS200.ANYCAST.ME"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "OVH sas",
+      "handle": "433"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Speak English with Elora AI",
+    "dev": "2709982 Ontario Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/speak-english-with-elora-ai/id6760909561?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora: Match, Chat & Book",
+    "dev": "Elora Software LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-match-chat-book/id6752585089?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora",
+    "dev": "Ahmed Salah",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora/id6744857121?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora: Guided Journal & Diary",
+    "dev": "Samuel McCarthy",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-guided-journal-diary/id6753067869?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora - Jardin d'objectifs",
+    "dev": "antony szatmari",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-jardin-dobjectifs/id6809040653?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora: Daily Energy Guide",
+    "dev": "Timevult, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-daily-energy-guide/id6799203456?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora Road Church",
+    "dev": "Elora Road Christian Fellowship Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-road-church/id6695736313?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "The Yoga Club Elora",
+    "dev": "Erin Charnley",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/the-yoga-club-elora/id6811881860?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora beauty",
+    "dev": "AWAMER ALSHABAKA",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-beauty/id6809822031?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora Wellness",
+    "dev": "Nana Pirtskhalava-Karpova",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-wellness/id6794708773?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora Scent",
+    "dev": "Nawaf Alkarbi",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-scent/id6748314310?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elóra HR",
+    "dev": "D&D Partners S.r.l.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/el%C3%B3ra-hr/id6773706541?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora Salon",
+    "dev": "AWAMER ALSHABAKA",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-salon/id6809845963?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Elora Events",
+    "dev": "Joshua Gonzales",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/elora-events/id6781839824?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Kingdom Rush- Tower Defense TD",
+    "dev": "Ironhide S.A.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/kingdom-rush-tower-defense-td/id516378985?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "DoseLoop: GLP-1 Tracker",
+    "dev": "Elora Biswas",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/doseloop-glp-1-tracker/id6793444716?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Speak English with Elora AI",
+    "dev": "2709982 Ontario Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/speak-english-with-elora-ai/id6760909561?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora: Match, Chat & Book",
+    "dev": "Elora Software LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-match-chat-book/id6752585089?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora",
+    "dev": "Ahmed Salah",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora/id6744857121?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora: Guided Journal & Diary",
+    "dev": "Samuel McCarthy",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-guided-journal-diary/id6753067869?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora Scent",
+    "dev": "Nawaf Alkarbi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-scent/id6748314310?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ELSA Speak - English Learning",
+    "dev": "Elsa Corp",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elsa-speak-english-learning/id1083804886?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora Events",
+    "dev": "Joshua Gonzales",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-events/id6781839824?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora: Daily Energy Guide",
+    "dev": "Timevult, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-daily-energy-guide/id6799203456?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Fluently: AI Language Learning",
+    "dev": "Fluently, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fluently-ai-language-learning/id6683289805?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Speak English with Loora AI",
+    "dev": "Loora A.I LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/speak-english-with-loora-ai/id1552708303?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora - Jardin d'objectifs",
+    "dev": "antony szatmari",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-jardin-dobjectifs/id6809040653?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "HelloTalk - Language Learning",
+    "dev": "HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hellotalk-language-learning/id557130558?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Speak: Language Learning",
+    "dev": "Speakeasy Labs",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/speak-language-learning/id1286609883?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "EF Hello AI: Learn Languages",
+    "dev": "Signum International AG",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ef-hello-ai-learn-languages/id1324622665?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora Road Church",
+    "dev": "Elora Road Christian Fellowship Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-road-church/id6695736313?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Praktika – AI Language Tutor",
+    "dev": "Praktika.ai Company",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/praktika-ai-language-tutor/id1624701477?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "YayTalk: Learn & Speak English",
+    "dev": "IdeaLabs",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/yaytalk-learn-speak-english/id6743074605?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Ai Homework Helper: Scan Solve",
+    "dev": "hossam sherraa",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ai-homework-helper-scan-solve/id6466178934?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Stimuler- English Speaking App",
+    "dev": "Stimuler Private Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/stimuler-english-speaking-app/id1627501632?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Learna: Speak & Learn English",
+    "dev": "DEEP FLOW SOFTWARE SERVICES",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/learna-speak-learn-english/id6478287397?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ENGO AI: Speak & Learn English",
+    "dev": "PALMX APPS LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/engo-ai-speak-learn-english/id6736710931?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Elora Wellness",
+    "dev": "Nana Pirtskhalava-Karpova",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/elora-wellness/id6794708773?uo=4"
+   }
+  ]
+ },
+ "Veyra": {
+  "dominios": {
+   "veyra.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2026-11-18T18:04:09Z",
+     "last changed": "2026-11-18T19:36:41Z",
+     "expiration": "2027-11-18T18:04:09Z"
+    },
+    "nameservers": [
+     "a.auto.dns.br",
+     "b.auto.dns.br"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Lior Santos Reis",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Lior Santos Reis",
+      "handle": "LISRE34"
+     }
+    ]
+   },
+   "veyra.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "veyra.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2004-09-06T05:10:51Z",
+     "expiration": "2028-09-06T05:10:51Z",
+     "last changed": "2025-04-23T16:44:35Z",
+     "last update of RDAP database": "2026-11-20T09:24:57Z"
+    },
+    "nameservers": [
+     "NS45.DOMAINCONTROL.COM",
+     "NS46.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Veyra",
+    "dev": "Veyra ALSQ Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra/id6749780946?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra: Video Subtitles",
+    "dev": "Z FOLD LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-video-subtitles/id6813860542?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "RolePlai - AI Characters Chat",
+    "dev": "Veyra AI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/roleplai-ai-characters-chat/id6773548801?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Live",
+    "dev": "antonino salamone",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-live/id6805251682?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra - AI Kombin Planlayıcı",
+    "dev": "ARIF HIKMET DEMIRCI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-ai-kombin-planlay%C4%B1c%C4%B1/id6757570850?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Media",
+    "dev": "Murat Solmaz",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-media/id6762657480?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra: Computador de bicicleta",
+    "dev": "Ilker Derya",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-computador-de-bicicleta/id6762368088?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra widgets",
+    "dev": "Future Care",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-widgets/id6829547564?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra: Sky Odyssey",
+    "dev": "Yurii Rudenko",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-sky-odyssey/id6828178177?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra: Grovefall",
+    "dev": "Igney ApS",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-grovefall/id6789061157?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra: AI Tattoo Design",
+    "dev": "BURAK YILMAZ",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-ai-tattoo-design/id6811345296?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra - glasses",
+    "dev": "Chongqing Jianghonglang Network Technology Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-glasses/id6814761165?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Pilot Intelligence",
+    "dev": "Sebastian Gonzalez",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-pilot-intelligence/id6816330976?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Beauty",
+    "dev": "Black Balloon LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-beauty/id6810864765?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra – Travel Memories",
+    "dev": "Nenad Sparavalo",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-travel-memories/id6817680451?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra VPN: WiFi Privacy",
+    "dev": "MY FREE VPN CO., LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-vpn-wifi-privacy/id6762981708?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Sol",
+    "dev": "Minata Entertainment, LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-sol/id6804446294?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Veyra Auth",
+    "dev": "2G Solution LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyra-auth/id6763566017?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "AeroVeyra",
+    "dev": "Jackson Walter",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/aeroveyra/id6832074402?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "VeyraTone: Uyku ve Odak",
+    "dev": "Erkan Ozturk",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/veyratone-uyku-ve-odak/id6785146602?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra: Video Subtitles",
+    "dev": "Z FOLD LTD",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-video-subtitles/id6813860542?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra",
+    "dev": "Veyra ALSQ Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra/id6749780946?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra - AI Outfit Planner",
+    "dev": "ARIF HIKMET DEMIRCI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-ai-outfit-planner/id6757570850?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "RolePlai - AI Characters Chat",
+    "dev": "Veyra AI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/roleplai-ai-characters-chat/id6773548801?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra: Grovefall",
+    "dev": "Igney ApS",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-grovefall/id6789061157?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra Live",
+    "dev": "antonino salamone",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-live/id6805251682?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra: Bike Computer",
+    "dev": "Ilker Derya",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-bike-computer/id6762368088?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra VPN: WiFi Privacy",
+    "dev": "MY FREE VPN CO., LIMITED",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-vpn-wifi-privacy/id6762981708?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra: AI Tattoo Design",
+    "dev": "BURAK YILMAZ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-ai-tattoo-design/id6811345296?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "MixCaptions: Video Captions",
+    "dev": "Mixcord Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mixcaptions-video-captions/id952426779?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Captions: AI Edits Your Video",
+    "dev": "Captions, LLC (US)",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/captions-ai-edits-your-video/id1541407007?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Hono Translate: Live Subtitles",
+    "dev": "青云 王",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/hono-translate-live-subtitles/id6799000160?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Translate Video: AI Subtitles",
+    "dev": "Sajed Nahian",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/translate-video-ai-subtitles/id1548718114?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "VEED Lite: Quick Video Edits",
+    "dev": "VEED Ltd",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veed-lite-quick-video-edits/id1634439688?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Captiono: AI Subtitles",
+    "dev": "ACTUAL FUTURES TECHNOLOGY",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/captiono-ai-subtitles/id6538722927?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Auto Captions: Video Subtitles",
+    "dev": "Fitness Labs",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/auto-captions-video-subtitles/id655895351?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Subtitles: Captions For Video",
+    "dev": "Mariia Abolnik",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/subtitles-captions-for-video/id1596158210?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra - glasses",
+    "dev": "Chongqing Jianghonglang Network Technology Co., Ltd.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-glasses/id6814761165?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra Media",
+    "dev": "Murat Solmaz",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-media/id6762657480?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra widgets",
+    "dev": "Future Care",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-widgets/id6829547564?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Subtitles Video Translator",
+    "dev": "Aleksey Erko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/subtitles-video-translator/id6746674121?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra Beauty",
+    "dev": "Black Balloon LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-beauty/id6810864765?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Veyra: Sky Odyssey",
+    "dev": "Yurii Rudenko",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/veyra-sky-odyssey/id6828178177?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Subtitles Generator for Video",
+    "dev": "Tien Nguyen",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/subtitles-generator-for-video/id6449271232?uo=4"
+   }
+  ]
+ },
+ "Solven": {
+  "dominios": {
+   "solven.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "1999-02-05T20:29:12Z",
+     "last changed": "2020-01-23T08:21:09Z",
+     "expiration": "2030-02-05T20:29:12Z"
+    },
+    "nameservers": [
+     "ns1.configr.com",
+     "ns2.configr.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Solven Solventes e Quimicos ltda",
+      "handle": "74259896000164"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Lampejos Comunicação",
+      "handle": "LACOM22"
+     }
+    ]
+   },
+   "solven.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "solven.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2002-04-17T18:27:17Z",
+     "expiration": "2030-04-17T18:27:17Z",
+     "last changed": "2026-02-19T19:44:07Z",
+     "last update of RDAP database": "2026-11-20T09:24:57Z"
+    },
+    "nameservers": [
+     "NS72.HOSTGATOR.MX",
+     "NS73.HOSTGATOR.MX"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "handle": "303"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Solven-V",
+    "dev": "Solven",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/solven-v/id6831256760?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Solven",
+    "dev": "Ihar Kharavets",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/solven/id6752897255?uo=4"
+   },
+   {
+    "pais": "br",
+    "app": "Family Search: My People Phone",
+    "dev": "Nayra SOLVEN",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/family-search-my-people-phone/id6744820045?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Solven",
+    "dev": "Ihar Kharavets",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/solven/id6752897255?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Solven-V",
+    "dev": "Solven",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/solven-v/id6831256760?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Algebrator: Step Math Solver",
+    "dev": "Softmath",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/algebrator-step-math-solver/id1478514827?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Course Hero: AI Homework Help",
+    "dev": "Learneo, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/course-hero-ai-homework-help/id922208952?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Mathway: Math Problem Solver",
+    "dev": "Chegg, Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mathway-math-problem-solver/id467329677?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Algebra Math Solver",
+    "dev": "Position Mobile Ltd SEZC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/algebra-math-solver/id1529085337?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Camera Math Solver - UpStudy",
+    "dev": "CRAZYSLOTH PTE. LTD.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/camera-math-solver-upstudy/id1532857459?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cube Solver - Scan & Solve",
+    "dev": "Patrick Battisti Forsthofer",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cube-solver-scan-solve/id6446096806?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PhotoSolve: AI Homework Helper",
+    "dev": "Coincircle, Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/photosolve-ai-homework-helper/id6450759207?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "FX Math Solver",
+    "dev": "Euclidus Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fx-math-solver/id493941470?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "PhotoMath Solver AI: MathBox",
+    "dev": "RLAM FZCO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/photomath-solver-ai-mathbox/id1487886467?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pic Answer - AI Solver",
+    "dev": "Tech Consolidated Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pic-answer-ai-solver/id1669210256?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Geometry Solver ²",
+    "dev": "Rudolf Halmi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/geometry-solver/id1226352729?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Math Solitaire: Brain Puzzle",
+    "dev": "Smart Project GmbH",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/math-solitaire-brain-puzzle/id6757699551?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Photo Math: AI Homework Helper",
+    "dev": "AppTitude Technologies OU",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/photo-math-ai-homework-helper/id6473621954?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "RGB Cube Solver &Timer",
+    "dev": "Yikens Technology HK Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/rgb-cube-solver-timer/id6499205938?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "MathAce: Solve Study Question",
+    "dev": "精精 唐",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/mathace-solve-study-question/id6636481467?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "SnapMath: Photo Math Solver",
+    "dev": "mustafa eral",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/snapmath-photo-math-solver/id1507786749?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "FX Algebra Solver",
+    "dev": "Euclidus Inc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/fx-algebra-solver/id562247345?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "CubeSolver AR",
+    "dev": "Andrei Ciobanu",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cubesolver-ar/id1497283315?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Socratic AI Solver",
+    "dev": "Yalpai Corporation Limited",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/socratic-ai-solver/id6739322412?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Algebra Game with Equations",
+    "dev": "Tardent Apps Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/algebra-game-with-equations/id904192350?uo=4"
+   }
+  ]
+ },
+ "Averto": {
+  "dominios": {
+   "averto.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-06-22T11:23:02Z",
+     "last changed": "2026-07-13T10:39:50Z",
+     "expiration": "2027-06-22T11:23:02Z"
+    },
+    "nameservers": [
+     "ns1.siteground.net",
+     "ns2.siteground.net"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "FUZZON TECNOLOGIA E MIDIA EIRELI - ME",
+      "handle": "11125278000101"
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Fuzzon Tecnologia",
+      "handle": "FUTEC2"
+     }
+    ]
+   },
+   "averto.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "averto.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2000-03-14T17:58:05Z",
+     "expiration": "2034-03-14T16:58:05Z",
+     "last changed": "2024-08-01T19:04:03Z",
+     "last update of RDAP database": "2026-11-20T09:25:12Z"
+    },
+    "nameservers": [
+     "NS03.DOMAINCONTROL.COM",
+     "NS04.DOMAINCONTROL.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Irena Averto",
+    "dev": "Benayahu Melamed",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/irena-averto/id6624314480?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Irena Averto",
+    "dev": "Benayahu Melamed",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/irena-averto/id6624314480?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Gifto: Amigo Secreto",
+    "dev": "Evandro Pulz Viva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gifto-amigo-secreto/id6792916763?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "100 Aventuras",
+    "dev": "cien aventuras llc",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/100-aventuras/id6831355134?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Pizzico: Salva Ricette con AI",
+    "dev": "francesco spagnuolo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/pizzico-salva-ricette-con-ai/id6814537364?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "STRADA: Serate e percorsi",
+    "dev": "FEDERICO BORCHIA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/strada-serate-e-percorsi/id6797076677?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Apertura Porta AML",
+    "dev": "MARCO MENETTO BALLARIO",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/apertura-porta-aml/id6774664525?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Auto Di Venosa",
+    "dev": "Biagio Roggia",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/auto-di-venosa/id6835197376?uo=4"
+   }
+  ]
+ },
+ "Tavena": {
+  "dominios": {
+   "tavena.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "tavena.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "tavena.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2003-11-03T23:45:03Z",
+     "expiration": "2027-11-03T23:45:03Z",
+     "last changed": "2026-09-04T06:34:38Z",
+     "last update of RDAP database": "2026-11-20T09:25:12Z"
+    },
+    "nameservers": [
+     "NS1.WORLDNIC.COM",
+     "NS2.WORLDNIC.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Network Solutions, LLC",
+      "handle": "2"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "erro": "403 "
+   },
+   {
+    "pais": "us",
+    "app": "Carnales Taqueria",
+    "dev": "TAQUERIA CARNALES TIJUANA STYLE LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/carnales-taqueria/id6749782518?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Gerena",
+    "dev": "Gerena Distribuidora, S.A. de C.V.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/gerena/id6760479911?uo=4"
+   }
+  ]
+ },
+ "Oltara": {
+  "dominios": {
+   "oltara.com.br": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "active"
+    ],
+    "eventos": {
+     "registration": "2025-08-19T12:19:36Z",
+     "last changed": "2026-11-08T20:19:16Z",
+     "expiration": "2027-08-19T12:19:36Z"
+    },
+    "nameservers": [
+     "nikon.ns.cloudflare.com",
+     "novalee.ns.cloudflare.com"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrant"
+      ],
+      "nome": "Cesar Santos Carriel",
+      "handle": null
+     },
+     {
+      "papel": [
+       "technical"
+      ],
+      "nome": "Cesar Santos Carriel",
+      "handle": "CESCA210"
+     }
+    ]
+   },
+   "oltara.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "oltara.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2023-12-30T23:38:12Z",
+     "expiration": "2027-12-30T23:38:12Z",
+     "last changed": "2025-12-15T08:22:04Z",
+     "last update of RDAP database": "2026-11-20T09:25:12Z"
+    },
+    "nameservers": [
+     "NS1.BLUEHOST.COM",
+     "NS2.BLUEHOST.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Network Solutions, LLC",
+      "handle": "2"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "us",
+    "app": "Olar | اولار",
+    "dev": "Olar أولار",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/olar-%D8%A7%D9%88%D9%84%D8%A7%D8%B1/id6477381875?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Olís deildin",
+    "dev": "Arni B. Arnason",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ol%C3%ADs-deildin/id1437584309?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "kairos - mensajes del destino",
+    "dev": "Rodrigo Oliva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/kairos-mensajes-del-destino/id6751867075?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "OLLO.",
+    "dev": "OLLO AGENCY LLC",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ollo/id6760942686?uo=4"
+   }
+  ]
+ },
+ "Caliro": {
+  "dominios": {
+   "caliro.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "caliro.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "caliro.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client transfer prohibited"
+    ],
+    "eventos": {
+     "registration": "2009-08-11T18:53:18Z",
+     "expiration": "2028-08-11T18:53:18Z",
+     "last changed": "2026-03-30T09:07:01Z",
+     "last update of RDAP database": "2026-11-20T09:25:12Z"
+    },
+    "nameservers": [
+     "NS1.POWER-DNS.COM",
+     "NS2.POWER-DNS.COM",
+     "NS3.POWER-DNS.COM"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "Alpine Domains Inc.",
+      "handle": "1432"
+     }
+    ]
+   }
+  },
+  "app_store": [
+   {
+    "pais": "br",
+    "app": "Caliro AI",
+    "dev": "FUTURAI",
+    "genero": null,
+    "url": "https://apps.apple.com/br/app/caliro-ai/id6790086331?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Caliro AI",
+    "dev": "FUTURAI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/caliro-ai/id6790086331?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Queima Diária - Treino em Casa",
+    "dev": "Queima Diária",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/queima-di%C3%A1ria-treino-em-casa/id1399707918?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Golden Cala",
+    "dev": "Golden Cala",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/golden-cala/id1462573329?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Calsia – Calorie Counter",
+    "dev": "Dine4Fit, a.s.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/calsia-calorie-counter/id477039928?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Beira Rio - Catálogo",
+    "dev": "Calçados Beira Rio",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/beira-rio-cat%C3%A1logo/id615245652?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nutra AI: Contador de Calorias",
+    "dev": "Nutra.AI",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nutra-ai-contador-de-calorias/id6744852954?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Piloto Testes Codigo",
+    "dev": "Cristiano Lopes",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/piloto-testes-codigo/id1155863193?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "ballcoach",
+    "dev": "Sebastian Caldarola",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ballcoach/id6754994365?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Athlete Profile: Workout Log",
+    "dev": "Mauricio Flavio Caldas Esteves Filho",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/athlete-profile-workout-log/id6740048161?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Instituto Caldeira",
+    "dev": "Instituto Caldeira",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/instituto-caldeira/id6459479652?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Sympathetic",
+    "dev": "Lucas Paulo de Lima Camillo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/sympathetic/id6812214726?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Calvillo FM 101.3",
+    "dev": "SALVADOR FLORES LOPEZ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/calvillo-fm-101-3/id6765867303?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Nutria - Contador Calorias IA",
+    "dev": "Denisse Maturin",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/nutria-contador-calorias-ia/id6746418561?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Cronograma Capilar",
+    "dev": "Gramos Berberi",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/cronograma-capilar/id6791983136?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Caliscool: Train Calisthenics",
+    "dev": "JOSE ANTONIO MARTINEZ FERNANDEZ",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/caliscool-train-calisthenics/id6758521484?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Info Hellas Verona",
+    "dev": "Niccolo' Calamai",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/info-hellas-verona/id1000573419?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Colo: Enxoval e Chá de Bebê",
+    "dev": "C & L TECNOLOGIA LTDA",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/colo-enxoval-e-ch%C3%A1-de-beb%C3%AA/id6761796967?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Flert now - Rizz Cantadas",
+    "dev": "Aurelio Jose Ribeiro da Silva",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/flert-now-rizz-cantadas/id6760185481?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Liga Ceará",
+    "dev": "Bruno Russo",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/liga-cear%C3%A1/id6755706719?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Treinos e alongamentos: Hulki",
+    "dev": "Victor Tinoco",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/treinos-e-alongamentos-hulki/id6468885201?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Caça & Cães de Caça",
+    "dev": "Magzter Inc.",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/ca%C3%A7a-c%C3%A3es-de-ca%C3%A7a/id1089888778?uo=4"
+   },
+   {
+    "pais": "us",
+    "app": "Aqui Barreiro",
+    "dev": "Município do Barreiro",
+    "genero": null,
+    "url": "https://apps.apple.com/us/app/aqui-barreiro/id1446886618?uo=4"
+   }
+  ]
+ },
+ "Orrena": {
+  "dominios": {
+   "orrena.com.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "orrena.app.br": {
+    "http": "404",
+    "erro": ""
+   },
+   "orrena.com": {
+    "http": "200",
+    "erro": "",
+    "status": [
+     "client delete prohibited",
+     "client renew prohibited",
+     "client transfer prohibited",
+     "client update prohibited"
+    ],
+    "eventos": {
+     "registration": "2016-12-01T12:13:33Z",
+     "expiration": "2026-12-01T12:13:33Z",
+     "last changed": "2022-09-30T18:19:22Z",
+     "last update of RDAP database": "2026-11-20T09:25:27Z"
+    },
+    "nameservers": [
+     "NS8.WIXDNS.NET",
+     "NS9.WIXDNS.NET"
+    ],
+    "entidades": [
+     {
+      "papel": [
+       "registrar"
+      ],
+      "nome": "GoDaddy.com, LLC",
+      "handle": "146"
+     }
+    ]
+   }
+  },
+  "app_store": []
+ }
+}

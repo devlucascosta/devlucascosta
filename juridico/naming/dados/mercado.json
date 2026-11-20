@@ -1,0 +1,159 @@
+{
+ "Orvia": {
+  "resumo": "ORVIA: software de gestão empresarial em nuvem listado no GetApp, Software Advice e Capterra (Capterra o classifica em radiologia; desenvolvedor não identificado). Apps homônimos internacionais (Orvia Lighting, Orvia Mail, Orvia Smart Money Tracker).",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.getapp.com/all-software/a/orvia/",
+   "https://www.capterra.co.uk/software/1322037/ORVIA",
+   "https://www.softwareadvice.co.uk/software/774214/ORVIA"
+  ]
+ },
+ "Rotiva": {
+  "resumo": "Nenhuma empresa ou software com o nome exato. Apenas o app 'Rotiva - Run & Walk Tracker' (desenvolvedor individual, App Store). Nomes próximos: Rotapp/Rota Smart (monitoramento).",
+  "nivel": "baixo",
+  "fontes": [
+   "https://apps.apple.com/lv/app/rotapp/id1263239074"
+  ]
+ },
+ "Novera": {
+  "resumo": "Produto 'Novera' B2B (automação de marketing para PMEs) no SaaSBrowser; vários apps 'Novera' (POS, aprendizado, IA). Nome próximo: Neovero (gestão de ativos em saúde, Brasil).",
+  "nivel": "moderado",
+  "fontes": [
+   "https://saasbrowser.com/th/saas/1357956/novera",
+   "https://www.b2bstack.com.br/product/neovero"
+  ]
+ },
+ "Vértia": {
+  "resumo": "Nenhuma empresa 'Vertia' encontrada; próximos no Brasil: Vertti (software de logística agro, Maringá), Verti (pagamentos, Curitiba), Vertis Tecnologia (SP).",
+  "nivel": "moderado",
+  "fontes": [
+   "https://www.zoominfo.com/c/vertti/546730000",
+   "https://www.zoominfo.com/c/verti/448005124",
+   "https://www.crunchbase.com/organization/vertis-technology"
+  ]
+ },
+ "Atempo": {
+  "resumo": "Atempo: empresa francesa de software (proteção e arquivamento de dados) fundada em 1992, 150 a 500 funcionários, produtos Miria e Lina; app Atempo (notas). Brasil: 'Attempo' (segurança).",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.g2.com/es/sellers/atempo",
+   "https://en.wikipedia-on-ipfs.org/wiki/Atempo",
+   "https://www.zoominfo.com/c/attempo/547173092"
+  ]
+ },
+ "Plenna": {
+  "resumo": "App 'Plenna' na App Store BR publicado por 'Bus servicos de agendamento ltda' (agendamento, Brasil); app 'Plenna' (Mujer Plenna Salud, MX); 'Plenna: Estudos e Rotina'; plenna.com.br registrado desde 1998. Nome próximo: Plena Saúde, Plenne.",
+  "nivel": "alto",
+  "fontes": [
+   "https://apps.apple.com/br/app/plenne/id6755063476"
+  ]
+ },
+ "Avora": {
+  "resumo": "Avora: plataforma de analytics aumentado com IA listada no B2B Stack Brasil (comparada a Zoho CRM); 'Avora Datos' (ComparaSoftware); diversos apps AVORA (pagamentos, investimento, saúde).",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.b2bstack.com.br/product/avora",
+   "https://www.comparasoftware.com/avora"
+  ]
+ },
+ "Ordina": {
+  "resumo": "Ordina: grande empresa holandesa de serviços de TI (1973, Euronext, adquirida pela Sopra Steria em 2023, cerca de 2.650 funcionários) com ordina.com. Associação forte com TI.",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.ordina.com/who-we-are/",
+   "https://www.cbinsights.com/company/ordina"
+  ]
+ },
+ "Pontta": {
+  "resumo": "Pontta Technology (Brasil): empresa de serviços com cerca de 30 funcionários, com registro de 'Pontta ERP' em base secundária; pontta.com.br desde 2008 (Locaweb). Próximos: Pontotel e Pontua (ponto eletrônico), Ponta.",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.appsruntheworld.com/customers-database/customers/view/pontta-technology-brazil",
+   "https://www.appsruntheworld.com/customers-database/vendors/view/pontta/market/asc/50/1"
+  ]
+ },
+ "Oryza": {
+  "resumo": "Oryza System Technology JSC (Vietnã): suíte de apps (VMS, DMS, Alarm, One); Oryzea (gestão de projetos); 'Oryza' é o nome científico do gênero do arroz (Oryza sativa), associação genérica.",
+  "nivel": "moderado",
+  "fontes": [
+   "https://www.appvizer.com/services/training-center/oryzea"
+  ]
+ },
+ "Nivora": {
+  "resumo": "Nenhuma empresa relevante com o nome exato; apps diversos 'Nivora' (smart ring, underwriting, fitness). Próximos: Nivano, NiviN (gestão de funcionários), Nivimu.",
+  "nivel": "moderado",
+  "fontes": [
+   "https://apps.apple.com/es/app/nivin/id6476751639"
+  ]
+ },
+ "Movent": {
+  "resumo": "Nenhuma empresa 'Movent' encontrada no Brasil; app 'Movent: TAF e Teste Físico' (BR) e 'Movent - Vienna'; próximos: Movere ERP, Movtech, Moove, Movve Rastreamento (gestão de veículos), uMov.me.",
+  "nivel": "moderado",
+  "fontes": [
+   "https://apps.apple.com/br/app/movere/id1619392151",
+   "https://apps.apple.com/br/app/id1471190124"
+  ]
+ },
+ "Tavora": {
+  "resumo": "Nenhum software 'Tavora'; Talavora (escalas e folha, Espanha) no GetApp; Tavago (agendamento em salões, Brasil); 'Távora' é sobrenome comum em português; tavora.com à venda (Afternic).",
+  "nivel": "moderado",
+  "fontes": [
+   "https://www.getapp.com/all-software/a/talavora/",
+   "https://apps.apple.com/am/app/tavago/id1570845215"
+  ]
+ },
+ "Elora": {
+  "resumo": "Nenhum software 'Elora' exato; muito próximo de Elorus (software grego de gestão empresarial e faturamento, desde 2014) e Eloria (administração de condomínios com IA); muitos apps 'Elora' (salões, bem-estar, eventos); Elora é também uma cidade do Canadá.",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.getapp.com/all-software/a/elorus/",
+   "https://www.comparasoftware.com/eloria"
+  ]
+ },
+ "Veyra": {
+  "resumo": "Veyra Salonsoftware: software de gestão e CRM para salões, listado no Capterra (nuvem). Vários apps 'Veyra' (beleza, mídia, autenticação, IA de moda). veyra.com.br registrado em 18/11/2026.",
+  "nivel": "alto",
+  "fontes": [
+   "https://www.capterra.in/software/1327710/Veyra-Salonsoftware"
+  ]
+ },
+ "Solven": {
+  "resumo": "Solven Solventes e Químicos (setor químico, solven.com.br desde 1999); próximos em software: Solen Software Group, Solvi (software para clínicas), Solv Systems; app 'Solven-V'.",
+  "nivel": "moderado",
+  "fontes": [
+   "https://www.zoominfo.com/c/solven/430534609"
+  ]
+ },
+ "Averto": {
+  "resumo": "Nenhuma empresa ou software com o nome exato; próximos: Averiware (ERP, EUA), Avero (hospitalidade), Averato; averto.com.br registrado em 2025 (SiteGround).",
+  "nivel": "baixo",
+  "fontes": [
+   "https://www.capterra.es/software/128910/averiware"
+  ]
+ },
+ "Tavena": {
+  "resumo": "Nenhuma ocorrência de 'Tavena' como empresa, software ou marca nos resultados.",
+  "nivel": "baixo",
+  "fontes": []
+ },
+ "Oltara": {
+  "resumo": "Nenhuma ocorrência exata; próximos: Oktara (software house, Costa Rica), Oltre.app (ponto e acesso, Zucchetti).",
+  "nivel": "baixo",
+  "fontes": [
+   "https://www.krowdbase.com/service/oktara",
+   "https://apps.apple.com/pt/app/oltre-app/id1332682975"
+  ]
+ },
+ "Caliro": {
+  "resumo": "Nenhuma empresa 'Caliro'; app 'Caliro AI' (FUTURAI) na App Store; próximos: Calipso ERP, Calisof, Calima (gestão).",
+  "nivel": "baixo",
+  "fontes": [
+   "https://www.getapp.com/all-software/a/calipso-erp/"
+  ]
+ },
+ "Orrena": {
+  "resumo": "Nenhuma ocorrência de 'Orrena'/'Orena' em software; próximos irrelevantes (Orna, Orion). orrena.com registrado (Wix).",
+  "nivel": "baixo",
+  "fontes": []
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "Orvia": {
+  "sonoridade": 7,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 7,
+  "distintividade": 6,
+  "aparencia_software": 7,
+  "expansao": 6,
+  "disponibilidade_digital": 0,
+  "justificativa": "Or-VI-a soa fluido; 'via' remete a caminho/rota (bom para mobilidade, menos para outros segmentos); escrita direta."
+ },
+ "Rotiva": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 5,
+  "aparencia_software": 5,
+  "expansao": 4,
+  "disponibilidade_digital": 3,
+  "justificativa": "Fácil de ler, mas 'rota' prende ao transporte; soa como adjetivo ('rotativa'), pouco premium."
+ },
+ "Novera": {
+  "sonoridade": 8,
+  "pronuncia": 9,
+  "escrita": 8,
+  "memorizacao": 7,
+  "distintividade": 5,
+  "aparencia_software": 7,
+  "expansao": 8,
+  "disponibilidade_digital": 0,
+  "justificativa": "Muito agradável (No-VE-ra); 'nova era' é ideia comum — distintividade média; serve a qualquer segmento."
+ },
+ "Vértia": {
+  "sonoridade": 7,
+  "pronuncia": 7,
+  "escrita": 5,
+  "memorizacao": 6,
+  "distintividade": 6,
+  "aparencia_software": 7,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "Sonora, mas o acento é perdido em domínios, @ e lojas; sem acento vira 'Vertia' (VER-tia vs ver-TI-a)."
+ },
+ "Atempo": {
+  "sonoridade": 7,
+  "pronuncia": 9,
+  "escrita": 9,
+  "memorizacao": 8,
+  "distintividade": 4,
+  "aparencia_software": 6,
+  "expansao": 6,
+  "disponibilidade_digital": 0,
+  "justificativa": "Fácil, mas 'a tempo' é expressão do dia a dia (descritiva para agenda) — baixa distintividade."
+ },
+ "Plenna": {
+  "sonoridade": 8,
+  "pronuncia": 9,
+  "escrita": 6,
+  "memorizacao": 7,
+  "distintividade": 3,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 0,
+  "justificativa": "Bonita, porém é 'plena' com n duplo; o público tende a escrever 'Plena' — palavra comum, muito usada."
+ },
+ "Avora": {
+  "sonoridade": 7,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 7,
+  "distintividade": 6,
+  "aparencia_software": 7,
+  "expansao": 8,
+  "disponibilidade_digital": 0,
+  "justificativa": "A-VO-ra é leve e neutra; lembra 'aurora'/'árvore' sem ser descritiva; muito usada internacionalmente."
+ },
+ "Ordina": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 7,
+  "distintividade": 5,
+  "aparencia_software": 7,
+  "expansao": 8,
+  "disponibilidade_digital": 3,
+  "justificativa": "Remete a ordem/organizar (bom conceito), mas é nome de uma grande empresa de TI europeia."
+ },
+ "Pontta": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 5,
+  "memorizacao": 6,
+  "distintividade": 3,
+  "aparencia_software": 5,
+  "expansao": 6,
+  "disponibilidade_digital": 3,
+  "justificativa": "É 'ponta' com t duplo: o público escreverá 'Ponta'; palavra comum, lembra também 'ponto eletrônico'."
+ },
+ "Oryza": {
+  "sonoridade": 6,
+  "pronuncia": 6,
+  "escrita": 4,
+  "memorizacao": 5,
+  "distintividade": 5,
+  "aparencia_software": 5,
+  "expansao": 5,
+  "disponibilidade_digital": 3,
+  "justificativa": "Y e Z confundem a escrita (Oriza? Orysa?); é o gênero botânico do arroz."
+ },
+ "Nivora": {
+  "sonoridade": 7,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 7,
+  "aparencia_software": 7,
+  "expansao": 8,
+  "disponibilidade_digital": 0,
+  "justificativa": "Ni-VO-ra é sonoro e sem significado em português — bom para registro; memorização média."
+ },
+ "Movent": {
+  "sonoridade": 6,
+  "pronuncia": 6,
+  "escrita": 8,
+  "memorizacao": 7,
+  "distintividade": 5,
+  "aparencia_software": 7,
+  "expansao": 5,
+  "disponibilidade_digital": 0,
+  "justificativa": "O 't' final é estranho em português (mo-VEN-ti); 'movimento' remete a transporte."
+ },
+ "Tavora": {
+  "sonoridade": 7,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 5,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "Lida como 'Távora', sobrenome comum em português/brasileiro — reduz distintividade."
+ },
+ "Elora": {
+  "sonoridade": 9,
+  "pronuncia": 9,
+  "escrita": 9,
+  "memorizacao": 8,
+  "distintividade": 4,
+  "aparencia_software": 6,
+  "expansao": 8,
+  "disponibilidade_digital": 0,
+  "justificativa": "A mais bonita sonoramente, mas é nome próprio e cidade; dezenas de usos (Elorus, Eloria, apps)."
+ },
+ "Veyra": {
+  "sonoridade": 7,
+  "pronuncia": 6,
+  "escrita": 5,
+  "memorizacao": 6,
+  "distintividade": 5,
+  "aparencia_software": 7,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "O 'y' gera dúvida (Veira? Veyra?) e soa como 'Vieira' — sobrenome comum."
+ },
+ "Solven": {
+  "sonoridade": 6,
+  "pronuncia": 7,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 4,
+  "aparencia_software": 7,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "Evoca 'solve/solvente' — nome de química no Brasil; distintividade baixa."
+ },
+ "Averto": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 6,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "Em português soa como 'aberto' (b/v), o que é positivo mas pode ser confundido na fala."
+ },
+ "Tavena": {
+  "sonoridade": 7,
+  "pronuncia": 9,
+  "escrita": 9,
+  "memorizacao": 6,
+  "distintividade": 7,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 8,
+  "justificativa": "Simples (ta-VE-na), sem significado direto; pode lembrar 'taverna' — avaliar percepção."
+ },
+ "Oltara": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 5,
+  "distintividade": 7,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 3,
+  "justificativa": "Original, mas a sílaba 'Ol' e o final '-tara' soam menos naturais; memorização mais fraca."
+ },
+ "Caliro": {
+  "sonoridade": 6,
+  "pronuncia": 8,
+  "escrita": 8,
+  "memorizacao": 6,
+  "distintividade": 7,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 8,
+  "justificativa": "Ca-LI-ro é claro e neutro; pode lembrar 'calor'/'cálido'; memorização média."
+ },
+ "Orrena": {
+  "sonoridade": 6,
+  "pronuncia": 7,
+  "escrita": 5,
+  "memorizacao": 5,
+  "distintividade": 7,
+  "aparencia_software": 6,
+  "expansao": 7,
+  "disponibilidade_digital": 8,
+  "justificativa": "RR duplo dificulta a escrita (Orena? Orrena?); sonoridade menos imediata."
+ }
+}
