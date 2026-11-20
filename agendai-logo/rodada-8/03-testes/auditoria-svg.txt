@@ -1,0 +1,50 @@
+
+=== A-wordmark.svg  (3770 bytes)
+viewBox 0 0 407 256 · aspect 1.59 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 159
+margins L24.0 R23.7 T87.9 B84.1 · bbox fill 0.289
+· INFO [complexity] 159 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== A-letra.svg  (461 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 13
+margins L29.8 R29.8 T23.6 B27.6 · bbox fill 0.614
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== A-icone.svg  (515 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 22
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
+
+=== B-horizontal.svg  (3733 bytes)
+viewBox 0 0 604 256 · aspect 2.359 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 172
+margins L24.0 R24.5 T61.4 B63.4 · bbox fill 0.471
+· INFO [complexity] 172 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== B-vertical.svg  (3661 bytes)
+viewBox 0 0 311 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 172
+margins L28.7 R27.7 T26.0 B12.4 · bbox fill 0.706
+· INFO [complexity] 172 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 98/100 (heuristic)
+
+=== B-simbolo.svg  (454 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 13
+margins L25.6 R25.6 T42.3 B46.4 · bbox fill 0.523
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== B-icone.svg  (509 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 22
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
