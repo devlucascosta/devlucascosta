@@ -7,9 +7,9 @@ from r4_shapes import raiz, drop_small, CLIP
 from r3_shapes import B
 
 
-def raiz_ref(flare=22, sag=12, t=28, tw=34, p_open=((72, 232), (118, 196), (198, 176)), wl=34, wr=46, nib_cut=0):
+def raiz_ref(flare=22, sag=12, t=28, tw=34, p_open=((72, 232), (118, 196), (198, 176)), wl=34, wr=46, nib_cut=0, half=106):
     """A: subtle refinement of Raiz (same silhouette). B: with nib_cut>0 and contrasted weights (Raiz + Pena)."""
-    kw = dict(half=106, apex_y=30, tw=tw, wl=wl, wr=wr)
+    kw = dict(half=half, apex_y=30, tw=tw, wl=wl, wr=wr)
     g, _, info = raiz(flare=flare, sag=sag, t=t, p_open=p_open, kw=kw)
     if nib_cut:
         # broad-nib entry: the top-left corner is cut at 45°, as a pen held at 45° would leave it

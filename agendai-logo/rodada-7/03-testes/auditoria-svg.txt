@@ -1,0 +1,87 @@
+
+=== J-icone-app.svg  (735 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 44
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+▲ WARN [near-miss-angle] 5 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 118.8° (→120°) len 15.8 at (107,113); 121.7° (→120°) len 15.8 at (99,127); 133.4° (→135°) len 15.8 at (62,178); 134.5° (→135°) len 12.2 at (196,189); 162.2° (→165°) len 10.4 at (151,144). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 91/100 (heuristic)
+
+=== J-logotipo-horizontal.svg  (3906 bytes)
+viewBox 0 0 581.92 256 · aspect 2.273 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 194
+margins L24.0 R24.0 T63.5 B65.4 · bbox fill 0.456
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 194 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== J-logotipo-vertical.svg  (3860 bytes)
+viewBox 0 0 311.03 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 194
+margins L28.7 R28.0 T26.0 B12.4 · bbox fill 0.705
+▲ WARN [near-miss-angle] 4 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 118.8° (→120°) len 18.4 at (131,87); 121.7° (→120°) len 18.4 at (122,103); 133.4° (→135°) len 18.4 at (79,163); 134.5° (→135°) len 14.2 at (235,176). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 194 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 89/100 (heuristic)
+
+=== J-simbolo.svg  (698 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 35
+margins L26.0 R26.0 T40.6 B44.6 · bbox fill 0.532
+▲ WARN [near-miss-angle] 8 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 118.8° (→120°) len 20.9 at (100,110); 121.7° (→120°) len 20.9 at (90,129); 133.4° (→135°) len 20.9 at (40,196); 152.3° (→150°) len 11.6 at (130,188); 134.5° (→135°) len 16.2 at (219,211); 162.2° (→165°) len 13.8 at (158,151) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+production-readiness score: 92/100 (heuristic)
+
+=== K-icone-app.svg  (779 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 49
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+production-readiness score: 99/100 (heuristic)
+
+=== K-logotipo-horizontal.svg  (3949 bytes)
+viewBox 0 0 557.28 256 · aspect 2.177 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 199
+margins L24.0 R24.0 T63.5 B65.4 · bbox fill 0.454
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 199 anchor points (library median 75.0, p75 155.0). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== K-logotipo-vertical.svg  (3910 bytes)
+viewBox 0 0 311.03 278 · aspect 1.119 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 199
+margins L28.7 R28.0 T26.0 B12.4 · bbox fill 0.705
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+· INFO [complexity] 199 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+· INFO [off-centre-y] Vertical margins differ (top 26.0, bottom 12.4). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 97/100 (heuristic)
+
+=== K-simbolo.svg  (724 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 40
+margins L26.0 R26.0 T24.0 B28.0 · bbox fill 0.635
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== L-icone-app.svg  (2520 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 2: #0a0f14 #ffffff · gradients 0 · anchors 168
+margins L-0.0 R0.0 T-0.0 B0.0 · bbox fill 1.0
+· INFO [on-tile] White artwork on a full-canvas tile/container — fine for app icons and avatars; make sure a version without the tile exists for other uses.
+· INFO [complexity] 168 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 98/100 (heuristic)
+
+=== L-simbolo.svg  (2455 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #0a0f14 · gradients 0 · anchors 159
+margins L26.0 R26.0 T28.9 B32.9 · bbox fill 0.604
+· INFO [complexity] 159 anchor points (library median 53.0, p75 95.5). Check every point earns its place.
+production-readiness score: 99/100 (heuristic)
+
+=== L-wordmark.svg  (7736 bytes)
+viewBox 0 0 626.3 256 · aspect 2.446 (wide)
+colours 1: #0a0f14 · gradients 0 · anchors 451
+margins L32.0 R32.0 T67.9 B62.2 · bbox fill 0.442
+▲ WARN [complex] 451 anchor points — more than 95% of comparable reference logos (median 75.0). Simplify: fewer points, merged shapes, less detail.
+· INFO [fractional-viewbox] viewBox has fractional values; integer canvases are easier to grid.
+production-readiness score: 91/100 (heuristic)
