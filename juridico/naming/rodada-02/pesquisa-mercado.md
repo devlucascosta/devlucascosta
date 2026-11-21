@@ -9,103 +9,103 @@ Sem empresa de software ou app com esse nome. Ocorrências esparsas: salendo.nl 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: https://www.trustpilot.com/review/salendo.nl · https://www.atom.com/name/Salendo · https://www.facebook.com/sangalganosalendowine/
 
-## 2. Lindaro
-
-Sem software ou app. Única empresa: lindaro GmbH (Alemanha, atacado de móveis), sem afinidade com SaaS. O lindaro.com foi registrado em 2023 com DNS da Locaweb (provável titular brasileiro, uso não verificado).
-
-- App Store (API oficial, BR e EUA): nenhum app com o nome.
-- Fontes: https://www.dnb.com/business-directory/company-profiles.lindaro_gmbh.a0de9ca372fb21d6687204a2c69b2e2c.html · https://www.mow.de/en/exhibitors/lindaro
-
-## 3. Joreva
+## 2. Joreva
 
 Sem software ou app. Única ocorrência: página de Facebook "Joreva Estudi Mobles" (móveis, provavelmente Catalunha). O joreva.com está em DNS da BuyDomains, "this domain for sale".
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: https://www.facebook.com/JorevaEstudiMobles/
 
-## 4. Ubiro
+## 3. Ubiro
 
 Nenhuma empresa, software ou app com o nome exato. Nomes vizinhos sem conflito direto: Ubio (ub.io, automação B2B, Reino Unido), Ubiko (imóveis, Venezuela) e UBII (serviços).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: https://www.crunchbase.com/organization/ub · https://play.google.com/store/apps/details?id=ve.com.ubiko.app
 
-## 5. Zemaro
+## 4. Zemaro
 
 Sem empresa ou app. Só um repositório público no GitHub ("ZEMARO", demonstração de marketplace, zemaro.vercel.app), sem indício de empresa constituída.
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: https://github.com/merajrok839-ops/ZEMARO
 
-## 6. Lerano
+## 5. Lerano
 
 Nenhuma empresa, software ou app encontrado (busca combinada com Darelo).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 7. Larimo
+## 6. Larimo
 
 Nenhuma empresa, software ou app encontrado.
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 8. Zaleno
+## 7. Zaleno
 
 Nenhuma empresa, software ou app encontrado. O zaleno.com está em DNS da Afternic (à venda).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 9. Teiano
+## 8. Teiano
 
 Nenhuma empresa, software ou app encontrado (busca combinada com Tinaro).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 10. Fenaro
+## 9. Fenaro
 
 Nenhuma empresa ou software. Ocorrência só de sobrenome (Fenara) em diretório italiano.
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: https://www.dnb.com/business-directory/company-profiles.reiser_srl.fb3612f97b542c4cf18aa74b731b91b9.html
 
-## 11. Nirelo
+## 10. Nirelo
 
 Nenhuma empresa, software ou app encontrado (busca combinada com Sarelo/Relano).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 12. Zimeno
+## 11. Zimeno
 
 Nenhuma empresa, software ou app encontrado (busca combinada com Dirano). O zimeno.com está em DNS da Afternic (à venda).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 13. Dirano
+## 12. Dirano
 
 Nenhuma empresa, software ou app encontrado (busca combinada com Zimeno).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 14. Relano
+## 13. Relano
 
 Sem empresa ou software. Na App Store, aparece apenas como sobrenome de uma desenvolvedora (Leticia Rodriguez Relano), em apps sem relação.
 
 - App Store (API oficial, BR e EUA): NitorFit | Bloquea Apps — LETICIA RODRIGUEZ RELANO (BR); Survikit: Kit de Emergencia — LETICIA RODRIGUEZ RELANO (BR); NitorFit | Digital Detox — LETICIA RODRIGUEZ RELANO (US); Survikit: Emergency Kit — LETICIA RODRIGUEZ RELANO (US)
 - Fontes: resultados de busca sem ocorrência do nome.
 
-## 15. Teluma
+## 14. Teluma
 
 Nenhuma empresa, software ou app com o nome exato. O teluma.com existe desde 2000 (titular desconhecido).
 
 - App Store (API oficial, BR e EUA): nenhum app com o nome.
 - Fontes: resultados de busca sem ocorrência do nome.
+
+## 15. Lindaro
+
+Sem software ou app. Única empresa: lindaro GmbH (Alemanha, atacado de móveis), sem afinidade com SaaS. O lindaro.com foi registrado em 2023 com DNS da Locaweb (provável titular brasileiro, uso não verificado).
+
+- App Store (API oficial, BR e EUA): nenhum app com o nome.
+- Fontes: https://www.dnb.com/business-directory/company-profiles.lindaro_gmbh.a0de9ca372fb21d6687204a2c69b2e2c.html · https://www.mow.de/en/exhibitors/lindaro
 
 ## 16. Tinaro
 

@@ -1,0 +1,2522 @@
+{
+ "Salendo": {
+  "criterio": "distância de edição ≤2 (grafia/fonética) ou ≤1 (chave frouxa: d=t, v=f, b=p, g=c, z=s), similaridade ≥86%, classes 9/35/42/39",
+  "ocorrencias": [
+   {
+    "numero": "935840907",
+    "nome": "salento",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de roupas; Comércio [através de qualquer meio] de bolsas; Comércio [através de qualquer meio] de calçados; Comércio [através de qualquer meio] de mochilas; Comércio [através de qualquer meio] de calças; Comércio [através de qualquer meio] de moletons; Comércio [através de qualquer meio] de camisetas; Comércio [através de qualquer meio] de copos; Comércio [através de qualquer meio] de chinelos; Comércio [através de qualquer meio] de guarda sol.; ",
+    "titulares": "THIAGO PINTO SANTOS (BR/RS)",
+    "deposito": "16/08/2024",
+    "concessao": "07/04/2026",
+    "vigencia": "07/04/2036",
+    "palavra": "salento",
+    "motivo": "chave frouxa idêntica",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2883,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 100
+   },
+   {
+    "numero": "501841898",
+    "nome": "COUNTERSURGE SALIENT",
+    "apresentacao": "Mista",
+    "natureza": "Madri Produto/Serviço",
+    "classes": "09,41",
+    "especificacao": "09: Computer game software, downloadable; downloadable applications for use with mobile devices; electronic publications, downloadable; cases for smartphones; mouse pads; phonograph records; sound recording discs; cameras [photography]; eyeglasses; mobile phone chargers; animated cartoons; decorative magnets.;  || 41: Educational services; organization of shows [impresario services]; providing on-line electronic publications, not downloadable; providing online videos, not downloadable; game services provided on-line from a computer network; film distribution; production of music; entertainment services; production of radio and television programmes; modelling for artists.; ",
+    "titulares": "GRYPH FRONTIER PTE. LTD. (SG/)",
+    "deposito": "19/12/2024",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salient",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2886,
+     "codigo": "IPAS770",
+     "despacho": "Concessão de registro em designação"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "945013035",
+    "nome": "SALIENTE MODA FEMININA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de roupas;Gestão de franquia para terceiros;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace]; ",
+    "titulares": "21.803.520 TIAGO MATIAS VIDAL (BR/CE)",
+    "deposito": "28/08/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "saliente",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2907,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "922515778",
+    "nome": "A LENDA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio atacadista e importação de artigos de tabacaria, bem como isqueiros, cachimbos, piteiras e demais artigos de tabacaria, comércio atacadista e importação de carvão vegetal, comércio atacadista e importação de artigos de uso pessoal e doméstico de vidro, cristal, porcelana, plástico, metal ou madeira; ",
+    "titulares": "JAMRA COMERCIO DE ARTIGOS DE TABACARIA LTDA-EPP (BR/SP)",
+    "deposito": "31/03/2021",
+    "concessao": "16/11/2022",
+    "vigencia": "16/11/2032",
+    "palavra": "alenda",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2844,
+     "codigo": "IPAS532",
+     "despacho": "Requerimento não provido (mantida a concessão)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "944373216",
+    "nome": "ALENTO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Armazenamento eletrônico de dados;Atualização de software de computador;Desenvolvimento de plataformas de computador;Elaboração [concepção] de software de computador;Hospedagem de servidores;Manutenção de software de computador;Plataforma computacional como serviço [paas];Provimento de sistemas virtuais de computador por meio de computação em nuvem;Provimento de software de computador on-line não baixável;Software como serviço [saas]; ",
+    "titulares": "SILVAN SANTANA DE BARROS (BR/SP)",
+    "deposito": "08/07/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2902,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "944373321",
+    "nome": "ALENTO",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Aplicativos, baixáveis;Arquivos de imagem baixáveis;Arquivos de música baixáveis;Arquivos de vídeo baixáveis;Plataformas de programas de computador, gravados ou baixáveis;Programas de computador baixáveis;Publicações eletrônicas, baixáveis; ",
+    "titulares": "SILVAN SANTANA DE BARROS (BR/SP)",
+    "deposito": "08/07/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2904,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "945138261",
+    "nome": "ALENTO",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Aplicativos, baixáveis; ",
+    "titulares": "MARCELO RODRIGUES FERREIRA (BR/SP)",
+    "deposito": "09/09/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2912,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "922350183",
+    "nome": "ALENTO NEGÓCIOS",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Administração comercial;Assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia;Assessoria, consultoria e informação na implantação e viabilização de sistema de franquia;Auxílio em gestão de negócios;Consultoria em gestão de negócios;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia; ",
+    "titulares": "BILLY THE GRILL RESTAURANTE E FRANCHISING LTDA. (BR/RJ)",
+    "deposito": "15/03/2021",
+    "concessao": "18/01/2022",
+    "vigencia": "18/01/2032",
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2663,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "913152633",
+    "nome": "ALLENT MEDICAL SUPPLIES",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de aparelhos e instrumentos cirúrgicos; Comércio (através de qualquer meio) de aparelhos e instrumentos médicos; Representação comercial;",
+    "titulares": "ALLENT COMÉRCIO, IMPORTAÇÃO E DISTRIBUIÇÃO DE MATERIAIS MÉDICOS LTDA (BR/SP)",
+    "deposito": "03/08/2017",
+    "concessao": "26/12/2018",
+    "vigencia": "26/12/2028",
+    "palavra": "allent",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2503,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "928212823",
+    "nome": "ALLENT MEDICAL SUPPLIES",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de aparelhos e instrumentos cirúrgicos;Comércio (através de qualquer meio) de aparelhos e instrumentos médicos;Representação comercial.; ",
+    "titulares": "ALLENT COMÉRCIO, IMPORTAÇÃO E DISTRIBUIÇÃO DE MATERIAIS MÉDICOS LTDA (BR/SP)",
+    "deposito": "30/09/2022",
+    "concessao": "05/03/2024",
+    "vigencia": "05/03/2034",
+    "palavra": "allent",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2774,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "916951790",
+    "nome": "ALLENTO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio atacadista, importação e exportação de: azeites, azeitonas, café, café não torrado, café em grão, café em pó, café solúvel, extrato de café, vinhos.; ",
+    "titulares": "DINAMICA DO BRASIL COMÉRCIO E INDUSTRIA LTDA (BR/ES)",
+    "deposito": "20/03/2019",
+    "concessao": "10/12/2019",
+    "vigencia": "10/12/2029",
+    "palavra": "allento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2649,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "940911485",
+    "nome": "ALLENTO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Serviços de comércio eletrônico (e-commerce), especializados na venda de bolsas, carteiras, mochilas, malas, cintos e acessórios de moda em couro legítimo, prestados por meio da internet; ",
+    "titulares": "48.364.985 LUANA RIBEIRO DA SILVA (BR/MG)",
+    "deposito": "03/09/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "allento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2855,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "941050513",
+    "nome": "Alento - Espaço de Desenvolvimento Infantil",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Administração comercial para terceiros;Aluguel de equipamento de escritório em espaços de co-working;Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros;Assessoria e consultoria em marketing relativas a precificação de produto ou serviço de terceiros;Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros;Auxílio em gestão de negócios;Serviços administrativos para encaminhamentos médicos;Serviços administrativos para realocação de empresas; ",
+    "titulares": "ANNE CRISTINE BRAGA PIMENTA (BR/MG)",
+    "deposito": "12/09/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2857,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "912844450",
+    "nome": "Alento Sorvetes Artesanais bons momentos vêm aos potes",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de produtos alimentícios [laticínios] - [Informação em]; Comércio [através de qualquer meio] de produtos alimentícios [laticínios] - [Consultoria em]; Comércio [através de qualquer meio] de produtos alimentícios [laticínios] - [Assessoria em]; Comércio [através de qualquer meio] de produtos alimentícios [laticínios];",
+    "titulares": "Talita Viza Dias Trugilho (BR/MG)",
+    "deposito": "07/06/2017",
+    "concessao": "02/01/2019",
+    "vigencia": "02/01/2029",
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2504,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "919044352",
+    "nome": "Alento Tech",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Criação e manutenção de web sites para terceiros;Desenvolvimento de software no âmbito de publicação de software;Elaboração [concepção] de software de computador;Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores [desenvolvimento de um software/website para terceiros];Hospedagem de web sites;Programação de computador [informática];Software como serviço [saas].; ",
+    "titulares": "WELLINGTON PEREIRA 40069355878 (BR/SP)",
+    "deposito": "20/01/2020",
+    "concessao": "20/10/2020",
+    "vigencia": "20/10/2030",
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2598,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "936975385",
+    "nome": "Alentto",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de artigos de chapelaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de roupas; ",
+    "titulares": "57.957.975 ISABELA MORAES KATOPODIS (BR/GO)",
+    "deposito": "11/11/2024",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alentto",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "indeferido, com recurso",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2900,
+     "codigo": "IPAS360",
+     "despacho": "Notificação de recurso"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "935895850",
+    "nome": "DND ALLENTO",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de fertilizantes, defensivos agrícolas, adubos e corretivos do solo; Comércio (através de qualquer meio) de óleo mineral para agricultura.; Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;\nComércio [através de qualquer meio] de substâncias químicas destinadas à indústria;\nComércio através de qualquer de produtos químicos para os setores sucroenergético, industrial, tratamento de água e área agrícola e commodities.;",
+    "titulares": "DND QUIMICA LTDA (BR/SP)",
+    "deposito": "21/08/2024",
+    "concessao": "14/04/2026",
+    "vigencia": "14/04/2036",
+    "palavra": "allento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2884,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "911149686",
+    "nome": "GRUPO ALENTO FRANCHISING",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Gestão de negócios; administração de negócios; assessoria em gestão de negócios; assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia; gestão de franquia.; ",
+    "titulares": "BILLY THE GRILL RESTAURANTE E FRANCHISING LTDA. (BR/RJ)",
+    "deposito": "08/06/2016",
+    "concessao": "19/06/2018",
+    "vigencia": "19/06/2028",
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2476,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "941340651",
+    "nome": "HALLEND'S Comércio Digital",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio [através de qualquer meio] de artigos de cama, mesa e banho;Comércio [através de qualquer meio] de artigos de iluminação;Comércio [através de qualquer meio] de artigos de papelaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de artigos para prática de esportes;Comércio [através de qualquer meio] de bolsas femininas;Comércio [através de qualquer meio] de botões [artigos de armarinho];Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de cosméticos;Comércio [através de qualquer meio] de ferramentas manuais;Comércio [atrav",
+    "titulares": "COMÉRCIO DIGITAL FERNANDES & FILHO LTDA (BR/MG)",
+    "deposito": "19/09/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "hallend",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2860,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "924311797",
+    "nome": "INSTITUTO DE EDUCAÇÃO ALENTTO´S",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35,35",
+    "especificacao": "35: Orientação e gestão em serviços de educação infantil, fundamental, média e pós, aulas e cursos livres, bem como educação profissional.;  || 35: Assessoramento e elaboração de material de instrução e de ensino.; ",
+    "titulares": "INSTITUTO DE EDUCAÇÃO TALENTTO'S LTDA - ME (BR/PR)",
+    "deposito": "17/09/2021",
+    "concessao": "06/12/2022",
+    "vigencia": "06/12/2032",
+    "palavra": "alentto",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2709,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "940607620",
+    "nome": "LA SALETTE AGRO",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de alimentos para animais;Comércio [através de qualquer meio] de animais vivos;Comércio [através de qualquer meio] de produtos alimentícios [grãos];Comércio [através de qualquer meio] de produtos para a destruição dos animais nocivos, fungicidas e herbicidas;Comércio [através de qualquer meio] de sementes;Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;Representação comercial; ",
+    "titulares": "LA SALETTE AGRO LTDA (BR/MT)",
+    "deposito": "15/08/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salette",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2863,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "823918980",
+    "nome": "LS LA SALETE",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: COMÉRCIO DE JÓIAS, BRINCOS, ANÉIS, PULSEIRAS, GARGANTILHAS, CORRENTES E RELÓGIOS.; ",
+    "titulares": "G. PAVAN NETTO - EPP (BR/SP)",
+    "deposito": "14/11/2001",
+    "concessao": "29/01/2008",
+    "vigencia": "29/01/2028",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2426,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "934725349",
+    "nome": "Livraria Alento",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de artigos de papelaria;Comércio [através de qualquer meio] de jogos e brinquedos;Comércio [através de qualquer meio] de livros;Comércio [através de qualquer meio] de materiais impressos;Comércio [através de qualquer meio] de material de escritório;Comércio [através de qualquer meio] de material de instrução e de ensino;Comércio [através de qualquer meio] de publicações periódicas impressas; ",
+    "titulares": "LIVRARIA ALENTO LTDA (BR/RJ)",
+    "deposito": "23/05/2024",
+    "concessao": "10/02/2026",
+    "vigencia": "10/02/2036",
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2891,
+     "codigo": "IPAS428",
+     "despacho": "Decisão de não conhecer da petição"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "900917334",
+    "nome": "MALHARIA SALETE",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE ARTIGOS E PRODUTOS CONFECCIONADOS DE COURO E IMITAÇÕES DE COURO [INFORMAÇÃO]; COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE ROUPAS [INFORMAÇÃO]; COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE FIOS E FIBRAS PARA USO TÊXTIL [INFORMAÇÃO]; COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE PRODUTOS TÊXTEIS; COMÉRCIO (ATRAVÉS DE QUALQUER MEIO) DE ARTIGOS DO VESTUÁRIO [INFORMAÇÃO].; ",
+    "titulares": "MALHARIA SALETE LTDA EPP (BR/PR)",
+    "deposito": "16/05/2008",
+    "concessao": "10/10/2017",
+    "vigencia": "10/10/2027",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2618,
+     "codigo": "IPAS532",
+     "despacho": "Requerimento não provido (mantida a concessão)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "939099659",
+    "nome": "MERCADO DONA SALETE",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de alimentos para animais;Comércio [através de qualquer meio] de produtos alimentícios [aves e ovos];Comércio [através de qualquer meio] de produtos alimentícios [biscoitos];Comércio [através de qualquer meio] de produtos alimentícios [bolos];Comércio [através de qualquer meio] de produtos alimentícios [carnes vermelhas];Comércio [através de qualquer meio] de produtos alimentícios [cereais];Comércio [através de qualquer meio] de produtos alimentícios [chocolates];Comércio [através de qualquer meio] de produtos alimentícios [doces];Comércio [através de qualquer meio] de produtos alimentícios [frutas, verduras e legumes];Comércio [através de qualquer meio] d",
+    "titulares": "MERCADO DONA SALETE LTDA (BR/SC)",
+    "deposito": "12/05/2025",
+    "concessao": "20/10/2026",
+    "vigencia": "20/10/2036",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2911,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "932037356",
+    "nome": "N.SRA SALETTE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de fotografias;Comércio [através de qualquer meio] de materiais impressos;Comércio [através de qualquer meio] de produtos alimentícios [doces];Comércio [através de qualquer meio] de produtos alimentícios [massas];Comércio [através de qualquer meio] de produtos confeccionados de metais preciosos ou folheados;Comércio [através de qualquer meio] de roupas;Comércio [através de qualquer meio] de sabõ",
+    "titulares": "MITRA DA ARQUIDIOCESE DE CURITIBA (BR/PR)",
+    "deposito": "25/09/2023",
+    "concessao": "20/05/2025",
+    "vigencia": "20/05/2035",
+    "palavra": "salette",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2837,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "943048036",
+    "nome": "Pausa e Alento Cuidado para quem cuida",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de cosméticos;Comércio [através de qualquer meio] de dentifrícios;Comércio [através de qualquer meio] de escovas;Comércio [através de qualquer meio] de preparações de higiene pessoal não medicamentosas; ",
+    "titulares": "PAULA ANDRESSA DE OLIVEIRA SILVA (BR/SP)",
+    "deposito": "16/03/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2884,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "917483359",
+    "nome": "SALETA ESTOFADOS, MÓVEIS E ELETROS",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos de cama, mesa e banho; Comércio (através de qualquer meio) de móveis; Representação comercial de aparelho elétrico, eletrônico e térmico;",
+    "titulares": "JOÃO PAULO CORDEIRO FRAGA 04552192493 (BR/PE)",
+    "deposito": "11/06/2019",
+    "concessao": "18/02/2020",
+    "vigencia": "18/02/2030",
+    "palavra": "saleta",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2563,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "934243018",
+    "nome": "SALETE BOLZANI",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de aromatizantes, aromatizadores de ambiente com varetas [difusores de aroma]; aromáticos [óleos essenciais]; sabonetes; água aromática; aromatizadores para animais; óleos essenciais; Comércio (através de qualquer meio) de produtos de limpeza; Comércio (através de qualquer meio) de cosméticos; Comércio (através de qualquer meio) de artigos para animais.; ",
+    "titulares": "BOLZANI STORE LTDA (BR/SP)",
+    "deposito": "16/04/2024",
+    "concessao": "21/01/2026",
+    "vigencia": "21/01/2036",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2872,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "922073473",
+    "nome": "SALETE CASA DO ENCANADOR",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de materiais de construção; comércio (através de qualquer meio) de aparelhos de distribuição de água (hidráulica); comércio (através de qualquer meio) de aparelhos de iluminação; comércio (através de qualquer meio) ferramentas; comércio (através de qualquer meio) de aparelhos de instalações sanitárias; comércio (através de qualquer meio) de artigos de iluminação; comércio (através de qualquer meio) de artigos de porcelana; comércio (através de qualquer meio) de ferramentas manuais; comércio (através de qualquer meio) de materiais de construção metálicos; comércio (através de qualquer meio) de materiais de construção não metálicos; comércio (através de qual",
+    "titulares": "ANDRE LUIZ FERREIRA (BR/MG)",
+    "deposito": "12/02/2021",
+    "concessao": "30/11/2021",
+    "vigencia": "30/11/2031",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2656,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "920107834",
+    "nome": "SALETE EM SOCIEDADE",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Agenciamento de artistas;Análise de conteúdo de jornais e revistas e preparo de relatório comparando o conteúdo dos diversos veículos de comunicação;Anúncio;Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros;Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros;Assessoria promocional, consultoria e informação sobre propaganda;Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Assessoria, consultoria e infor",
+    "titulares": "MARIA SALETE DE ARAUJO 36306363300 (BR/CE)",
+    "deposito": "09/07/2020",
+    "concessao": "06/04/2021",
+    "vigencia": "06/04/2031",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2622,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "922455880",
+    "nome": "SALETE IMPORT'S",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de aparelhos para o registro, a transmissão e a reprodução de som ou imagens;Comércio (através de qualquer meio) de equipamento de processamento de dados e computadores;Comércio de cases [estojos], capas, capas carregadoras, suportes, carregadores, baterias, películas, telas touch screen, lentes para câmeras, fones de ouvido, cartões de memória, cabos usb, adaptadores e acessórios para celulares e tablets.; ",
+    "titulares": "FABIO MUNIZ - COMÉRCIO (BR/MT)",
+    "deposito": "25/03/2021",
+    "concessao": "08/02/2022",
+    "vigencia": "08/02/2032",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2666,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "903097427",
+    "nome": "SALETE M. G. DALSIN SALUTARE ALIMENTOS",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de produtos alimentícios; ",
+    "titulares": "SALETE MARIA GASPERIN (BR/RS)",
+    "deposito": "05/11/2010",
+    "concessao": "01/06/2021",
+    "vigencia": "01/06/2031",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2630,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "918466474",
+    "nome": "SALGADINHOS SALETE",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia;Comércio [através de qualquer meio] de produtos alimentícios [salgadinhos].; ",
+    "titulares": "SALETE ÁVILA SALGADOS LTDA (BR/SP)",
+    "deposito": "16/10/2019",
+    "concessao": "29/11/2022",
+    "vigencia": "29/11/2032",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2708,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "930174070",
+    "nome": "SALGADINHOS SALETE",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Aplicativos, baixáveis; ",
+    "titulares": "LEANDRO SOUZA BOLSONI (BR/SP)",
+    "deposito": "20/04/2023",
+    "concessao": "31/12/2024",
+    "vigencia": "31/12/2034",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2817,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "930587529",
+    "nome": "SALLED Cosméticos e Perfumaria",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Administração comercial;Administração de empresa;Comércio [através de qualquer meio] de artigos de cama, mesa e banho;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de cosméticos;Comércio [através de qualquer meio] de produtos de perfumaria; ",
+    "titulares": "MARLUCIA AGUIAR GOMES LEITE (BR/BA)",
+    "deposito": "29/05/2023",
+    "concessao": "26/11/2024",
+    "vigencia": "26/11/2034",
+    "palavra": "salled",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2812,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "934242720",
+    "nome": "SB SALETE BOLZANI",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de aromatizantes, aromatizadores de ambiente com varetas [difusores de aroma]; aromáticos [óleos essenciais]; sabonetes; água aromática; aromatizadores para animais; óleos essenciais; Comércio (através de qualquer meio) de produtos de limpeza; Comércio (através de qualquer meio) de cosméticos; Comércio (através de qualquer meio) de artigos para animais.; ",
+    "titulares": "BOLZANI STORE LTDA (BR/SP)",
+    "deposito": "16/04/2024",
+    "concessao": "21/01/2026",
+    "vigencia": "21/01/2036",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2872,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "937103420",
+    "nome": "SCHAEDLER -BY SALETE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de artigos de joalheria;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de metais preciosos e suas ligas;Comércio [através de qualquer meio] de pedras preciosas; ",
+    "titulares": "SALETE MARIA SCHAEDELER LEITE (BR/RS)",
+    "deposito": "22/11/2024",
+    "concessao": "25/08/2026",
+    "vigencia": "25/08/2036",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2903,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "943298288",
+    "nome": "Saleta Arquitetura",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Assessoria, consultoria e informações sobre arquitetura;Consultoria em arquitetura;Projeto de arquitetura;Serviços de arquitetura*; ",
+    "titulares": "MARINA GASPARI DE MELLO LTDA (BR/PR)",
+    "deposito": "07/04/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "saleta",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2887,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "926371860",
+    "nome": "Salete",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de fitas e laços;Comércio (através de qualquer meio) de flores artificiais;Comércio (através de qualquer meio) de molduras;Comércio [através de qualquer meio] de plantas e flores naturais; ",
+    "titulares": "FLORICULTURA NOSSA SENHORA SALETE LTDA (BR/SP)",
+    "deposito": "18/04/2022",
+    "concessao": "06/06/2023",
+    "vigencia": "06/06/2033",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2735,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "943822114",
+    "nome": "Salete Pizza",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de produtos alimentícios [biscoitos];Comércio [através de qualquer meio] de produtos alimentícios [bolos];Comércio [através de qualquer meio] de produtos alimentícios [doces];Comércio [através de qualquer meio] de produtos alimentícios [massas];Comércio [através de qualquer meio] de produtos alimentícios [refeições congeladas];Comércio [através de qualquer meio] de produtos alimentícios [salgadinhos];Comércio [através de qualquer meio] de produtos alimentícios [sanduíches];Gestão de franquia para terceiros;Venda e licenciamento de franchising [tratando-se de administração de negócios em franchising]; ",
+    "titulares": "F. MOURA DA SILVA LTDA (BR/MT)",
+    "deposito": "21/05/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2896,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "940377128",
+    "nome": "SÍTIO SALETTE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de animais vivos;Comércio [através de qualquer meio] de produtos alimentícios [grãos];Comércio [através de qualquer meio] de produtos alimentícios [laticínios];Comércio [através de qualquer meio] de roupas;Marketing; Marketing; ",
+    "titulares": "SALETTE PERON (BR/PR)",
+    "deposito": "04/08/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salette",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2852,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "941465110",
+    "nome": "AMALFI Tradizionale dal 1950 a Salerno",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de bebidas alcoólicas;Comércio [através de qualquer meio] de bebidas não alcoólicas;Comércio [através de qualquer meio] de produtos alimentícios [chocolates];Comércio [através de qualquer meio] de produtos alimentícios [doces];Comércio [através de qualquer meio] de produtos alimentícios [refeições congeladas];Comércio [através de qualquer meio] de produtos alimentícios [sorvetes]; ",
+    "titulares": "MALU LISBOA GOMES (BR/AM)",
+    "deposito": "02/10/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salerno",
+    "motivo": "distância 2",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2859,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "919643213",
+    "nome": "BIA SALERNO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos de joalheria.; ",
+    "titulares": "BIA SALERNO DESIGN DE JOIAS LTDA. (BR/SP)",
+    "deposito": "04/05/2020",
+    "concessao": "12/07/2022",
+    "vigencia": "12/07/2032",
+    "palavra": "salerno",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2688,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "932850138",
+    "nome": "CASA DI SALERNO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos para cama, mesa e banho;\nComércio (através de qualquer meio) de utensílios e recipientes para a casa ou cozinha; Comércio (através de qualquer meio) de itens de decoração; ",
+    "titulares": "ANRAFE PUBLICIDADE VERTICAL LTDA - EPP. (BR/RJ)",
+    "deposito": "05/12/2023",
+    "concessao": "10/03/2026",
+    "vigencia": "10/03/2036",
+    "palavra": "salerno",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2879,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "929940229",
+    "nome": "Comer Sabendo",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Agenciamento de artistas;Agenciamento, gestão e intermediação de obra artística;Aluguel de espaço publicitário;Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comerciais de televisão;Desenvolvimento de conceitos de campanha publicitária;Desenvolvimento de conceitos de marketing;Marketing por influenciadores;Produção de filmes publicitários;Promoção de produtos por meio de influenciadores;Propaganda; ",
+    "titulares": "DIEGO HENRIQUE DE MACEDO (BR/RS)",
+    "deposito": "30/03/2023",
+    "concessao": "01/10/2024",
+    "vigencia": "01/10/2034",
+    "palavra": "sabendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2804,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "944497012",
+    "nome": "Play Valendo",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia;Assessoria, consultoria e informação na implantação e viabilização de sistema de franquia;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de jogos e brinquedos;Gestão de franquia para terceiros;Serviços de intermediação comercial; ",
+    "titulares": "WAGNER PAULO BARBOSA DE ANDRADE (BR/ES)",
+    "deposito": "20/07/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2906,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "944920047",
+    "nome": "Play Valendo",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Aplicativo baixável para ambientes virtuais;Aplicativos, baixáveis; ",
+    "titulares": "WAGNER PAULO BARBOSA DE ANDRADE (BR/ES)",
+    "deposito": "21/08/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2909,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "944919820",
+    "nome": "Play Valendo",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Assistência técnica em software;Atualização de software de computador;Consultoria em software de computador;Consultoria em tecnologia da computação;Desenvolvimento de plataformas de computador;Manutenção de software de computador;Plataforma computacional como serviço [paas];Programação de computador [informática];Provimento de software de computador on-line não baixável;Software como serviço [saas]; ",
+    "titulares": "WAGNER PAULO BARBOSA DE ANDRADE (BR/ES)",
+    "deposito": "21/08/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2909,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "932572081",
+    "nome": "S Grupo Salcedo",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de alimentos para animais;Comércio [através de qualquer meio] de alimentos para bebês;Comércio [através de qualquer meio] de animais vivos;Comércio [através de qualquer meio] de aparelhos [lâminas] de barbear;Comércio [através de qualquer meio] de aparelhos e instrumentos cirúrgicos;Comércio [através de qualquer meio] de aparelhos e instrumentos de pesagem;Comércio [através de qualquer meio] de aparelhos e instrumentos médicos;Comércio [através de qualquer meio] de aparelhos e instrumentos veterinários;Comércio [através de qualquer meio] de artigos ortopédicos;Comércio [através de qualquer meio] de artigos para animais;Comércio [através de qualquer meio] d",
+    "titulares": "CENTRALVET COMERCIAL DISTRIBUIDORA LTDA (BR/SP)",
+    "deposito": "10/11/2023",
+    "concessao": "01/07/2025",
+    "vigencia": "01/07/2035",
+    "palavra": "salcedo",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2868,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "916839133",
+    "nome": "SALERNO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comercio através de qualquer meios de linguiças.; ",
+    "titulares": "LINGUIÇARIA SALERNO RICCO LTDA. - EPP (BR/SP)",
+    "deposito": "28/02/2019",
+    "concessao": "22/10/2019",
+    "vigencia": "22/10/2029",
+    "palavra": "salerno",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2546,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "904501280",
+    "nome": "SCALENO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Demonstração de produtos; Promoção de vendas [para terceiros]; Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de artigos e produtos confeccionados de couro e imitações de couro; Comércio (através de qualquer meio) de malas e bolsas de viagem; Comércio (através de qualquer meio) de sapatos; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições - administração de ne; Gestão de franquia;",
+    "titulares": "SCALENO CALÇADOS LTDA (BR/MG)",
+    "deposito": "03/02/2012",
+    "concessao": "03/03/2015",
+    "vigencia": "03/03/2035",
+    "palavra": "scaleno",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2829,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "913817503",
+    "nome": "SCALENO ARQUITETURA E INTERIORES",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "42",
+    "especificacao": "42: Consultoria em arquitetura; Consultoria em arquitetura - [Assessoria em]; Consultoria em arquitetura - [Consultoria em]; Consultoria em arquitetura - [Informação em]; Desenho de plantas para construção; Desenho de plantas para construção - [Assessoria em]; Desenho de plantas para construção - [Consultoria em]; Desenho de plantas para construção - [Informação em]; Engenharia; Engenharia - [Assessoria em]; Engenharia - [Consultoria em]; Engenharia - [Informação em]; Planejamento urbano; Planejamento urbano - [Assessoria em]; Planejamento urbano - [Consultoria em]; Planejamento urbano - [Informação em]; Serviços de arquitetura; Serviços de arquitetura - [Assessoria em]; Serviços de arquitetura ",
+    "titulares": "VICTOR TOLEDO (BR/RS)",
+    "deposito": "30/11/2017",
+    "concessao": "19/02/2019",
+    "vigencia": "19/02/2029",
+    "palavra": "scaleno",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2511,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "918025389",
+    "nome": "TÁ SABENDO?",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de bijuteria; Comércio (através de qualquer meio) de carpetes e tapetes; Comércio (através de qualquer meio) de cosméticos; Comércio (através de qualquer meio) de imitações de couro; Comércio (através de qualquer meio) de malas e bolsas de viagem; Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de artigos de cama, mesa e banho; Comércio (através de qualquer meio) de artigos de relojoaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de produtos de perfumaria; Co",
+    "titulares": "LOJAS RIACHUELO S/A (BR/SP)",
+    "deposito": "21/08/2019",
+    "concessao": "28/04/2020",
+    "vigencia": "28/04/2030",
+    "palavra": "sabendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2729,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "923599614",
+    "nome": "Tá Valendo",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos de cama, mesa e banho;Comércio (através de qualquer meio) de artigos de ferragem;Comércio (através de qualquer meio) de artigos de papelaria;Comércio (através de qualquer meio) de artigos de vidro;Comércio (através de qualquer meio) de artigos do vestuário;Comércio (através de qualquer meio) de carpetes e tapetes;Comércio (através de qualquer meio) de equipamento de processamento de dados e computadores;Comércio (através de qualquer meio) de instrumentos musicais;Comércio (através de qualquer meio) de jogos e brinquedos;Comércio (através de qualquer meio) de materiais para artistas;Comércio (através de qualquer meio) de material de escritório;Co",
+    "titulares": "CLEBER NASCIMENTO DA ROSA  - EPP (BR/SC)",
+    "deposito": "14/07/2021",
+    "concessao": "26/07/2022",
+    "vigencia": "26/07/2032",
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2690,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "931804965",
+    "nome": "VALENDO ECONOMIA CRIATIVA DA AMAZÔNIA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: ?Serviços científicos e tecnológicos, e pesquisa e projeto relacionados a estes; Serviços de análise industrial, pesquisa industrial e desenho industrial; Serviços de controle de qualidade e autenticação; Assessoria e consultoria em controle de qualidade; Antropologia [estudo e pesquisa];  Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia; Assessoria, consultoria e informações e pesquisas no campo biológico; Assessoria, consultoria e informações sobre pesquisas e análises; bacteriológicas, biológicas, químicas e bioquímicas; Assessoria, consultoria e informações sobre pesquisas no campo biológico; Assessoria, consultoria e informações sob",
+    "titulares": "TWM ADMINISTRADORA DE FRANCHISING EIRELI - ME (BR/PE)",
+    "deposito": "05/09/2023",
+    "concessao": "13/05/2025",
+    "vigencia": "13/05/2035",
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2836,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "931802407",
+    "nome": "VALENDO ECONOMIA CRIATIVA DA AMAZÔNIA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: ?Coordenação de serviços voltados para o bem-estar e qualidade de vida das pessoas e à assistência social; Gestão das atividades de saúde, educação, serviços culturais e outros serviços sociais; Atividades de organizações associativas ligadas à cultura e à arte; Serviços de promoção de campanhas publicitárias com vistas à prevenção de doenças, a título de assistência social; Serviços de governança doméstica; Estudos e pareceres pertinentes à macro e microeconomia, serviços estes prestados com fins de assessoria na gestão de negócios e operação do terceiro setor; Gestão pública/privada; Auxílio em gestão de negócios; Avaliações de negócios; Consultoria em gestão de negócios; Consultoria em ge",
+    "titulares": "TWM ADMINISTRADORA DE FRANCHISING EIRELI - ME (BR/PE)",
+    "deposito": "05/09/2023",
+    "concessao": "13/05/2025",
+    "vigencia": "13/05/2035",
+    "palavra": "valendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2836,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "903503549",
+    "nome": "ALENDA",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "ALENDA MODAS LTDA ME (BR/RJ)",
+    "deposito": "29/03/2011",
+    "concessao": "22/07/2014",
+    "vigencia": "22/07/2024",
+    "palavra": "alenda",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "extinto (vigência)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2825,
+     "codigo": "IPAS161",
+     "despacho": "Extinção de registro pela expiração do prazo de vigência"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "903502941",
+    "nome": "ALENDA BIER",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "CERVEJARIA RODEMARK LTDA (BR/RS)",
+    "deposito": "29/03/2011",
+    "concessao": "22/07/2014",
+    "vigencia": "22/07/2024",
+    "palavra": "alenda",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "extinto (vigência)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2825,
+     "codigo": "IPAS161",
+     "despacho": "Extinção de registro pela expiração do prazo de vigência"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "924505427",
+    "nome": "ALENTO COMUNICAÇÃO HUMANIZADA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "CAROLINE FARIAS URPIA LIMA 01274168546 (BR/BA)",
+    "deposito": "05/10/2021",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "arquivado (sem pagamento)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2722,
+     "codigo": "IPAS157",
+     "despacho": "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "928427692",
+    "nome": "ALENTO MASSAS ESPECIAIS",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "MATHEUS SOUZA DOS SANTOS (BR/SC) | TAMIRES MAINO BENTO (BR/SC)",
+    "deposito": "23/10/2022",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2768,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "926264788",
+    "nome": "ALENTO TRICOLOR",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "GRÊMIO FOOT-BALL PORTO ALEGRENSE (BR/RS)",
+    "deposito": "06/04/2022",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alento",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "arquivado (sem pagamento)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2747,
+     "codigo": "IPAS157",
+     "despacho": "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "918306914",
+    "nome": "Grand Salette",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "GRAND SALETTE INDÚSTRIA E COMÉRCIO DE ALIMENTOS EIRELI (BR/MS)",
+    "deposito": "26/09/2019",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salette",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2637,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "905897773",
+    "nome": "HOSPITAL NOSSA SENHORA DA SALETE O HOSPITAL DO SEU CORAÇÃO DESDE 1958",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "CMC - CENTRAL MÉDICA CASCAVEL LTDA - EPP (BR/PR)",
+    "deposito": "22/02/2013",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2336,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "840483600",
+    "nome": "SALETE",
+    "apresentacao": "Nominativa",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "PADARIA E CONFEITARIA SALETE PELINCA LTDA ME (BR/RJ)",
+    "deposito": "15/04/2013",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2633,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "904264084",
+    "nome": "SALETE TEIXEIRA",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "SALETE APARECIDA DE OLIVEIRA TEIXEIRA (BR/SP)",
+    "deposito": "18/11/2011",
+    "concessao": "07/04/2015",
+    "vigencia": "07/04/2025",
+    "palavra": "salete",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "extinto (vigência)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2863,
+     "codigo": "IPAS161",
+     "despacho": "Extinção de registro pela expiração do prazo de vigência"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "912507802",
+    "nome": "SALETTE SEMI JÓIAS",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "MARIA SALETTE MARQUIORETO MAZETO (BR/MT)",
+    "deposito": "30/03/2017",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "salette",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "indeferido (recurso não provido)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2582,
+     "codigo": "IPAS235",
+     "despacho": "Recurso não provido (decisão mantida)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "904829332",
+    "nome": "SALERNO",
+    "apresentacao": "Nominativa",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "SARKIS COMÉRCIO E INDÚSTRIA LTDA. (BR/DF)",
+    "deposito": "23/05/2012",
+    "concessao": "02/06/2015",
+    "vigencia": "02/06/2025",
+    "palavra": "salerno",
+    "motivo": "distância 2",
+    "situacao": "extinto (vigência)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2869,
+     "codigo": "IPAS161",
+     "despacho": "Extinção de registro pela expiração do prazo de vigência"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "907133037",
+    "nome": "TO SABENDO",
+    "apresentacao": "Mista",
+    "natureza": "De Produto",
+    "classes": "09",
+    "titulares": "Paulo César Beck (BR/RS)",
+    "deposito": "16/12/2013",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "sabendo",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "arquivado (sem pagamento)",
+    "ativo": false,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2400,
+     "codigo": "IPAS157",
+     "despacho": "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão"
+    },
+    "sim": 86
+   }
+  ]
+ },
+ "Joreva": {
+  "criterio": "distância de edição ≤2 (grafia/fonética) ou ≤1 (chave frouxa: d=t, v=f, b=p, g=c, z=s), similaridade ≥86%, classes 9/35/42/39",
+  "ocorrencias": [
+   {
+    "numero": "932244602",
+    "nome": "GEOREF TOPOGRAFIA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Engenharia; ",
+    "titulares": "SCALCO E ZANIN ASSESSORIA AGRICOLA LTDA (BR/RS)",
+    "deposito": "11/10/2023",
+    "concessao": "27/05/2025",
+    "vigencia": "27/05/2035",
+    "palavra": "georef",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2838,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "943905966",
+    "nome": "Óreva",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de cosméticos; ",
+    "titulares": "STAR PLACE DISTRIBUIDORA DE PERFUMES LTDA (BR/SP)",
+    "deposito": "28/05/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "oreva",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2897,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "901269590",
+    "nome": "JOEVI CONFECÇÕES",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos do vestuário;Comércio (através de qualquer meio) de roupas; ",
+    "titulares": "JOEVI INDÚSTRIA E COMÉRCIO DE CONFECÇÕES LTDA (BR/CE)",
+    "deposito": "24/10/2008",
+    "concessao": "11/01/2011",
+    "vigencia": "11/01/2031",
+    "palavra": "joevi",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2638,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 89
+   }
+  ]
+ },
+ "Lindaro": {
+  "criterio": "distância de edição ≤2 (grafia/fonética) ou ≤1 (chave frouxa: d=t, v=f, b=p, g=c, z=s), similaridade ≥86%, classes 9/35/42/39",
+  "ocorrencias": [
+   {
+    "numero": "936511826",
+    "nome": "Lindara",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Anúncio;Comércio [através de qualquer meio] de aparelhos e instrumentos ópticos;Comércio [através de qualquer meio] de artigos de chapelaria;Comércio [através de qualquer meio] de artigos de joalheria;Comércio [através de qualquer meio] de artigos de relojoaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de fitas e laços;Comércio [através de qualquer meio] de malas e bolsas de viagem;Comércio [através de qualquer meio] de mochilas;Comércio [através de qualquer meio] de roupas;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos ",
+    "titulares": "RENNAN BAIA DE MORAIS (BR/AP)",
+    "deposito": "07/10/2024",
+    "concessao": "26/05/2026",
+    "vigencia": "26/05/2036",
+    "palavra": "lindara",
+    "motivo": "chave frouxa idêntica",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2890,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 100
+   },
+   {
+    "numero": "932429017",
+    "nome": "ALINDAR ACESSÓRIOS SEMIJOIAS",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de semijoias; Comércio [através de qualquer meio] de joias; ",
+    "titulares": "KEZIA DE FARIAS COSTA (BR/PB)",
+    "deposito": "27/10/2023",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "alindar",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "indeferido, com recurso",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2866,
+     "codigo": "IPAS360",
+     "despacho": "Notificação de recurso"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "920925650",
+    "nome": "BLINDAR",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Capas para smartphones;Central telefônica;Estojo para smartphones;Fios telefônicos;Películas protetoras adaptadas para smartphones;Telefones celulares;Telefones sem fio; ",
+    "titulares": "SANTO ANTÔNIO CELULAR CENTER COMÉRCIO E ACESSÓRIOS ELETRÔNICOS LTDA (BR/SC)",
+    "deposito": "03/10/2020",
+    "concessao": "03/08/2021",
+    "vigencia": "03/08/2031",
+    "palavra": "blindar",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2662,
+     "codigo": "IPAS270",
+     "despacho": "Deferimento da petição"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "944242910",
+    "nome": "BLINDAR MARCAS E PATENTES",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing];Assessoria e consultoria em gestão organizacional para terceiros para fins de \"compliance\";Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros;Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros;Assessoria promocional, consultoria e informação sobre propaganda;Assessoria, consultoria e informação em auditoria [gestão organizacional];Assessoria, consultoria e informação em publicidade e propaganda através de qualquer meio;",
+    "titulares": "BLINDAR MARCAS E PATENTES LTDA (BR/SP)",
+    "deposito": "26/06/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "blindar",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2901,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "916750906",
+    "nome": "INSTITUTO BLINDAR",
+    "apresentacao": "Nominativa",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Consultoria em gestão de negócios; Consultoria em gestão de pessoal; Consultoria em gestão e organização de negócios; Consultoria profissional em negócios; Consultoria referente a estratégias de comunicação em publicidade; Serviços prestados por entidades de representação de classe, a saber, intermediação comercial para os seus associados.; Serviços prestados por entidades de representação de classe, a saber, promoção de negócios dos associados; Serviços prestados por entidades de representação de classe, a saber, serviços de administração de convênios de benefícios; Serviços prestados por entidades de representação de classe, a saber, sistematização de informações em bancos de dados para a ",
+    "titulares": "BLINDAR SERVIÇOS DE PROTEÇÃO AO EXERCÍCIO PROFISSIONAL LTDA (BR/SP)",
+    "deposito": "14/02/2019",
+    "concessao": "12/11/2019",
+    "vigencia": "12/11/2029",
+    "palavra": "blindar",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2549,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "935446656",
+    "nome": "LIONTARI SHOP",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Administração comercial;Comércio [através de qualquer meio] de adesivos para papelaria ou para uso doméstico;Comércio [através de qualquer meio] de alfinetes e agulhas [artigos de armarinho];Comércio [através de qualquer meio] de aparelhos [lâminas] de barbear;Comércio [através de qualquer meio] de aparelhos de aquecimento;Comércio [através de qualquer meio] de aparelhos de cozimento;Comércio [através de qualquer meio] de aparelhos de distribuição de água;Comércio [através de qualquer meio] de aparelhos de iluminação;Comércio [através de qualquer meio] de aparelhos de refrigeração;Comércio [através de qualquer meio] de aparelhos de secagem;Comércio [através de qualquer meio] de aparelhos de ",
+    "titulares": "LIONTARI COMÉRCIO ELETRÔNICO LTDA (BR/SP)",
+    "deposito": "18/07/2024",
+    "concessao": "28/04/2026",
+    "vigencia": "28/04/2036",
+    "palavra": "liontari",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2886,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "926504762",
+    "nome": "AL' INTARE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Apresentação de produtos em meios de comunicação para fins de comércio varejista;Comércio (através de qualquer meio) de cosméticos;Comércio (através de qualquer meio) de óleos essenciais;Comércio (através de qualquer meio) de produtos de perfumaria;Demonstração de produtos; ",
+    "titulares": "CASSIANE DORIGON (BR/SC)",
+    "deposito": "02/05/2022",
+    "concessao": "20/06/2023",
+    "vigencia": "20/06/2033",
+    "palavra": "intare",
+    "motivo": "distância 3 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2737,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "923826769",
+    "nome": "LINARA",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio de confecções [vestuário confeccionado].; ",
+    "titulares": "P LINAR FILHO E CIA LTDA (BR/PR)",
+    "deposito": "04/08/2021",
+    "concessao": "16/11/2022",
+    "vigencia": "16/11/2032",
+    "palavra": "linara",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2706,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "945043180",
+    "nome": "LINARA",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "42",
+    "especificacao": "42: Consultoria em software de computador;Desenvolvimento de software no âmbito de publicação de software;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Elaboração [concepção] de software de computador;Hospedagem de ambientes virtuais;Hospedagem de plataformas de software para colaboração profissional com base em realidade virtual;Hospedagem de servidores;Hospedagem de websites;Provimento de software de computador on-line não baixável;Software como serviço [saas]; ",
+    "titulares": "RODRIGO DE FREITAS (BR/SP)",
+    "deposito": "31/08/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "linara",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2911,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "945043058",
+    "nome": "LINARA",
+    "apresentacao": "Nominativa",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "09",
+    "especificacao": "09: Aplicativo baixável para ambientes virtuais;Aplicativos, baixáveis;Plataformas de programas de computador, gravados ou baixáveis;Programas de computador baixáveis;Programas de computador, gravados;Programas operacionais para computador, gravados; ",
+    "titulares": "RODRIGO DE FREITAS (BR/SP)",
+    "deposito": "31/08/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "linara",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "09"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2911,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "942722019",
+    "nome": "LINARI",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio [através de qualquer meio] de bijuteria;Comércio [através de qualquer meio] de bolsas femininas;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de malas e bolsas de viagem;Comércio [através de qualquer meio] de roupas; ",
+    "titulares": "MAGDA BEATRIZ BORGES MOREIRA (BR/MG)",
+    "deposito": "12/02/2026",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "linari",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "pedido em andamento",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2878,
+     "codigo": "IPAS009",
+     "despacho": "Publicação de pedido de registro para oposição (exame formal concluído)"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "908886306",
+    "nome": "LINDAÊ",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de roupas;",
+    "titulares": "ALEXANDRE M. DE BARROS CONFECÇÕES - ME (BR/CE)",
+    "deposito": "20/01/2015",
+    "concessao": "15/08/2017",
+    "vigencia": "15/08/2027",
+    "palavra": "lindae",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2432,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "501665039",
+    "nome": "LYNDRA",
+    "apresentacao": "Nominativa",
+    "natureza": "Madri Produto/Serviço",
+    "classes": "05,42",
+    "especificacao": "05: Pharmaceutical products, preparations, and substances.;  || 42: Research and development services in the field of dosage forms for extended release pharmaceuticals.; ",
+    "titulares": "Lyndra Therapeutics, Inc. (US/)",
+    "deposito": "01/02/2022",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "lyndra",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2763,
+     "codigo": "IPAS770",
+     "despacho": "Concessão de registro em designação"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "920541178",
+    "nome": "B BLINDÃO SUPLEMENTOS",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de artigos do vestuário;Comércio (através de qualquer meio) de artigos para ginástica;Comércio (através de qualquer meio) de artigos para prática de esportes;Comércio (através de qualquer meio) de preparações farmacêuticas;Comércio (através de qualquer meio) de roupas;Comércio (através de qualquer meio) de substâncias dietéticas para uso medicinal;Comércio (através de qualquer meio) de xaropes e preparações para bebidas;Comércio [através de qualquer meio] de bebidas não alcoólicas;Comércio [através de qualquer meio] de produtos alimentícios [cereais];Comércio [através de qualquer meio] de produtos alimentícios [grãos]; ",
+    "titulares": "JOSÉ NILSON LOPES DA ROCHA (BR/RN)",
+    "deposito": "24/08/2020",
+    "concessao": "03/08/2021",
+    "vigencia": "03/08/2031",
+    "palavra": "blindao",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2639,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "501761356",
+    "nome": "INDAGRO",
+    "apresentacao": "Mista",
+    "natureza": "Madri Produto/Serviço",
+    "classes": "35",
+    "especificacao": "35: Import-export agency services.; ",
+    "titulares": "INDAGRO S.A. (CH/)",
+    "deposito": "15/09/2023",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "indagro",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2836,
+     "codigo": "IPAS770",
+     "despacho": "Concessão de registro em designação"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "501761361",
+    "nome": "INDAGRO",
+    "apresentacao": "Mista",
+    "natureza": "Madri Produto/Serviço",
+    "classes": "35",
+    "especificacao": "35: Import-export agency services.; ",
+    "titulares": "INDAGRO S.A. (CH/)",
+    "deposito": "15/09/2023",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "indagro",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2836,
+     "codigo": "IPAS770",
+     "despacho": "Concessão de registro em designação"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "919393721",
+    "nome": "LINDACOR TINTAS",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Comércio (através de qualquer meio) de matérias tintoriais;Comércio (através de qualquer meio) de mordentes [fixador para tintas];Comércio (através de qualquer meio) de tintas, vernizes, lacas;",
+    "titulares": "MARCELO DE MELO MASCHIO EPP (BR/SP)",
+    "deposito": "12/03/2020",
+    "concessao": "05/01/2021",
+    "vigencia": "05/01/2031",
+    "palavra": "lindacor",
+    "motivo": "distância 2",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2609,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "912190442",
+    "nome": "TÍNDARO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "especificacao": "35: Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Assessoria, consultoria e informação em serviços de recursos humanos para empresas; Comércio (através de qualquer meio) de veículos; provimento de mercado online para compradores e vendedores de produtos e serviços;",
+    "titulares": "HS SERVIÇO DE MANUTENÇÃO DE REDES EM TECNOLOGIA DA INFORMAÇÃO LTDA. ME. (BR/SP)",
+    "deposito": "20/01/2017",
+    "concessao": "21/11/2018",
+    "vigencia": "21/11/2028",
+    "palavra": "tindaro",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2498,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "912190884",
+    "nome": "TÍNDARO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "42",
+    "especificacao": "42: Fornecimento de mecanismos de busca para a internet; Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de dados localizado em uma rede mundial de computadores (se o serviço for de desenvolvimento de um software/website para terceiros); Sites de busca [fornecimento de mecanismos de busca na Internet]; Fornecimento de mecanismos de busca para a internet;",
+    "titulares": "HS SERVIÇO DE MANUTENÇÃO DE REDES EM TECNOLOGIA DA INFORMAÇÃO LTDA. ME. (BR/SP)",
+    "deposito": "20/01/2017",
+    "concessao": "21/11/2018",
+    "vigencia": "21/11/2028",
+    "palavra": "tindaro",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "42"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2498,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "933978642",
+    "nome": "TÍNDARO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "especificacao": "35: Apoio administrativo e secretariado;Serviços de lembrete de compromissos [funções de escritório];Serviços de marcação de compromissos [funções de escritório];Serviços de processamento de dados [funções de escritório];Serviços de recepção de visitantes [funções de escritório];Transcrição de comunicações [funções de escritório]; ",
+    "titulares": "TINDARO AGENCIA MARITIMA LTDA (BR/AM)",
+    "deposito": "25/03/2024",
+    "concessao": "13/01/2026",
+    "vigencia": "13/01/2036",
+    "palavra": "tindaro",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2871,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "933978553",
+    "nome": "TÍNDARO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "39",
+    "especificacao": "39: Agenciamento de navio;Assessoria, consultoria e informação em transportes;Assessoria, consultoria e informações sobre transportes;Corretagem marítima;Empacotamento de mercadorias para fins de transporte;Estivagem [conjunto de operações destinadas à movimentação de mercadorias de terra para bordo, ou de uma embarcação para outra, ou de bordo para terra];Intermediação de carga;Localização e rastreamento de carga para fins de transporte;Logística de distribuição para terceiros [armazenagem e transporte];Operação de portos [transporte];Organização de cruzeiros [viagens];Provimento de informações sobre transportes;Serviços de logística em matéria de transporte;Transporte;Transporte marítimo; ",
+    "titulares": "TINDARO AGENCIA MARITIMA LTDA (BR/AM)",
+    "deposito": "25/03/2024",
+    "concessao": "13/01/2026",
+    "vigencia": "13/01/2036",
+    "palavra": "tindaro",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "concedido",
+    "ativo": true,
+    "classes_alvo": [
+     "39"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2871,
+     "codigo": "IPAS158",
+     "despacho": "Concessão de registro"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "939257165",
+    "nome": "LINDARE",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "54.489.352 JOELMA DIAS PINTO DE OLIVEIRA (BR/SP)",
+    "deposito": "22/05/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "lindare",
+    "motivo": "chave frouxa idêntica",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2911,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 100
+   },
+   {
+    "numero": "923890513",
+    "nome": "BLINDAR",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "BLINDAR MARCAS E PATENTES (BR/SC)",
+    "deposito": "10/08/2021",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "blindar",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2692,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "934831262",
+    "nome": "DL LOVEIN DEBORA LINDAO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "D.L. COSMÉTICOS LTDA (BR/SC)",
+    "deposito": "03/06/2024",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "lindao",
+    "motivo": "distância 1 (chave frouxa 1)",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2869,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 92
+   },
+   {
+    "numero": "940521806",
+    "nome": "LNR LYNARI",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "FERNANDO LUIZ BALDOCHI (BR/SP)",
+    "deposito": "06/08/2025",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "lynari",
+    "motivo": "distância 2 (chave frouxa 1)",
+    "situacao": "arquivado (exigência)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2884,
+     "codigo": "IPAS139",
+     "despacho": "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito"
+    },
+    "sim": 91
+   },
+   {
+    "numero": "921456433",
+    "nome": "BLINDÃO SUPLEMENTOS",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "JEFFERSON DOS SANTOS RODRIGUES (BR/SP)",
+    "deposito": "30/11/2020",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "blindao",
+    "motivo": "distância 2",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2644,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "906005930",
+    "nome": "INDAGRO",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "INDAGRO DO BRASIL SERVIÇOS LTDA. (BR/SP)",
+    "deposito": "20/03/2013",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "indagro",
+    "motivo": "distância 2",
+    "situacao": "indeferido",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2432,
+     "codigo": "IPAS024",
+     "despacho": "Indeferimento do pedido"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "928944409",
+    "nome": "INDAGRO",
+    "apresentacao": "Mista",
+    "natureza": "Produtos e/ou Serviço",
+    "classes": "35",
+    "titulares": "INDAGRO INDUSTRIA E COMÉRCIO DE PEÇAS EIRELI (BR/SP)",
+    "deposito": "15/12/2022",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "indagro",
+    "motivo": "distância 2",
+    "situacao": "indeferido (recurso não provido)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2874,
+     "codigo": "IPAS235",
+     "despacho": "Recurso não provido (decisão mantida)"
+    },
+    "sim": 86
+   },
+   {
+    "numero": "910858012",
+    "nome": "INDAGRO INSUMOS AGRÍCOLAS",
+    "apresentacao": "Mista",
+    "natureza": "De Serviço",
+    "classes": "35",
+    "titulares": "INSIGNES LTDA -EPP (BR/SP)",
+    "deposito": "04/04/2016",
+    "concessao": null,
+    "vigencia": null,
+    "palavra": "indagro",
+    "motivo": "distância 2",
+    "situacao": "arquivado (sem pagamento)",
+    "ativo": false,
+    "classes_alvo": [
+     "35"
+    ],
+    "ultimo_despacho": {
+     "rpi": 2483,
+     "codigo": "IPAS157",
+     "despacho": "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão"
+    },
+    "sim": 86
+   }
+  ]
+ }
+}

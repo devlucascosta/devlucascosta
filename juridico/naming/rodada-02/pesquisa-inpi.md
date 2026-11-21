@@ -11,20 +11,14 @@
 - Variante **Zalendo**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 - Variante **Salento**: salento (35, concedido, proc. 935840907); salento (41, concedido, proc. 935840834)
 
-## 2. Lindaro (promissor)
-
-- Ocorrências semelhantes no índice (todas as classes e situações): 1772; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 2, 'baixo': 1}
-- **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
-- Variante **Lintaro**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
-
-## 3. Joreva (promissor)
+## 2. Joreva (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 29; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 0, 'baixo': 0}
 - **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
 - Variante **Joriva**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 - Variante **Jureva**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 4. Ubiro (promissor)
+## 3. Ubiro (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 44; ativas e relevantes por nível: {'crítico': 0, 'alto': 5, 'moderado': 4, 'baixo': 12}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -36,7 +30,7 @@
 - Variante **Uviro**: Fluviron (35, concedido, proc. 927485990)
 - Variante **Obiro**: O BIRÔ (35, concedido, proc. 903563100)
 
-## 5. Zemaro (promissor)
+## 4. Zemaro (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 3654; ativas e relevantes por nível: {'crítico': 0, 'alto': 1, 'moderado': 0, 'baixo': 1}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -44,13 +38,13 @@
 - Variante **Semaro**: ApocalypseMaromba (35, pedido em andamento, proc. 943886155)
 - Variante **Zemarro**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 6. Lerano (promissor)
+## 5. Lerano (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 1562; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 0, 'baixo': 1}
 - **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
 - Variante **Lirano**: LIGRANO PRODUTOS NATURAIS E SUPLEMENTOS (35, concedido, proc. 926608096)
 
-## 7. Larimo (promissor)
+## 6. Larimo (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 354; ativas e relevantes por nível: {'crítico': 1, 'alto': 7, 'moderado': 1, 'baixo': 6}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -61,7 +55,7 @@
   - LAIMO CONSTRUTORA E INCORPORADORA (classe 42, concedido, 91%, proc. 935150919, LAIMO CONSTRUTORA E INCORPORADORA LTDA) — semelhante (91%)
 - Variante **Larino**: VILARINO (35, concedido, proc. 906975450); CLARINOX (35, pedido em andamento, proc. 825710529); SOLARINO MÓVEIS PROJETADOS (35, concedido, proc. 910922632); SOLARINOX (09, concedido, proc. 920641032)
 
-## 8. Zaleno (promissor)
+## 7. Zaleno (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 29; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 0, 'baixo': 1}
 - **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
@@ -69,14 +63,14 @@
 - Variante **Zalena**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 - Variante **Celeno**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 9. Teiano (promissor)
+## 8. Teiano (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 335; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 0, 'baixo': 2}
 - **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
 - Variante **Deiano**: MAJOR & DEIZANO (35, concedido, proc. 917973925)
 - Variante **Taiano**: Taliano (39, pedido em andamento, proc. 944807658)
 
-## 10. Fenaro (promissor)
+## 9. Fenaro (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 1586; ativas e relevantes por nível: {'crítico': 1, 'alto': 0, 'moderado': 1, 'baixo': 4}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -84,27 +78,27 @@
 - Variante **Venaro**: VENARO (35, pedido em andamento, proc. 934578508); VENAGRO (35, concedido, proc. 930382498)
 - Variante **Phenaro**: FENAGRO (35, pedido em andamento, proc. 828561273); FENAGRO (41, pedido em andamento, proc. 828561281)
 
-## 11. Nirelo (promissor)
+## 10. Nirelo (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 212; ativas e relevantes por nível: {'crítico': 0, 'alto': 1, 'moderado': 0, 'baixo': 0}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
   - Niello Motoparts (classe 35, pedido em andamento, 91%, proc. 941966380, NIELLO MOTOPARTS LTDA) — semelhante (91%)
 - Variante **Niredo**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 12. Zimeno (promissor)
+## 11. Zimeno (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 61; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 0, 'baixo': 1}
 - **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
 - Variante **Simeno**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 13. Dirano (promissor)
+## 12. Dirano (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 566; ativas e relevantes por nível: {'crítico': 0, 'alto': 1, 'moderado': 0, 'baixo': 1}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
   - IMPÉRIO DIANO (classe 35, concedido, 91%, proc. 935824537, LUCAS GOMES CUNHA) — semelhante (91%)
 - Variante **Tirano**: Tirano X (41, concedido, proc. 927061473); TIRANDO LEITE DE PEDRA (38, concedido, proc. 906713080); TIRANDO LEITE DE PEDRA (41, concedido, proc. 906713021); TIRANDO DE LETRA (41, pedido em andamento, proc. 820923176)
 
-## 14. Relano (promissor)
+## 13. Relano (promissor)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 154; ativas e relevantes por nível: {'crítico': 2, 'alto': 1, 'moderado': 1, 'baixo': 2}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -113,7 +107,7 @@
   - CONDIMENTOS E ESPECIARIAS REANO (classe 35, concedido, 91%, proc. 937144797, LUIS CARLOS MURONI) — semelhante (91%)
 - Variante **Rilano**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
-## 15. Teluma (pendências)
+## 14. Teluma (pendências)
 
 - Ocorrências semelhantes no índice (todas as classes e situações): 565; ativas e relevantes por nível: {'crítico': 0, 'alto': 10, 'moderado': 5, 'baixo': 9}
 - Marcas ativas mais próximas nas classes 9/35/42/39:
@@ -124,6 +118,12 @@
   - Telma Rocha (classe 42, concedido, 91%, proc. 934688230, TELMA DE JESUS ROCHA) — semelhante (91%)
 - Variante **Deluma**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 - Variante **Teloma**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
+
+## 15. Lindaro (pendências)
+
+- Ocorrências semelhantes no índice (todas as classes e situações): 1772; ativas e relevantes por nível: {'crítico': 0, 'alto': 0, 'moderado': 2, 'baixo': 1}
+- **Nenhuma marca ativa com semelhança ≥ 88% nas classes 9/35/42/39.**
+- Variante **Lintaro**: nenhuma ocorrência ativa ≥ 92% nas classes relevantes
 
 ## 16. Tinaro (pendências)
 

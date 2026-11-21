@@ -3,8 +3,8 @@
  "base_inpi": "RPI, seção Marcas, XML oficial: edições 2220 (23/07/2013) a 2915 (17/11/2026), 696 edições, índice local de 5,3 milhões de processos",
  "total_gerados": 192,
  "aprovados": 18,
- "promissores": 14,
- "com_pendencias": 4,
+ "promissores": 13,
+ "com_pendencias": 5,
  "ranking": [
   {
    "nome": "Salendo",
@@ -33,7 +33,7 @@
     "https://www.facebook.com/sangalganosalendowine/"
    ],
    "vantagens": "Ótima pronúncia em português e espanhol; ideia de crescimento; .com.br e .app.br livres; .com comprável; nenhuma marca semelhante ativa nas classes 9/42.",
-   "riscos": "É palavra comum em italiano (menor distintividade na Itália). Variante \"salento\" (t/d) concedida na classe 35 para vestuário (proc. 935840907), sem afinidade com software. A semelhança gráfica distante com Solven (nome proibido) não vem da mesma raiz, mas convém registrar.",
+   "riscos": "É palavra comum em italiano (menor distintividade na Itália). Variante \"salento\" (t/d) concedida na classe 35 para vestuário (proc. 935840907), sem afinidade com software. A semelhança gráfica distante com Solven (nome proibido) não vem da mesma raiz, mas convém registrar. [Auditoria final] ALENTO tem pedidos de software nas classes 9 e 42 (procs. 944373321 e 944373216, 07/2026), e Play Valendo tem pedidos nas classes 9 e 42.",
    "media": 8.2,
    "dominios": {
     "com.br": "disponível confirmado",
@@ -80,56 +80,6 @@
    "disponibilidade_digital": 10
   },
   {
-   "nome": "Lindaro",
-   "status": "promissor",
-   "notas": [
-    8,
-    9,
-    9,
-    8,
-    7,
-    8,
-    8,
-    8,
-    7
-   ],
-   "var": [
-    "Lintaro"
-   ],
-   "conceito": "Som de nome próprio latino, com eco de \"lindo\". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado.",
-   "personalidade": "Elegante, acolhedora, confiável, com acabamento premium.",
-   "mercado": "Sem software ou app. Única empresa: lindaro GmbH (Alemanha, atacado de móveis), sem afinidade com SaaS. O lindaro.com foi registrado em 2023 com DNS da Locaweb (provável titular brasileiro, uso não verificado).",
-   "urls": [
-    "https://www.dnb.com/business-directory/company-profiles.lindaro_gmbh.a0de9ca372fb21d6687204a2c69b2e2c.html",
-    "https://www.mow.de/en/exhibitors/lindaro"
-   ],
-   "vantagens": "Muito fácil de falar e escrever; soa premium; nenhuma marca semelhante ativa ≥ 88% nas classes 9/35/42/39; .com.br e .app.br livres.",
-   "riscos": "O .com tem titular provavelmente brasileiro desde 2023, o que pode indicar projeto em preparação. O eco de \"lindo\" pode soar mais estético que gerencial.",
-   "media": 8,
-   "dominios": {
-    "com.br": "disponível confirmado",
-    "app.br": "disponível confirmado",
-    "com": "registrado em 2023-02-18"
-   },
-   "app_store": [],
-   "inpi_total_semelhantes": 1772,
-   "inpi_por_nivel": {
-    "crítico": 0,
-    "alto": 0,
-    "moderado": 2,
-    "baixo": 1
-   },
-   "inpi_mais_proximas": [],
-   "inpi_variantes": [
-    {
-     "variante": "Lintaro",
-     "ocorrencias": []
-    }
-   ],
-   "ranking": 2,
-   "disponibilidade_digital": 8
-  },
-  {
    "nome": "Joreva",
    "status": "promissor",
    "notas": [
@@ -154,7 +104,7 @@
     "https://www.facebook.com/JorevaEstudiMobles/"
    ],
    "vantagens": "Altíssima distintividade: zero marcas ativas semelhantes no INPI, inclusive variantes. .com.br e .app.br livres, .com à venda.",
-   "riscos": "A sílaba tônica pode oscilar (jo-RÉ-va / JO-re-va), e em inglês o J vira \"dj\". Por ser inventado, exige mais investimento para gerar memória.",
+   "riscos": "A sílaba tônica pode oscilar (jo-RÉ-va / JO-re-va), e em inglês o J vira \"dj\". [Auditoria final] Óreva tem pedido na classe 35 para comércio de cosméticos (proc. 943905966). Na Espanha existem a Joreva Mobles SL (desde 1995) e a Joreva Estudi SL, ambas de móveis.",
    "media": 7.8,
    "dominios": {
     "com.br": "disponível confirmado",
@@ -180,7 +130,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 3,
+   "ranking": 2,
    "disponibilidade_digital": 10
   },
   {
@@ -299,7 +249,7 @@
      ]
     }
    ],
-   "ranking": 4,
+   "ranking": 3,
    "disponibilidade_digital": 8
   },
   {
@@ -372,7 +322,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 5,
+   "ranking": 4,
    "disponibilidade_digital": 8
   },
   {
@@ -428,7 +378,7 @@
      ]
     }
    ],
-   "ranking": 6,
+   "ranking": 5,
    "disponibilidade_digital": 8
   },
   {
@@ -554,7 +504,7 @@
      ]
     }
    ],
-   "ranking": 7,
+   "ranking": 6,
    "disponibilidade_digital": 8
   },
   {
@@ -644,7 +594,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 8,
+   "ranking": 7,
    "disponibilidade_digital": 10
   },
   {
@@ -714,7 +664,7 @@
      ]
     }
    ],
-   "ranking": 9,
+   "ranking": 8,
    "disponibilidade_digital": 8
   },
   {
@@ -812,7 +762,7 @@
      ]
     }
    ],
-   "ranking": 10,
+   "ranking": 9,
    "disponibilidade_digital": 8
   },
   {
@@ -869,7 +819,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 11,
+   "ranking": 10,
    "disponibilidade_digital": 8
   },
   {
@@ -916,7 +866,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 12,
+   "ranking": 11,
    "disponibilidade_digital": 10
   },
   {
@@ -1006,7 +956,7 @@
      ]
     }
    ],
-   "ranking": 13,
+   "ranking": 12,
    "disponibilidade_digital": 8
   },
   {
@@ -1102,7 +1052,7 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 14,
+   "ranking": 13,
    "disponibilidade_digital": 8
   },
   {
@@ -1200,8 +1150,58 @@
      "ocorrencias": []
     }
    ],
-   "ranking": 15,
+   "ranking": 14,
    "disponibilidade_digital": 3
+  },
+  {
+   "nome": "Lindaro",
+   "status": "pendências",
+   "notas": [
+    8,
+    9,
+    9,
+    8,
+    7,
+    8,
+    8,
+    8,
+    7
+   ],
+   "var": [
+    "Lintaro"
+   ],
+   "conceito": "Som de nome próprio latino, com eco de \"lindo\". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado.",
+   "personalidade": "Elegante, acolhedora, confiável, com acabamento premium.",
+   "mercado": "Sem software ou app. Única empresa: lindaro GmbH (Alemanha, atacado de móveis), sem afinidade com SaaS. O lindaro.com foi registrado em 2023 com DNS da Locaweb (provável titular brasileiro, uso não verificado).",
+   "urls": [
+    "https://www.dnb.com/business-directory/company-profiles.lindaro_gmbh.a0de9ca372fb21d6687204a2c69b2e2c.html",
+    "https://www.mow.de/en/exhibitors/lindaro"
+   ],
+   "vantagens": "Muito fácil de falar e escrever; soa premium; nenhuma marca semelhante ativa ≥ 88% nas classes 9/35/42/39; .com.br e .app.br livres.",
+   "riscos": "[Revisado na auditoria final de 21/11/2026] LINDARA concedida na classe 35 (proc. 936511826), só a vogal final diferente; o INPI já indeferiu LINDARE citando essa marca (RPI 2911). LINARA tem pedidos de software nas classes 9 e 42 (procs. 945043058 e 945043180, 08/2026). TÍNDARO está concedida nas classes 35 e 42 (procs. 912190442 e 912190884, empresa de TI). O .com tem titular provavelmente brasileiro desde 2023.",
+   "media": 8,
+   "dominios": {
+    "com.br": "disponível confirmado",
+    "app.br": "disponível confirmado",
+    "com": "registrado em 2023-02-18"
+   },
+   "app_store": [],
+   "inpi_total_semelhantes": 1772,
+   "inpi_por_nivel": {
+    "crítico": 0,
+    "alto": 0,
+    "moderado": 2,
+    "baixo": 1
+   },
+   "inpi_mais_proximas": [],
+   "inpi_variantes": [
+    {
+     "variante": "Lintaro",
+     "ocorrencias": []
+    }
+   ],
+   "ranking": 15,
+   "disponibilidade_digital": 8
   },
   {
    "nome": "Tinaro",

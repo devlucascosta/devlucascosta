@@ -2,19 +2,21 @@
 
 **Data:** 20/11/2026 · **Natureza:** levantamento técnico de disponibilidade e qualidade de marca; **não é parecer jurídico nem garantia de registro**.
 
+> **Revisão de 21/11/2026:** a auditoria final (`auditoria-final-3-finalistas.md`) achou falsos negativos para Lindaro (LINDARA, LINARA e TÍNDARO), que passou a "com pendências", e ajustou os riscos de Joreva e Salendo.
+
 ## Resultado em uma frase
 
-Foram gerados **192 nomes** e triados no INPI (RPI), em domínios, na App Store e na web. **Só 18 passaram nos critérios sem rebaixar a régua**: 14 promissores e 4 com pendências. Por isso a lista tem **18 nomes, e não 20**. Os outros 174 foram descartados com motivo registrado.
+Foram gerados **192 nomes** e triados no INPI (RPI), em domínios, na App Store e na web. **Só 18 passaram nos critérios sem rebaixar a régua**: 13 promissores e 5 com pendências. Por isso a lista tem **18 nomes, e não 20**. Os outros 174 foram descartados com motivo registrado.
 
 ## Top 5
 
 | # | Nome | Média | INPI (classes 9/35/42/39) | .com.br | .app.br | .com | Mercado |
 |---|---|---|---|---|---|---|---|
 | 1 | **Salendo** | 8.2 | nenhuma semelhante ≥ 88% | disponível confirmado | disponível confirmado | registrado (à venda, DNS de marketplace) em 2009-07-11 | Sem empresa de software ou app com esse nome. |
-| 2 | **Lindaro** | 8.0 | nenhuma semelhante ≥ 88% | disponível confirmado | disponível confirmado | registrado em 2023-02-18 | Sem software ou app. |
-| 3 | **Joreva** | 7.8 | nenhuma semelhante ≥ 88% | disponível confirmado | disponível confirmado | registrado (à venda, DNS de marketplace) em 2016-04-15 | Sem software ou app. |
-| 4 | **Ubiro** | 7.7 | mais próxima: HubyPro (09, 91%) | disponível confirmado | disponível confirmado | registrado em 2005-02-06 | Nenhuma empresa, software ou app com o nome exato. |
-| 5 | **Zemaro** | 7.7 | mais próxima: ZEMAR (35, 91%) | disponível confirmado | disponível confirmado | registrado em 2014-03-15 | Sem empresa ou app. |
+| 2 | **Joreva** | 7.8 | nenhuma semelhante ≥ 88% | disponível confirmado | disponível confirmado | registrado (à venda, DNS de marketplace) em 2016-04-15 | Sem software ou app. |
+| 3 | **Ubiro** | 7.7 | mais próxima: HubyPro (09, 91%) | disponível confirmado | disponível confirmado | registrado em 2005-02-06 | Nenhuma empresa, software ou app com o nome exato. |
+| 4 | **Zemaro** | 7.7 | mais próxima: ZEMAR (35, 91%) | disponível confirmado | disponível confirmado | registrado em 2014-03-15 | Sem empresa ou app. |
+| 5 | **Lerano** | 7.4 | nenhuma semelhante ≥ 88% | disponível confirmado | disponível confirmado | registrado em 2006-08-28 | Nenhuma empresa, software ou app encontrado (busca combinada com Darelo). |
 
 ## Ranking completo (ordem de preferência)
 
@@ -23,20 +25,20 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 | # | Nome | Classificação | Média | Conceito |
 |---|---|---|---|---|
 | 1 | **Salendo** | promissor | 8.2 | Nome de som latino que remete à ideia de subida contínua (em italiano, "salendo" é forma do verbo "subir"). Posiciona o produto como aquilo que faz o negócio do profissional crescer de forma organizada, degrau por degrau. |
-| 2 | **Lindaro** | promissor | 8.0 | Som de nome próprio latino, com eco de "lindo". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado. |
-| 3 | **Joreva** | promissor | 7.8 | Nome inventado, sem significado prévio em português, inglês ou espanhol. Pode ser preenchido pela marca com as ideias de jornada e de rotina bem conduzida (associação de posicionamento, não etimologia). |
-| 4 | **Ubiro** | promissor | 7.7 | Curto, começa por vogal e remete a "ubíquo": o negócio acessível de qualquer lugar (celular, navegador, notificações). Associação de posicionamento. |
-| 5 | **Zemaro** | promissor | 7.7 | Nome inventado com inicial Z, forte e rara, que funciona bem como monograma. Sugere firmeza e precisão. |
-| 6 | **Lerano** | promissor | 7.4 | Nome inventado de som suave e equilibrado; espaço livre para a marca construir a ideia de rotina leve e sob controle. |
-| 7 | **Larimo** | promissor | 7.4 | Nome inventado com eco de "lar": o lugar onde o negócio está em ordem. |
-| 8 | **Zaleno** | promissor | 7.3 | Som próximo de "zelo": o cuidado com cada cliente e cada compromisso. Variante preferida de "Zelano", que tinha .com.br em uso por empresa. |
-| 9 | **Teiano** | promissor | 7.3 | Remete a "teia": a rede que conecta clientes, agenda, finanças e comunicação num só lugar. |
-| 10 | **Fenaro** | promissor | 7.3 | Som de nome próprio latino, sóbrio e profissional; abre espaço para a ideia de farol, de guia (associação de posicionamento). |
-| 11 | **Nirelo** | promissor | 7.2 | Nome inventado, leve e fluido; sugere algo que funciona sem atrito. |
-| 12 | **Zimeno** | promissor | 7.1 | Nome inventado com inicial Z, de leitura direta. |
-| 13 | **Dirano** | promissor | 7.0 | Nome inventado com eco de "direção" (associação de posicionamento). |
-| 14 | **Relano** | promissor | 6.8 | Nome de som hispânico, sugere "relação" (relacionamento com clientes). |
-| 15 | **Teluma** | pendências | 8.1 | Som luminoso e macio (eco de "lume", luz), que transmite clareza sobre o próprio negócio. |
+| 2 | **Joreva** | promissor | 7.8 | Nome inventado, sem significado prévio em português, inglês ou espanhol. Pode ser preenchido pela marca com as ideias de jornada e de rotina bem conduzida (associação de posicionamento, não etimologia). |
+| 3 | **Ubiro** | promissor | 7.7 | Curto, começa por vogal e remete a "ubíquo": o negócio acessível de qualquer lugar (celular, navegador, notificações). Associação de posicionamento. |
+| 4 | **Zemaro** | promissor | 7.7 | Nome inventado com inicial Z, forte e rara, que funciona bem como monograma. Sugere firmeza e precisão. |
+| 5 | **Lerano** | promissor | 7.4 | Nome inventado de som suave e equilibrado; espaço livre para a marca construir a ideia de rotina leve e sob controle. |
+| 6 | **Larimo** | promissor | 7.4 | Nome inventado com eco de "lar": o lugar onde o negócio está em ordem. |
+| 7 | **Zaleno** | promissor | 7.3 | Som próximo de "zelo": o cuidado com cada cliente e cada compromisso. Variante preferida de "Zelano", que tinha .com.br em uso por empresa. |
+| 8 | **Teiano** | promissor | 7.3 | Remete a "teia": a rede que conecta clientes, agenda, finanças e comunicação num só lugar. |
+| 9 | **Fenaro** | promissor | 7.3 | Som de nome próprio latino, sóbrio e profissional; abre espaço para a ideia de farol, de guia (associação de posicionamento). |
+| 10 | **Nirelo** | promissor | 7.2 | Nome inventado, leve e fluido; sugere algo que funciona sem atrito. |
+| 11 | **Zimeno** | promissor | 7.1 | Nome inventado com inicial Z, de leitura direta. |
+| 12 | **Dirano** | promissor | 7.0 | Nome inventado com eco de "direção" (associação de posicionamento). |
+| 13 | **Relano** | promissor | 6.8 | Nome de som hispânico, sugere "relação" (relacionamento com clientes). |
+| 14 | **Teluma** | pendências | 8.1 | Som luminoso e macio (eco de "lume", luz), que transmite clareza sobre o próprio negócio. |
+| 15 | **Lindaro** | pendências | 8.0 | Som de nome próprio latino, com eco de "lindo". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado. |
 | 16 | **Tinaro** | pendências | 8.0 | Remete a "tino": discernimento para tomar boas decisões de agenda, preço e finanças. |
 | 17 | **Zenara** | pendências | 7.9 | Eco de "zen": tranquilidade de ter tudo organizado. |
 | 18 | **Lealma** | pendências | 7.7 | Junção de "leal" e "alma": confiança e cuidado no atendimento. |
@@ -49,28 +51,19 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Personalidade:** Ascendente, otimista, dinâmica, com calor latino.
 - **Notas (0–10):** sonoridade 8, pronuncia 9, escrita 9, memorizacao 8, originalidade 8, distintividade 7, aparencia visual 8, potencial expansao 9, adequacao saas 8 → **média 8.2**
 - **Vantagens:** Ótima pronúncia em português e espanhol; ideia de crescimento; .com.br e .app.br livres; .com comprável; nenhuma marca semelhante ativa nas classes 9/42.
-- **Riscos:** É palavra comum em italiano (menor distintividade na Itália). Variante "salento" (t/d) concedida na classe 35 para vestuário (proc. 935840907), sem afinidade com software. A semelhança gráfica distante com Solven (nome proibido) não vem da mesma raiz, mas convém registrar.
+- **Riscos:** É palavra comum em italiano (menor distintividade na Itália). Variante "salento" (t/d) concedida na classe 35 para vestuário (proc. 935840907), sem afinidade com software. A semelhança gráfica distante com Solven (nome proibido) não vem da mesma raiz, mas convém registrar. [Auditoria final] ALENTO tem pedidos de software nas classes 9 e 42 (procs. 944373321 e 944373216, 07/2026), e Play Valendo tem pedidos nas classes 9 e 42.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado (à venda, DNS de marketplace) em 2009-07-11
 
-### 2. Lindaro
-
-- **Conceito:** Som de nome próprio latino, com eco de "lindo". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado.
-- **Personalidade:** Elegante, acolhedora, confiável, com acabamento premium.
-- **Notas (0–10):** sonoridade 8, pronuncia 9, escrita 9, memorizacao 8, originalidade 7, distintividade 8, aparencia visual 8, potencial expansao 8, adequacao saas 7 → **média 8.0**
-- **Vantagens:** Muito fácil de falar e escrever; soa premium; nenhuma marca semelhante ativa ≥ 88% nas classes 9/35/42/39; .com.br e .app.br livres.
-- **Riscos:** O .com tem titular provavelmente brasileiro desde 2023, o que pode indicar projeto em preparação. O eco de "lindo" pode soar mais estético que gerencial.
-- **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2023-02-18
-
-### 3. Joreva
+### 2. Joreva
 
 - **Conceito:** Nome inventado, sem significado prévio em português, inglês ou espanhol. Pode ser preenchido pela marca com as ideias de jornada e de rotina bem conduzida (associação de posicionamento, não etimologia).
 - **Personalidade:** Própria, firme, humana; neutra o bastante para crescer para outros segmentos.
 - **Notas (0–10):** sonoridade 7, pronuncia 8, escrita 8, memorizacao 7, originalidade 9, distintividade 9, aparencia visual 7, potencial expansao 8, adequacao saas 7 → **média 7.8**
 - **Vantagens:** Altíssima distintividade: zero marcas ativas semelhantes no INPI, inclusive variantes. .com.br e .app.br livres, .com à venda.
-- **Riscos:** A sílaba tônica pode oscilar (jo-RÉ-va / JO-re-va), e em inglês o J vira "dj". Por ser inventado, exige mais investimento para gerar memória.
+- **Riscos:** A sílaba tônica pode oscilar (jo-RÉ-va / JO-re-va), e em inglês o J vira "dj". [Auditoria final] Óreva tem pedido na classe 35 para comércio de cosméticos (proc. 943905966). Na Espanha existem a Joreva Mobles SL (desde 1995) e a Joreva Estudi SL, ambas de móveis.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado (à venda, DNS de marketplace) em 2016-04-15
 
-### 4. Ubiro
+### 3. Ubiro
 
 - **Conceito:** Curto, começa por vogal e remete a "ubíquo": o negócio acessível de qualquer lugar (celular, navegador, notificações). Associação de posicionamento.
 - **Personalidade:** Ágil, moderna, prática, onipresente sem ser invasiva.
@@ -79,7 +72,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** "HubyPro" (classe 9, pedido 944499090, 91%) e a família "Hubio" (classe 35) estão a uma distância moderada. O sufixo "-iro" coincide com o de Caliro (proibido), mas é genérico e a raiz é outra.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2005-02-06
 
-### 5. Zemaro
+### 4. Zemaro
 
 - **Conceito:** Nome inventado com inicial Z, forte e rara, que funciona bem como monograma. Sugere firmeza e precisão.
 - **Personalidade:** Firme, segura, tecnológica sem ser fria.
@@ -88,7 +81,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** ZEMAR concedida nas classes 35 e 25 (vestuário infantil, proc. 907767656/907767869, 91%), sem afinidade com SaaS. Projeto homônimo no GitHub pode ganhar tração.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2014-03-15
 
-### 6. Lerano
+### 5. Lerano
 
 - **Conceito:** Nome inventado de som suave e equilibrado; espaço livre para a marca construir a ideia de rotina leve e sob controle.
 - **Personalidade:** Serena, equilibrada, discreta.
@@ -97,7 +90,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** Menor memorabilidade (soa genérico); .com registrado desde 2006 com DNS russo (uso não verificado).
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2006-08-28
 
-### 7. Larimo
+### 6. Larimo
 
 - **Conceito:** Nome inventado com eco de "lar": o lugar onde o negócio está em ordem.
 - **Personalidade:** Acolhedora, familiar, confiável.
@@ -106,7 +99,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** LARIO concedida na classe 9 (Dover Europe, instrumentos de medição, proc. 909816980, 91%) e LARIMOON na 35 (boutique, 92%); afinidade baixa.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2009-07-10
 
-### 8. Zaleno
+### 7. Zaleno
 
 - **Conceito:** Som próximo de "zelo": o cuidado com cada cliente e cada compromisso. Variante preferida de "Zelano", que tinha .com.br em uso por empresa.
 - **Personalidade:** Cuidadosa, atenta, prestativa.
@@ -115,7 +108,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** A variante "Saleno" (s/z) aproxima-se de SALERNO (35, concedida) e salento (35), ambas de comércio, sem afinidade com software. A família ZELÃO (35, vários titulares) está a distância moderada.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado (à venda, DNS de marketplace) em 2023-03-05
 
-### 9. Teiano
+### 8. Teiano
 
 - **Conceito:** Remete a "teia": a rede que conecta clientes, agenda, finanças e comunicação num só lugar.
 - **Personalidade:** Conectora, colaborativa, organizada.
@@ -124,7 +117,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** Pronúncia pode variar (tei-A-no / te-I-a-no); "teia" também evoca "armadilha", o que exige direção de marca cuidadosa.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2018-10-25
 
-### 10. Fenaro
+### 9. Fenaro
 
 - **Conceito:** Som de nome próprio latino, sóbrio e profissional; abre espaço para a ideia de farol, de guia (associação de posicionamento).
 - **Personalidade:** Sóbria, profissional, orientadora.
@@ -133,7 +126,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** VENARO (f/v) tem pedido na classe 35 para comércio de alimentos (proc. 934578508); FENAGRO (35, pedido). Afinidade baixa, mas a semelhança fonética exige parecer.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2014-07-26
 
-### 11. Nirelo
+### 10. Nirelo
 
 - **Conceito:** Nome inventado, leve e fluido; sugere algo que funciona sem atrito.
 - **Personalidade:** Leve, simples, fluida.
@@ -142,7 +135,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** Memorabilidade e adequação a SaaS medianas. Niello Motoparts (35, pedido, 91%) a distância baixa.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2025-07-06
 
-### 12. Zimeno
+### 11. Zimeno
 
 - **Conceito:** Nome inventado com inicial Z, de leitura direta.
 - **Personalidade:** Objetiva, técnica, direta.
@@ -151,7 +144,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** Lembra os sobrenomes espanhóis Gimeno e Jimeno; sonoridade menos calorosa.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado (à venda, DNS de marketplace) em 2015-07-20
 
-### 13. Dirano
+### 12. Dirano
 
 - **Conceito:** Nome inventado com eco de "direção" (associação de posicionamento).
 - **Personalidade:** Direta, decidida.
@@ -160,7 +153,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Riscos:** A variante t/d "Tirano" tem conotação negativa e marca na classe 41 (Tirano X). Personalidade fraca.
 - **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2011-10-04
 
-### 14. Relano
+### 13. Relano
 
 - **Conceito:** Nome de som hispânico, sugere "relação" (relacionamento com clientes).
 - **Personalidade:** Relacional, próxima.
@@ -172,7 +165,7 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 
 ## Candidatos com pendências
 
-### 15. Teluma
+### 14. Teluma
 
 - **Conceito:** Som luminoso e macio (eco de "lume", luz), que transmite clareza sobre o próprio negócio.
 - **Personalidade:** Clara, calorosa, inteligente.
@@ -180,6 +173,15 @@ A ordem considera primeiro o risco (promissores antes dos nomes com pendências)
 - **Vantagens:** Uma das melhores sonoridades da rodada; .app.br livre; sem marca idêntica.
 - **Riscos:** Tellma concedida na classe 42 (INFO TECNOLOGIA E SISTEMAS, sistemas e IA, proc. 935318887, 91%); IBM TELUM na classe 9 (IBM, proc. 501671446); TELUM CONTABILIDADE na 35 (proc. 921469470). teluma.com.br já registrado (titular oculto no RDAP).
 - **Domínios:** .com.br registrado; .app.br disponível confirmado; .com registrado em 2000-05-13
+
+### 15. Lindaro
+
+- **Conceito:** Som de nome próprio latino, com eco de "lindo". Sugere trabalho bem-feito, cuidado e acabamento profissional, a sensação de ter tudo arrumado.
+- **Personalidade:** Elegante, acolhedora, confiável, com acabamento premium.
+- **Notas (0–10):** sonoridade 8, pronuncia 9, escrita 9, memorizacao 8, originalidade 7, distintividade 8, aparencia visual 8, potencial expansao 8, adequacao saas 7 → **média 8.0**
+- **Vantagens:** Muito fácil de falar e escrever; soa premium; nenhuma marca semelhante ativa ≥ 88% nas classes 9/35/42/39; .com.br e .app.br livres.
+- **Riscos:** [Revisado na auditoria final de 21/11/2026] LINDARA concedida na classe 35 (proc. 936511826), só a vogal final diferente; o INPI já indeferiu LINDARE citando essa marca (RPI 2911). LINARA tem pedidos de software nas classes 9 e 42 (procs. 945043058 e 945043180, 08/2026). TÍNDARO está concedida nas classes 35 e 42 (procs. 912190442 e 912190884, empresa de TI). O .com tem titular provavelmente brasileiro desde 2023.
+- **Domínios:** .com.br disponível confirmado; .app.br disponível confirmado; .com registrado em 2023-02-18
 
 ### 16. Tinaro
 
